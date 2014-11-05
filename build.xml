@@ -1,0 +1,312 @@
+<?xml version="1.0" ?>
+<project name="barblich-module" basedir=".">
+
+  <property name="outputdir" value="output" />
+  <property name="outputdir.html" value="html" />
+  <property name="outputdir.html.chunked" value="chunked" />
+  <property name="outputdir.html.single" value="single-file" />
+  <property name="outputdir.pdf" value="pdf" />
+  <property name="outputdir.fo" value="fo" />
+  <property name="outputdir.epub" value="epub" />
+  <property name="outputdir.validation" value="validation" />
+
+  <property name="lib" value="lib" />
+
+  <property name="lib.ant-contrib" value="ant-contrib" />
+  <property name="lib.ant-contrib.jar" value="ant-contrib-1.0b3.jar" />
+
+  <property name="lib.jing" value="jing-20091111" />
+  <property name="lib.jing.zip" value="jing-20091111.zip" />
+  <property name="lib.jing.zip.url"
+            value="https://jing-trang.googlecode.com/files/jing-20091111.zip" />
+
+  <property name="lib.docbook" value="docbook-5.0" />
+  <property name="lib.docbook.zip" value="docbook-5.0.zip" />
+  <property name="lib.docbook.zip.url"
+            value="http://docs.oasis-open.org/docbook/xml/5.0/docbook-5.0.zip" />
+
+  <property name="lib.docbook.stylesheets" value="docbook-xsl-ns-1.78.1" />
+  <property name="lib.docbook.stylesheets.zip" value="docbook-xsl-ns-1.78.1.zip" />
+  <property name="lib.docbook.stylesheets.zip.url"
+            value="http://sourceforge.net/projects/docbook/files/docbook-xsl-ns/1.78.1/docbook-xsl-ns-1.78.1.zip/download" />
+
+  <property name="lib.fop" value="fop-1.1" />
+  <property name="lib.fop.zip" value="fop-1.1-bin.zip" />
+  <property name="lib.fop.zip.url"
+            value="https://mirror.reverse.net/pub/apache/xmlgraphics/fop/binaries/fop-1.1-bin.zip" />
+
+  <property name="lib.schematron" value="schematron1.5" />
+
+  <property name="src" value="src" />
+
+  <path id="lib.xslt.classpath">
+    <pathelement path="${lib}/${lib.jing}/bin/*" />
+  </path>
+
+  <taskdef resource="net/sf/antcontrib/antcontrib.properties">
+    <classpath>
+      <pathelement location="${lib}/${lib.ant-contrib}/${lib.ant-contrib.jar}" />
+    </classpath>
+  </taskdef>
+
+  <target name="build.all"
+          description="Create all available output formats"
+          depends="clean,validate,do-build.pdf,do-build.html.single,do-build.html.chunked">
+  </target>
+
+  <target name="build.pdf" description="Create PDF output" depends="clean.pdf,validate">
+    <antcall target="do-build.pdf" />
+  </target>
+
+  <target name="do-build.pdf">
+    <mkdir dir="${outputdir}/${outputdir.fo}" />
+    <mkdir dir="${outputdir}/${outputdir.pdf}" />
+
+    <java classpathref="lib.xslt.classpath"
+          fork="true"
+          failonerror="true"
+          classname="com.icl.saxon.StyleSheet">
+      <sysproperty key="javax.xml.parsers.SAXParserFactory"
+                   value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
+      <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
+                   value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <arg value="-o" />
+      <arg value="${outputdir}/${outputdir.fo}/module.fo" />
+      <arg file="${src}/module.xml" />
+      <arg file="${lib}/${lib.docbook.stylesheets}/fo/docbook.xsl" />
+    </java>
+
+    <if>
+      <os family="windows" />
+      <then>
+        <exec resolveexecutable="true" executable="${lib}/${lib.fop}/fop.cmd">
+          <arg value="-fo" />
+          <arg value="${outputdir}/${outputdir.fo}/module.fo" />
+          <arg value="-pdf" />
+          <arg value="${outputdir}/${outputdir.pdf}/module.pdf" />
+        </exec>
+      </then>
+      <else>
+        <exec resolveexecutable="true" executable="${lib}/${lib.fop}/fop">
+          <arg value="-fo" />
+          <arg value="${outputdir}/${outputdir.fo}/module.fo" />
+          <arg value="-pdf" />
+          <arg value="${outputdir}/${outputdir.pdf}/module.pdf" />
+        </exec>
+      </else>
+    </if>
+  </target>
+
+  <target name="build.html.single"
+          description="Create HTML output in a single file"
+          depends="clean.html.single,validate">
+    <antcall target="do-build.html.single" />
+  </target>
+
+  <target name="do-build.html.single">
+    <mkdir dir="${outputdir}/${outputdir.html}/${outputdir.html.single}" />
+
+    <java classpathref="lib.xslt.classpath"
+          fork="true"
+          failonerror="true"
+          classname="com.icl.saxon.StyleSheet">
+      <sysproperty key="javax.xml.parsers.SAXParserFactory"
+                   value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
+      <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
+                   value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <arg value="-o" />
+      <arg value="${outputdir}/${outputdir.html}/${outputdir.html.single}/index.html" />
+      <arg file="${src}/module.xml" />
+      <arg file="${lib}/${lib.docbook.stylesheets}/html/docbook.xsl" />
+    </java>
+  </target>
+
+  <target name="build.html.chunked"
+          description="Create HTML output with separate files per major DocBook part"
+          depends="clean.html.chunked,validate">
+    <antcall target="do-build.html.chunked" />
+  </target>
+
+  <target name="do-build.html.chunked">
+    <mkdir dir="${outputdir}/${outputdir.html}/${outputdir.html.chunked}" />
+
+    <java classpathref="lib.xslt.classpath"
+          fork="true"
+          failonerror="true"
+          classname="com.icl.saxon.StyleSheet">
+      <sysproperty key="javax.xml.parsers.SAXParserFactory"
+                   value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
+      <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
+                   value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <arg value="-o" />
+      <arg value="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/module.html" />
+      <arg file="${src}/module.xml" />
+      <arg file="${lib}/${lib.docbook.stylesheets}/html/chunk.xsl" />
+      <arg value="base.dir=${outputdir}/${outputdir.html}/${outputdir.html.chunked}/" />
+    </java>
+
+    <!-- it makes an empty file in the output directory that we don't want -->
+    <delete file="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/module.html" />
+  </target>
+
+  <target name="build.epub" description="Create EPUB output" depends="clean.epub,validate">
+    <antcall target="do-build.epub" />
+  </target>
+
+  <target name="do-build.epub">
+    <mkdir dir="${outputdir}/${outputdir.epub}" />
+
+    <java classpathref="lib.xslt.classpath"
+          fork="true"
+          failonerror="true"
+          classname="com.icl.saxon.StyleSheet">
+      <sysproperty key="javax.xml.parsers.SAXParserFactory"
+                   value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
+      <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
+                   value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <arg file="${src}/module.xml" />
+      <arg file="${lib}/${lib.docbook.stylesheets}/epub3/chunk.xsl" />
+      <arg value="base.dir=${outputdir}/${outputdir.epub}/OEBPS/" />
+    </java>
+
+    <zip basedir="${outputdir}/${outputdir.epub}/"
+         destfile="${outputdir}/${outputdir.epub}/module.epub"
+         compress="true" />
+  </target>
+
+  <target name="clean.html.chunked">
+    <delete dir="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/" />
+  </target>
+
+  <target name="clean.html.single">
+    <delete file="${outputdir}/${outputdir.html}/${outputdir.html.single}/" />
+  </target>
+
+  <target name="clean.pdf">
+    <delete dir="${outputdir}/${outputdir.fo}/" />
+    <delete dir="${outputdir}/${outputdir.pdf}/" />
+  </target>
+
+  <target name="clean.epub">
+    <delete dir="${outputdir}/${outputdir.epub}/" />
+  </target>
+
+  <target name="validate"
+          description="Validate all DocBook documents"
+          depends="getlibs,cleanvalidation">
+    <antcall target="do-validate" />
+  </target>
+
+  <target name="do-validate">
+    <antcall target="createschematronvalidationsheet" />
+    <foreach target="validate-one" param="validationFile">
+      <path>
+        <fileset dir="${src}/" includes="module.xml" />
+      </path>
+    </foreach>
+  </target>
+
+  <target name="clean" description="Remove all output and build artifacts">
+    <delete dir="${outputdir}" />
+  </target>
+
+  <target name="cleanvalidation">
+    <delete dir="${outputdir}/${outputdir.validation}" />
+  </target>
+
+  <target name="cleanlibs" description="Remove all lib files that can be safely re-downloaded">
+    <delete dir="${lib}/${lib.docbook}" />
+    <delete file="${lib}/${lib.docbook.zip}" />
+    <delete dir="${lib}/${lib.docbook.stylesheets}" />
+    <delete file="${lib}/${lib.docbook.stylesheets.zip}" />
+    <delete dir="${lib}/${lib.jing}" />
+    <delete file="${lib}/${lib.jing.zip}" />
+    <delete dir="${lib}/${lib.fop}" />
+    <delete file="${lib}/${lib.fop.zip}" />
+  </target>
+
+  <target name="getlibs">
+    <mkdir dir="${lib}" />
+
+    <get dest="${lib}/" src="${lib.jing.zip.url}" skipexisting="true" />
+    <unzip dest="${lib}/" src="${lib}/${lib.jing.zip}" overwrite="false" />
+    <get dest="${lib}/" src="${lib.docbook.zip.url}" skipexisting="true" />
+    <unzip dest="${lib}/" src="${lib}/${lib.docbook.zip}" overwrite="false" />
+    <get dest="${lib}/${lib.docbook.stylesheets.zip}"
+         src="${lib.docbook.stylesheets.zip.url}"
+         skipexisting="true" />
+    <unzip dest="${lib}/" src="${lib}/${lib.docbook.stylesheets.zip}" overwrite="false" />
+    <get dest="${lib}/" src="${lib.fop.zip.url}" skipexisting="true" />
+    <unzip dest="${lib}/" src="${lib}/${lib.fop.zip}" overwrite="false" />
+    <chmod perm="u+x" file="${lib}/${lib.fop}/fop" />
+  </target>
+
+  <target name="createschematronvalidationsheet">
+    <mkdir dir="${outputdir}/${outputdir.validation}" />
+
+
+    <java classpathref="lib.xslt.classpath"
+          fork="true"
+          failonerror="true"
+          classname="com.icl.saxon.StyleSheet">
+      <sysproperty key="javax.xml.parsers.SAXParserFactory"
+                   value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
+      <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
+                   value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <arg value="-o" />
+      <arg value="${outputdir}/${outputdir.validation}/schematronvalidation.xsl" />
+      <arg file="${lib}/${lib.docbook}/sch/docbook.sch" />
+      <arg file="${lib}/${lib.schematron}/schematron-basic.xsl" />
+    </java>
+  </target>
+
+  <target name="validate-one">
+    <mkdir dir="${outputdir}/${outputdir.validation}" />
+
+    <java jar="${lib}/${lib.jing}/bin/jing.jar"
+          classpathref="lib.xslt.classpath"
+          fork="true"
+          failonerror="true">
+      <sysproperty key="javax.xml.parsers.DocumentBuilderFactory"
+                   value="org.apache.xerces.jaxp.DocumentBuilderFactoryImpl" />
+      <sysproperty key="javax.xml.parsers.SAXParserFactory"
+                   value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
+      <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
+                   value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <arg file="${lib}/${lib.docbook}/rng/docbook.rng" />
+      <arg file="${validationFile}" />
+    </java>
+
+    <java classpathref="lib.xslt.classpath"
+          fork="true"
+          failonerror="true"
+          classname="com.icl.saxon.StyleSheet">
+      <sysproperty key="javax.xml.parsers.SAXParserFactory"
+                   value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
+      <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
+                   value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <arg value="-o" />
+      <arg value="${outputdir}/${outputdir.validation}/schematronerrors.txt" />
+      <arg file="${validationFile}" />
+      <arg file="${outputdir}/${outputdir.validation}/schematronvalidation.xsl" />
+    </java>
+
+    <fileset id="failure.file" file="${outputdir}/${outputdir.validation}/schematronerrors.txt">
+      <size when="more" value="0" />
+    </fileset>
+
+    <echo />
+
+    <if>
+      <resourcecount when="greater" count="0" refid="failure.file" />
+      <then>
+        <echo>Schematron validation errors...</echo>
+        <echo />
+        <concat>
+          <fileset refid="failure.file" />
+        </concat>
+        <fail message="Schematron validation errors..." />
+      </then>
+    </if>
+  </target>
+</project>

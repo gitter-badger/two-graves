@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+  <!ENTITY % sharedents SYSTEM "shared_entities.xml">
+  %sharedents;
+]>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude" version="5.0">
+  <info>
+    <title>&product_title;
+    </title>
+    <authorgroup>
+      <author xml:id="author1">
+        <personname>
+          <firstname>Robert</firstname>
+          <othername>Winslow</othername>
+          <surname>Dalpe</surname>
+        </personname>
+        <email>rwdalpe@gmail.com</email>
+      </author>
+    </authorgroup>
+    <copyright>
+      <year>2014</year>
+      <holder>
+        <xref linkend="author1" />
+      </holder>
+    </copyright>
+  </info>
+  <xi:include href="introduction.xml" />
+</book>
