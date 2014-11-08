@@ -33,7 +33,7 @@
   <property name="lib.fop" value="fop-1.1" />
   <property name="lib.fop.zip" value="fop-1.1-bin.zip" />
   <property name="lib.fop.zip.url"
-            value="https://mirror.reverse.net/pub/apache/xmlgraphics/fop/binaries/fop-1.1-bin.zip" />
+            value="http://mirror.reverse.net/pub/apache/xmlgraphics/fop/binaries/fop-1.1-bin.zip" />
 
   <property name="lib.schematron" value="schematron1.5" />
 
