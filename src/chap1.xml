@@ -27,9 +27,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
 <chapter xmlns="http://docbook.org/ns/docbook" version="5.0">
-  <title>Foreword</title>
-  <bridgehead />
+  <title>&product_title;</title>
   <epigraph>
-    <para>It's an epigraph!</para>
+    <para>
+      Hate begets hate, and violence creates violence. For some, there is no truth more vital than
+      this.
+    </para>
   </epigraph>
+  <section>
+    <title>Adventure Background</title>
+    <para />
+  </section>
 </chapter>
