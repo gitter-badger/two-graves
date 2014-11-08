@@ -51,4 +51,6 @@ THE SOFTWARE.
     </legalnotice>
   </info>
   <xi:include href="foreword.xml" />
+  <xi:include href="cc-by-3.0.xml" />
+  <xi:include href="mit.xml" />
 </book>
