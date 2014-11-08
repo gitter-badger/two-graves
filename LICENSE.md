@@ -1,9 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE book [
-  <!ENTITY % sharedents SYSTEM "shared_entities.xml">
-  %sharedents;
-]>
-<!-- 
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -25,30 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
--->
-<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
-  <info>
-    <title>&product_title;
-    </title>
-    <authorgroup>
-      <author xml:id="author1">
-        <personname>
-          <firstname>Robert</firstname>
-          <othername>Winslow</othername>
-          <surname>Dalpe</surname>
-        </personname>
-        <email>rwdalpe@gmail.com</email>
-      </author>
-    </authorgroup>
-    <legalnotice>
-      <title>Licensed under Creative Commons</title>
-      <para>
-        This work is licensed under the Creative Commons Attribution 4.0 International License.
-        To view a copy of this license, visit
-        <link xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</link>.
-      </para>
-    </legalnotice>
-  </info>
-  <xi:include href="foreword.xml" />
-</book>
