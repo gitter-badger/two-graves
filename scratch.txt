@@ -1,3 +1,6 @@
+Campaign History
+================
+
 0: Barb king unites/slaughters all tribes under zealot for glory death to god
 5: Barb king completely sacks kingdom, razes everything
 5: Barb king knows they ultimately need to die. Interrogates kingdom officials 
@@ -46,7 +49,7 @@
      realizes that, in his power, he is too scary to actually motivate hatred,
      only fear. Reads more about psychology from the library. Decides to wait
      longer this time and study the settlers.
-283: 150 years later, settlers have returned, and the kingdom is starting to
+283: Over 150 years, settlers returned, and the kingdom is starting to
      grow. King has been scheming the whole time and keeping the land safe to
      make sure the settlers can populate. Has taken the barbarian almost 300 
      years to learn patience. He watches the kingdom from afar, looking at what
@@ -63,6 +66,61 @@
      mentally. Doesn't want to ruin his long term plans by taking more drastic
      actions.
 800: The campaign begins.
-    
-  
+
+
+Present Society
+===============
+
+Scions in 28 were just wanderers, not comissioned by the church of Abadar. 
+Settlers 133 were missionaries from the church of Abadar. Scared away, they fled
+back to the church and claimed they were driven out by an evil natural force.
+The church mounted a crusade mission and returned. They performed many rituals
+to "cleanse" the land of the malicious force. Of course, the lich king was 
+allowing them to reenter, so they suffered no harm and thought their crusade
+was successful. The kingdom is now partially a theocracy due to the heavy
+religious influences of its origins.
+
+Politics
+--------
+
+The lowest seat of power is a house of representatives which hold elected 
+officials from the general populace. The house selects an Emperor.
+
+There is a senate which has members appointed by the various churches, 
+especially the church of Abadar. It often behooves the church to appoint people
+who are in favor with the House, though.
+
+The goal of the evil merchants is to gain majority control of the senate then
+assassinate the emperor and take full control.
+
+Economy
+-------
+
+(See geographical history) The land here is verdant and lush with natural 
+resources. The hills have many cavernous mines.
+
+Culture
+-------
+
+Religion is important, but the kingdom is a melting pot. Prosperous cities are
+built atop hills, but there are many other smaller towns and villages spread out
+in the agricultural and mining areas of the kingdom.
+
+Geography
+=========
+
+Nation is surrounded by a horseshoe of mountains to the north. Pass to desert
+kingdom to the north. To the south is an enormous deep cavern. Explanation:
+Thousands/10000s of years ago, at the time of the dawning of intelligent life
+on this planet somewhere far away, astral travelers came and tried to settle.
+They wanted to enrich the earth by sacrificing the souls of elementals, who they
+had never dealt with and thought were dumb beasts, and infusing them into the
+earth to create fertile soil and rich mines. They built a small metropolis but
+eventually woke an ancient earth elemental, who dragged down their metropolis
+into a giant chasm. Their now long since dead metropolis still floats deep
+within the chasm while the ancient elemental slumbers.
+
+The chasm separates and isolates this kingdom from southern advances.
+
+
    
