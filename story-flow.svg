@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="65cm" height="50cm" viewBox="-82 -152 1283 991" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="200" y="500" width="200" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="200" y="500" width="200" height="100"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="537.9">
+      <tspan x="300" y="537.9">Gnolls are</tspan>
+      <tspan x="300" y="553.9">ransacking</tspan>
+      <tspan x="300" y="569.9">the kingdom</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="500" y="100" width="200" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="500" y="100" width="200" height="100"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600" y="129.9">
+      <tspan x="600" y="129.9">Cultists are</tspan>
+      <tspan x="600" y="145.9">going to </tspan>
+      <tspan x="600" y="161.9">complete</tspan>
+      <tspan x="600" y="177.9">their ritual</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="800" y="500" width="200" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="800" y="500" width="200" height="100"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="900" y="529.9">
+      <tspan x="900" y="529.9">Traders will</tspan>
+      <tspan x="900" y="545.9">achieve majority</tspan>
+      <tspan x="900" y="561.9">power in the</tspan>
+      <tspan x="900" y="577.9">kingdom</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 0 600 L 200,600 L 200,680 L 100,700 L 0,680 L 0,600z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 0 600 L 200,600 L 200,680 L 100,700 L 0,680 L 0,600"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="628">
+      <tspan x="100" y="628">Gnoll king unites</tspan>
+      <tspan x="100" y="644">the gnoll tribes and</tspan>
+      <tspan x="100" y="660">wipes out the kingdom</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 500 0 L 700,0 L 700,80 L 600,100 L 500,80 L 500,0z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 500 0 L 700,0 L 700,80 L 600,100 L 500,80 L 500,0"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600" y="28">
+      <tspan x="600" y="28">Cultists complete their</tspan>
+      <tspan x="600" y="44">circle and transform the</tspan>
+      <tspan x="600" y="60">entire kingdom</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 1000 600 L 1200,600 L 1200,680 L 1100,700 L 1000,680 L 1000,600z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 1000 600 L 1200,600 L 1200,680 L 1100,700 L 1000,680 L 1000,600"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1100" y="620">
+      <tspan x="1100" y="620">Traders buy out the nation,</tspan>
+      <tspan x="1100" y="636">install puppet rulers and</tspan>
+      <tspan x="1100" y="652">turn it into a</tspan>
+      <tspan x="1100" y="668">slaver/mercenary state</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="500" x2="594.599" y2="208.101"/>
+    <polygon style="fill: #000000" points="598.76,201.861 597.373,212.955 594.599,208.101 589.052,207.408 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="598.76,201.861 597.373,212.955 594.599,208.101 589.052,207.408 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="600" y1="200" x2="794.599" y2="491.899"/>
+    <polygon style="fill: #000000" points="798.76,498.139 789.052,492.592 794.599,491.899 797.373,487.045 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="798.76,498.139 789.052,492.592 794.599,491.899 797.373,487.045 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="800" y1="500" x2="409.736" y2="500"/>
+    <polygon style="fill: #000000" points="402.236,500 412.236,495 409.736,500 412.236,505 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="402.236,500 412.236,495 409.736,500 412.236,505 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="850" y1="500" x2="655.401" y2="208.101"/>
+    <polygon style="fill: #000000" points="651.24,201.861 660.948,207.408 655.401,208.101 652.627,212.955 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="651.24,201.861 660.948,207.408 655.401,208.101 652.627,212.955 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="550" y1="200" x2="355.401" y2="491.899"/>
+    <polygon style="fill: #000000" points="351.24,498.139 352.627,487.045 355.401,491.899 360.948,492.592 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="351.24,498.139 352.627,487.045 355.401,491.899 360.948,492.592 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="400" y1="550" x2="790.264" y2="550"/>
+    <polygon style="fill: #000000" points="797.764,550 787.764,555 790.264,550 787.764,545 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="797.764,550 787.764,555 790.264,550 787.764,545 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="760" y="320">
+    <tspan x="760" y="320">Supply with </tspan>
+    <tspan x="760" y="336">rare ritual </tspan>
+    <tspan x="760" y="352">materials</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="540" y="580">
+    <tspan x="540" y="580">Cause a panic</tspan>
+    <tspan x="540" y="596">in nation allowing</tspan>
+    <tspan x="540" y="612">for "tough rhetoric"</tspan>
+    <tspan x="540" y="628">candidates</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="500" y="360">
+    <tspan x="500" y="360">Provide bloody</tspan>
+    <tspan x="500" y="376">massacres</tspan>
+    <tspan x="500" y="392">for ritual</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="620" y="360">
+    <tspan x="620" y="360">Create</tspan>
+    <tspan x="620" y="376">magical items</tspan>
+    <tspan x="620" y="392">and sometimes</tspan>
+    <tspan x="620" y="408">personnel</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="540" y="480">
+    <tspan x="540" y="480">Supply with weapons</tspan>
+    <tspan x="540" y="496">and gear</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="320">
+    <tspan x="360" y="320">Grant the gnolls</tspan>
+    <tspan x="360" y="336">some magical</tspan>
+    <tspan x="360" y="352">abilites</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 3; stroke-dasharray: 20; stroke: #ff0000" d="M 489.182,99.1852 A 293.214,293.214 0 0 0 200,500"/>
+    <polygon style="fill: #ff0000" points="496.661,99.6862 486.237,103.729 489.193,98.9847 487.172,93.7727 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #ff0000" points="496.661,99.6862 486.237,103.729 489.193,98.9847 487.172,93.7727 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 3; stroke-dasharray: 20; stroke: #ff0000" d="M 500,125 A 288.82,288.82 0 0 0 246.916,489.599"/>
+    <polygon style="fill: #ff0000" points="248.986,496.803 241.198,488.782 246.72,489.654 250.73,485.759 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #ff0000" points="248.986,496.803 241.198,488.782 246.72,489.654 250.73,485.759 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 3; stroke-dasharray: 20; stroke: #ff0000" d="M 206.605,608.611 A 500,500 0 0 0 1000,600"/>
+    <polygon style="fill: #ff0000" points="202.012,602.683 212.012,607.683 206.512,608.683 204.012,613.683 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #ff0000" points="202.012,602.683 212.012,607.683 206.512,608.683 204.012,613.683 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 3; stroke-dasharray: 20; stroke: #ff0000" d="M 250,600 A 507.5,507.5 0 0 0 942.062,607.4"/>
+    <polygon style="fill: #ff0000" points="947.571,602.313 943.778,612.83 942.14,607.486 936.882,605.589 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #ff0000" points="947.571,602.313 943.778,612.83 942.14,607.486 936.882,605.589 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 3; stroke-dasharray: 20; stroke: #ff0000" d="M 1003.56,489.753 A 297.779,297.779 0 0 0 700,100"/>
+    <polygon style="fill: #ff0000" points="1001.16,496.853 999.924,485.741 1003.75,489.815 1009.31,489.197 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #ff0000" points="1001.16,496.853 999.924,485.741 1003.75,489.815 1009.31,489.197 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 3; stroke-dasharray: 20; stroke: #ff0000" d="M 950,500 A 288.82,288.82 0 0 0 710.787,126.154"/>
+    <polygon style="fill: #ff0000" points="703.341,125.294 713.741,121.19 710.812,125.951 712.865,131.151 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #ff0000" points="703.341,125.294 713.741,121.19 710.812,125.951 712.865,131.151 "/>
+  </g>
+  <text font-size="12.8" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="540" y="820">
+    <tspan x="540" y="820">Gnolls don't get</tspan>
+    <tspan x="540" y="836">as much gear</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="540" y="700">
+    <tspan x="540" y="700">Tough rhetoric</tspan>
+    <tspan x="540" y="716">isn't as effective</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="160" y="160">
+    <tspan x="160" y="160">Cultists have</tspan>
+    <tspan x="160" y="176">to massacre</tspan>
+    <tspan x="160" y="192">on their own</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="340" y="220">
+    <tspan x="340" y="220">Gnolls magical</tspan>
+    <tspan x="340" y="236">support begins</tspan>
+    <tspan x="340" y="252">to wane</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="1000" y="200">
+    <tspan x="1000" y="200">No buyers</tspan>
+    <tspan x="1000" y="216">for goods</tspan>
+    <tspan x="1000" y="232">impacts income</tspan>
+    <tspan x="1000" y="248">stream</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #ff0000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="780" y="200">
+    <tspan x="780" y="200">Cultists</tspan>
+    <tspan x="780" y="216">need</tspan>
+    <tspan x="780" y="232">rare materials</tspan>
+    <tspan x="780" y="248">for ritual</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="-80" y="-120" width="60" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-80" y="-120" width="60" height="40"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-50" y="-96.1">
+      <tspan x="-50" y="-96.1">Risk</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -80 -60 L 20,-60 L 20,-28 L -30,-20 L -80,-28 L -80,-60z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -80 -60 L 20,-60 L 20,-28 L -30,-20 L -80,-28 L -80,-60"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-30" y="-40">
+      <tspan x="-30" y="-40">Consequence</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-60" y1="20" x2="30.2639" y2="20"/>
+    <polygon style="fill: #000000" points="37.7639,20 27.7639,25 30.2639,20 27.7639,15 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="37.7639,20 27.7639,25 30.2639,20 27.7639,15 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="20">
+    <tspan x="80" y="20">A supports B via...</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 3; stroke-dasharray: 20; stroke: #ff0000" x1="-60" y1="60" x2="29.1459" y2="60"/>
+    <polygon style="fill: #ff0000" points="36.6459,60 26.6459,65 29.1459,60 26.6459,55 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #ff0000" points="36.6459,60 26.6459,65 29.1459,60 26.6459,55 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="60">
+    <tspan x="80" y="60">B begatively impacted by</tspan>
+    <tspan x="80" y="76">defeat of A because...</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-80" y="-140">
+    <tspan x="-80" y="-140">LEGEND</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-80" y="20">
+    <tspan x="-80" y="20">A</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-80" y="60">
+    <tspan x="-80" y="60">A</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="20">
+    <tspan x="40" y="20">B</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="60">
+    <tspan x="40" y="60">B</tspan>
+  </text>
+</svg>
