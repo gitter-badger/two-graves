@@ -1,3 +1,9 @@
+The textual content of this book is licensed under the Creative Commons Attribution 4.0 
+International License. To view a copy of this license, visit
+<http://creativecommons.org/licenses/by/4.0/>.
+
+The actual source code that produces the book is licensed under the MIT License.
+
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
