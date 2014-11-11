@@ -1,6 +1,22 @@
+This content uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's 
+Community Use Policy. We are expressly prohibited from charging you to use or access this content. 
+This content is not published, endorsed, or specifically approved by Paizo Inc. For more information
+about Paizo's Community Use Policy, please visit <http://paizo.com/communityuse>. For more 
+information about Paizo Inc. and Paizo products, please visit <http://paizo.com>.
+
+Specifically, the proper names of the deities as referenced in this content are owned by Paizo Inc. 
+
+
+----------------------------------------------------------------------------------------------
+
+
 The textual content of this book is licensed under the Creative Commons Attribution 4.0 
 International License. To view a copy of this license, visit
 <http://creativecommons.org/licenses/by/4.0/>.
+
+
+----------------------------------------------------------------------------------------------
+
 
 The actual source code that produces the book is licensed under the MIT License.
 
