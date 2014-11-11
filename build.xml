@@ -74,7 +74,7 @@ THE SOFTWARE.
 
   <target name="build.all"
           description="Create all available output formats"
-          depends="clean,validate,do-build.pdf,do-build.html.single,do-build.html.chunked">
+          depends="clean,validate,do-build.pdf,do-build.html.single,do-build.html.chunked,do-build.epub">
   </target>
 
   <target name="build.pdf" description="Create PDF output" depends="clean.pdf,validate">

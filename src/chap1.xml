@@ -35,7 +35,13 @@ THE SOFTWARE.
     </para>
   </epigraph>
   <section>
-    <title>Adventure Background</title>
-    <para />
+    <title>Setting the Scene</title>
+    <para>
+      Generations before the first crusading parties of Abadar came to found the nation of
+      &nation_name;, the smaller, less prosperous kingdom of &old_nation_name; laid claim to the
+      valley. Content to utilize the valley's rich land to sustain themselves, the citizens of
+      &old_nation_name; shared little contact with the neighboring desert kingdom, and their king
+      held few ambitions for expansion. This isolationism would prove to be their undoing.
+    </para>
   </section>
 </chapter>
