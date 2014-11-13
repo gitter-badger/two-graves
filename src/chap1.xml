@@ -39,9 +39,14 @@ THE SOFTWARE.
     <para>
       Generations before the first crusading parties of Abadar came to found the nation of
       &nation_name;, the smaller, less prosperous kingdom of &old_nation_name; laid claim to the
-      valley. Content to utilize the valley's rich land to sustain themselves, the citizens of
-      &old_nation_name; shared little contact with the neighboring desert kingdom, and their king
+      valley of &valley_name;. Content to utilize the valley's rich land to sustain themselves, the citizens of
+      &old_nation_name; shared little contact with the neighboring desert kingdom of &desert_kingdom;, and their king
       held few ambitions for expansion. This isolationism would prove to be their undoing.
+    </para>
+    <para>
+      While the people of &old_nation_name; happily labored within their small towns and hamlets, 
+      barbarian nomads from the desert came to &valley_name; through the mountains. With these 
+      barbarians came a young chieftan known as &barb_king;.
     </para>
   </section>
 </chapter>
