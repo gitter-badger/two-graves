@@ -123,5 +123,47 @@ within the chasm while the ancient elemental slumbers.
 
 The chasm separates and isolates this kingdom from southern advances.
 
+Places Of Interest
+==================
 
-   
+The 3 Cities
+------------
+
+# Crent, City of Markets
+
+Populated mostly by craftsmen and artisans. It may not contain the "world's best" crafters, it is a
+melting pot of cultures from around the world--an environment which produces extraordinary results.
+
+The open-minded and those who are eager to learn come to try and win apprenticeship under the 
+masters here. Includes skilled chefs.
+
+Although the craftsmen are the lifeblood of the city, it is the merchants who ultimately drive the
+business and make it all a success. Many guilds have places of operation in Crent.
+
+Travelers who are not seeking the wild life of Oblectant or do not have official business in Regunt
+may find Crent more to their liking. In addition to the craftsman who live here, many less ambitious
+wealthy elite  call Crent their homes as well. Most major politicians of the nation choose to live
+in Regun rather than Crent.
+
+The main attraction of Crent is it's large markets, which are open 24 hours a day 7 days a week.
+To offer the finest service at all times is a matter of major pride for the artisans in the city.
+
+Because of the population and importance of the market, the city has organized a sizable police
+force to provide safety to patrons and shopkeepers alike.
+
+# Regunt, City of Laws
+
+The captial of the country and home to its government buildings. Everything here is ornate and 
+gilded as if it were a temple. The city has wide streets to facilitate the movement of goods at the
+behest of the Guilds, who have their headquarters in the city.
+
+The main attractions of Regunt are the government buildings, the university of law and business, and
+the extensive library which supports the legal and commercial ongoins in Regunt.
+
+The city is home to the political and commercial elite. As such, it is also home to the corrupt
+merchant company and their well-trained assassins and political puppets.
+
+# Oblectant, City of Arts
+
+Dedicated to all forms of art, Oblectant is the pulse of the nation. Home mostly to youth, the city
+is alive at all times of day or night. 
