@@ -1,0 +1,81 @@
+Start of campaign
+=================
+
+The nation has a law that allows it to conscript its citizens into the national police exactly once
+in their lifetime. For any PCs that wouldn't have volunteered to join this mission, this is the
+reason why they are here.
+
+PCs volunteer or get press ganged into helping evacuate an outlying village. The reason for the
+evacuation is that the national police have a hunch that the gnolls will be attacking this village
+next. They believe that because they received a complaint from one of the farmers that a hyena had
+killed a few of his sheep. Hyenas are not native to the country. Most of the evacuation goes without
+issue but there are a few holdouts that the PCs need to deal with.
+
+The point of this is to get the PCs to know each other and establish some contacts and a feel for
+the nation and the outlying areas. The police aren't here in force because there are several other
+potential target towns, so their forces are spread out. The plan is that the town will be evacuated
+and then a body of officers will wait in ambush.
+
+Main NPCs that need help:
+
+- Old shepard
+  - old man who placed the original complaint about the hyenas. Has the following requests:
+    - kill the hyena
+    - help him get his sheep into the wagons to be evacuated (yeah right)
+    - oh right his granddaughter is out in the woods gathering food
+
+- druggie teen
+  - suspicious youth who seeks out the most seedy PC and asks if they can help him. He has some 
+    "stuff" that he recently bought from a traveling merchant and can't sneak it into his parent's
+    luggage
+
+- superstitious man
+  - superstitious villager who recently got a "bargain deal" on some "anti-evil spikes" that are
+    supposed to keep evil influences away from buildings whose foundation they are driven into. He
+    figured it was such a deal that he bought 20 when he only needed one. He also wants help putting
+    up charms and wards around his house. Once that's done, he figures it's basically a fortress so
+    he might as well stay, right?
+
+- Inn keeper
+  - man who built an inn/tavern and insured it with the nation. as part of that insurance, he has to
+    fill out some paperwork which he wants to do before he evacuates. And he cares a lot about
+    his inn so he takes great pains to point out the condition and rarity of _every_ single thing in
+    his inn, and wants the police to recognize what he's saying. Of course, he's not above 
+    embellishing the truth about the value of his inn.
+
+- granddaughter
+  - a 17 year old granddaughter of the old shepard. She's out hunting in the woods with her dog.
+    She's perfectly capable, but the PCs don't necessarily know that, and she does have a penchant
+    for staying out late--well past the deadline for evacuation.
+
+Once the PCs have evacuated the remaining villagers (which should happen just a bit before 
+nightfall), they load them up onto a couple wagons and head out. There are a couple police officers
+who also stayed behind to guard the wagons as well. Along the way, gnolls appear on hyena-back from
+out of nowhere. High perception would have seen a small duststorm approaching, then the wagon
+passes behind a hill and suddenly the gnolls are right there.
+
+Primary goals are to kill gnolls and protect the villagers. Gnolls aren't there specifically to kill
+people yet, but to capture them for later sacrifice. They try to kidnap and make as much chaos as
+possible. They try to light the wagons on fire, kill the wagon driver, steal the horses (not kill
+because this pack of gnolls likes horse meat), and kidnap villagers from the wagons. there is a 
+leader in the back of the pack barking battle tactics
+
+Mitigations: kill hyena mounts, understand gnollish and hear battle tactics, extinguish fire,
+expert driving through rough terrain, kill gnolls to force their retreat, incapacitate the leader, 
+kill hostages that are taken.
+
+When the gnolls make their retreat, they hide behind a nearby hill and teleport (out of sight) away,
+disappearing as quickly and mysteriously as they arrived.
+
+If the PCS do well: drop a rough map that shows a large area where the gnolls might be.
+
+After the gnolls leave and the caravan arrives in the town, the PCs are brought in for debriefing
+with the local chief of police. This is their first opportunity to leave the gnoll plot line and
+switch to one of the other main lines.
+
+If any hostages were taken, the police chief has a few options available: if they got the map, offer
+to reward the PCs handsomly if they track down the gnolls and retrieve the hostages. If they don't
+have the map, then the chief has another idea: pose as civilians and become captured, then break
+out from the inside. 
+
+Switch to one of the other plot lines now depending on the choice made by the PCs.
