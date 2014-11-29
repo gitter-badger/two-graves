@@ -1,0 +1,44 @@
+Races
+=====
+
+Crent
+-----
+
+N Large City
+Total Population: 16,000
+Percentages:
+  Humans:     60%
+  Dwarves:    12%
+  Elves:      8%
+  Gnomes      2%
+  Halflings:  6%
+  Half-elves: 12%
+  Other:      1%
+
+Oblectant
+---------
+
+CG Large City
+Total Population: 8,500
+Percentages:
+  Humans:     52%
+  Dwarves:    1%
+  Elves:      1%
+  Gnomes      6%
+  Halflings:  17%
+  Half-elves: 19%
+  Other:      3%
+
+Regunt
+------
+
+LN Large City
+Total Population: 13,000
+Percentages:
+  Humans:     72%
+  Dwarves:    2%
+  Elves:      3%
+  Halflings:  12%
+  Half-elves: 8%
+  Half-Orcs:  2%
+  Other:      1%
