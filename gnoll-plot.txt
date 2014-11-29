@@ -1,3 +1,5 @@
+PCs should gain 4 levels off the gnolls
+
 Two choices
 ===========
 
@@ -46,4 +48,22 @@ PCs have to fight their way up the mountainside and then into the gnollish compo
 to the king. They fight him, he reveals he had been put into power in exchange for his commanding
 the gnolls to do the massacres in a specific way. He drops some hints about robed figures and
 merchants giving them magic and gear.
+
+Encounter Plans
+===============
+
+Wagons
+------
+
+Map is a static shot of some wagons. GM and players need to imagination station the movement and
+changing terrain if necessary.
+
+Extra rewards: 
+- CR1 encounter for killing enough gnolls to drop the map
+- CR3 encounter for losing 2 or fewer people
+- CR1 encounter for losing 4 or fewer people 
+
+CR 3 gnoll leader
+Mounted on muzzled hyaenodons
+X gnolls (they come until they have sustained some number of defeats at the hands of the PCs)
 
