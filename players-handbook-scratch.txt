@@ -69,6 +69,101 @@ as a part of the police force.
 Classes
 =======
 
+Barbarians
+----------
+
+The civilized and well-kept lands of the nation are inhospitable to barbarian tribes. There are no
+naturally occurring tribes in this area, so any barbarians who have come to the country have come
+from elsewhere. Incivility and brutishness are frowned upon universally across the country, and
+many barbarians will find it a challenge to be welcomed or fit in.
+
+Bards
+-----
+
+A bard always has a place in the central cities, even if most do choose to settle in Oblectant. The
+musical college and The Dragon's Teeth provide everlasting opportunities for a bard to prove his
+worth and make a name for himself. In other cities, bards often put on a friendly face as the
+frontmen for guilds and political organizations. Outside of the cities few bards settle, but the
+outlying towns always have a need for entertainment, and there are frequently wandering minstrels
+who pass through.
+
+Clerics
+-------
+
+Clerics of all the civilized gods are welcome in the nation, but clerics of Abadar will find 
+themselves particularly at home here. Aside from their religious duties, clerics are most frequently
+found in positions of political power. In particular, members of the senate are always clerics who
+are appointed by the churches of the nation. Clerics of any civilized deity will find a place in the
+central cities. Clerics of law or commerce may prefer Regunt, while clerics of the wilds or the more
+base pleasures may find Oblectant more to their liking.
+
+Druids
+------
+
+As a shining example of civilization and urbanization, most druids avoid the central cities and the
+nation as a whole. However, the rich bounties of the land prove to some druids and insatiable 
+calling. Many of these druids do not wind up in the central cities, preferring instead to live in
+outlying towns and villages, but some do come into the more urban areas to provide guidance or
+ritualistic help for government endeavors which involve the land.
+
+Fighters
+--------
+
+Whether as bodyguards or members of the national police force, a good fighter is always in need
+wherever he may be. There is no true military force in the nation, so very few fighters are proper
+soliders. The natural borders of the country stave off foreign intrusion.
+
+Monks
+-----
+
+Monks seeking purification and enlightenment through order and community may find themselves at home
+in the central cities. However, there are no official monk sects who call this nation their home.
+Despite this, martial prowess and spiritual leadership are valued traits both inside and outside
+the central cities, and a monk will not find themselves without employment for long.
+
+Paladins
+--------
+
+Although the nation was founded as a result of a crusade, it has grown so prosperous and successful
+that paladins are not seen as needed by national officials. However, because of the strong religious
+presence in the nation, many paladins still find themselves drawn here to advance their causes. A
+paladin should be cautious, however, as in the court room the nation's laws will always trump any
+conflicting religious edict.
+
+Rangers
+-------
+
+Rangers are abundant in the nation, but less frequently found in the central cities, save when they
+travel there to drop off good gathered from the wilderness or to seek out new hunts and bounties.
+Rangers who do choose to make a living in the city often do so as members of the police or as
+privately employed bounty hunters. In outlying areas, a ranger will find many places to call his 
+home.
+
+Rogues
+------
+
+Although central cities are lawful and safe places, a rogue's talents are nonetheless very useful to
+the elite of the cities. Merchants and politicians alike can always find a use for someone with
+quick hands and silent feet. Outside the central cities, non-criminal rogues are less common and
+most frequently make their livings as trappers or hunters.
+
+Sorcerers
+---------
+
+Sorcerers may not benefit from the vast libraries and universities of the nation, but they may still
+enjoy its wild atmospheres and opportunities provided here. Sorcerers with the skill for panache and
+performance may find themselves drawn to Oblectant, while those who wish to put their magical 
+abilities to use to further their own wealth or careers may find Regunt or Crent more to their 
+liking.
+
+Wizards
+-------
+
+The vast libraries and combined cultural knowledge of the central cities are a great resource to
+many wizards, and none will struggle to find employment here. Whether as part of a merchant's 
+retinue as an appraiser of magical goods or a craftsman in his own right, magical talent is always
+useful in the nation.
+
 Cities
 ======
 
