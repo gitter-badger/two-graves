@@ -40,6 +40,12 @@ THE SOFTWARE.
         </personname>
         <email>rwdalpe@gmail.com</email>
       </author>
+      <author xml:id="author2">
+        <personname>
+          <firstname>Ashlyn</firstname>
+          <surname>Warren</surname>
+        </personname>
+      </author>
     </authorgroup>
     <biblioid class="uri">https://bitbucket.org/rwdalpe/barbarian-module/</biblioid>
     <legalnotice>
