@@ -164,6 +164,37 @@ many wizards, and none will struggle to find employment here. Whether as part of
 retinue as an appraiser of magical goods or a craftsman in his own right, magical talent is always
 useful in the nation.
 
+Campaign Traits
+===============
+
+Attacked by gnolls
+------------------
+Gnolls ravaged your home town and/or slaughtered your loved ones.
+
++2 trait bonus to Perception checks made to keep watch
+or
+Add Gnollish to your list of known languages and Abyssal to your list of understood languages
+
+Shadows of the past
+-------------------
+In the night a good friend or loved on was kidnapped by mysterious hooded figures.
+
++1 trait bonus to one of the following: knowledge(local), diplomacy, intimidate, disguise, sense
+motive and that skill is considered a class skill for you
+or
++1 trait bonus to all saving throws against fear spells and effects when an ally within
+30 feet is threatened
+
+Driven out of business
+----------------------
+A shady competitor ruined your business and caused you to lose most of your wealth and prestige.
+
++1 trait bonus to one of the following: bluff, sense motive, sleight of hand, disable device,
+or linguistics and that skill is considered a class skill for you
+or
++1 trait bonus to all saving throws against one of the following: charms OR compulsion spells and
+effects while you and your allies are not in combat
+
 Cities
 ======
 
