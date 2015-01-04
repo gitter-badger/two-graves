@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE book [
-  <!ENTITY % sharedents SYSTEM "../common/shared_entities.xml">
+<!DOCTYPE legalnotice [
+  <!ENTITY % sharedents SYSTEM "shared_entities.xml">
   %sharedents;
 ]>
-<!-- 
+<!--
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -26,31 +26,24 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
-<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+<legalnotice xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
   xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
-  <info>
-    <title>&product_title;
-    </title>
-    <authorgroup>
-      <author xml:id="author1">
-        <personname>
-          <firstname>Robert</firstname>
-          <othername>Winslow</othername>
-          <surname>Dalpe</surname>
-        </personname>
-        <email>rwdalpe@gmail.com</email>
-      </author>
-      <author xml:id="author2">
-        <personname>
-          <firstname>Ashlyn</firstname>
-          <surname>Warren</surname>
-        </personname>
-      </author>
-    </authorgroup>
-    <biblioid class="uri">https://bitbucket.org/rwdalpe/barbarian-module/</biblioid>
-    <xi:include href="../common/legal.xml" />
-  </info>
-  <xi:include href="chap1.xml" />
-  <xi:include href="../common/cc-by-3.0.xml" />
-  <xi:include href="../common/mit.xml" />
-</book>
+  <title>Legal Information</title>
+  <para>
+    This work is licensed under the Creative Commons Attribution 4.0 International License.
+    To view a copy of this license, visit
+    <link xlink:href="http://creativecommons.org/licenses/by/4.0/"/>.
+  </para>
+  <para>
+    This content uses trademarks and/or copyrights owned by Paizo Inc., which are used under 
+    Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access
+    this content. This content is not published, endorsed, or specifically approved by Paizo 
+    Inc. For more information about Paizo's Community Use Policy, please visit 
+    <link xlink:href="http://paizo.com/communityuse"/>. For more information about Paizo Inc. 
+    and Paizo products, please visit <link xlink:href="http://paizo.com"/>.
+  </para>
+  <para>
+    Specifically, the proper names of the deities as referenced in this content are owned by
+    Paizo Inc. 
+  </para>
+</legalnotice>
