@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book [
-  <!ENTITY % sharedents SYSTEM "shared_entities.xml">
+  <!ENTITY % sharedents SYSTEM "../common/shared_entities.xml">
   %sharedents;
 ]>
 <!-- 
@@ -70,6 +70,6 @@ THE SOFTWARE.
     </legalnotice>
   </info>
   <xi:include href="chap1.xml" />
-  <xi:include href="cc-by-3.0.xml" />
-  <xi:include href="mit.xml" />
+  <xi:include href="../common/cc-by-3.0.xml" />
+  <xi:include href="../common/mit.xml" />
 </book>
