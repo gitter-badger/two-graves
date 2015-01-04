@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE book [
-  <!ENTITY % sharedents SYSTEM "../common/shared_entities.xml">
+<!DOCTYPE pubdate [
+  <!ENTITY % sharedents SYSTEM "shared_entities.xml">
   %sharedents;
 ]>
-<!-- 
+<!--
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -26,16 +26,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
-<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+<pubdate xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
   xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
-  <info>
-    <title>&product_title;
-    </title>
-    <xi:include href="../common/authors.xml" />
-    <xi:include href="../common/release.xml" />
-    <xi:include href="../common/legal.xml" />
-  </info>
-  <xi:include href="chap1.xml" />
-  <xi:include href="../common/cc-by-3.0.xml" />
-  <xi:include href="../common/mit.xml" />
-</book>
+  <?dbtimestamp format="c"?>
+</pubdate>

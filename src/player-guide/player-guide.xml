@@ -29,25 +29,10 @@ THE SOFTWARE.
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
   xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
   <info>
-    <title>&product_title;
+    <title>&product_title; Player's Guide
     </title>
-    <authorgroup>
-      <author xml:id="author1">
-        <personname>
-          <firstname>Robert</firstname>
-          <othername>Winslow</othername>
-          <surname>Dalpe</surname>
-        </personname>
-        <email>rwdalpe@gmail.com</email>
-      </author>
-      <author xml:id="author2">
-        <personname>
-          <firstname>Ashlyn</firstname>
-          <surname>Warren</surname>
-        </personname>
-      </author>
-    </authorgroup>
-    <biblioid class="uri">https://bitbucket.org/rwdalpe/barbarian-module/</biblioid>
+    <xi:include href="../common/authors.xml" />
+    <xi:include href="../common/release.xml" />
     <xi:include href="../common/legal.xml" />
   </info>
   <xi:include href="../common/cc-by-3.0.xml" />

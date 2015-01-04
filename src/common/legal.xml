@@ -30,9 +30,14 @@ THE SOFTWARE.
   xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
   <title>Legal Information</title>
   <para>
-    This work is licensed under the Creative Commons Attribution 4.0 International License.
-    To view a copy of this license, visit
+    The textual content of this book is licensed under the Creative Commons Attribution 
+    4.0 International License. To view a copy of this license, visit
     <link xlink:href="http://creativecommons.org/licenses/by/4.0/"/>.
+  </para>
+  <para>
+    The source code used to generate the textual content of this book is available at 
+    <link xlink:href="https://bitbucket.org/rwdalpe/barbarian-module"/> and is available under the
+    MIT license.
   </para>
   <para>
     This content uses trademarks and/or copyrights owned by Paizo Inc., which are used under 
