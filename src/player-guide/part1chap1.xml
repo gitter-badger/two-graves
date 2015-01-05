@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter [
+  <!ENTITY % sharedents SYSTEM "../common/shared_entities.xml">
+  %sharedents;
+]>
+<!--
+The MIT License (MIT)
+
+Copyright (c) 2014 Robert Winslow Dalpe
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+<chapter xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <info>
+    <title>Races in &nation_name;</title>
+  </info>
+  <section>
+    <info>
+      <title>Humans</title>
+    </info>
+    <para>
+      Humans are the dominant race in the centrals cities and in the nation at large, despite the 
+      generally high levels of diversity in the country. Humans tend to hold the majority of 
+      positions of influence both in the economic and political spheres.
+    </para>
+  </section>
+  <section>
+    <info>
+      <title>Dwarves</title>
+    </info>
+    <para>
+      Because of the rich underground resources in the country, Dwarves are frequently drawn here. 
+      Many Dwarves work in mines in the outlying areas of the nation, but many certain do find their
+      way to the central cities.
+    </para>
+    <para>
+      Dwarves most often find Crent to their liking, as the ever-open markets and vendors offer a 
+      great opportunity to sell their wares and find rare materials. Some Dwarves with an eye for 
+      government or leadership settle in Regunt and take a post at the head of a guild or legal 
+      office. Dwarves rarely tend to have the patience for as wild a city as Oblectant.
+    </para>
+  </section>
+  <section>
+    <info>
+      <title>Elves</title>
+    </info>
+    <para>
+      Elves do come to the central cities in some numbers, but are rarely found elsewhere the nation.
+      Drawn by the wealth of craftsmanship and artistic talent, Elves come to display their own prowess
+      and compare their works to other master artisans. Because of this, most Elves make their home in
+      a de-facto Elven district in Crent, where they can live in a manner closer to home while still 
+      reaping the advantages of the city. Elves almost never bother with the political and mercantile
+      business that takes place in Regunt, but sometimes are drawn to the lively music and performances
+      in Oblectant.
+    </para>
+  </section>
+  <section>
+    <info>
+      <title>Gnomes</title>
+    </info>
+    <para>
+      The constant festivites and general excitement of Oblectant are perfectly suited to the typical
+      Gnome's mentality. There they delight in taking part in or simply watching performances. While some
+      rise to great heights in official groups, most Gnomes find great pleasure in being street performers
+      or vendors. Gnomes with an eye for business or a craving for the excitement of mercantile 
+      enterprises will sometimes venture into Crent to try their luck there.
+      Regunt is far to boring and rigid for the majority of Gnomes and they are rarely seen
+      there.
+    </para>
+  </section>
+    <section>
+    <info>
+      <title>Halflings</title>
+    </info>
+    <para>
+      The hubbub and excitement of the central cities are perfectly suited to a Halfling's demeanor, and
+      they can be found in great numbers in any of the cities. Artisans, shopkeepers, performers, and
+      even occasionally politicians, a Halfling's upbeat and amiable attitude is a formidable asset.
+    </para>
+  </section>
+  <section>
+    <info>
+      <title>Half-Elves</title>
+    </info>
+    <para>
+      Half-elves face no discrimination for the mixed origin in any of the central cities, where diversity
+      is welcome and omnipresent. Because of this welcoming environment, Half-Elves have flourished in
+      the region and many travel from distant lands to come here. Here, their mixed origin plays to their
+      advantage, and they are well suited to any role in the cities. However, many heed the call of their
+      Elven side and find themselves as either artisans in Crent or performers in Oblectant.
+    </para>
+  </section>
+  <section>
+    <info>
+      <title>Half-Orcs</title>
+    </info>
+    <para>
+      Although diversity is welcomed in the central cities, brutishness and crass are not. Although not
+      hated or feared by any means, most Half-Orcs simply do not fit into the lifestyle of these cities,
+      and so choose instead to live in the outlying towns and villages of the nation. Those who do choose
+      to live the cities tend to make their living as bodyguards for wealthy politicians or merchants, or
+      as a part of the police force.
+    </para>
+  </section>
+</chapter>
