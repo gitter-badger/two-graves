@@ -1,6 +1,8 @@
 Campaign History
 ================
 
+-???: A peaceful tribe somehow manages to leave the desert and comes to the valley. Settles the
+      original kingdom. Maybe they were pressured by the warring tribes.
 0: Barb king unites/slaughters all tribes under zealot for glory death to god
 5: Barb king completely sacks kingdom, razes everything
 5: Barb king knows they ultimately need to die. Interrogates kingdom officials 
@@ -146,7 +148,23 @@ it knows that the small nation is basically in its pocket. Other nations don't m
 nation because of the threat of trade embargo from this nation.
 
 This nation is almost entirely a luxury goods nation. Also kind of like Switzerland with banks
-and neutrality so long as no one messes with our friend at the other end of the river or our agenda.  
+and neutrality so long as no one messes with our friend at the other end of the river or our agenda.
+
+The nation from which the small nation at the N end of the river broke off is the nation from which
+the settlers of Abadar came to found this nation. At the time, that country was at it's power peak
+and colonialism, missionary expansion, and nationalism were hot topics. Think colonial 
+Britain-esque. Their main resource is large tracts of land for staple food and pasture farming.
+
+Another neighbor to the desert is a relatively large mountain kingdom of dwarves. They are a quarry
+and mineral resources nation.
+
+The final neighbor to the desert is a highly militaristic nation. Born originally of conquest, they
+are now a pseudo-slave state with highly honor-bound traditions. Think Sparta. They produce enough
+resources to upkeep a portion of their large, dense population, but not all of it without the help
+of the other two nations. However, because of their traditions, if another nation tried to starve
+them out, they would rather all die in a massive military incursion than go out quietly. However,
+they don't actively seek death, so as long as they are placated they are fairly safe. Basically, 
+their whole foreign policy is Mutually Assured Destruction. The other nations respect the crazy.
 
 Places Of Interest
 ==================
