@@ -1,6 +1,17 @@
 Races
 =====
 
+General Notes
+-------------
+
+Talk about ethnicity and nationality of the residents.
+
+Talk about jobs.
+
+Talk about tourists.
+
+Talk about religion.
+
 Humans
 ------
 
@@ -239,3 +250,17 @@ Percentages:
   Half-elves: 8%
   Half-Orcs:  2%
   Other:      1%
+  
+Nation Fluff Section
+====================
+
+1. Extremely brief history of the nation.
+2. Explanation of life currently in the nation.
+3. Deities of the nation.
+4. Nation government
+5. For each city:
+  a. Brief explanation of the city
+  b. Life in the city
+  c. Places of interest in the city
+  d. Important city government officials
+  
