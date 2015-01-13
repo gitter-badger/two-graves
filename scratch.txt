@@ -169,7 +169,7 @@ their whole foreign policy is Mutually Assured Destruction. The other nations re
 Neighboring Countries
 ---------------------
 
-Desert Country:
+### Desert Country
 
 Majority of the population is humans with long distant fire elemental heredity. Now, they are 90%
 human in form, with a medium-dark complexion, eyes tinted with the color of natural flame, and
@@ -181,9 +181,39 @@ between the tribes of the country occasionally. They are of average height and a
 The ruling/spiritual caste are humans with long distant earth elemental heredity. They are similarly
 90% human in form, with skin tones ranging from gray to onyx black with occasional speckling. Their
 eyes are tinted green and they are completely hairless. They are slow to action but resolute, and
-they are the only ones who can tame and train the sandworms.
+they are the only ones who can tame and train the sandworms. They tend to medical and spiritual
+professions.
 
 Those races are technically human, but Ifrits and Oreads are not unusual sights in this country.
+
+Outsiders aren't unwelcome, but there are very few and aren't necessarily looked upon favorably.
+
+### Dwarf Mountain Country
+
+The Dwarves operate under a ant-like matriarchy, where there is a Dwarfmother--a long lived dwarf
+who was the only surviving heir of the last king. She procreates without legtimate heir
+with relative frequency and lavishes accolades and power upon her children, the immediate of which
+are mostly allowed to do what they want so long as it benefits the nation and her specifically. As
+a result, her immediate children are fiercely loyal out of self-interest and hope that their line
+may become the legitimate heirs.
+
+The dwarf lines extend like families do, and the status of any individual dwarf is measured by the
+distance of the dwarf's lineage from the Dwarfmother.
+
+Because of this sharding, microcosms of culture have cropped up within the mountain kingdom. 
+TO BE DESCRIBED LATER.
+
+The dwarves are having a crowding and power struggle now that there are so many children, the
+Dwarfmother is running out of artificial positions of power to install her new children to, so she
+is beginning to take from the older families.
+
+In the hills outside the mountain range, there are also small clans of peaceful hill giants. 
+Amusingly, they have a particular fondness and friendship with halflings, and in their settlements
+it is not at all uncommon to find several halfling families.
+
+On the edges of the mountains near the borders of the dwarf's kingdom, are goat-riding mountain men.
+Humans who have adapted to the harsh conditions of the cliffs and peaks. Their appearance is rugged
+with all black hair but a light skin complexion.
 
 Places Of Interest
 ==================
