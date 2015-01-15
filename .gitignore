@@ -7,3 +7,6 @@ lib/fop*
 lib/xerces*
 lib/Xerces*
 output
+docbook.xsd
+~*
+*~
