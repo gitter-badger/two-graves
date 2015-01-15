@@ -36,6 +36,7 @@ THE SOFTWARE.
     <xi:include href="../common/legal.xml" />
   </info>
   <xi:include href="part1.xml"/>
+  <xi:include href="part2.xml"/>
   <xi:include href="../common/cc-by-3.0.xml" />
   <xi:include href="../common/mit.xml" />
 </book>
