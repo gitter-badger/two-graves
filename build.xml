@@ -185,10 +185,16 @@ THE SOFTWARE.
       <arg value="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html" />
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/${lib.docbook.stylesheets}/html/docbook.xsl" />
+      <arg value="html.stylesheet=${src.html.single.cssfile} ${src.html.single.printcssfile}" />
     </java>
+
+    <copy file="${src}/${src.html.single.cssfiledir}/${src.html.single.cssfile}"
+          todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
+    <copy file="${src}/${src.html.single.cssfiledir}/${src.html.single.printcssfile}"
+          todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
   </target>
   <target name="-clean.html.single">
-    <delete file="${outputdir}/${outputdir.html}/${outputdir.html.single}/" />
+    <delete dir="${outputdir}/${outputdir.html}/${outputdir.html.single}/" />
   </target>
 
   <!-- HTML.CHUNKED -->
