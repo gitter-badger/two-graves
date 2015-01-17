@@ -70,6 +70,22 @@ Campaign History
      actions.
 800: The campaign begins.
 
+Other Historical Notes
+======================
+
+The settlers of the abadarian church had a holy mission: to build a shining civilization and make it
+possible for people from around the world to bask in its glory. As such, during their pilgrimage
+they built many gates. These gates are ~3 people wide, to prevent armies from passing through, and
+act as basically doors of teleport. They must be powered through some external source to function.
+All gates lead to a central one in the nation, and that central gate can go to any external gate.
+
+When they were built, the settlers left behind many pre-charged stones which could be used to power
+the gate, which causes initial influxes from new gate locations. Over time the stones are used and
+then other sources need to be found. It's too expensive for the nation to produce enough power to
+use the gates for mass trading, so they use it for tourism and immigration. The gates are subject
+to a strict immigration policy where the thing that powers it is your travel papers, issued and
+enchanted by the nation's government. Over time, the rising power of the merchants further imposed
+more economic and political controls over the usage of the gates.
 
 Present Society
 ===============
@@ -141,7 +157,8 @@ province of the desert kingdom, and a risky asset at that.
 
 There is a river that cuts the desert from N to S and leads to the base of the mountain pass that
 enters into the nation. Most travelers come down that route. There is a small nation at the N end of
-that river through which most travelers pass. That nation is small and recently independent and 
+that river through which many travelers pass who do not or cannot use the magical gates.
+That nation is small and recently independent and 
 relies heavily on the tourism and trade that this nation provides. It is recently independent from
 a much larger kingdom from which the settlers originated. This nation likes the small nation because
 it knows that the small nation is basically in its pocket. Other nations don't mess with the smaller

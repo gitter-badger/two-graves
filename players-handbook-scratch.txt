@@ -4,6 +4,8 @@ Races
 General Notes
 -------------
 
+Craftsmen and tourists come from everywhere!
+
 Talk about ethnicity and nationality of the residents.
 
 Talk about jobs.
@@ -19,6 +21,12 @@ Humans are the dominant race in the centrals cities and in the nation at large, 
 generally high levels of diversity in the country. Humans tend to hold the majority of positions of
 influence both in the economic and political spheres.
 
+Meadows: farmers, clerics on pilgrimage, visiting aristocracy
+Mountains: really only mountain men seeking supplies, or more/less solitude or companionship
+Desert: laborers, guides, exotic performers
+Cliffs: bodyguards, brawlers, hunters, any type of fighting thing
+Forest: academy people, occasional druid
+
 Dwarves
 -------
 
@@ -29,6 +37,9 @@ Dwarves most often find Crent to their liking, as the ever-open markets and vend
 opportunity to sell their wares and find rare materials. Some Dwarves with an eye for government
 or leadership settle in Regunt and take a post at the head of a guild or legal office. Dwarves 
 rarely tend to have the patience for as wild a city as Oblectant.
+
+Mountains: miners!
+Cliffs: bodyguards, brawlers, hunters, any type of fighting thing
 
 Elves
 -----
@@ -41,6 +52,9 @@ reaping the advantages of the city. Elves almost never bother with the political
 business that takes place in Regunt, but sometimes are drawn to the lively music and performances
 in Oblectant.
 
+Cliffs: bodyguards, brawlers, hunters, any type of fighting thing
+Forest: artists, occasional druid, clerics, academy people
+
 Gnomes
 ------
 
@@ -52,12 +66,18 @@ enterprises will sometimes venture into Crent to try their luck there.
 Regunt is far to boring and rigid for the majority of Gnomes and they are rarely seen
 there.
 
+Other: travelers who do stuff
+
 Halflings
 ---------
 
 The hubbub and excitement of the central cities are perfectly suited to a Halfling's demeanor, and
 they can be found in great numbers in any of the cities. Artisans, shopkeepers, performers, and
 even occasionally politicians, a Halfling's upbeat and amiable attitude is a formidable asset.
+
+Meadows: merchants
+Mountains: farmers
+Cliffs: bodyguards, brawlers, hunters, any type of fighting thing
 
 Half-Elves
 ----------
@@ -68,6 +88,9 @@ the region and many travel from distant lands to come here. Here, their mixed or
 advantage, and they are well suited to any role in the cities. However, many heed the call of their
 Elven side and find themselves as either artisans in Crent or performers in Oblectant.
 
+Cliffs: bodyguards, brawlers, hunters, any type of fighting thing
+Other: travelers who do stuff
+
 Half-Orcs
 ---------
 
@@ -76,6 +99,9 @@ hated or feared by any means, most Half-Orcs simply do not fit into the lifestyl
 and so choose instead to live in the outlying towns and villages of the nation. Those who do choose
 to live the cities tend to make their living as bodyguards for wealthy politicians or merchants, or
 as a part of the police force.
+
+Cliffs: bodyguards, brawlers, hunters, any type of fighting thing
+Other: travelers who do stuff
 
 Classes
 =======
