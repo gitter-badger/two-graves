@@ -219,7 +219,13 @@ THE SOFTWARE.
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/${lib.docbook.stylesheets}/html/chunk.xsl" />
       <arg value="base.dir=${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}/" />
+      <arg value="html.stylesheet=${src.html.single.cssfile} ${src.html.single.printcssfile}" />
     </java>
+
+    <copy file="${src}/${src.html.single.cssfiledir}/${src.html.single.cssfile}"
+          todir="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}" />
+    <copy file="${src}/${src.html.single.cssfiledir}/${src.html.single.printcssfile}"
+          todir="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}" />
 
     <!-- it makes an empty file in the output directory that we don't want -->
     <delete file="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}/${toplevelBookName}.html" />
