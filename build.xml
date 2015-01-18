@@ -137,6 +137,14 @@ THE SOFTWARE.
       <arg value="${outputdir}/${outputdir.fo}/${toplevelBookName}/${toplevelBookName}.fo" />
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/${lib.docbook.stylesheets}/fo/docbook.xsl" />
+      <arg value="toc.indent.width=16" />
+      <arg value="fop1.extensions=1" />
+      <arg value="use.svg=1" />
+      <arg value="email.delimiters.enabled=0" />
+      <arg value="email.mailto.enabled=1" />
+      <arg value="hyphenate=true" />
+      <!-- <arg value="column.count.body=2" /> -->
+      <arg value="body.start.indent=0pt" />
     </java>
 
     <if>
