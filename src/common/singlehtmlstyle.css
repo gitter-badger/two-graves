@@ -7,4 +7,17 @@
     max-width: 45em;
     margin: 0px auto;
   }
+  
+  h1.title { 
+    
+  }
+  
+  div.authorgroup {
+  }
+  
+  h3.author {
+    font-weight: normal;
+    font-size: 1em;
+    margin-bottom: 0px;
+  }
 }
