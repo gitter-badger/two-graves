@@ -26,5 +26,12 @@ THE SOFTWARE.
 <!ENTITY nation_name "Seorsus">
 <!ENTITY old_nation_name "Sejunctu'serat">
 <!ENTITY valley_name "Multae">
-<!ENTITY desert_kingdom "Mughim">
 <!ENTITY barb_king "Thara">
+<!ENTITY meadows_nation "MEADOWS" >
+<!ENTITY desert_kingdom "Mughim">
+<!ENTITY mountains_nation "MOUNTAINS" >
+<!ENTITY cliffs_nation "CLIFFS" >
+<!ENTITY forest_nation "FOREST" >
+<!ENTITY mountainmen "MOUNTAIN MEN" >
+<!ENTITY firepeople "FIRE PEOPLE">
+<!ENTITY arts_city "Oblectant">

@@ -31,14 +31,36 @@ THE SOFTWARE.
   <info>
     <title>Races in &nation_name;</title>
   </info>
+  <sidebar>
+    <para>
+      Due to the high economic and entertainment specialties of &nation_name;, it draws craftsman
+      and tourists from all over the world.
+    </para>
+  </sidebar>
   <section>
     <info>
       <title>Humans</title>
     </info>
     <para>
-      Humans are the dominant race in the centrals cities and in the nation at large, despite the 
-      generally high levels of diversity in the country. Humans tend to hold the majority of 
-      positions of influence both in the economic and political spheres.
+      Humans are the dominant race in the central cities and in the nation at large, despite the 
+      generally high levels of diversity in the country. Humans native to &nation_name;
+      are represented in all professions, and tend to hold the majority of influential positions 
+      both in the economic and political spheres. They can be found in every major city and in the
+      outlying areas of the country.
+    </para> 
+    <para>
+      Humans hailing from other parts of the continent tend to come to &nation_name; for
+      more specialized reasons. Farmers, clerics on pilgrimage, and visiting aristocrats from 
+      &meadows_nation; are all common sights. The goat-riding &mountainmen; 
+      from the peaks of &mountains_nation;
+      are more rare, but sometimes come down to the valley for supplies or when they are seeking
+      lesser or perhaps even greater solitude than they found among their people in the mountains.
+      The exotic &firepeople; from neighboring &desert_kingdom; are often employed as guides and 
+      laborers, although some have left their homes to make a living as performers in &arts_city;.
+      The fierce humans from the cliffs of &cliffs_nation; are often employed as bodyguards, 
+      brawlers, hunters, or any other sort of profession that involves martial prowess. Humans
+      from &forest_nation; are significantly more rare, but occasionally a prodigy from the mage's
+      academy or a wayward druid will make an appearance.
     </para>
   </section>
   <section>
