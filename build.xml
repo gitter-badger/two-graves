@@ -193,13 +193,18 @@ THE SOFTWARE.
       <arg value="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html" />
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/${lib.docbook.stylesheets}/html/docbook.xsl" />
-      <arg value="html.stylesheet=${src.html.single.cssfile} ${src.html.single.printcssfile}" />
+      <arg value="html.stylesheet=${src.html.common.cssfile} ${src.html.common.printcssfile} ${src.html.single.cssfile} ${src.html.single.printcssfile}" />
     </java>
 
     <copy file="${src}/${src.html.single.cssfiledir}/${src.html.single.cssfile}"
           todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
+    <copy file="${src}/${src.html.common.cssfiledir}/${src.html.common.cssfile}"
+          todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
     <copy file="${src}/${src.html.single.cssfiledir}/${src.html.single.printcssfile}"
           todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
+    <copy file="${src}/${src.html.common.cssfiledir}/${src.html.common.printcssfile}"
+          todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
+
   </target>
   <target name="-clean.html.single">
     <delete dir="${outputdir}/${outputdir.html}/${outputdir.html.single}/" />
@@ -227,12 +232,16 @@ THE SOFTWARE.
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/${lib.docbook.stylesheets}/html/chunk.xsl" />
       <arg value="base.dir=${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}/" />
-      <arg value="html.stylesheet=${src.html.single.cssfile} ${src.html.single.printcssfile}" />
+      <arg value="html.stylesheet=${src.html.common.cssfile} ${src.html.common.printcssfile} ${src.html.chunked.cssfile} ${src.html.chunked.printcssfile}" />
     </java>
 
-    <copy file="${src}/${src.html.single.cssfiledir}/${src.html.single.cssfile}"
+    <copy file="${src}/${src.html.chunked.cssfiledir}/${src.html.chunked.cssfile}"
           todir="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}" />
-    <copy file="${src}/${src.html.single.cssfiledir}/${src.html.single.printcssfile}"
+    <copy file="${src}/${src.html.common.cssfiledir}/${src.html.common.cssfile}"
+          todir="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}" />
+    <copy file="${src}/${src.html.chunked.cssfiledir}/${src.html.chunked.printcssfile}"
+          todir="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}" />
+    <copy file="${src}/${src.html.common.cssfiledir}/${src.html.common.printcssfile}"
           todir="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}" />
 
     <!-- it makes an empty file in the output directory that we don't want -->
