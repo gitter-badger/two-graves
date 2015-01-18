@@ -94,12 +94,19 @@ THE SOFTWARE.
     </info>
     <para>
       Elves do come to the central cities in some numbers, but are rarely found elsewhere the nation.
-      Drawn by the wealth of craftsmanship and artistic talent, Elves come to display their own prowess
-      and compare their works to other master artisans. Because of this, most Elves make their home in
-      a de-facto Elven district in Crent, where they can live in a manner closer to home while still 
+      Drawn by the wealth of craftsmanship and artistic talent, elves come to display their own prowess
+      and compare their works to other master artisans'. Because of this, most elves make their home in
+      a de-facto elven district in &market_city;, where they can live in a manner closer to home while still 
       reaping the advantages of the city. Elves almost never bother with the political and mercantile
-      business that takes place in Regunt, but sometimes are drawn to the lively music and performances
-      in Oblectant.
+      business that takes place in &law_city;, but sometimes are drawn to the lively music and performances
+      in &arts_city;.
+    </para>
+    <para>
+      Most of the elves living in &nation_name; hail from from &forest_nation;, and those that are 
+      not craftsmen are most often artists or performers, members of the mage's academy, druids, 
+      rangers, or
+      clerics of Shelyn. Elves that have chosen a martial path often claim &cliffs_nation; as their 
+      home, and they make their living by applying their combat talents wherever they are necessary. 
     </para>
   </section>
   <section>
@@ -107,12 +114,12 @@ THE SOFTWARE.
       <title>Gnomes</title>
     </info>
     <para>
-      The constant festivites and general excitement of Oblectant are perfectly suited to the typical
-      Gnome's mentality. There they delight in taking part in or simply watching performances. While some
-      rise to great heights in official groups, most Gnomes find great pleasure in being street performers
+      The constant festivites and general excitement of &arts_city; are perfectly suited to the typical
+      gnome's mentality. There they delight in taking part in or simply watching performances. While some
+      rise to great heights in official groups, most gnomes find great pleasure in being street performers
       or vendors. Gnomes with an eye for business or a craving for the excitement of mercantile 
-      enterprises will sometimes venture into Crent to try their luck there.
-      Regunt is far to boring and rigid for the majority of Gnomes and they are rarely seen
+      enterprises will sometimes venture into &market_city; to try their luck there.
+      &law_city; is far to boring and rigid for the majority of Gnomes and they are rarely seen
       there.
     </para>
   </section>
@@ -121,7 +128,7 @@ THE SOFTWARE.
       <title>Halflings</title>
     </info>
     <para>
-      The hubbub and excitement of the central cities are perfectly suited to a Halfling's demeanor, and
+      The hubbub and excitement of the central cities are perfectly suited to a halfling's demeanor, and
       they can be found in great numbers in any of the cities. Artisans, shopkeepers, performers, and
       even occasionally politicians, a Halfling's upbeat and amiable attitude is a formidable asset.
     </para>
