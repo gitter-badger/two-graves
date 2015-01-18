@@ -32,9 +32,13 @@ THE SOFTWARE.
     <title>Races in &nation_name;</title>
   </info>
   <sidebar>
+    <info>
+      <title>Commonalities Across Races</title>
+    </info>
     <para>
       Due to the high economic and entertainment specialties of &nation_name;, it draws craftsman
-      and tourists from all over the world.
+      and tourists from all over the world. Unless described otherwise, you can assume that almost
+      any race can be represented as either a craftsman or a tourist.
     </para>
   </sidebar>
   <section>
