@@ -68,15 +68,24 @@ THE SOFTWARE.
       <title>Dwarves</title>
     </info>
     <para>
-      Because of the rich underground resources in the country, Dwarves are frequently drawn here. 
-      Many Dwarves work in mines in the outlying areas of the nation, but many certain do find their
-      way to the central cities.
+      Because of the rich underground resources in the country, dwarves are frequently drawn here.
+      Most dwarves hail from the mountains in &mountains_nation; to live with their bretheren in the 
+      large network of dwarven homes that have been built under the earth. Although most dwarves
+      will be living in the outlying areas of the nation, many certainly do find their way to
+      the central cities. 
     </para>
     <para>
-      Dwarves most often find Crent to their liking, as the ever-open markets and vendors offer a 
-      great opportunity to sell their wares and find rare materials. Some Dwarves with an eye for 
-      government or leadership settle in Regunt and take a post at the head of a guild or legal 
-      office. Dwarves rarely tend to have the patience for as wild a city as Oblectant.
+      Most dwarves will find &market_city; to their liking, as the ever-open markets and vendors 
+      offer a great opportunity to sell their wares and find rare materials. Some dwarves with an 
+      eye for government or leadership settle in &law_city; and take a post in a guild 
+      or legal office. Dwarves in the legal realm are most often acting as representatives of other
+      dwarves, and as such many find their way into positions as District Representatives.
+    </para>
+    <para>
+      Dwarves rarely tend to have the patience for as wild a city as &arts_city;.
+      However, dwarves seeking a more risky existence, such as warriors from &cliffs_nation;, can 
+      find a comfortable living anywhere in the country as bodyguards, hunters, or maybe even 
+      in the police force.
     </para>
   </section>
   <section>
