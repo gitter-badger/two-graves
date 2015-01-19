@@ -2,34 +2,38 @@
   html {
     font-family: sans-serif;
   }
-    
-  h1.title { 
+  h1.title {
     
   }
-  
   div.authorgroup {
     font-size: .8em;
   }
-  
   h3.author {
     font-weight: normal;
     font-size: 1em;
     margin-bottom: 0px;
   }
-  
   div.legalnotice {
     font-size: .8em;
   }
-  
   p.pubdate {
     font-size: .8em;
   }
-  
   dl.toc {
     font-size: .8em;
   }
-  
   dl.toc dd {
     margin-left: 1.2em;
+  }
+  div.sidebar {
+    padding: .25em;
+    border: 1px solid #000000;
+    background: #cccccc;
+  }
+  div.sidebar p.title {
+    margin-top: 0px;
+  }
+  div.sidebar p:last-child {
+    margin-bottom: 0px;
   }
 }
