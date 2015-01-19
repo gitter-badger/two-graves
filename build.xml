@@ -145,7 +145,17 @@ THE SOFTWARE.
       <arg value="hyphenate=true" />
       <arg value="column.count.body=2" />
       <arg value="body.start.indent=0pt" />
+      <arg value="draft.mode=${draft}" />
+      <arg value="draft.watermark.image=draft.png" />
     </java>
+
+    <if>
+      <equals arg1="yes" arg2="${draft}" />
+      <then>
+        <copy file="${lib}/${lib.docbook.stylesheets}/images/draft.png"
+              todir="${outputdir}/${outputdir.fo}/${toplevelBookName}" />
+      </then>
+    </if>
 
     <if>
       <os family="windows" />
@@ -194,7 +204,17 @@ THE SOFTWARE.
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/${lib.docbook.stylesheets}/html/docbook.xsl" />
       <arg value="html.stylesheet=${src.html.common.cssfile} ${src.html.common.printcssfile} ${src.html.single.cssfile} ${src.html.single.printcssfile}" />
+      <arg value="draft.mode=${draft}" />
+      <arg value="draft.watermark.image=draft.png" />
     </java>
+
+    <if>
+      <equals arg1="yes" arg2="${draft}" />
+      <then>
+        <copy file="${lib}/${lib.docbook.stylesheets}/images/draft.png"
+              todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
+      </then>
+    </if>
 
     <copy file="${src}/${src.html.single.cssfiledir}/${src.html.single.cssfile}"
           todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
@@ -233,7 +253,17 @@ THE SOFTWARE.
       <arg file="${lib}/${lib.docbook.stylesheets}/html/chunk.xsl" />
       <arg value="base.dir=${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}/" />
       <arg value="html.stylesheet=${src.html.common.cssfile} ${src.html.common.printcssfile} ${src.html.chunked.cssfile} ${src.html.chunked.printcssfile}" />
+      <arg value="draft.mode=${draft}" />
+      <arg value="draft.watermark.image=draft.png" />
     </java>
+
+    <if>
+      <equals arg1="yes" arg2="${draft}" />
+      <then>
+        <copy file="${lib}/${lib.docbook.stylesheets}/images/draft.png"
+              todir="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}" />
+      </then>
+    </if>
 
     <copy file="${src}/${src.html.chunked.cssfiledir}/${src.html.chunked.cssfile}"
           todir="${outputdir}/${outputdir.html}/${outputdir.html.chunked}/${toplevelBookName}" />
@@ -269,7 +299,17 @@ THE SOFTWARE.
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/${lib.docbook.stylesheets}/epub3/chunk.xsl" />
       <arg value="base.dir=${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
+      <arg value="draft.mode=${draft}" />
+      <arg value="draft.watermark.image=draft.png" />
     </java>
+
+    <if>
+      <equals arg1="yes" arg2="${draft}" />
+      <then>
+        <copy file="${lib}/${lib.docbook.stylesheets}/images/draft.png"
+              todir="${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
+      </then>
+    </if>
 
     <zip basedir="${outputdir}/${outputdir.epub}/${toplevelBookName}/"
          destfile="${outputdir}/${outputdir.epub}/${toplevelBookName}/${toplevelBookName}.epub"
