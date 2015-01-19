@@ -29,8 +29,106 @@ THE SOFTWARE.
 <part xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
   xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
   <info>
-    <title>Background Information for Players</title>
+    <title>The Nation of &nation_name;</title>
   </info>
-  <xi:include href="part1chap1.xml"/>
-  <xi:include href="part1chap2.xml"/>
+  <partintro>
+    <para>
+      A brief history of the nation.
+    </para>
+  </partintro>
+  <chapter>
+    <info>
+      <title>Modern Life in &nation_name;</title>
+    </info>
+    <para/>
+  </chapter>
+  <chapter>
+    <info>
+      <title>Religion in &nation_name;</title>
+    </info>
+    <para/>
+  </chapter>
+  <chapter>
+    <info>
+      <title>The Government of &nation_name;</title>
+    </info>
+    <para/>
+  </chapter>
+  <chapter>
+    <info>
+      <title>The Central Cities</title>
+    </info>
+    <section>
+      <info>
+        <title>Crent, City of Markets</title>
+      </info>
+      <para/>
+      <section>
+        <info>
+          <title>Life in the City</title>
+        </info>
+        <para/>
+      </section>
+      <section>
+        <info>
+          <title>Places of Interest</title>
+        </info>
+        <para/>
+      </section>
+      <section>
+        <info>
+          <title>Government Officials</title>
+        </info>
+        <para/>
+      </section>
+    </section>
+    <section>
+      <info>
+        <title>Regunt, City of Laws</title>
+      </info>
+      <para/>
+          <section>
+        <info>
+          <title>Life in the City</title>
+        </info>
+        <para/>
+      </section>
+      <section>
+        <info>
+          <title>Places of Interest</title>
+        </info>
+        <para/>
+      </section>
+      <section>
+        <info>
+          <title>Government Officials</title>
+        </info>
+        <para/>
+      </section>
+    </section>
+    <section>
+      <info>
+        <title>Oblectant, City of Arts</title>
+      </info>
+      <para/>
+          <section>
+        <info>
+          <title>Life in the City</title>
+        </info>
+        <para/>
+      </section>
+      <section>
+        <info>
+          <title>Places of Interest</title>
+        </info>
+        <para/>
+      </section>
+      <section>
+        <info>
+          <title>Government Officials</title>
+        </info>
+        <para/>
+      </section>
+    </section>
+  </chapter>
 </part>
