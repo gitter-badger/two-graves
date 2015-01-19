@@ -40,6 +40,12 @@ THE SOFTWARE.
       and tourists from all over the world. Unless described otherwise, you can assume that almost
       any race can be represented as either a craftsman or a tourist.
     </para>
+    <para>
+      Futhermore, the nation of &cliffs_nation; has no discrimination against any race so long as 
+      they can carry their weight in war. &cliffs_nation_person; bodyguards, hunters, policemen, and 
+      members of any other profession that involves martial prowess can easily find employment in 
+      &nation_name; regardless of their racial background.
+    </para>
   </sidebar>
   <section>
     <info>
@@ -61,10 +67,8 @@ THE SOFTWARE.
       lesser or perhaps even greater solitude than they found among their people in the mountains.
       The exotic &firepeople; from neighboring &desert_kingdom; are often employed as guides and 
       laborers, although some have left their homes to make a living as performers in &arts_city;.
-      The fierce humans from the cliffs of &cliffs_nation; are often employed as bodyguards, 
-      brawlers, hunters, or any other sort of profession that involves martial prowess. Humans
-      from &forest_nation; are significantly more rare, but occasionally a prodigy from the mage's
-      academy or a wayward druid will make an appearance.
+      Humans from &forest_nation; are significantly more rare, but occasionally a prodigy from the 
+      mage's academy or a wayward druid will make an appearance.
     </para>
   </section>
   <section>
@@ -82,14 +86,10 @@ THE SOFTWARE.
       Most dwarves will find &market_city; to their liking, as the ever-open markets and vendors 
       offer a great opportunity to sell their wares and find rare materials. Some dwarves with an 
       eye for government or leadership settle in &law_city; and take a post in a guild 
-      or legal office. Dwarves in the legal realm are most often acting as representatives of other
-      dwarves, and as such many find their way into positions as District Representatives.
-    </para>
-    <para>
-      Dwarves rarely tend to have the patience for as wild a city as &arts_city;.
-      However, dwarves seeking a more risky existence, such as warriors from &cliffs_nation;, can 
-      find a comfortable living anywhere in the country as bodyguards, hunters, or maybe even 
-      in the police force.
+      or legal office. Dwarves in the legal realm tend to put their strong racial loyalties to use
+      defending the interests of other dwarves, and as such many find their way into positions as 
+      District Representatives. Dwarves rarely tend to have the patience for as wild a city as
+      &arts_city;.
     </para>
   </section>
   <section>
@@ -108,9 +108,7 @@ THE SOFTWARE.
     <para>
       Most of the elves living in &nation_name; hail from from &forest_nation;, and those that are 
       not craftsmen are most often artists or performers, members of the mage's academy, druids, 
-      rangers, or
-      clerics of Shelyn. Elves that have chosen a martial path often claim &cliffs_nation; as their 
-      home, and they make their living by applying their combat talents wherever they are necessary. 
+      rangers, or clerics of Shelyn. 
     </para>
   </section>
   <section>
@@ -119,11 +117,11 @@ THE SOFTWARE.
     </info>
     <para>
       The constant festivites and general excitement of &arts_city; are perfectly suited to the typical
-      gnome's mentality. There they delight in taking part in or simply watching performances. While some
+      gnome's demeanor. There they delight in taking part in or simply watching performances. While some
       rise to great heights in official groups, most gnomes find great pleasure in being street performers
       or vendors. Gnomes with an eye for business or a craving for the excitement of mercantile 
       enterprises will sometimes venture into &market_city; to try their luck there.
-      &law_city; is far to boring and rigid for the majority of Gnomes and they are rarely seen
+      &law_city; is far too boring and rigid for the majority of Gnomes, and they are rarely seen
       there.
     </para>
   </section>
@@ -132,9 +130,15 @@ THE SOFTWARE.
       <title>Halflings</title>
     </info>
     <para>
-      The hubbub and excitement of the central cities are perfectly suited to a halfling's demeanor, and
-      they can be found in great numbers in any of the cities. Artisans, shopkeepers, performers, and
-      even occasionally politicians, a Halfling's upbeat and amiable attitude is a formidable asset.
+      Halflings dovetail with ease into the hubbub and excitement of the central cities, and
+      they can be found in great numbers all over the country. 
+      Artisans, shopkeepers, performers, and even occasionally politicians, a &nation_person; 
+      halfling's upbeat and amiable attitude is a formidable asset.
+    </para>
+    <para>
+      Halflings coming from &meadows_nation; are often members of the merchant class, seeking 
+      potential business partners. The rural, hill-giant loving halflings from &mountains_nation;
+      are more likely to become farmers in the outskirts of the nation.
     </para>
   </section>
   <section>
@@ -142,11 +146,12 @@ THE SOFTWARE.
       <title>Half-Elves</title>
     </info>
     <para>
-      Half-elves face no discrimination for the mixed origin in any of the central cities, where diversity
-      is welcome and omnipresent. Because of this welcoming environment, Half-Elves have flourished in
-      the region and many travel from distant lands to come here. Here, their mixed origin plays to their
-      advantage, and they are well suited to any role in the cities. However, many heed the call of their
-      Elven side and find themselves as either artisans in Crent or performers in Oblectant.
+      Half-elves face no discrimination for their mixed origin in any of the central cities, where diversity
+      is welcome and omnipresent. Because of this welcoming environment, half-elves have flourished in
+      the region and many travel from distant lands to come here. They are the second most populous
+      race in &nation_name;. Here, their mixed origin plays to their
+      advantage, and they are well suited to any role. However, many heed the call of their
+      elven side and find themselves as either artisans in &market_city; or performers in &arts_city;.
     </para>
   </section>
   <section>
@@ -154,8 +159,8 @@ THE SOFTWARE.
       <title>Half-Orcs</title>
     </info>
     <para>
-      Although diversity is welcomed in the central cities, brutishness and crass are not. Although not
-      hated or feared by any means, most Half-Orcs simply do not fit into the lifestyle of these cities,
+      Although diversity is welcomed in the central cities, brutishness and crassness are not. Although not
+      hated or feared by any means, most half-orcs simply do not fit into the lifestyle of these cities,
       and so choose instead to live in the outlying towns and villages of the nation. Those who do choose
       to live the cities tend to make their living as bodyguards for wealthy politicians or merchants, or
       as a part of the police force.
