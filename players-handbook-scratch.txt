@@ -114,6 +114,18 @@ naturally occurring tribes in this area, so any barbarians who have come to the 
 from elsewhere. Incivility and brutishness are frowned upon universally across the country, and
 many barbarians will find it a challenge to be welcomed or fit in.
 
+TODO:
+Barbarians as outcasts
+  -new life family protectors
+Barbarians as hired muscle
+Barbarians as glory seekers
+  -entertainment & festivals
+  -seeking to kill the gnolls
+
+aggressive tribes from mughim of the fire people
+gladiator-type warriors from krig
+not part of the police
+
 Bards
 -----
 
@@ -134,6 +146,11 @@ are appointed by the churches of the nation. Clerics of any civilized deity will
 central cities. Clerics of law or commerce may prefer Regunt, while clerics of the wilds or the more
 base pleasures may find Oblectant more to their liking.
 
+TODO:
+Talk about the major churches
+Talk more about the government some
+Talk about clerics of the people
+
 Druids
 ------
 
@@ -143,12 +160,24 @@ calling. Many of these druids do not wind up in the central cities, preferring i
 outlying towns and villages, but some do come into the more urban areas to provide guidance or
 ritualistic help for government endeavors which involve the land.
 
+TODO:
+Talk about natural resources that the city relies on somehow and how druids steward those resources
+Talk about druids who try to bring some "balance" to the area by countering civilization-spread 
+
 Fighters
 --------
 
 Whether as bodyguards or members of the national police force, a good fighter is always in need
 wherever he may be. There is no true military force in the nation, so very few fighters are proper
 soldiers. The natural borders of the country stave off foreign intrusion.
+
+TODO:
+Tell more about police
+Bodyguards
+Why not live in Krig?
+Urban fighters vs outland fighters
+Fighters as performers
+Fighters as researchers
 
 Monks
 -----
@@ -157,6 +186,11 @@ Monks seeking purification and enlightenment through order and community may fin
 in the central cities. However, there are no official monk sects who call this nation their home.
 Despite this, martial prowess and spiritual leadership are valued traits both inside and outside
 the central cities, and a monk will not find themselves without employment for long.
+
+TODO:
+Opportunities for public works & the government
+Earth people from Mughim
+Add a monk order that is a counter-lobby to the economic elite
 
 Paladins
 --------
@@ -167,6 +201,11 @@ presence in the nation, many paladins still find themselves drawn here to advanc
 paladin should be cautious, however, as in the court room the nation's laws will always trump any
 conflicting religious edict.
 
+TODO:
+Role of paladins in their churches
+Role of paladins in the government?
+  - Secret or not so secret group of paladins who vie for political control
+
 Rangers
 -------
 
@@ -176,6 +215,11 @@ Rangers who do choose to make a living in the city often do so as members of the
 privately employed bounty hunters. In outlying areas, a ranger will find many places to call his 
 home.
 
+TODO:
+Rangers in the police
+Rangers of a church?
+Urban rangers vs woodland rangers.
+
 Rogues
 ------
 
@@ -183,6 +227,14 @@ Although central cities are lawful and safe places, a rogue's talents are noneth
 the elite of the cities. Merchants and politicians alike can always find a use for someone with
 quick hands and silent feet. Outside the central cities, non-criminal rogues are less common and
 most frequently make their livings as trappers or hunters.
+
+TODO:
+Rogues as business intrigue
+Rogues as political intrigue
+Rogues in the police
+Rogues in the wilds
+Rogues as pickpockets
+Rogues as performers
 
 Sorcerers
 ---------
@@ -193,6 +245,13 @@ performance may find themselves drawn to Oblectant, while those who wish to put 
 abilities to use to further their own wealth or careers may find Regunt or Crent more to their 
 liking.
 
+TODO:
+Sorcerers and their bloodlines and the poltical support they do or do not have
+Sorcerers in the police
+Sorcerers as performers
+Sorcerers as economic bonuses
+Sorcerers as faces of organizations
+
 Wizards
 -------
 
@@ -200,6 +259,13 @@ The vast libraries and combined cultural knowledge of the central cities are a g
 many wizards, and none will struggle to find employment here. Whether as part of a merchant's 
 retinue as an appraiser of magical goods or a craftsman in his own right, magical talent is always
 useful in the nation.
+
+TODO:
+Wizards in the government
+Wizards as economic bonuses
+Wizards in the police
+Wizards as librarians
+Wizards as researchers
 
 Campaign Traits
 ===============
