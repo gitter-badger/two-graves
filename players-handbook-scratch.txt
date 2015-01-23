@@ -315,6 +315,19 @@ Percentages:
   Half-elves: 12%
   Other:      1%
 
+Only merchant guilds. No craftsman guilds; they are lobbied against by the
+craftsman themselves because they know that if 1 guild pops up and you aren't
+an elite crafter you will basically be forced to join the guild or become
+disreputable.
+
+The shopping district is full of buildings of various sizes and shapes. There
+are wide main thoroughfares and smaller side streets all full of entrances and
+displays for wares. In the main thoroughfares there may also be transient stalls
+for sellers who do not own permanent space. Near the middle of the shopping 
+district is a sizeable open market area where some sellers, who can afford to do
+so also have tents separate from their stores. This area is very touristy as it
+represents "the market" of the shopping district.
+  
 Oblectant
 ---------
 
