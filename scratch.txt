@@ -60,7 +60,7 @@ Campaign History
      Sees common themes, realizes that he can take them to the extreme, but
      knows that he can't do it himself or too much fear. Needs to establish
      some helpers.
-783: 500 years later, the kingdom is prospering. The lich has spent all this 
+583: 300 years later, the kingdom is prospering. The lich has spent all this 
      time trying schemes. Some things work, others don't, but nothing has been
      totally successful. The lich has stopped killing monsters and started
      recruiting them. Gnolls have moved into the outlands where the barbarians
@@ -68,7 +68,7 @@ Campaign History
      evil things. At this point, the lich is much more lich than barbarian 
      mentally. Doesn't want to ruin his long term plans by taking more drastic
      actions.
-800: The campaign begins.
+600: The campaign begins.
 
 Other Historical Notes
 ======================
@@ -158,6 +158,9 @@ into a giant chasm. Their now long since dead metropolis still floats deep
 within the chasm while the ancient elemental slumbers.
 
 The chasm separates and isolates this kingdom from southern advances.
+
+Total land area is probably around 5000 sq-mi with an average population density of 90/sq-mi, but
+some of the land is uncleared frontier territory or lacks sufficient population to work it.
 
 Travel and Neighbors
 --------------------
