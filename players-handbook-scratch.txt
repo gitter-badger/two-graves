@@ -328,6 +328,16 @@ district is a sizeable open market area where some sellers, who can afford to do
 so also have tents separate from their stores. This area is very touristy as it
 represents "the market" of the shopping district.
 
+- Workshop of flying machine inventor half brothers
+- Cool underwater architecture place
+- Elven enclave
+- Dwarven enclave
+- Harbor & docks
+- Mega crafter family complex
+- Big regulated market prices display govt building
+- Police station
+- A famous inn
+
 Oblectant
 ---------
 
@@ -342,6 +352,20 @@ Percentages:
   Half-elves: 19%
   Other:      3%
 
+- Huge games field
+- College of arts
+- Giant bar/temple of C.C.
+- The big bridge
+- Huge temple to shelyn
+- Dragon's Teeth
+- famous art/music supply shops
+- famous galleries
+- famous inns
+- festival planning hall in govt district
+- small police station
+- big fountain in the public space
+- magical fireworks shop
+
 Regunt
 ------
 
@@ -355,7 +379,16 @@ Percentages:
   Half-elves: 8%
   Half-Orcs:  2%
   Other:      1%
-  
+
+- Capitol building
+- Abadar temple
+- Library
+- Law/Business college
+- Merchant guildhouses
+- Harbor
+- Emperor's home
+- Police HQ
+
 Nation Fluff Section
 ====================
 
