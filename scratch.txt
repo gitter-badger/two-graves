@@ -164,11 +164,17 @@ some of the land is uncleared frontier territory or lacks sufficient population 
 
 A rough estimation of a rectangular area for the nation is 87mix58mi.
 
-Plains in the region are lake plains formed by the deposition of sediment. The large lake in the
-plains is the last remnant of that old lake.
+Low hills in the region represent the majority of the settled land.
 
 Possible idea: a "lone" mountain which is separated from the other mountains in the range by a cut
 of river valleys.
+
+Cliffs feed melt waters into slow rivers in early spring which form a bog.
+
+There's a crevasse with access to the mines.
+
+The mountains significantly outpace the altitude of anything else in the valley. However, the 
+overall altitude does increase as you near the mountains.
 
 Travel and Neighbors
 --------------------
