@@ -162,6 +162,14 @@ The chasm separates and isolates this kingdom from southern advances.
 Total land area is probably around 5000 sq-mi with an average population density of 90/sq-mi, but
 some of the land is uncleared frontier territory or lacks sufficient population to work it.
 
+A rough estimation of a rectangular area for the nation is 87mix58mi.
+
+Plains in the region are lake plains formed by the deposition of sediment. The large lake in the
+plains is the last remnant of that old lake.
+
+Possible idea: a "lone" mountain which is separated from the other mountains in the range by a cut
+of river valleys.
+
 Travel and Neighbors
 --------------------
 
