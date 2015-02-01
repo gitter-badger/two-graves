@@ -13,6 +13,19 @@
   }
   p.returntotop {
     font-size: .8em;
+    line-height: 2em;
+    border-radius: .3em;
+    -moz-border-radius: .3em;
+    -webkit-border-radius: .3em;
+    background-color: #2E64FE;
+  }
+  p.returntotop a {
+    display: block;
+    width: 100%;
+    height: 2em;
+    text-decoration: none;
+    font-weight: bold;
+    color: #ffffff;
   }
   @media screen and (min-width: 40em) {
     p.returntotop {
@@ -21,21 +34,8 @@
       right: 0px;
       margin: 0px;
       max-width: 25%;
-      line-height: 2em;
       padding-left: .2em;
       padding-right: .2em;
-      border-radius: .3em;
-      -moz-border-radius: .3em;
-      -webkit-border-radius: .3em;
-      background-color: #2E64FE;
-    }
-    p.returntotop a {
-      display: block;
-      width: 100%;
-      height: 2em;
-      text-decoration: none;
-      font-weight: bold;
-      color: #ffffff;
     }
     div.titlepage>div:first-child {
       position: relative;
@@ -44,26 +44,15 @@
       max-width: 75%;
     }
   }
-  @media screen and (max-width: 40em) {
-    p.returntotop {
-      width: 100%;
-      text-align: center;
-      line-height: 2em;
-    }
-    p.returntotop a {
-      display: block;
-      width: 100%;
-      height: 2em;
-      border-radius: .3em;
-      -moz-border-radius: .3em;
-      -webkit-border-radius: .3em;
-      background-color: #2E64FE;
-      text-decoration: none;
-      font-weight: bold;
-      color: #ffffff;
-    }
-    div.part h1.title, div.part h2.title {
-      margin-top: 0px;
-    }
+}
+
+@media screen and (max-width: 40em) {
+  p.returntotop {
+    width: 100%;
+    text-align: center;
   }
+  div.part h1.title, div.part h2.title {
+    margin-top: 0px;
+  }
+}
 }
