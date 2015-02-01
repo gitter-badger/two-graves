@@ -37,3 +37,19 @@
     margin-bottom: 0px;
   }
 }
+
+@viewport {
+    zoom: 1.0;
+    width: device-width;  
+    initial-scale: 1;
+}
+@-viewport {
+    zoom: 1.0;
+    width: device-width;
+    initial-scale: 1;  
+}
+@-ms-viewport {
+    zoom: 1.0;
+    width: device-width;
+    initial-scale: 1;  
+}
