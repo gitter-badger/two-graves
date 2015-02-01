@@ -1,9 +1,14 @@
+/* http://paletton.com/#uid=53N0u0ktr+BhxZWnD+tHU+8XULF */
+@import url(https://fonts.googleapis.com/css?family=Trade+Winds|Bubblegum+Sans|Cinzel+Decorative:400,700,900|Forum|Maiden+Orange|Averia+Serif+Libre:400,700|New+Rocker|Metal+Mania);
+
 @media screen {
   html {
-    font-family: sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
   }
-  h1.title {
-    
+  div.titlepage .title {
+    font-family: 'Averia Serif Libre', Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
   }
   div.authorgroup {
     font-size: .8em;
@@ -35,6 +40,12 @@
   }
   div.sidebar p:last-child {
     margin-bottom: 0px;
+  }
+  a {
+    color: #2E64FE;
+  }
+  a:visited {
+    color: #652EFE;
   }
 }
 
