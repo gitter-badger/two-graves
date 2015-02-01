@@ -3,4 +3,10 @@
     max-width: 45em;
     margin: 0px auto;
   }
+ 
+  div.chapter>div.titlepage .title {
+    width: 100%;
+    padding-bottom: .07em;
+    border-bottom: .15em solid #2E64FE;
+  }
 }

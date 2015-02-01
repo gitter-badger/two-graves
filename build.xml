@@ -202,7 +202,7 @@ THE SOFTWARE.
       <arg value="-o" />
       <arg value="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html" />
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
-      <arg file="${lib}/${lib.docbook.stylesheets}/html/docbook.xsl" />
+      <arg file="${lib}/html-single-customizations.xsl" />
       <arg value="html.stylesheet=${src.html.common.cssfile} ${src.html.common.printcssfile} ${src.html.single.cssfile} ${src.html.single.printcssfile}" />
       <arg value="draft.mode=${draft}" />
       <arg value="draft.watermark.image=draft.png" />
