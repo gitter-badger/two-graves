@@ -52,6 +52,34 @@
       </p>
     </xsl:if>
   </xsl:template>
+  
+  <xsl:template name="glossary.titlepage.before.recto">
+    <xsl:variable name="top-anchor">
+      <xsl:call-template name="object.id">
+        <xsl:with-param name="object" select="/*[1]" />
+      </xsl:call-template>
+    </xsl:variable>
+
+    <p class="returntotop">
+      <a href="#{$top-anchor}">
+        <xsl:text>Return to top</xsl:text>
+      </a>
+    </p>
+  </xsl:template>
+  
+  <xsl:template name="appendix.titlepage.before.recto">
+    <xsl:variable name="top-anchor">
+      <xsl:call-template name="object.id">
+        <xsl:with-param name="object" select="/*[1]" />
+      </xsl:call-template>
+    </xsl:variable>
+
+    <p class="returntotop">
+      <a href="#{$top-anchor}">
+        <xsl:text>Return to top</xsl:text>
+      </a>
+    </p>
+  </xsl:template>
 </xsl:stylesheet>
 
 
