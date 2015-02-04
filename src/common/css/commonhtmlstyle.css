@@ -24,6 +24,9 @@
   p.pubdate {
     font-size: .8em;
   }
+  dl {
+    margin: 0px;
+  }
   dl.toc {
     font-size: .8em;
   }
@@ -34,6 +37,8 @@
     padding: .25em;
     border: 1px solid #000000;
     background: #cccccc;
+    margin-top: 1em;
+    margin-bottom: 1em;
   }
   div.sidebar p.title {
     margin-top: 0px;

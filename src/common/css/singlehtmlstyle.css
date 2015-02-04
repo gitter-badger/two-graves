@@ -27,6 +27,20 @@
     font-weight: bold;
     color: #ffffff;
   }
+  @media screen and (min-width: 75em) {
+    div.toc {
+      display: none;
+    }
+    div.book>div.toc {
+      height: 100%;
+      display: block;
+      position: fixed;
+      top: 0px;
+      left: 1em;
+      overflow: auto;
+      max-width: 13em;
+    }
+  }
   @media screen and (min-width: 40em) {
     p.returntotop {
       position: absolute;
@@ -44,15 +58,30 @@
       max-width: 75%;
     }
   }
-}
-
-@media screen and (max-width: 40em) {
-  p.returntotop {
-    width: 100%;
-    text-align: center;
+  @media screen and (max-width: 40em) {
+    div.toc dd {
+      margin-left: 0px;
+    }
+    div.toc dt {
+      line-height: 2em;
+      height: 2em;
+      border-top: 1px solid black;
+      
+    }
+    div.toc dd dd a{
+      text-indent: 1.5em;
+    }
+    div.toc dt a {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+    p.returntotop {
+      width: 100%;
+      text-align: center;
+    }
+    div.part h1.title, div.part h2.title {
+      margin-top: 0px;
+    }
   }
-  div.part h1.title, div.part h2.title {
-    margin-top: 0px;
-  }
-}
 }
