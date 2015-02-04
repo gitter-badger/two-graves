@@ -1,9 +1,10 @@
 <?xml version='1.0'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
-  <xsl:import href="docbook-xsl-ns-1.78.1/html/docbook.xsl" />
+  <xsl:import href="docbook-xsl-ns-1.78.1/xhtml5/docbook.xsl" />
 
   <xsl:template name="system.head.content">
-    <meta name="viewport" content="initial-scale=1" />
+    <meta xmlns="http://www.w3.org/1999/xhtml" charset="UTF-8" />
+    <meta xmlns="http://www.w3.org/1999/xhtml" name="viewport" content="initial-scale=1" />
   </xsl:template>
 
   <xsl:template name="part.titlepage.before.recto">
@@ -13,7 +14,7 @@
       </xsl:call-template>
     </xsl:variable>
 
-    <p class="returntotop">
+    <p xmlns="http://www.w3.org/1999/xhtml" class="returntotop">
       <a href="#{$top-anchor}">
         <xsl:text>Return to top</xsl:text>
       </a>
@@ -27,7 +28,7 @@
       </xsl:call-template>
     </xsl:variable>
 
-    <p class="returntotop">
+    <p xmlns="http://www.w3.org/1999/xhtml" class="returntotop">
       <a href="#{$top-anchor}">
         <xsl:text>Return to part TOC</xsl:text>
       </a>
@@ -45,14 +46,14 @@
         </xsl:call-template>
       </xsl:variable>
 
-      <p class="returntotop">
+      <p xmlns="http://www.w3.org/1999/xhtml" class="returntotop">
         <a href="#{$top-anchor}">
           <xsl:text>Return to chapter TOC</xsl:text>
         </a>
       </p>
     </xsl:if>
   </xsl:template>
-  
+
   <xsl:template name="glossary.titlepage.before.recto">
     <xsl:variable name="top-anchor">
       <xsl:call-template name="object.id">
@@ -60,13 +61,13 @@
       </xsl:call-template>
     </xsl:variable>
 
-    <p class="returntotop">
+    <p xmlns="http://www.w3.org/1999/xhtml" class="returntotop">
       <a href="#{$top-anchor}">
         <xsl:text>Return to top</xsl:text>
       </a>
     </p>
   </xsl:template>
-  
+
   <xsl:template name="appendix.titlepage.before.recto">
     <xsl:variable name="top-anchor">
       <xsl:call-template name="object.id">
@@ -74,7 +75,7 @@
       </xsl:call-template>
     </xsl:variable>
 
-    <p class="returntotop">
+    <p xmlns="http://www.w3.org/1999/xhtml" class="returntotop">
       <a href="#{$top-anchor}">
         <xsl:text>Return to top</xsl:text>
       </a>

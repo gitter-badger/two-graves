@@ -206,6 +206,7 @@ THE SOFTWARE.
       <arg value="html.stylesheet=${src.html.common.cssfile} ${src.html.common.printcssfile} ${src.html.single.cssfile} ${src.html.single.printcssfile}" />
       <arg value="draft.mode=${draft}" />
       <arg value="draft.watermark.image=draft.png" />
+      <arg value="toc.list.type=ul" />
     </java>
 
     <if>
