@@ -42,3 +42,6 @@ THE SOFTWARE.
 <!ENTITY arts_city "Oblectant"><!-- they delight -->
 <!ENTITY market_city "Crent"><!-- they create -->
 <!ENTITY law_city "Regunt"><!-- they rule -->
+<!ENTITY arts_college "Arts College">
+<!ENTITY amphitheater "Dragon's Teeth">
+<!ENTITY mdash "&#x2014;">

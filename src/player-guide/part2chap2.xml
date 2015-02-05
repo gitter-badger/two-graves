@@ -66,12 +66,23 @@ THE SOFTWARE.
       <title>Bards</title>
     </info>
     <para>
-      A bard always has a place in the central cities, even if most do choose to settle in &arts_city;. The
-      musical college and The Dragon's Teeth provide everlasting opportunities for a bard to prove his
-      worth and make a name for himself. In other cities, bards often put on a friendly face as the
-      frontmen for guilds and political organizations. Few bards settle outside of the cities, but the
-      outlying towns always have a need for entertainment, and there are frequently wandering minstrels
-      who pass through.
+      As a cultural capital, &nation_name;&mdash;and in particular the central cities&mdash;holds 
+      performance and entertainment in high esteem and demand. One of the central cities, 
+      &arts_city;, is completely dedicated to the betterment and enjoyment of the arts, and any
+      performer, new or veteran, will find opportunity there. From frenetic street festivals, to
+      the studious halls of &arts_college;, to the crystalline elegance of the &amphitheater; 
+      amphitheater, there is
+      no limit to the passions of &arts_city;'s citizens. This intensity has even
+      produced a saying known throughout the nation: no great performer will forever die so long as 
+      there is music in &arts_city;. 
+    </para>
+    <para>
+      Even outside of &arts_city;, a performer has many opportunities to excel. Politicians, 
+      storeowners, and merchant guilds are all keenly aware of the impact a charismatic face can
+      have on one's audience, and many seek the services of skilled spokesmen. Travelers, far
+      from their homes, find comfort in local song and art even in a land so distant. And a rural
+      life may become grim indeed without wanderers who tell tales or sing songs of grand 
+      excitement and adventure.
     </para>
   </section>
   <section>
