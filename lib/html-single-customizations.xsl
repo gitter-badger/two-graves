@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
-  <xsl:import href="docbook-xsl-ns-1.78.1/xhtml5/docbook.xsl" />
+  <xsl:import href="docbook-xsl-ns-1.78.1/html/docbook.xsl" />
 
   <xsl:template name="system.head.content">
     <meta xmlns="http://www.w3.org/1999/xhtml" charset="UTF-8" />
