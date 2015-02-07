@@ -92,7 +92,7 @@ THE SOFTWARE.
     <para>
       &nation_name; was founded as part of an Abadarian religious crusade, and its roots are still 
       apparent to this day. Although the nation is not strictly aligned with any one deity, its 
-      senate is composed of eighteen representatives from the most influential temples &mdash;be it
+      senate is composed of eighteen representatives from the most influential temples&mdash;be it
       influence through number of worshipers, wealth, or other means. Currently the temples of 
       Abadar, Shelyn, Cayden Cailean, Sarenrae, Pharasma, Iomedae, and Erastil hold senate 
       positions. The temple of Abadar has maintained major power in the city, and from the gilded
@@ -115,11 +115,32 @@ THE SOFTWARE.
       <title>Druids</title>
     </info>
     <para>
-      As a shining example of civilization and urbanization, most druids avoid the central cities and the
-      nation as a whole. However, the rich bounties of the land prove to some druids an insatiable 
-      calling. Many of these druids do not wind up in the central cities, preferring instead to live in
-      outlying towns and villages, but some do come into the more urban areas to provide guidance or
-      ritualistic help for government endeavors which involve the land.
+      The bounteous lands of the valley of &valley_name; are full of marvelous phenonmena and natural
+      resources, and there is great need for those who would steward those resources correctly. 
+      As a result, the druidic population of &nation_name; is not just composed of local druids, but
+      also of those who have traveled long distances to experience the wonders of the valley. In
+      particular, the nation has a considerable influx of druids from &forest_nation; even those of
+      the reclusive &beast_tribes;. Once in the country, druids tend to pursue their own
+      goals as wanderers, members of a druidic micro-community, or even as members of larger 
+      organizations for&mdash;or perhaps against&mdash;the government.
+    </para>
+    <para>
+      The druidic micro-communities are groups of druids that tend to gather together at sites of
+      particular spiritual significance. There, they tend to flora and fauna of the area and ensure
+      that the site is preserved against any who would do it harm. The &falls_druids; are especially 
+      well known to locals and tourists for their protection of the &falls; area, and are perhaps 
+      more famous than the druids would like.
+    </para>
+    <para>
+      Druids that are members of larger organizations tend to work with a temple or the government.
+      There they perform local functions such as ensuring that the harbors and rivers are 
+      maintained, and giving advance warning for weather. They may also act as members of 
+      committees that perform environmental advisories and studies for government projects. Not all
+      organizations are so friendly towards the smooth operation of local and national government,
+      however. One particularly infamous group, known as &bad_druids;, are publicly a pro-nature
+      lobbying group, but are widely known to perform anti-civilization acts such as magically
+      weakening the foundations of buildings, defacing directories and road signs, and planting 
+      trees in non-designated zones.
     </para>
   </section>
   <section>
