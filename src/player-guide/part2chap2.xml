@@ -71,10 +71,9 @@ THE SOFTWARE.
       &arts_city;, is completely dedicated to the betterment and enjoyment of the arts, and any
       performer, new or veteran, will find opportunity there. From frenetic street festivals, to
       the studious halls of &arts_college;, to the crystalline elegance of the &amphitheater; 
-      amphitheater, there is
-      no limit to the passions of &arts_city;'s citizens. This intensity has even
-      produced a saying known throughout the nation: no great performer will forever die so long as 
-      there is music in &arts_city;. 
+      amphitheater, there is no limit to the passions of &arts_city;'s citizens. This intensity has 
+      even produced a saying known throughout the nation: no great performer will forever die so 
+      long as there is music in &arts_city;. 
     </para>
     <para>
       Even outside of &arts_city;, a performer has many opportunities to excel. Politicians, 
@@ -148,9 +147,17 @@ THE SOFTWARE.
       <title>Fighters</title>
     </info>
     <para>
-      Whether as bodyguards or members of the national police force, a good fighter is always in need
-      wherever he may be. There is no true military force in the nation, so very few fighters are proper
-      soldiers.
+      Martial prowess is a much sought after skill in &nation_name; and those who are gifted will
+      find many opportunities to display their strengths. Although there is no formal army, the
+      &police; is always looking for those of sharp mind and strong arm to help keep the 
+      peace. Because of their limited manpower, the police have learned to fight smart, and they
+      employ a wide range of skilled combat researchers and engineers to develop new tactics and
+      equipment. Fighters looking to earn more than the govnerment is willing to pay might prefer
+      to take on the role of bodyguard or strongman for a wealthy noble or shopowner. Others still
+      may prefer to take a riskier path and bring their feats to the stage as combat performers
+      &mdash;masquerading their deadly arts as performance pieces. Outside of the central cities, 
+      those skilled in combat and with good knowledge of the land excel as hunters or guards for 
+      villages and trade caravans. 
     </para>
   </section>
   <section>
@@ -158,10 +165,16 @@ THE SOFTWARE.
       <title>Monks</title>
     </info>
     <para>
-      Monks seeking purification and enlightenment through order and community may find themselves at home
-      in the central cities. However, there are no official monk sects who call this nation their home.
-      Despite this, martial prowess and spiritual leadership are valued traits both inside and outside
-      the central cities, and a monk will not find themselves without employment for long.
+      Monks seeking purification and enlightenment through order and community may find themselves 
+      at home in the central cities. There they have the opportunity to participate as good 
+      samaritans via public works. There is only one official monk sect in the nation, the 
+      &monk_sect;. They are a sect sworn to poverty and truth. In addition to the good works they 
+      do for the communities around the country, they also act as a counter-lobby to the economic 
+      elite of &nation_name;. Although there is only one official sect, many of the librarians in
+      &library; are monks who worship Irori. Regardless of affiliation, martial skill and spiritual 
+      leadership are valued traits all around the nation. Whether as enforcers for the &police;,
+      covert bodyguards, performers, or guides for those who wander from the path to enlightenment,
+      a monk will not find herself without a purpose for long.
     </para>
   </section>
   <section>
