@@ -38,7 +38,7 @@ THE SOFTWARE.
     <para>
       The civilized and well-kept lands of &nation_name; are inhospitable to barbarian tribes. 
       Barbarism and brutishness are frowned upon universally across the country, and
-      many barbarians will find it a challenge to be welcomed or to fit in. As there are no
+      many barbarians would find it a challenge to be welcomed or to fit in. As there are no
       naturally occurring tribes in the valley, most barbarians trace their origins elsewhere on the
       continent. In particular, they thrive in the blazing sands of &desert_kingdom; and
       in the gladiatorial pits of &cliffs_nation;. 
@@ -206,7 +206,22 @@ THE SOFTWARE.
       <title>Rangers</title>
     </info>
     <para>
-      
+      Although the valley of &valley_name; is relatively small and geographially isolated, much of
+      its lands have yet to be tamed and its mines have yet to be fully charted. The wilds can be 
+      dangerous, and as the people of &nation_name; forge ever outwards and downwards they are in
+      need of those who can provide guidance through the unknown perils. Explorers and hunters ply
+      the forests and mountains for quarry of bear, wolves, mountain lions, or perhaps an
+      Aurumvorax caught feasting on a surface ore vein. The brave or foolhardy willing to 
+      delve deep into the caverns below the nation on behalf mining operations may find foes 
+      stranger still, but great bounty awaits those who fulfull their duties successfully. 
+    </para>
+    <para>
+      In the parts of the country fresh with civilization, seasoned woodsmen and outland police 
+      patrols protect fledgling villages and secure survival from season to season. And in the 
+      heart of the country, those with connections to the wilds can deal in lucrative exotic pelts, 
+      trophies, and other goods. For those who do not wish to exploit their talents for profit from 
+      slaughter, there are many men, women, and children who will pay handsomly to see talented 
+      animals and their trainers perform in &arts_city;.
     </para>
   </section>
   <section>
