@@ -84,29 +84,9 @@ THE SOFTWARE.
   </target>
 
   <target name="cleanlibs" description="Remove all lib files that can be safely re-downloaded">
-    <delete dir="${lib}/${lib.docbook}" />
-    <delete file="${lib}/${lib.docbook.zip}" />
-    <delete dir="${lib}/${lib.docbook.stylesheets}" />
-    <delete file="${lib}/${lib.docbook.stylesheets.zip}" />
-    <delete dir="${lib}/${lib.jing}" />
-    <delete file="${lib}/${lib.jing.zip}" />
-    <delete dir="${lib}/${lib.fop}" />
-    <delete file="${lib}/${lib.fop.zip}" />
   </target>
 
   <target name="getlibs" description="Retrieve all necessary lib files for building">
-    <mkdir dir="${lib}" />
-
-    <get dest="${lib}/" src="${lib.jing.zip.url}" skipexisting="true" />
-    <unzip dest="${lib}/" src="${lib}/${lib.jing.zip}" overwrite="false" />
-    <get dest="${lib}/" src="${lib.docbook.zip.url}" skipexisting="true" />
-    <unzip dest="${lib}/" src="${lib}/${lib.docbook.zip}" overwrite="false" />
-    <get dest="${lib}/${lib.docbook.stylesheets.zip}"
-         src="${lib.docbook.stylesheets.zip.url}"
-         skipexisting="true" />
-    <unzip dest="${lib}/" src="${lib}/${lib.docbook.stylesheets.zip}" overwrite="false" />
-    <get dest="${lib}/" src="${lib.fop.zip.url}" skipexisting="true" />
-    <unzip dest="${lib}/" src="${lib}/${lib.fop.zip}" overwrite="false" />
     <chmod perm="u+x" file="${lib}/${lib.fop}/fop" />
   </target>
 

@@ -1,11 +1,6 @@
 .*lock*
 .idea
 .project
-lib/jing*
-lib/docbook*
-lib/fop*
-lib/xerces*
-lib/Xerces*
 output
 docbook.xsd
 ~*
