@@ -153,11 +153,11 @@ THE SOFTWARE.
       peace. Because of their limited manpower, the police have learned to fight smart, and they
       employ a wide range of skilled combat researchers and engineers to develop new tactics and
       equipment. Fighters looking to earn more than the govnerment is willing to pay might prefer
-      to take on the role of bodyguard or strongman for a wealthy noble or shopowner. Others still
+      to take on the role of bodyguard or strongman for a wealthy noble or shop owner. Others still
       may prefer to take a riskier path and bring their feats to the stage as combat performers
-      &mdash;masquerading their deadly arts as performance pieces. Outside of the central cities, 
-      those skilled in combat and with good knowledge of the land excel as hunters or guards for 
-      villages and trade caravans. 
+      &mdash;masquerading their deadly arts as performance pieces or sport in the &stadium; in
+      &arts_city;. Outside of the central cities, those skilled in combat and with good knowledge 
+      of the land excel as hunters or guards for villages and trade caravans. 
     </para>
   </section>
   <section>
@@ -250,11 +250,21 @@ THE SOFTWARE.
       <title>Sorcerers</title>
     </info>
     <para>
-      Sorcerers may not benefit from the vast libraries and universities of the nation, but they may still
-      enjoy its wild atmospheres and the opportunities provided here. Sorcerers with the skill for panache and
-      performance may find themselves drawn to &arts_city;, while those who wish to put their magical 
-      abilities to use to further their own wealth or careers may find &law_city; or &market_city; more to their 
-      liking.
+      Opportunities of all kinds can appear unexpectedly in &nation_name;, and a sorcerer's 
+      innate ability to instanly access the full wealth of her magical strengths is an invaluable 
+      tool for responding to sudden windfalls. In the bustling central cities, sorcerers
+      are valued as enchanters in crafting workshops, but they are especially valued in &arts_city;. 
+      There, the constantly changing environment of festivals and performances often demands
+      immediate response to crazy schemes and outlandish requests. A company of sorcerers known as 
+      &fireworks_co; has specialized in this field, and keeps a sizable retinue of magical adepts on
+      retainer for hire by performers in need. 
+    </para>
+    <para>
+      A sorcerer's natural force of personality also benefits those who choose to employ their 
+      powers to further some goal beyond wealth and entertainment. Many sorcerers of celestial and
+      infernal bloodlines take leadership positions both in local government and mercantile 
+      operations, where they excel in bringing allies and adversaries under their sway. Others still
+      choose to unleash the full extent of their potential as members of the &police;.
     </para>
   </section>
   <section>
@@ -263,9 +273,19 @@ THE SOFTWARE.
     </info>
     <para>
       The vast libraries and combined cultural knowledge of the central cities are a great resource to
-      many wizards, and none will struggle to find employment here. Whether as part of a merchant's 
-      retinue, as an appraiser of magical goods, or a craftsman in his own right, magical talent is always
-      useful in the nation.
+      many wizards, and none will struggle to find employment here. The government of &nation_name;
+      employs a huge number of wizards in the &customs_dept;, where they research and approve requests for 
+      transit using the country's magical gates. This approval process also involves the charging of 
+      keys for the gates and their tranmission to the proper recipients. In exchange for their
+      services and loyalties, the &customs_dept; funds research grants for these wizards and also 
+      provides shelter and workspaces.
+    </para>
+    <para>
+      Craftsman also value skilled wizards, and many vie to employ the best in their 
+      workshops. For those who cannot afford a full time enchanter, supply shops offer the end 
+      results of the creative process. &magic_supply; is a particularly well known name in 
+      &market_city;, and they employ skilled enchanters to fulfill bulk and custom requests for 
+      their clients.
     </para>
   </section>
 </chapter>
