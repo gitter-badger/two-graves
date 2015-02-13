@@ -84,15 +84,18 @@ THE SOFTWARE.
       <para>
         You may choose one of the following trait bonuses:
       </para>
-      <para>
-        You receive a +2 trait bonus to Perception checks made to keep watch.
-      </para>
-      <para>
-        or
-      </para>
-      <para>
-        Add Abyssal (cannot speak) and Gnollish to your list of languages.
-      </para>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>
+            You receive a +2 trait bonus to Perception checks made to keep watch.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Add Abyssal (cannot speak) and Gnollish to your list of languages.
+          </para>
+        </listitem>
+      </itemizedlist>
     </section>
     <section>
       <title>Shadows of the Past</title>
@@ -108,18 +111,21 @@ THE SOFTWARE.
       <para>
         You may choose one of the following trait bonuses:
       </para>
-      <para>
-        You receive a+1 trait bonus to all saving throws against fear spells and effects when an 
-        ally within 30 feet is threatened.
-      </para>
-      <para>
-        or
-      </para>
-      <para>
-        Pick one of the following skills: Knowledge (local), Diplomacy, Intimidate, Disguise, or
-        Sense Motive. You receive a +1 trait bonus to that skill, and that skill is considered a 
-        class skill for you.
-      </para>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>
+            You receive a+1 trait bonus to all saving throws against fear spells and effects when an 
+            ally within 30 feet is threatened.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Pick one of the following skills: Knowledge (local), Diplomacy, Intimidate, Disguise, or
+            Sense Motive. You receive a +1 trait bonus to that skill, and that skill is considered a 
+            class skill for you.
+          </para>
+        </listitem>
+      </itemizedlist>
     </section>
     <section>
       <title>Driven Out of Business</title>
@@ -134,17 +140,23 @@ THE SOFTWARE.
         your fortune, but you haven't found any way to prove it yet.
       </para>
       <para>
-        Pick one of the following skills: Bluff, Disable Device, Linguistics, Sense Motive, or
-        Sleight of Hand. You receive a +1 trait bonus to that skill, and that skill is considered 
-        a class skill for you.
+        You may choose one of the following trait bonuses:
       </para>
-      <para>
-        or
-      </para>
-      <para>
-        Pick either charms or compulsions. You receive a +1 trait bonus to all saving throws against 
-        spells and effects of that type while you and your allies are not in combat.
-      </para>
+      <itemizedlist spacing="compact">
+        <listitem>
+          <para>
+            Pick either charms or compulsions. You receive a +1 trait bonus to all saving throws against 
+            spells and effects of that type while you and your allies are not in combat.
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Pick one of the following skills: Bluff, Disable Device, Linguistics, Sense Motive, or
+            Sleight of Hand. You receive a +1 trait bonus to that skill, and that skill is considered 
+            a class skill for you.
+          </para>
+        </listitem>
+      </itemizedlist>
     </section>
   </section>
 </chapter>
