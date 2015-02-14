@@ -33,7 +33,23 @@ THE SOFTWARE.
   </info>
   <partintro>
     <para>
-      A brief history of the nation.
+      Here you will find information about &nation_name; and its major settlments that any 
+      individual who lives in or has briefly researched the nation would know. Feel free to use 
+      these sections to help build your characters and integrate them into the world. 
+    </para>
+    <para>
+      The nation of &nation_name; was founded roughly 450 years ago when crusaders from a temple of
+      Abadar in &meadows_nation; embarked on a mission to colonize the region. They swore a 
+      holy oath that the new nation would be an exemplar of civilation and glory for centuries to 
+      come. At that moment, they founded the &crusade_org; and dedicated themselves to the cause of
+      sharing this glory with the world. To that end, they established a means of constructing and
+      linking &portals;&mdash;magical gates which can be used to travel to and from &nation_name;.
+      Immigrants to the new nation were slow to come at first, but they did arrive. And as they 
+      arrived, they founded successful new lives in the bountiful valley of &valley_name;. Word 
+      spread, and the population of &nation_name; grew exponentially as people from all over the 
+      continent came to investigate this new wonder and found their expectations exceeded. It was 
+      not long before the fledling nation became the hub of luxury, trade, and travel that it is 
+      today.
     </para>
   </partintro>
   <chapter>
