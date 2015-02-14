@@ -33,6 +33,15 @@ THE SOFTWARE.
 
   <!-- BEGIN ADDITIONAL LIBRARIES AND CLASSPATH DEFINITIONS -->
 
+  <path id="xslt2.classpath">
+    <fileset dir="${lib}/${lib.tools}">
+      <include name="*.jar" />
+    </fileset>
+    <fileset dir="${lib}/${lib.jing}/bin">
+      <include name="*.jar" />
+    </fileset>
+  </path>
+
   <path id="validation.classpath">
     <fileset dir="${lib}/${lib.jing}">
       <include name="bin/*.jar" />
@@ -72,10 +81,15 @@ THE SOFTWARE.
   </target>
 
   <target name="cleanlibs" description="Remove all lib files that can be safely re-downloaded">
+    <delete dir="${lib}/${lib.xslt2stylesheets}" />
+    <delete file="${lib}/${lib.xslt2stylesheets.zip}" />
+
   </target>
 
   <target name="getlibs" description="Retrieve all necessary lib files for building">
     <mkdir dir="${lib}" />
+    <get dest="${lib}/" src="${lib.xslt2stylesheets.url}" skipexisting="true" />
+    <unzip dest="${lib}/" src="${lib}/${lib.xslt2stylesheets.zip}" overwrite="false" />
   </target>
 
   <!-- END PUBLIC TARGETS -->
@@ -92,21 +106,20 @@ THE SOFTWARE.
   <target name="-build-one.html.single">
     <mkdir dir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
 
-    <xslt classpathref="lib.xslt.classpath.new"
-          in="${src}/${toplevelBookName}/${toplevelBookName}.xml"
-          out="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html"
-          style="PATHTOFINALPASSXSLT">
-      <factory name="net.sf.saxon.TransformerFactoryImpl" />
+
+    <java classpathref="xslt2.classpath" fork="true" classname="com.xmlcalabash.drivers.Main">
       <sysproperty key="javax.xml.parsers.SAXParserFactory"
                    value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
       <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
                    value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
-      <param name="html.stylesheet"
-             expression="${src.html.common.cssfile} ${src.html.common.printcssfile} ${src.html.single.cssfile} ${src.html.single.printcssfile}" />
-      <param name="draft.mode" expression="${draft}" />
-      <param name="draft.watermark.image" expression="draft.png" />
-      <param name="toc.list.type" expression="ul" />
-    </xslt>
+      <arg value="-oresult=${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html" />
+      <arg value="-isource=${src}/${toplevelBookName}/${toplevelBookName}.xml" />
+      <arg value="-pgenerate.meta.generator=0" />
+      <arg value="-presource.root=http://docbook.github.com/latest/" />
+      <arg value="-pdraft.mode=${draft}" />
+      <arg value="-pdraft.watermark.image=draft.png" />
+      <arg value="${lib}/${lib.xslt2stylesheets}/xslt/base/pipelines/docbook.xpl" />
+    </java>
 
     <if>
       <equals arg1="yes" arg2="${draft}" />
