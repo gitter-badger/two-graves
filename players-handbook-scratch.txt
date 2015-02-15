@@ -413,4 +413,32 @@ Nation Fluff Section
   b. Life in the city
   c. Places of interest in the city
   d. Important city government officials
+
   
+Details
+-------
+
+General national sections:
+  urban, rural, frontier
+
+buildings
+  urban: cut stone and wood, mostly stone
+  rural: more wood, cobblestone
+  frontier: lots of wood, some cobblestone
+
+climate and seasons
+  in a valley. elevation increases as you get towards the mountains. longer winters, spring 
+  flooding. more temperate towards the low points of the valley.
+
+streets and transportation
+  intra-city: well-kept major thoroughfares, in this order of upkeep: regunt, crent, oblectant. all 
+         streets are cobbled, even back alleys
+  inter-city: not cobbled, but well maintained cleared paths with bridges and crew. good signs and
+              road markers. very safe
+  other: determined by population and distance from urban centers. although roads might not be of
+         best quality, markers and roadsigns are maintained and updated
+
+sewage:
+  cities have it, good sewage systems. empties into either purifier system before lake/river
+  towns have more remedial sewage systems with no purifier
+  villages dont have dedicated sewage systems
