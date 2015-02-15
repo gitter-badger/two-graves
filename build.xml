@@ -127,9 +127,11 @@ THE SOFTWARE.
       <arg value="-isource=${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg value="-pgenerate.meta.generator=0" />
       <arg value="-presource.root=https://docbook.github.com/latest/" />
+      <arg value="-pdocbook.css="/>
       <arg value="-pdraft.mode=${draft}" />
       <arg value="-pdraft.watermark.image=draft.png" />
       <arg value="${lib}/${lib.xslt2stylesheets}/xslt/base/pipelines/docbook.xpl" />
+      <arg value="syntax-highlighter=0" />
     </java>
 
     <if>
