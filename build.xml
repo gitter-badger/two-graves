@@ -40,7 +40,7 @@ THE SOFTWARE.
     <pathelement location="${lib}/${lib.tools}" />
   </path>
 
-  <path id="validation.classpath">
+  <path id="xslt1.classpath">
     <fileset dir="${lib}/${lib.jing}/bin/">
       <include name="*.jar" />
     </fileset>
@@ -60,12 +60,20 @@ THE SOFTWARE.
 
   <target name="build.all"
           description="Create all available output formats"
-          depends="clean,validate,-do-build.html.single" />
+          depends="clean,validate,-do-build.html.single,-do-build.pdf,-do-build.epub" />
+
+  <target name="build.epub" description="Create EPUB output" depends="-clean.epub,validate">
+    <antcall target="-do-build.epub" />
+  </target>
 
   <target name="build.html.single"
           description="Create HTML output in a single file"
           depends="-clean.html.single,validate">
     <antcall target="-do-build.html.single" />
+  </target>
+
+  <target name="build.pdf" description="Create PDF output" depends="-clean.pdf,validate">
+    <antcall target="-do-build.pdf" />
   </target>
 
   <target name="validate"
@@ -85,6 +93,7 @@ THE SOFTWARE.
   </target>
 
   <target name="getlibs" description="Retrieve all necessary lib files for building">
+    <chmod perm="u+x" file="${lib}/${lib.fop}/fop" />
     <mkdir dir="${lib}" />
     <get dest="${lib}/" src="${lib.xslt2stylesheets.url}" skipexisting="true" />
     <unzip dest="${lib}/" src="${lib}/${lib.xslt2stylesheets.zip}" overwrite="false" />
@@ -147,6 +156,111 @@ THE SOFTWARE.
     <delete dir="${outputdir}/${outputdir.html}/${outputdir.html.single}/" />
   </target>
 
+  <!-- PDF -->
+  <target name="-do-build.pdf">
+    <foreach target="-build-one.pdf" param="toplevelBookName" list="${src.toplevel-books}" />
+  </target>
+  <target name="-build-one.pdf">
+    <mkdir dir="${outputdir}/${outputdir.fo}" />
+    <mkdir dir="${outputdir}/${outputdir.pdf}" />
+    <mkdir dir="${outputdir}/${outputdir.fo}/${toplevelBookName}" />
+    <mkdir dir="${outputdir}/${outputdir.pdf}/${toplevelBookName}" />
+
+    <java classpathref="xslt1.classpath"
+          fork="true"
+          failonerror="true"
+          classname="com.icl.saxon.StyleSheet">
+      <sysproperty key="javax.xml.parsers.SAXParserFactory"
+                   value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
+      <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
+                   value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <arg value="-o" />
+      <arg value="${outputdir}/${outputdir.fo}/${toplevelBookName}/${toplevelBookName}.fo" />
+      <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
+      <arg file="${lib}/fo-customizations.xsl" />
+      <arg value="toc.indent.width=16" />
+      <arg value="fop1.extensions=1" />
+      <arg value="use.svg=1" />
+      <arg value="email.delimiters.enabled=0" />
+      <arg value="email.mailto.enabled=1" />
+      <arg value="hyphenate=true" />
+      <arg value="column.count.body=2" />
+      <arg value="body.start.indent=0pt" />
+      <arg value="draft.mode=${draft}" />
+      <arg value="draft.watermark.image=draft.png" />
+    </java>
+
+    <if>
+      <equals arg1="yes" arg2="${draft}" />
+      <then>
+        <copy file="${lib}/${lib.docbook.stylesheets}/images/draft.png"
+              todir="${outputdir}/${outputdir.fo}/${toplevelBookName}" />
+      </then>
+    </if>
+
+    <if>
+      <os family="windows" />
+      <then>
+        <exec resolveexecutable="true" executable="${lib}/${lib.fop}/fop.cmd">
+          <arg value="-fo" />
+          <arg value="${outputdir}/${outputdir.fo}/${toplevelBookName}/${toplevelBookName}.fo" />
+          <arg value="-pdf" />
+          <arg value="${outputdir}/${outputdir.pdf}/${toplevelBookName}/${toplevelBookName}.pdf" />
+        </exec>
+      </then>
+      <else>
+        <exec resolveexecutable="true" executable="${lib}/${lib.fop}/fop">
+          <arg value="-fo" />
+          <arg value="${outputdir}/${outputdir.fo}/${toplevelBookName}/${toplevelBookName}.fo" />
+          <arg value="-pdf" />
+          <arg value="${outputdir}/${outputdir.pdf}/${toplevelBookName}/${toplevelBookName}.pdf" />
+        </exec>
+      </else>
+    </if>
+  </target>
+  <target name="-clean.pdf">
+    <delete dir="${outputdir}/${outputdir.fo}/" />
+    <delete dir="${outputdir}/${outputdir.pdf}/" />
+  </target>
+
+  <!-- EPUB -->
+  <target name="-do-build.epub">
+    <foreach target="-build-one.epub" param="toplevelBookName" list="${src.toplevel-books}" />
+  </target>
+  <target name="-build-one.epub">
+    <mkdir dir="${outputdir}/${outputdir.epub}/${toplevelBookName}" />
+
+    <java classpathref="xslt1.classpath"
+          fork="true"
+          failonerror="true"
+          classname="com.icl.saxon.StyleSheet">
+      <sysproperty key="javax.xml.parsers.SAXParserFactory"
+                   value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
+      <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
+                   value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
+      <arg file="${lib}/${lib.docbook.stylesheets}/epub3/chunk.xsl" />
+      <arg value="base.dir=${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
+      <arg value="draft.mode=${draft}" />
+      <arg value="draft.watermark.image=draft.png" />
+    </java>
+
+    <if>
+      <equals arg1="yes" arg2="${draft}" />
+      <then>
+        <copy file="${lib}/${lib.docbook.stylesheets}/images/draft.png"
+              todir="${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
+      </then>
+    </if>
+
+    <zip basedir="${outputdir}/${outputdir.epub}/${toplevelBookName}/"
+         destfile="${outputdir}/${outputdir.epub}/${toplevelBookName}/${toplevelBookName}.epub"
+         compress="true" />
+  </target>
+  <target name="-clean.epub">
+    <delete dir="${outputdir}/${outputdir.epub}/" />
+  </target>
+
   <!-- VALIDATION -->
   <target name="-do-validate">
     <antcall target="createschematronvalidationsheet" />
@@ -156,9 +270,7 @@ THE SOFTWARE.
   <target name="createschematronvalidationsheet">
     <mkdir dir="${outputdir}/${outputdir.validation}" />
 
-    <java classpathref="validation.classpath"
-          failonerror="true"
-          classname="com.icl.saxon.StyleSheet">
+    <java classpathref="xslt1.classpath" failonerror="true" classname="com.icl.saxon.StyleSheet">
       <sysproperty key="javax.xml.parsers.SAXParserFactory"
                    value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
       <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
@@ -173,7 +285,7 @@ THE SOFTWARE.
   <target name="-validate-one">
     <mkdir dir="${outputdir}/${outputdir.validation}" />
 
-    <java classpathref="validation.classpath"
+    <java classpathref="xslt1.classpath"
           fork="true"
           failonerror="true"
           classname="com.thaiopensource.relaxng.util.Driver">
@@ -187,9 +299,7 @@ THE SOFTWARE.
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
     </java>
 
-    <java classpathref="validation.classpath"
-          failonerror="true"
-          classname="com.icl.saxon.StyleSheet">
+    <java classpathref="xslt1.classpath" failonerror="true" classname="com.icl.saxon.StyleSheet">
       <sysproperty key="javax.xml.parsers.SAXParserFactory"
                    value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
       <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
