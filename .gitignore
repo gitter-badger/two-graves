@@ -3,5 +3,9 @@
 .project
 output
 docbook.xsd
+lib/*.zip
+lib/docbook-*-rwdalpe
+fontconfig
+*.xpr
 ~*
 *~
