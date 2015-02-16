@@ -22,7 +22,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
-<project name="barblich-module" basedir="." xmlns:c="antlib:com.xmlcalabash">
+<project name="barblich-module" basedir=".">
   <!-- BEGIN PROPERTY DEFINITIONS -->
 
   <property file="build.properties" />
@@ -37,14 +37,15 @@ THE SOFTWARE.
     <fileset dir="${lib}/${lib.tools}">
       <include name="*.jar" />
     </fileset>
-    <fileset dir="${lib}/${lib.jing}/bin">
+    <fileset dir="${lib}/${lib.jing}/bin/">
       <include name="*.jar" />
     </fileset>
+    <pathelement location="${lib}/${lib.tools}" />
   </path>
 
   <path id="validation.classpath">
-    <fileset dir="${lib}/${lib.jing}">
-      <include name="bin/*.jar" />
+    <fileset dir="${lib}/${lib.jing}/bin/">
+      <include name="*.jar" />
     </fileset>
   </path>
 
@@ -53,10 +54,6 @@ THE SOFTWARE.
       <pathelement location="${lib}/${lib.ant-contrib}/${lib.ant-contrib.jar}" />
     </classpath>
   </taskdef>
-
-  <typedef uri="antlib:com.xmlcalabash"
-           resource="com/xmlcalabash/antlib.xml"
-           classpath="${lib}/${lib.tools}/calabash.jar" />
 
   <!-- END ADDITIONAL LIBRARIES AND CLASSPATH DEFINITIONS -->
 
@@ -110,26 +107,15 @@ THE SOFTWARE.
   <target name="-build-one.html.single">
     <mkdir dir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
 
-    <!--<c:calabash in="${src}/${toplevelBookName}/${toplevelBookName}.xml"
-                out="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html"
-                pipeline="${lib}/${lib.xslt2stylesheets}/xslt/base/pipelines/docbook.xpl">
-      <classpath refid="xslt2.classpath" />
-      <parameter port="parameters" name="draft.mode" value="${draft}" />
-      <parameter port="parameters" name="draft.watermark.image" value="draft.png" />
-    </c:calabash>-->
-
     <java classpathref="xslt2.classpath" fork="true" classname="com.xmlcalabash.drivers.Main">
-      <sysproperty key="javax.xml.parsers.SAXParserFactory"
-                   value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
-      <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
-                   value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
       <arg value="-oresult=${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html" />
       <arg value="-isource=${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg value="-pgenerate.meta.generator=0" />
       <arg value="-presource.root=https://docbook.github.com/latest/" />
-      <arg value="-pdocbook.css="/>
+      <arg value="-pdocbook.css=" />
       <arg value="-pdraft.mode=${draft}" />
       <arg value="-pdraft.watermark.image=draft.png" />
+      <arg value="-phtml.stylesheets=commonhtmlstyle.css commonhtmlstyle-print.css singlehtmlstyle.css singlehtmlstyle-print.css" />
       <arg value="${lib}/${lib.xslt2stylesheets}/xslt/base/pipelines/docbook.xpl" />
       <arg value="syntax-highlighter=0" />
     </java>
