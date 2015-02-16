@@ -4,6 +4,7 @@
 output
 docbook.xsd
 lib/*.zip
+lib/**/*.zip
 lib/docbook-*-rwdalpe
 fontconfig
 *.xpr
