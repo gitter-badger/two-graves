@@ -1,14 +1,28 @@
 @media screen {
-  div.book {
+  .slicknav_menu {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    min-height: 1.625em;
+    max-height: 60%;
+    overflow-y: auto;
+  }
+  .slicknav_btn {
+    position: fixed;
+    top: 0px;
+    right: 5px;
+  }
+  article.book {
     max-width: 45em;
     margin: 0px auto;
   }
-  div.chapter>div.titlepage>div:first-child {
+  article.chapter>header.chapter-titlepage {
     border-bottom: .15em solid #2E64FE;
   }
-  div.chapter>div.titlepage .title {
+  article.chapter>header.chapter-titlepage>*:first-child {
     width: 100%;
-    padding-bottom: .07em;
+    padding-bottom: .1em;
     margin-bottom: 0px;
   }
   p.returntotop {
@@ -27,11 +41,13 @@
     font-weight: bold;
     color: #ffffff;
   }
-  @media screen and (min-width: 75em) {
-    div.toc {
+  @media screen and (min-width: 75em) { /*div.toc {
       display: none;
     }
-    div.book>div.toc {
+    ul.toc li a {
+      white-space: nowrap;
+    }
+    article.book>div.toc {
       height: 100%;
       display: block;
       position: fixed;
@@ -39,7 +55,7 @@
       left: 1em;
       overflow: auto;
       max-width: 13em;
-    }
+    }*/
   }
   @media screen and (min-width: 40em) {
     p.returntotop {
@@ -66,9 +82,8 @@
       line-height: 2em;
       height: 2em;
       border-top: 1px solid black;
-      
     }
-    div.toc dd dd a{
+    div.toc dd dd a {
       text-indent: 1.5em;
     }
     div.toc dt a {

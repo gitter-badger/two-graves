@@ -5,7 +5,17 @@
   html {
     font-family: Helvetica, Arial, sans-serif;
   }
-  div.titlepage .title {
+  body {
+    margin: 0px;
+  }
+  /* Firefox default stylesheet does stupid stuff to nested article/section h1 */
+  header.book-titlepage > h1, header.part-titlepage > h1 {
+    font-size: 2em;
+  }
+  header.part-titlepage > h1 {
+    margin: .5em 0px;
+  }
+  header > h1, header > h2, header > h3, header > h4, header > h5, header > h6 {
     font-family: 'Averia Serif Libre', Helvetica, Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -24,14 +34,13 @@
   p.pubdate {
     font-size: .8em;
   }
-  dl {
-    margin: 0px;
-  }
-  dl.toc {
+  div.toc > ul.toc {
     font-size: .8em;
+    padding-right: .2em;
   }
-  dl.toc dd {
-    margin-left: 1.2em;
+  div.toc ul.toc {
+    list-style-type: none;
+    padding-left: 1.2em;
   }
   div.sidebar {
     padding: .25em;
