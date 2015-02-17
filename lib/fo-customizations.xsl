@@ -4,6 +4,10 @@
 
 <xsl:import href="docbook-xsl-ns-1.78.1/fo/docbook.xsl"/>
 
+<xsl:param name="generate.toc">
+  book toc,title
+</xsl:param>
+
 <xsl:attribute-set name="component.titlepage.properties">
   <xsl:attribute name="span">all</xsl:attribute>
   <xsl:attribute name="padding-bottom">1em</xsl:attribute>

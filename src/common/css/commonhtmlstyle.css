@@ -8,12 +8,11 @@
   body {
     margin: 0px;
   }
-  /* Firefox default stylesheet does stupid stuff to nested article/section h1 */
-  header.book-titlepage > h1, header.part-titlepage > h1 {
+  header.book-titlepage > h1 {
     font-size: 2em;
   }
-  header.part-titlepage > h1 {
-    margin: .5em 0px;
+  header.chapter-titlepage > h2 {
+    font-size: 1.75em;
   }
   header > h1, header > h2, header > h3, header > h4, header > h5, header > h6 {
     font-family: 'Averia Serif Libre', Helvetica, Arial, sans-serif;
