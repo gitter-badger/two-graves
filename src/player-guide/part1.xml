@@ -56,7 +56,41 @@ THE SOFTWARE.
     <info>
       <title>Modern Life in &nation_name;</title>
     </info>
-    <para/>
+    <para>
+      Life as it is in &nation_name; today is informed by many factors, but
+      perhaps the most important is its location and geography. &nation_name; sits in the valley of 
+      &valley_name;, which is a geographically isolated valley surrounded by the &mountain_range;
+      to the north, and &rift; to the south. Only a small mountain pass directly connects the valley
+      with its one true neighbor, the desert nation of &desert_kingdom;. The Dwarven strongholds of
+      &mountains_nation; and the forests of &forests_nation; are both thoroughly disconnected from
+      the valley by the immense &mountain_range;. This isolation, while making it difficult to
+      physically travel to the valley, is an invaluable defensive asset and has played a great role
+      in allowing &nation_name; to focus on economic and political development over military 
+      development.
+    </para>
+    <para>
+      In addition to its strategic positioning, the valley of &valley_name; is abundant with both 
+      arable land and rich mineral resources. The majority of its landscape is low, rolling hills 
+      which rapidly ascend in height as they near the feet of the surrounding moutains. In contrast to
+      the temperate, farmable lands in the valley's interior, these outlying areas have much longer,
+      harsher winters and experience intense flooding in the spring as snow-melt descends from the
+      peaks. From the summits, several rivers cut through the mountains and into the valley below,
+      eventually emptying into &valley_lake;. 
+    </para>
+    <para>
+      Today, &nation_name; is still expanding to use the land available to it. Small towns and 
+      villages form networks of established communities around the busy and well-developed urban
+      centers of the nation, eventually trickling off into sparse frontier towns. 
+      
+      
+      Life in these
+      frontier towns is dedicated first and foremost to survival, and settlers must contend
+      with limited infrastructure and protection from the wilds. For some, an early claim on
+      undeveloped resources is worth the risk, but most new settlers prefer to establish themselves
+      within the growing network of existing communities. In these towns and villages,
+      the greater wealth of infrastructure and resources enables some residents to specialize and 
+      indulge in trades beyond simple resource acquisition.
+    </para>
   </chapter>
   <chapter>
     <info>
