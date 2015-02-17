@@ -38,7 +38,7 @@ THE SOFTWARE.
       these sections to help build your characters and integrate them into the world. 
     </para>
     <para>
-      The nation of &nation_name; was founded roughly 450 years ago when crusaders from a temple of
+      &nation_name; was founded roughly 450 years ago when crusaders from a temple of
       Abadar in &meadows_nation; embarked on a mission to colonize the region. They swore a 
       holy oath that the new nation would be an exemplar of civilation and glory for centuries to 
       come. At that moment, they founded the &crusade_org; and dedicated themselves to the cause of
@@ -57,39 +57,25 @@ THE SOFTWARE.
       <title>Modern Life in &nation_name;</title>
     </info>
     <para>
-      Life as it is in &nation_name; today is informed by many factors, but
-      perhaps the most important is its location and geography. &nation_name; sits in the valley of 
-      &valley_name;, which is a geographically isolated valley surrounded by the &mountain_range;
-      to the north, and &rift; to the south. Only a small mountain pass directly connects the valley
-      with its one true neighbor, the desert nation of &desert_kingdom;. The Dwarven strongholds of
-      &mountains_nation; and the forests of &forests_nation; are both thoroughly disconnected from
-      the valley by the immense &mountain_range;. This isolation, while making it difficult to
-      physically travel to the valley, is an invaluable defensive asset and has played a great role
-      in allowing &nation_name; to focus on economic and political development over military 
-      development.
+      In the heart of the valley of &valley_name;, protected by the forboding &mountain_range; to 
+      the north and the unfathomable &rift; to the south, &nation_name; echoes with 
+      a clarion call of opportunity. Low, rolling hills stretch across the
+      landscape, and lush green forests intermingle with networks of towns and villages. 
+      Occasionally, gleaming cities sit at the center of these networks, marking the terrain
+      with intricate webs of roads that connect settlements for miles around. Along the foothills of
+      the &mountain_range;, frontier towns dot still-wild lands carved with snow-melt rivers that
+      descend from the peaks above to empty into &valley_lake;.
     </para>
     <para>
-      In addition to its strategic positioning, the valley of &valley_name; is abundant with both 
-      arable land and rich mineral resources. The majority of its landscape is low, rolling hills 
-      which rapidly ascend in height as they near the feet of the surrounding moutains. In contrast to
-      the temperate, farmable lands in the valley's interior, these outlying areas have much longer,
-      harsher winters and experience intense flooding in the spring as snow-melt descends from the
-      peaks. From the summits, several rivers cut through the mountains and into the valley below,
-      eventually emptying into &valley_lake;. 
-    </para>
-    <para>
-      Today, &nation_name; is still expanding to use the land available to it. Small towns and 
-      villages form networks of established communities around the busy and well-developed urban
-      centers of the nation, eventually trickling off into sparse frontier towns. 
-      
-      
-      Life in these
-      frontier towns is dedicated first and foremost to survival, and settlers must contend
-      with limited infrastructure and protection from the wilds. For some, an early claim on
-      undeveloped resources is worth the risk, but most new settlers prefer to establish themselves
-      within the growing network of existing communities. In these towns and villages,
-      the greater wealth of infrastructure and resources enables some residents to specialize and 
-      indulge in trades beyond simple resource acquisition.
+      The abundance of the valley may provide, but ultimately the people of &nation_name; are its 
+      lifeblood. Most citizens live and work in ostensibly simple villages, where they develop
+      arable land and pull forth rich mineral resources from the valley's mines. Their harvests flow
+      inward toward the cities of the nation, where they supply insatiable craftsmen and 
+      merchants who give &nation_name; its reputation as an economic and cultural superpower. In 
+      return, the inner settlements provide ample public works, education, infrastructure, and other
+      resources that allow the outland residents to specialize and thrive. All the while, brave
+      and resourceful frontiersmen pave the way for others to follow in their footsteps and expand 
+      the glory of the nation.
     </para>
   </chapter>
   <chapter>
