@@ -2,6 +2,7 @@ $(document).ready(function() {
 	$("article.book > div.toc").slicknav({
 		label : "",
 		allowParentLinks : true,
+		closeOnClick : true,
 		init : function() {
 			$("div.toc").addClass("js-on");
 			$("article.book").addClass("js-on");
