@@ -105,7 +105,30 @@ THE SOFTWARE.
     <info>
       <title>The Government of &nation_name;</title>
     </info>
-    <para/>
+    <para>
+      Outwardly, the government of &nation_name; is composed of three parts: an Emperor, a Senate,
+      and &HoRs;. The Emperor is an elected official rather than a supreme ruler. There is no term
+      limit for an Emperor, but most choose to rule for twenty to twenty five years before stepping
+      down. The Emperor holds the power to veto laws, act as the commander of the &police;, and also
+      resolves tie votes in the Senate. The Senate comprises eighteen leaders chosen from and by the
+      nation's most eminent temples, with each temple holding a number of positions corresponding 
+      with their influence. Senators are solely responsible for ratifying laws, and they also have 
+      the power to call for an immediate re-election of the Emperor. &HoRs; are officials elected
+      every four years by the citizens of their districts. Legally, the &HoRs; have only three 
+      powers: they elect the Emperor from one of their own, they are the only citizens, besides the
+      Emperor, permitted to directly address a meeting of the Senate, and they may vote to forcibly
+      remove Senators from office for life.
+    </para>
+    <sidebar>
+      <info>
+        <title>Who's in the Senate?</title>
+      </info>
+      <para>
+        Currently, the temple of Abadar is allocated eight senate seats. Shelyn holds three, and
+        Sarenrae and Cayden Cailean each hold two. Pharasma, Iomedae, and Erastil are all 
+        represented, but each holds only one seat.
+      </para>
+    </sidebar>
   </section>
   <section>
     <info>
