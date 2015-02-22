@@ -106,11 +106,14 @@ THE SOFTWARE.
       <title>The Government of &nation_name;</title>
     </info>
     <para>
-      Outwardly, the government of &nation_name; is composed of three parts: an Emperor, a Senate,operates
+      Outwardly, the government of &nation_name; is composed of three parts: an Emperor, a Senate,
       and &HoRs;. The Emperor is an elected official rather than a supreme ruler. There is no term
       limit for an Emperor, but most choose to rule for twenty to twenty five years before stepping
-      down. The Emperor holds the power to veto laws, act as the commander of the &police;, and also
-      resolve tie votes in the Senate. The Senate comprises eighteen leaders chosen from and by the
+      down. The Emperor holds the power to veto laws, act as the commander of the &police;, and
+      resolve tie votes in the Senate. The current Emperor is &emperor;, a DESCRIPTION OF THE EMPEROR
+      HERE.
+    <para>
+      The Senate comprises eighteen leaders chosen from and by the
       nation's eminent temples, with each temple holding a number of positions corresponding 
       to their influence. Senators are solely responsible for ratifying laws, and they also have 
       the power to call for an immediate re-election of the Emperor. &HoRs; are officials elected
@@ -137,7 +140,7 @@ THE SOFTWARE.
     	throughout the nation, and is the closest thing &nation_name; has to a military force. The current 
     	head of police, &police_head;, continues to uphold the organization's
     	excellent reputation, and although he may claim	that they are chronicly understaffed and underfunded, 
-    	&nation_name; is an incredibly safe country. The &customs_dept; control and maintain the magical gates
+    	&nation_name; is an incredibly safe country. The &customs_dept; controls and maintains the magical gates
     	that lead to &nation_name;, and are also responsible for levying taxes on exported goods. The &public_works;
     	builds and maintains infrastructure such as roads, bridges, and waterways, and also settles disputes over
     	public lands, most frequently regarding the ancient relics scattered about the country.
