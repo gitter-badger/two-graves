@@ -1,10 +1,17 @@
 @media print {
   @page {
-    size: letter portrait;
+    size: 8.5in 11.0in;
+    margin: 1in 1in;
   }
   html {
-    font-family: serif;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Times New Roman", "Liberation Serif", serif;
     font-size: 10pt;
+  }
+  body {
+    margin: 0px;
+    padding: 0px;
   }
   article.book p {
     hyphens: auto;
@@ -24,10 +31,39 @@
     page-break-before: always;
   }
   h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
     bookmark-level: none;
+  }
+  p:first-of-type {
+    text-indent: 0px;
   }
   p {
     text-align: justify;
+    margin: 0px;
+    text-indent: 2em;
+  }
+  p:last-of-type {
+    margin-bottom: 1em;
+  }
+  div.itemizedlist:last-of-type+p {
+    margin-top: -.5em;
+  }
+  ul {
+    margin: .5em 0px;
+    padding: 0px 0px 0px 1em;
+  }
+  div.itemizedlist:last-of-type {
+    margin-bottom: 1em;
+  }
+  p:last-of-type+div.itemizedlist {
+    margin-top: -.5em;
+  }
+  li {
+    text-align: justify;
+  }
+  section.section > p:first-of-type {
+    margin-top: .25em;
   }
   div.toc {
     display: none;
