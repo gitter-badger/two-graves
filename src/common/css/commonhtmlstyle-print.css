@@ -1,5 +1,55 @@
 @media print {
+  @page {
+    size: letter portrait;
+  }
   html {
     font-family: serif;
+    font-size: 10pt;
+  }
+  article.book p {
+    hyphens: auto;
+  }
+  article.chapter {
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+    page-break-before: always;
+  }
+  article.chapter>header {
+    -moz-column-span: all;
+    -webkit-column-span: all;
+    column-span: all;
+  }
+  article.glossary, article.appendix {
+    page-break-before: always;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    bookmark-level: none;
+  }
+  p {
+    text-align: justify;
+  }
+  div.toc {
+    display: none;
+  }
+  article.book>header>h1 {
+    bookmark-level: 1;
+    bookmark-state: open;
+  }
+  article.chapter>header>h2, article.glossary>header>h2, article.appendix>header>h2 {
+    bookmark-level: 2;
+    bookmark-state: closed;
+  }
+  article.chapter>section.section>header>h2 {
+    bookmark-level: 3;
+    bookmark-state: closed;
+  }
+  article.chapter>section.section>section.section>header>h3 {
+    bookmark-level: 4;
+    bookmark-state: closed;
+  }
+  article.chapter>section.section>section.section>section.section>header>h4 {
+    bookmark-level: 5;
+    bookmark-state: closed;
   }
 }

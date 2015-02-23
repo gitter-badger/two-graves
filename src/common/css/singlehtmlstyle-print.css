@@ -1,12 +1,5 @@
 @media print {
-  div.chapter {
-    -moz-column-count: 2;
-    -webkit-column-count: 2;
-    column-count: 2;
-  }
-  div.chapter>div.titlepage, div.chapter>div.toc {
-    -moz-column-span: all;
-    -webkit-column-span: all;
-    column-span: all;
+  .slicknav_menu {
+    display: none;
   }
 }

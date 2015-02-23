@@ -27,7 +27,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
   <info>
     <title>&product_title; Player's Guide
     </title>
