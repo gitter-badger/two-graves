@@ -151,33 +151,24 @@ THE SOFTWARE.
     <info>
       <title>The Central Cities</title>
     </info>
-    <section>
+    <para>
+      Intro to the cities goes here.
+    </para>
+    <sidebar>
       <info>
-        <title>Crent, City of Markets</title>
+        <title>Common Government Resources</title>
       </info>
-      <para/>
-      <section>
-        <info>
-          <title>Life in the City</title>
-        </info>
-        <para/>
-      </section>
-      <section>
-        <info>
-          <title>Places of Interest</title>
-        </info>
-        <para/>
-      </section>
-      <section>
-        <info>
-          <title>Government Officials</title>
-        </info>
-        <para/>
-      </section>
-    </section>
+      <para>
+        Although they may not be specifically called out in these sections, you
+        can expect most government agencies that deal with infrastructure to 
+        have representation in all large settlements. This includes, but is not
+        limited to, divisions such as the &police;, &public_works;, and other 
+        servants of the common good.
+      </para>
+    </sidebar>
     <section>
       <info>
-        <title>Regunt, City of Laws</title>
+        <title>&arts_city;, City of Arts</title>
       </info>
       <para/>
           <section>
@@ -201,7 +192,31 @@ THE SOFTWARE.
     </section>
     <section>
       <info>
-        <title>Oblectant, City of Arts</title>
+        <title>&market_city;, City of Markets</title>
+      </info>
+      <para/>
+      <section>
+        <info>
+          <title>Life in the City</title>
+        </info>
+        <para/>
+      </section>
+      <section>
+        <info>
+          <title>Places of Interest</title>
+        </info>
+        <para/>
+      </section>
+      <section>
+        <info>
+          <title>Government Officials</title>
+        </info>
+        <para/>
+      </section>
+    </section>
+    <section>
+      <info>
+        <title>&law_city;, City of Laws</title>
       </info>
       <para/>
           <section>
