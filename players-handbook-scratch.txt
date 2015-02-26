@@ -350,6 +350,18 @@ represents "the market" of the shopping district.
 - Police station
 - A famous inn
 
+Government officials/important people:
+- District representatives
+- Merchant guild outpost leaders
+- Head of police for the city
+- Dept. of labor officials
+- Dept. of customs and immigration (heavy on the customs)
+- The exchange
+- Major crafters/innovators
+
+
+Government officials:
+
 Oblectant
 ---------
 
@@ -377,6 +389,15 @@ Percentages:
 - small police station
 - big fountain in the public space
 - magical fireworks shop
+
+Government officials/important people:
+- District representatives
+- Headmaster
+- High priests of C.C. and Shelyn
+- Festival planners
+- Head of police for the city
+- Auditioners
+
 
 Regunt
 ------
