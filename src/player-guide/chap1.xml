@@ -171,7 +171,7 @@ THE SOFTWARE.
         <title>&arts_city;, City of Arts</title>
       </info>
       <para/>
-          <section>
+      <section>
         <info>
           <title>Life in the City</title>
         </info>
@@ -185,9 +185,15 @@ THE SOFTWARE.
       </section>
       <section>
         <info>
-          <title>Government Officials</title>
+          <title>Government</title>
         </info>
-        <para/>
+        <para>
+          Government influence in &arts_city; is more subtle than in the other 
+          central cities. Officials long gave up on imposing bureaucracy upon 
+          the citizens, and now simply seek to ensure that the city runs smoothly 
+          from one performance to the next. As a result, the most feared, 
+          reviled, and loved agency in the city is the &festival_agency;. 
+        </para>
       </section>
     </section>
     <section>
