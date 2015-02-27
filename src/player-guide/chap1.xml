@@ -175,25 +175,22 @@ THE SOFTWARE.
         <info>
           <title>Life in the City</title>
         </info>
-        <para/>
+        <para>
+          Government influence in &arts_city; is more subtle than in the other 
+          central cities. Officials long gave up on imposing bureaucracy upon 
+          the citizens, and now simply seek to ensure that the city runs smoothly 
+          from one performance to the next. The &police; patrols the streets and
+          keeps the city safe for residents and tourists alike, but their 
+          presence is understated and does not impinge on the city's carefree 
+          atmosphere. Petty crime is rare, and offenders are swiftly swept to
+          the nearest police station or courthouse for judgement.
+        </para>
       </section>
       <section>
         <info>
           <title>Places of Interest</title>
         </info>
-        <para/>
-      </section>
-      <section>
-        <info>
-          <title>Government</title>
-        </info>
-        <para>
-          Government influence in &arts_city; is more subtle than in the other 
-          central cities. Officials long gave up on imposing bureaucracy upon 
-          the citizens, and now simply seek to ensure that the city runs smoothly 
-          from one performance to the next. As a result, the most feared, 
-          reviled, and loved agency in the city is the &festival_agency;. 
-        </para>
+        <para />
       </section>
     </section>
     <section>
