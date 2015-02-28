@@ -170,22 +170,30 @@ THE SOFTWARE.
       <info>
         <title>&arts_city;, City of Arts</title>
       </info>
-      <para/>
-      <section>
-        <info>
-          <title>Life in the City</title>
-        </info>
-        <para>
-          Government influence in &arts_city; is more subtle than in the other 
-          central cities. Officials long gave up on imposing bureaucracy upon 
-          the citizens, and now simply seek to ensure that the city runs smoothly 
-          from one performance to the next. The &police; patrols the streets and
-          keeps the city safe for residents and tourists alike, but their 
-          presence is understated and does not impinge on the city's carefree 
-          atmosphere. Petty crime is rare, and offenders are swiftly swept to
-          the nearest police station or courthouse for judgement.
-        </para>
-      </section>
+      <para>
+        Brimming with life and activity, the city of &arts_city; is the 
+        veritable pulse of &nation_name;. Artists and entertainers from all 
+        walks of life flock to the city to join in the cultural melting pot and
+        experience the wealth &arts_city; has to offer. Anywhere is a stage, and
+        revelry spills out into the streets, infusing the city with a constant 
+        state of festivity. Each day could bring new celebrations replete with 
+        performances and displays unlike any seen before it. As a result, 
+        &arts_city; is a hot spot for tourists from around the world, and their
+        presence ensures that there is plenty of gold to keep the entertainers
+        at their antics. 
+      </para>
+      <para>
+        Officials long gave up on imposing bureaucracy upon the citizens, and 
+        now simply seek to ensure that the city runs smoothly from one 
+        performance to the next. The last vestige of control the government 
+        maintains over the celebrations is the &festival_agency;, which 
+        stages city-wide festivals, schedules access to large venues such as 
+        &stadium;, and provides publicity for ambitious performers. The &police; 
+        patrols the streets, keeping the city safe for residents and tourists 
+        alike, but their presence is understated and does not impinge on the 
+        city's carefree atmosphere. Petty crime is uncommon, and offenders are 
+        swiftly swept to the nearest police station or courthouse for judgement.
+      </para>
       <section>
         <info>
           <title>Places of Interest</title>
