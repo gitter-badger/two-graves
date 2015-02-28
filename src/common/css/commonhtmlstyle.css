@@ -3,20 +3,30 @@
 
 html {
   font-family: Helvetica, Arial, sans-serif;
+  font-size: 1em;
 }
 body {
   margin: 0px;
-}
-header.book-titlepage>h1 {
-  font-size: 2em;
-}
-header.chapter-titlepage>h2 {
-  font-size: 1.75em;
 }
 header>h1, header>h2, header>h3, header>h4, header>h5, header>h6 {
   font-family: 'Averia Serif Libre', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
+}
+h1 {
+  font-size: 2.5em;
+}
+h2 {
+  font-size: 2.08em;
+}
+h3 {
+  font-size: 1.73em;
+}
+h4 {
+  font-size: 1.44em;
+}
+h5 {
+  font-size: 1.2em;
 }
 div.authorgroup {
   font-size: .8em;
@@ -47,7 +57,7 @@ div.sidebar {
   margin-top: 1em;
   margin-bottom: 1em;
 }
-div.sidebar header h3 {
+div.sidebar header h4 {
   margin-top: 0px;
 }
 div.sidebar p:last-child {
@@ -59,7 +69,9 @@ a {
 a:visited {
   color: #652EFE;
 }
-
+p {
+  line-height: 1.2em;
+}
 @viewport {
   zoom: 1.0;
   width: device-width;

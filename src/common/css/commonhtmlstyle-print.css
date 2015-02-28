@@ -99,7 +99,7 @@
     margin: 0px;
     text-indent: 2em;
   }
-  section>p:last-of-type {
+  article.chapter>p:last-of-type, section>p:last-of-type {
     margin-bottom: 1em;
   }
   div.itemizedlist:last-of-type+p {
