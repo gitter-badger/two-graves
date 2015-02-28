@@ -208,7 +208,23 @@ THE SOFTWARE.
         <info>
           <title>Places of Interest</title>
         </info>
-        <para />
+        <variablelist>
+          <varlistentry>
+            <term>&amphitheater;</term>
+            <listitem>
+              <para>
+                Rows of enormous amethyst crystals jutting from the entrance 
+                give &arts_city;'s premier amphitheater it's name. Although its 
+                appearance and sublime acoustics would suggest a man-made 
+                structure, &amphitheater; is actually a naturally occurring
+                geode phenomenon. Performing even once in the &amphitheater; is 
+                the goal of many artists, and competition is fierce. The revered
+                &auditioners; are the final elite arbiters of who will be graced
+                by the stage.
+              </para>
+            </listitem>
+          </varlistentry>
+        </variablelist>
       </section>
     </section>
     <section>
