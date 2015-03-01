@@ -14,18 +14,25 @@
   }
   .slicknav_nav {
     position: absolute;
-    top: .5em;
-    left: .5em;
+    top: 0px;
+    left: 0px;
+    padding-left: .5em;
     z-index: 1;
     width: 100%;
-    height: 95%;
+    height: 100%;
     overflow-y: auto !important;
+  }
+  .slicknav_menu a {
+    color: #FFF;
+  }
+  ul.slicknav_hidden {
+    display: none;
   }
   .toc.js-on {
     display: none;
   }
   article.book {
-    max-width: 45em;
+    max-width: 30em;
     margin: 0px auto;
     padding: 0px .1em;
   }
@@ -39,6 +46,19 @@
     width: 100%;
     padding-bottom: .1em;
     margin-bottom: 0px;
+  }
+  @media screen and (min-width: 70em) {
+    .slicknav_menu {
+      max-width: 18em;
+      height: 100%;
+      max-height: 100%;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+    .slicknav_btn {
+      display: none;
+    }
   }
   @media screen and (max-width: 40em) {
     div.toc li {

@@ -121,7 +121,7 @@ THE SOFTWARE.
       <arg value="-pdocbook.css=" />
       <arg value="-pdraft.mode=${draft}" />
       <arg value="-pdraft.watermark.image=draft.png" />
-      <arg value="-phtml.stylesheets=commonhtmlstyle.css commonhtmlstyle-print.css singlehtmlstyle.css singlehtmlstyle-print.css slicknav.css" />
+      <arg value="-phtml.stylesheets=slicknav.css commonhtmlstyle.css commonhtmlstyle-print.css singlehtmlstyle.css singlehtmlstyle-print.css" />
       <arg value="-phtml.scripts=https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js jquery.slicknav.js menu.js" />
       <arg value="-puse.extensions=1" />
       <arg value="${lib}/${lib.xslt2stylesheets}/xslt/base/pipelines/docbook.xpl" />
