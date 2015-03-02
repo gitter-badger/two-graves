@@ -12,6 +12,7 @@ header>h1, header>h2, header>h3, header>h4, header>h5, header>h6 {
   font-family: 'Averia Serif Libre', Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
+  margin-bottom: 0em;
 }
 h1 {
   font-size: 2.5em;

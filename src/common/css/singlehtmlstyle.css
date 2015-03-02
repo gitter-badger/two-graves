@@ -60,6 +60,24 @@
       display: none;
     }
   }
+  @media screen and (max-width: 69.999em) {
+    .section-titlepage h2, .chapter-titlepage h2 {
+      padding-top: 1.78125em;
+      margin-top: -1.48076em;
+    }
+    .section-titlepage h3, .chapter-titlepage h3 {
+      padding-top: 1.93931em;
+      margin-top: -1.57803em;
+    }
+    .section-titlepage h4, .chapter-titlepage h4 {
+      padding-top: 2.12847em;
+      margin-top: -1.40141em;
+    }
+    .section-titlepage h5, .chapter-titlepage h5 {
+      padding-top: 2.44871em;
+      margin-top: -1.83333em;
+    }
+  }
   @media screen and (max-width: 40em) {
     div.toc li {
       with: 100%;
