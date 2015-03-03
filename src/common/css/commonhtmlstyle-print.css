@@ -1,16 +1,60 @@
 @media print {
   @page {
     size: 8.5in 11.0in;
-    margin: 1in 1in;
+    margin: .5in .5in;
   }
-  @page :left {
+  @page:first {
+    padding-right: .5in;
+    padding-left: .5in;
+    @top-right-corner {
+      content: none;
+    }
+    @right-middle {
+      content: none;
+    }
+    @bottom-right-corner {
+      content: none;
+    }
+  }
+  @page:left {
+    padding-right: .5in;
+    padding-left: .5in;
+    @top-left-corner {
+      content: "";
+      background: #5784FE;
+    }
+    @left-middle {
+      content: "";
+      background: #5784FE;
+    }
+    @bottom-left-corner {
+      content: "";
+      background: #5784FE;
+    }
     @bottom-left {
       content: counter(page);
+      padding-left: .15in;
     }
   }
   @page :right {
+    padding-left: .5in;
+    padding-right: .5in;
+    @top-right-corner {
+      content: "";
+      background: #5784FE;
+    }
+    @right-middle {
+      content: "";
+      background: #5784FE;
+    }
+    @bottom-right-corner {
+      content: "";
+      background: #5784FE;
+    }
+    
     @bottom-right {
       content: counter(page);
+      padding-right: .15in;
     }
   }
   @page toc {
