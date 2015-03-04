@@ -88,7 +88,21 @@ THE SOFTWARE.
     <info>
       <title>Clerics</title>
     </info>
-    <para/>
+    <para>
+      Although outwardly &nation_name; may seem thoroughly secular and unaffiliated, its history and
+      government are steeped in religion, and many faiths have large temples and congregations here.
+      The temples of Abadar, Shelyn, and Cayden Cailean hold particularly strong
+      political influence, and many of their clerics become officiaries in the grand courts of 
+      &law_city; or the wild streets of &arts_city;. But for every cleric who wields the might of 
+      cities, there are a thousand others dedicated to more personal endeavors. 
+    </para>
+    <para>
+      Clerics of many faiths, but especially of Sarenrae, Pharasma, and Erastil, roam the cities and
+      countryside performing good works and aiding public services. Some heed a call to protect 
+      their loved ones, and join the &police;&mdash;a calling often heard by the faithful of 
+      Iomedae. Others still seek scholarship in the &library; or &university;, or to study the 
+      mysterious and powerful relic shrines that dot the country.
+    </para>
   </section>
   <section>
     <info>
