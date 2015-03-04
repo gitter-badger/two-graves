@@ -30,16 +30,6 @@ THE SOFTWARE.
   xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
   <title>Legal Information</title>
   <para>
-    The textual content of this book is licensed under the Creative Commons Attribution 
-    4.0 International License. To view a copy of this license, visit
-    <link xlink:href="http://creativecommons.org/licenses/by/4.0/"/>.
-  </para>
-  <para>
-    The source code used to generate the textual content of this book is available at 
-    <link xlink:href="https://bitbucket.org/rwdalpe/two-graves"/> and is available under the
-    MIT license.
-  </para>
-  <para>
     This content uses trademarks and/or copyrights owned by Paizo Inc., which are used under 
     Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access
     this content. This content is not published, endorsed, or specifically approved by Paizo 
@@ -48,7 +38,17 @@ THE SOFTWARE.
     and Paizo products, please visit <link xlink:href="http://paizo.com"/>.
   </para>
   <para>
-    Specifically, the proper names of the deities as referenced in this content are owned by
-    Paizo Inc. 
+    The content of this book is compliant with the Open Game License (OGL). The
+    OGL can be found in <xref linkend="ogl" />. All text and art content
+    in this book is hereby designated as Open Game Content as defined in the 
+    Open Gaming License version 1.0a Section 1(d), with the following 
+    exceptions: any content used in this document under Paizo's Community Use
+    Policy is owned by Paizo Inc. and should not be considered Open Game 
+    Content unless otherwise specified by Paizo Inc.
+  </para>
+  <para>
+    The source code used to generate the textual content of this book is available at 
+    <link xlink:href="https://bitbucket.org/rwdalpe/two-graves"/> and is available under the
+    MIT license.
   </para>
 </legalnotice>
