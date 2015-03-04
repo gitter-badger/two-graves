@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section [
+  <!ENTITY % sharedents SYSTEM "../common/shared_entities.xml">
+  %sharedents;
+]>
+<!--
+The MIT License (MIT)
+
+Copyright (c) 2014 Robert Winslow Dalpe
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <info>
+    <title>The Central Cities</title>
+  </info>
+  <para>
+    Intro to the cities goes here.
+  </para>
+  <sidebar>
+    <info>
+      <title>Common Government Resources</title>
+    </info>
+    <para>
+      Although they may not be specifically called out in these sections, you
+      can expect most government agencies that deal with infrastructure to 
+      have representation in all large settlements. This includes, but is not
+      limited to, divisions such as the &police;, &public_works;, and other 
+      servants of the common good.
+    </para>
+  </sidebar>
+  <section>
+    <info>
+      <title>&arts_city;, City of Arts</title>
+    </info>
+    <para>
+      Brimming with life and activity, the city of &arts_city; is the 
+      veritable pulse of &nation_name;. Artists and entertainers from all 
+      walks of life flock to the city to join in the cultural melting pot and
+      experience the wealth &arts_city; has to offer. Anywhere is a stage, and
+      revelry spills out into the streets, infusing the city with a constant 
+      state of festivity. Each day could bring new celebrations replete with 
+      performances and displays unlike any seen before it. As a result, 
+      &arts_city; is a hot spot for tourists from around the world, and their
+      presence ensures that there is plenty of gold to keep the entertainers
+      at their antics. 
+    </para>
+    <para>
+      Officials long gave up on imposing bureaucracy upon the citizens, and 
+      now simply seek to ensure that the city runs smoothly from one 
+      performance to the next. The last vestige of control the government 
+      maintains over the celebrations is the &festival_agency;, which 
+      stages city-wide festivals, schedules access to large venues such as 
+      &stadium;, and provides publicity for ambitious performers. The &police; 
+      patrols the streets, keeping the city safe for residents and tourists 
+      alike, but their presence is understated and does not impinge on the 
+      city's carefree atmosphere. Petty crime is uncommon, and offenders are 
+      swiftly swept to the nearest police station or courthouse for judgement.
+    </para>
+    <para>
+      Despite the apparent laissez-faire attitude of the government,
+      &arts_city; is extremely well-maintained. Buildings of sturdy wood and
+      cut stone stand strong against the neverending flow of residents, and
+      paved streets make for easy transport around the city. Lights both
+      magical and mundane line the streets and buildings, vying for the 
+      attention of passersby. Even with messy tourists who care not for the 
+      city's cleanliness, strong sewers and trash removal systems sweep away 
+      the filth and leave the city ready for the festivities to continue.
+    </para>
+    <section>
+      <info>
+        <title>Places of Interest</title>
+      </info>
+      <variablelist>
+        <varlistentry>
+          <term>&amphitheater;</term>
+          <listitem>
+            <para>
+              Rows of enormous amethyst crystals jutting from the entrance 
+              give &arts_city;'s premier amphitheater it's name. Although its 
+              appearance and sublime acoustics would suggest a man-made 
+              structure, &amphitheater; is actually a naturally occurring
+              geode phenomenon. Performing even once in the &amphitheater; is 
+              the goal of many artists, and competition is fierce. The revered
+              &auditioners; are the final elite arbiters of who will be graced
+              by the stage.
+            </para>
+          </listitem>
+        </varlistentry>
+      </variablelist>
+    </section>
+  </section>
+  <section>
+    <info>
+      <title>&market_city;, City of Markets</title>
+    </info>
+    <para/>
+    <section>
+      <info>
+        <title>Life in the City</title>
+      </info>
+      <para/>
+    </section>
+    <section>
+      <info>
+        <title>Places of Interest</title>
+      </info>
+      <para/>
+    </section>
+    <section>
+      <info>
+        <title>Government Officials</title>
+      </info>
+      <para/>
+    </section>
+  </section>
+  <section>
+    <info>
+      <title>&law_city;, City of Laws</title>
+    </info>
+    <para/>
+        <section>
+      <info>
+        <title>Life in the City</title>
+      </info>
+      <para/>
+    </section>
+    <section>
+      <info>
+        <title>Places of Interest</title>
+      </info>
+      <para/>
+    </section>
+    <section>
+      <info>
+        <title>Government Officials</title>
+      </info>
+      <para/>
+    </section>
+  </section>
+</section>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section [
+  <!ENTITY % sharedents SYSTEM "../common/shared_entities.xml">
+  %sharedents;
+]>
+<!--
+The MIT License (MIT)
+
+Copyright (c) 2014 Robert Winslow Dalpe
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+-->
+<section xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <info>
+    <title>Religion in &nation_name;</title>
+  </info>
+  <para>
+    &nation_name; was founded as part of an Abadarian religious crusade, and its roots are still 
+    apparent to this day. Although the nation is not strictly aligned with any one deity, its 
+    senate is composed of eighteen representatives from the most influential temples&mdash;be it
+    influence through number of worshipers, wealth, or other means. Currently the temples of 
+    Abadar, Shelyn, Cayden Cailean, Sarenrae, Pharasma, Iomedae, and Erastil hold senate 
+    positions. The temple of Abadar has maintained major power in the city, and from the gilded
+    halls of &abadar_temple; in &law_city; it oversees much of the nation's financial and legal
+    well-being. Shelyn and Cayden Cailean both have large followings in &arts_city;, and their 
+    temples&mdash;&shelyn_temple; and &cc_temple;&mdash;draw tourists and worshippers from
+    far and wide.
+  </para>
+  <para>
+    Iomedae's temple is the &police_hq; in &law_city; and much of the police force are devotees.
+    Sarenrae, Pharasma, and Erastil enjoy large popular support from all around the nation for
+    their public services and good works, but they do not maintain large shrines or temples in
+    any one location. Many other faiths have worshippers in &nation_name;, and although they do 
+    not hold prominent political power, Desna, Gozreh, Calistria, and Irori all have noteworthy 
+    followings in various places around the country.
+  </para>
+</section>
