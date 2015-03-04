@@ -15,4 +15,14 @@ READ AT YOUR OWN RISK FOR SPOILERS!
 Players embark on a tale of vengeance and mystery in a pseudo-utopian nation with sinister
 underpinnings.
 
+## Important Documents
+
+[LEGAL.txt][2]: covers legal details for the project
+[INSTALL.md][3]: details how to build the project and other technical notes
+[CONTRIBUTING.txt][4]: instructions and guidelines for contributing to the 
+project
+
 [1]: http://paizo.com/pathfinder
+[2]: LEGAL.txt
+[3]: INSTALL.md
+[4]: CONTRIBUTING.txt
