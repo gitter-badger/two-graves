@@ -211,15 +211,15 @@
     bookmark-level: 2;
     bookmark-state: closed;
   }
-  article.chapter>section.section>header>h2 {
+  article.chapter>section.section>header>h3 {
     bookmark-level: 3;
     bookmark-state: closed;
   }
-  article.chapter>section.section>section.section>header>h3 {
+  article.chapter>section.section>section.section>header>h4 {
     bookmark-level: 4;
     bookmark-state: closed;
   }
-  article.chapter>section.section>section.section>section.section>header>h4 {
+  article.chapter>section.section>section.section>section.section>header>h5 {
     bookmark-level: 5;
     bookmark-state: closed;
   }
