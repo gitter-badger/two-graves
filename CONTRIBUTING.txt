@@ -1,1 +1,22 @@
-Details coming Soon(tm).
+# How to contribute
+
+## First Steps
+
+* Make sure you have a [Bitbucket account](https://bitbucket.org)
+
+## Making Changes
+
+* Please avoid working directly on the `master` branch. Create a topic 
+branch for your work.
+  * To quickly create a topic branch based on master: `git checkout -b
+BRANCHNAME master`. For example, `git checkout -b issue130 master` 
+* Make commits of logical units.
+* Make sure your commit messages are in the proper format.
+
+## Submitting Changes
+
+* Push your changes to a topic branch in your fork of the repository.
+* Submit a pull request to the repository. See [this documentation] for
+instructions.
+
+
