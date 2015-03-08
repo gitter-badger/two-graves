@@ -117,6 +117,26 @@ THE SOFTWARE.
             </para>
           </listitem>
         </varlistentry>
+        <varlistentry>
+          <term>&university;</term>
+          <listitem>
+            <para>
+              &university; is one of the world's most prestigious schools for 
+              the fine arts, and a central location for both prospective students
+              and tourists alike. Although its intimidating spires, sharply slanted
+              rooftops, and aged stone walls cast an imposing shadow, they belie
+              the energy within. Its campus buzzes jovially at all hours of the 
+              day as some of the greatest creative geniuses from around the 
+              globe hone their skills.
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&cc_temple;</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
       </variablelist>
     </section>
   </section>
