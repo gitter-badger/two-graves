@@ -134,7 +134,9 @@ THE SOFTWARE.
         <varlistentry>
           <term>&cc_temple;</term>
           <listitem>
-            <para/>
+            <para>
+              Placeholder.
+            </para>
           </listitem>
         </varlistentry>
       </variablelist>
