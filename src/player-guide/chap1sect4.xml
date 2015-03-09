@@ -118,10 +118,10 @@ THE SOFTWARE.
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>&university;</term>
+          <term>&arts_college;</term>
           <listitem>
             <para>
-              &university; is one of the world's most prestigious schools for 
+              &arts_college; is one of the world's most prestigious schools for 
               the fine arts, and a central location for both prospective students
               and tourists alike. Although its intimidating spires, sharply slanted
               rooftops, and aged stone walls cast an imposing shadow, they belie
@@ -132,10 +132,16 @@ THE SOFTWARE.
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>&cc_temple;</term>
+          <term>&stadium;</term>
           <listitem>
             <para>
-              Placeholder.
+              Named for the carpet of small purple flowers that blooms in the 
+              spring, the &stadium; is an expansive, open-air park and a prime
+              location for many public events. Complete with several small 
+              venues for performances as well as a large stadium, the 
+              &stadium; boasts ample space and seating for tourists and citizens
+              alike. Whether it be music, sports, or festivals, an event in the
+              &stadium; is sure to be lively and draw a large crowd.
             </para>
           </listitem>
         </varlistentry>
