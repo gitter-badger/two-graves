@@ -37,11 +37,10 @@ THE SOFTWARE.
     <fileset dir="${lib}/${lib.tools}/${lib.calabash}">
       <include name="**/*.jar" />
     </fileset>
-    <fileset dir="${lib}/${lib.xslt2stylesheets}/lib">
+    <fileset dir="${lib}/${lib.xslt2stylesheets-extensions}">
       <include name="**/*.jar" />
     </fileset>
-    <pathelement location="${lib}/${lib.xslt2stylesheets}/lib" />
-    <pathelement location="${lib}/${lib.xslt2stylesheets}/lib/MarkLogic" />
+    <pathelement location="${lib}/${lib.xslt2stylesheets-extensions}" />
     <pathelement location="${lib}/${lib.tools}" />
   </path>
 
@@ -94,6 +93,8 @@ THE SOFTWARE.
   <target name="cleanlibs" description="Remove all lib files that can be safely re-downloaded">
     <delete dir="${lib}/${lib.xslt2stylesheets}" />
     <delete file="${lib}/${lib.xslt2stylesheets.zip}" />
+    <delete dir="${lib}/${lib.xslt2stylesheets-extensions}" />
+    <delete file="${lib}/${lib.xslt2stylesheets-extensions.zip}" />
     <delete dir="${lib}/${lib.jing}" />
     <delete file="${lib}/${lib.jing.zip}" />
     <delete dir="${lib}/${lib.tools}/${lib.calabash}" />
@@ -105,6 +106,8 @@ THE SOFTWARE.
     <mkdir dir="${lib}" />
     <get dest="${lib}/" src="${lib.xslt2stylesheets.url}" skipexisting="true" />
     <unzip dest="${lib}/" src="${lib}/${lib.xslt2stylesheets.zip}" overwrite="false" />
+    <get dest="${lib}/" src="${lib.xslt2stylesheets-extensions.url}" skipexisting="true" />
+    <unzip dest="${lib}/" src="${lib}/${lib.xslt2stylesheets-extensions.zip}" overwrite="false" />
     <get dest="${lib}/" src="${lib.jing.url}" skipexisting="true" />
     <unzip dest="${lib}/" src="${lib}/${lib.jing.zip}" overwrite="false" />
     <get dest="${lib}/" src="${lib.calabash.url}" skipexisting="true" />
