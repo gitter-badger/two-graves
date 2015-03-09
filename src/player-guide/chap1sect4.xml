@@ -145,6 +145,30 @@ THE SOFTWARE.
             </para>
           </listitem>
         </varlistentry>
+        <varlistentry>
+          <term>&bridge;</term>
+          <listitem>
+            <para>
+              Spanning the &arts_city_river; River and joining the east and west
+              of &arts_city; together, the &bridge; is more than just an 
+              important piece of infrastructure. Many bits of &arts_city; 
+              culture have incoporated the &bridge;, from viewing fireworks to
+              tossing flowers into the river below for good luck. More 
+              practically, it's also a natural chokepoint for traffic through 
+              the city and its wide cobbled path is filled with street 
+              performers, each trying to take advantage of their captive 
+              audiences.
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&cc_temple;</term>
+          <listitem>
+            <para>
+              Placeholder.
+            </para>
+          </listitem>
+        </varlistentry>
       </variablelist>
     </section>
   </section>
