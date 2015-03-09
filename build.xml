@@ -37,6 +37,11 @@ THE SOFTWARE.
     <fileset dir="${lib}/${lib.tools}/calabash">
       <include name="**/*.jar" />
     </fileset>
+    <fileset dir="${lib}/${lib.xslt2stylesheets}/lib">
+      <include name="**/*.jar" />
+    </fileset>
+    <pathelement location="${lib}/${lib.xslt2stylesheets}/lib" />
+    <pathelement location="${lib}/${lib.xslt2stylesheets}/lib/MarkLogic" />
     <pathelement location="${lib}/${lib.tools}" />
   </path>
 
@@ -113,6 +118,10 @@ THE SOFTWARE.
   <target name="-build-one.html.single">
     <mkdir dir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
 
+    <copy todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/img/">
+      <fileset dir="${src}/common/img/" />
+    </copy>
+    
     <java classpathref="xslt2.classpath" fork="true" classname="com.xmlcalabash.drivers.Main">
       <arg value="-oresult=${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html" />
       <arg value="-isource=${src}/${toplevelBookName}/${toplevelBookName}.xml" />
@@ -124,6 +133,7 @@ THE SOFTWARE.
       <arg value="-phtml.stylesheets=slicknav.css commonhtmlstyle.css commonhtmlstyle-print.css singlehtmlstyle.css singlehtmlstyle-print.css" />
       <arg value="-phtml.scripts=https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js jquery.slicknav.js menu.js" />
       <arg value="-puse.extensions=1" />
+      <!--<arg value="-poutput.dir=${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />-->
       <arg value="${lib}/${lib.xslt2stylesheets}/xslt/base/pipelines/docbook.xpl" />
       <arg value="syntax-highlighter=0" />
       <arg value="html-initial-stylesheet=../../../../html-single-customizations.xsl" />
@@ -142,6 +152,9 @@ THE SOFTWARE.
     </copy>
     <copy todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}">
       <fileset dir="${src}/${src.html.common.jsfiledir}" />
+    </copy>
+    <copy todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/img/">
+      <fileset dir="${src}/common/img/" />
     </copy>
     <copy file="${src}/${src.html.single.cssfiledir}/${src.html.single.cssfile}"
           todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
