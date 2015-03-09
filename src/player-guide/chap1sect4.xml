@@ -152,11 +152,11 @@ THE SOFTWARE.
               Spanning the &arts_city_river; River and joining the east and west
               of &arts_city; together, the &bridge; is more than just an 
               important piece of infrastructure. Many bits of &arts_city; 
-              culture have incoporated the &bridge;, from viewing fireworks to
-              tossing flowers into the river below for good luck. More 
-              practically, it's also a natural chokepoint for traffic through 
-              the city and its wide cobbled path is filled with street 
-              performers, each trying to take advantage of their captive 
+              culture have incoporated the &bridge;, from tossing flowers into 
+              the river below for good luck to being a hotspot for watching
+              fireworks. More practically, it's also a natural chokepoint for 
+              traffic through the city and its wide stone path is filled with 
+              street performers, each trying to take advantage of their captive 
               audiences.
             </para>
           </listitem>
@@ -165,7 +165,14 @@ THE SOFTWARE.
           <term>&cc_temple;</term>
           <listitem>
             <para>
-              Placeholder.
+              A large stone carving of a frothing mug adorns the facade of
+              &arts_city;'s favorite temple to the god of drinking and 
+              merriment. This multi-story wood and stone building radiates a 
+              warmth and festivity that can be felt from blocks away. The temple 
+              hosts a stage and doubles as both a comedy house and theater for 
+              celebrations of bravey, and its walls reverberate with laughter
+              and cheers. To the confusion of tourists and the amusement of 
+              locals, the interior of the temple is themed as a bank.
             </para>
           </listitem>
         </varlistentry>
