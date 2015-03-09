@@ -34,7 +34,7 @@ THE SOFTWARE.
   <!-- BEGIN ADDITIONAL LIBRARIES AND CLASSPATH DEFINITIONS -->
 
   <path id="xslt2.classpath">
-    <fileset dir="${lib}/${lib.tools}/calabash">
+    <fileset dir="${lib}/${lib.tools}/${lib.calabash}">
       <include name="**/*.jar" />
     </fileset>
     <fileset dir="${lib}/${lib.xslt2stylesheets}/lib">
@@ -94,7 +94,10 @@ THE SOFTWARE.
   <target name="cleanlibs" description="Remove all lib files that can be safely re-downloaded">
     <delete dir="${lib}/${lib.xslt2stylesheets}" />
     <delete file="${lib}/${lib.xslt2stylesheets.zip}" />
-
+    <delete dir="${lib}/${lib.jing}" />
+    <delete file="${lib}/${lib.jing.zip}" />
+    <delete dir="${lib}/${lib.tools}/${lib.calabash}" />
+    <delete file="${lib}/${lib.calabash.zip}" />
   </target>
 
   <target name="getlibs" description="Retrieve all necessary lib files for building">
@@ -102,6 +105,10 @@ THE SOFTWARE.
     <mkdir dir="${lib}" />
     <get dest="${lib}/" src="${lib.xslt2stylesheets.url}" skipexisting="true" />
     <unzip dest="${lib}/" src="${lib}/${lib.xslt2stylesheets.zip}" overwrite="false" />
+    <get dest="${lib}/" src="${lib.jing.url}" skipexisting="true" />
+    <unzip dest="${lib}/" src="${lib}/${lib.jing.zip}" overwrite="false" />
+    <get dest="${lib}/" src="${lib.calabash.url}" skipexisting="true" />
+    <unzip dest="${lib}/${lib.tools}" src="${lib}/${lib.calabash.zip}" overwrite="false" />
   </target>
 
   <!-- END PUBLIC TARGETS -->
@@ -121,7 +128,7 @@ THE SOFTWARE.
     <copy todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/img/">
       <fileset dir="${src}/common/img/" />
     </copy>
-    
+
     <java classpathref="xslt2.classpath" fork="true" classname="com.xmlcalabash.drivers.Main">
       <arg value="-oresult=${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html" />
       <arg value="-isource=${src}/${toplevelBookName}/${toplevelBookName}.xml" />
