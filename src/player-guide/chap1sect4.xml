@@ -176,6 +176,17 @@ THE SOFTWARE.
             </para>
           </listitem>
         </varlistentry>
+        <varlistentry>
+          <term>&arts_city_govt_district;</term>
+          <listitem>
+            <para>
+              Tucked away in a less-noticeable portion of the city,
+              &arts_city_govt_district; houses offices and warehouses 
+              for government agencies such as the &police; and
+              &festival_agency;.
+            </para>
+          </listitem>
+        </varlistentry>
       </variablelist>
     </section>
   </section>
