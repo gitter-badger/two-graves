@@ -74,4 +74,9 @@ THE SOFTWARE.
 <!ENTITY festival_agency "Festival Planning Committee">
 <!ENTITY auditioners "Auditioners">
 <!ENTITY arts_city_govt_district "PLACEHOLDER">
+<!ENTITY arts_city_tourist_district "Plaza District">
+<!ENTITY arts_city_college_district "College District">
+<!ENTITY arts_city_quality_district "Masters District">
+<!ENTITY arts_city_rich_district "Garden District">
+<!ENTITY arts_city_poor_district "Barrelbottom District">
 <!ENTITY mdash "&#x2014;">
