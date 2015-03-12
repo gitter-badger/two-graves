@@ -173,7 +173,7 @@ THE SOFTWARE.
     </para>
     <mediaobject>
       <imageobject>
-        <imagedata fileref="../common/img/drawing2.svg" format="SVG" />
+        <imagedata fileref="img/drawing2.svg" format="SVG" />
       </imageobject>
     </mediaobject>
   </section>

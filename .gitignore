@@ -9,7 +9,7 @@ lib/docbook-*-rwdalpe
 lib/docbook-xsl-java*
 lib/tools/*calabash*
 lib/jing*
-src/common/img/
+src/**/img/
 fontconfig
 *.xpr
 ~*
