@@ -180,8 +180,14 @@ THE SOFTWARE.
           <term>&arts_city_tourist_district;</term>
           <listitem>
             <para>
-              Lots of inns, near the action, restaurants, stuff on every
-              corner. Touristy.
+              Surrounding &arts_city;'s central plazas, this bustling
+              district is a hotspot for tourism and revelry. Although
+              most come to the district to be at the center of the 
+              city's constant festivals, the competition between 
+              enterprises to garner attention has changed the district 
+              into a spectacle in its own right. Themed businesses, 
+              wild street performers, and garish decorations all lend a
+              hand in creating the district's unique atmosphere.
             </para>
           </listitem>
         </varlistentry>
@@ -189,7 +195,15 @@ THE SOFTWARE.
           <term>&arts_city_college_district;</term>
           <listitem>
             <para>
-              Less-nice, busy, very young, near university, fun.
+              Fed by the youthful, creative energies of the
+              &arts_college;, the &arts_city_college_district; is the
+              premiere place to scout rising talent and share ideas in
+              the city. Although not as upscale as some parts of 
+              &arts_city;, the inhabitants of the district are jovial
+              and create a welcoming atmosphere. Collaboration and
+              competition go hand-in-hand here, and it's very likely to
+              see spontaneous performances erupt in the persuit of great
+              art.
             </para>
           </listitem>
         </varlistentry>
