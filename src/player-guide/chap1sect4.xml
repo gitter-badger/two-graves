@@ -176,6 +176,60 @@ THE SOFTWARE.
             </para>
           </listitem>
         </varlistentry>
+        <varlistentry>
+          <term>&arts_city_tourist_district;</term>
+          <listitem>
+            <para>
+              Lots of inns, near the action, restaurants, stuff on every
+              corner. Touristy.
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&arts_city_college_district;</term>
+          <listitem>
+            <para>
+              Less-nice, busy, very young, near university, fun.
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&arts_city_rich_district;</term>
+          <listitem>
+            <para>
+              Quiet, super-nice, near shelyn temple and dragons teeth.
+            </para>
+          </listitem>
+        </varlistentry>        
+        <varlistentry>
+          <term>&arts_city_poor_district;</term>
+          <listitem>
+            <para>
+              "slums", below college district, seedy bars, brothels,
+              lots of low income housing
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&arts_city_govt_district;</term>
+          <listitem>
+            <para>
+              Tucked away in a less-noticeable portion of the city,
+              &arts_city_govt_district; houses offices and warehouses 
+              for government agencies such as the &police; and
+              &festival_agency;.
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&arts_city_quality_district;</term>
+          <listitem>
+            <para>
+              Shopkeepers and master instrument makers. More serious,
+              less fun, historical, very nice but not flowery.
+            </para>
+          </listitem>
+        </varlistentry>
       </variablelist>
     </section>
   </section>
