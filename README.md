@@ -17,11 +17,11 @@ nation with sinister underpinnings.
 
 ## Important Documents
 
-LEGAL.txt: covers legal details for the project
+LEGAL: covers legal details for the project
 
-INSTALL.md: details how to build the project and other technical notes
+INSTALL: details how to build the project and other technical notes
 
-CONTRIBUTING.txt: instructions and guidelines for contributing to the 
+CONTRIBUTING: instructions and guidelines for contributing to the 
 project
 
 [1]: http://paizo.com/pathfinder
