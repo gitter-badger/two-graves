@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE chapter [
-  <!ENTITY % sharedents SYSTEM "../common/shared_entities.xml">
+  <!ENTITY % sharedents SYSTEM "../common/entities/global.ent">
   %sharedents;
 ]>
 <!-- 
