@@ -8,8 +8,13 @@ stylistic guidelines that we ask you follow when contributing.
 1. Make sure you have read the README, LEGAL, and INSTALL documents so 
 that you understand the project, how its backing technologies works, and
 the legal implications of what material you may or may not reference.
+
 2. [Fork the repository][2] and [create a branch][3] for your changes.
-3. Make your changes in the new branch, and submit them to us when 
+
+  * If you're working on a particular system, be sure your branch is
+based off of our branch for that system.
+
+3.  Make your changes in the new branch, and submit them to us when 
 you're happy with them! Check out the sections below for more details on
 this part of the process.
 
