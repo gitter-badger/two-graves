@@ -8,9 +8,4 @@
   book toc,title
 </xsl:param>
 
-<xsl:attribute-set name="component.titlepage.properties">
-  <xsl:attribute name="span">all</xsl:attribute>
-  <xsl:attribute name="padding-bottom">1em</xsl:attribute>
-</xsl:attribute-set>
-
 </xsl:stylesheet>

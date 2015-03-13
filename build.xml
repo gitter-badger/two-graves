@@ -205,7 +205,6 @@ THE SOFTWARE.
       <arg value="email.delimiters.enabled=0" />
       <arg value="email.mailto.enabled=1" />
       <arg value="hyphenate=true" />
-      <arg value="column.count.body=2" />
       <arg value="body.start.indent=0pt" />
       <arg value="draft.mode=${draft}" />
       <arg value="draft.watermark.image=draft.png" />
