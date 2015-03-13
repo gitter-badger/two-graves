@@ -101,14 +101,14 @@
   article.book>hr {
     display: none;
   }
-  article.chapter {
+  article.chapter, article.glossary, article.appendix {
     -moz-column-count: 2;
     -webkit-column-count: 2;
     column-count: 2;
     column-fill: auto;
     page-break-before: always;
   }
-  article.chapter>header {
+  article.chapter>header, article.glossary>header, article.appendix>header {
     -moz-column-span: all;
     -webkit-column-span: all;
     column-span: all;
@@ -117,9 +117,6 @@
   }
   article.chapter>header>h2 {
     font-size: 3em;
-  }
-  article.glossary, article.appendix {
-    page-break-before: always;
   }
   h1, h2, h3, h4, h5, h6 {
     margin: 0px;
@@ -181,15 +178,11 @@
   section.section > p:first-of-type, section.section > div.variablelist:first-of-type {
     margin-top: .25em;
   }
-  article.appendix pre {
-    font-size: .5em;
-    -moz-column-count: 2;
-    -webkit-column-count: 2;
-    column-count: 2;
-    column-fill: auto;
-  }
   div.toc {
     display: none;
+  }
+  article.appendix p {
+    font-size: .8em;
   }
   article.book>div.toc {
     display: none;
