@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	var widescreen = (window.matchMedia("(min-width: 70em)").matches || false);
+	var widescreen = (window.matchMedia("(min-width: 50em)").matches || false);
 	
 	$("article.book > div.toc").slicknav({
 		label : "",
@@ -22,7 +22,7 @@ $(document).ready(function() {
 	});
 	
 	$(window).resize(function() {
-		var mediaMatch = (window.matchMedia("(min-width: 70em)").matches || false);
+		var mediaMatch = (window.matchMedia("(min-width: 50em)").matches || false);
 		if(mediaMatch != widescreen) {
 			widescreen = mediaMatch;
 			
