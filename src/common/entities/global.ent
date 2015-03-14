@@ -61,13 +61,13 @@ THE SOFTWARE.
 <!ENTITY customs_dept "Department of Customs and Immigration">
 <!ENTITY public_works "Public Works Agency">
 <!ENTITY magic_supply "Berthold's Magic Supply">
-<!ENTITY bridge "PLACEHOLDER">
-<!ENTITY arts_city_river "PLACEHOLDER">
-<!ENTITY crusade_org "PLACEHOLDER">
+<!ENTITY bridge "Bridge">
+<!ENTITY arts_city_river "Limen">
+<!ENTITY crusade_org "Founders">
 <!ENTITY mountain_range "PLACEHOLDER">
 <!ENTITY rift "Great Rift">
-<!ENTITY valley_lake "PLACEHOLDER">
-<!ENTITY portals "PLACEHOLDER">
+<!ENTITY valley_lake "Clearlake">
+<!ENTITY portals "Thresholds">
 <!ENTITY HoRs "District Representatives">
 <!ENTITY police_head "PLACEHOLDER">
 <!ENTITY emperor "PLACEHOLDER">
