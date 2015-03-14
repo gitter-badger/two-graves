@@ -29,7 +29,7 @@ THE SOFTWARE.
 <chapter xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
   xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
   <info>
-    <title>Background Information for Players</title>
+    <title>Adventurers in &nation_name;</title>
   </info>
   <xi:include href="chap2sect1.xml"/>
   <xi:include href="chap2sect2.xml"/>
