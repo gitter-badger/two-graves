@@ -219,13 +219,20 @@ THE SOFTWARE.
               and &shelyn_temple;.
             </para>
           </listitem>
-        </varlistentry>        
+        </varlistentry>
         <varlistentry>
           <term>&arts_city_poor_district;</term>
           <listitem>
             <para>
-              "slums", below college district, seedy bars, brothels,
-              lots of low income housing
+              To call &arts_city_poor_district; a slum would be 
+              disingenuous, but compared to the rest of &arts_city; 
+              this district falls behind in upkeep and cleanliness.
+              Tenement housing is plentiful, and in lieu of access to
+              more fanciful pursuits, the residents of
+              &arts_city_poor_district; excel in vice entertainment.
+              Seedy bars and brothels adorn the streets, and the venues
+              host bawdy and burlesque performances too vulgar for
+              popular taste.
             </para>
           </listitem>
         </varlistentry>
@@ -234,7 +241,7 @@ THE SOFTWARE.
           <listitem>
             <para>
               Tucked away in a less-noticeable portion of the city,
-              &arts_city_govt_district; houses offices and warehouses 
+              &arts_city_govt_district; houses offices and storage 
               for government agencies such as the &police; and
               &festival_agency;.
             </para>
@@ -244,8 +251,14 @@ THE SOFTWARE.
           <term>&arts_city_quality_district;</term>
           <listitem>
             <para>
-              Shopkeepers and master instrument makers. More serious,
-              less fun, historical, very nice but not flowery.
+              Many master craftsmen who outfit &arts_city; with 
+              superior quality instruments and supplies base their
+              workshops in &arts_city_quality_district;. These great 
+              makers demand a particular environment for their work, and
+              the district has molded to reflect their tastes. Simple, 
+              refined architecture and narrow cobbled streets give the 
+              district a historic atmosphere, and even the wildest of 
+              locals calm themselves out of respect when in the area. 
             </para>
           </listitem>
         </varlistentry>
