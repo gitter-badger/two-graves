@@ -269,22 +269,30 @@ THE SOFTWARE.
     <info>
       <title>&market_city;, City of Markets</title>
     </info>
-    <para/>
-    <section>
-      <info>
-        <title>Life in the City</title>
-      </info>
-      <para/>
-    </section>
+    <para>
+      Mood: diverse, busy, ambitious, well-off
+    </para>
+    <para>
+      Words and noise blend with the clink of coins in the vibrant market city
+      of &market_city;. Known for its unparalleled selection of exotic goods,
+      which harken both to cultures from around the world and at the same time
+      something completely original, &market_city; is a haven for craftsmen.
+      The best of the best travel here to study with other masters from all
+      around. The result is a forge of rivalries and collaborations which
+      drive the innovations of these ambitious creators ever foward. Their work
+      and success have brought incredibly reknown to  both &market_city; and the
+      nation as a whole, and wealth naturally flows to the city in the form of 
+      hardened merchants and more casual buyers.
+    </para>
+    <para>
+      Who's in Charge
+    </para>
+    <para>
+      Appearance
+    </para>
     <section>
       <info>
         <title>Places of Interest</title>
-      </info>
-      <para/>
-    </section>
-    <section>
-      <info>
-        <title>Government Officials</title>
       </info>
       <para/>
     </section>
