@@ -128,15 +128,10 @@ THE SOFTWARE.
   <target name="-build-one.html.single">
     <mkdir dir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
 
-    <copy todir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/img/">
-      <fileset dir="${src}/${toplevelBookName}/img/" />
-    </copy>
-
     <java classpathref="xslt2.classpath" fork="true" classname="com.xmlcalabash.drivers.Main">
       <arg value="-oresult=${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html" />
       <arg value="-isource=${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg value="-pgenerate.meta.generator=0" />
-      <arg value="-presource.root=https://docbook.github.com/latest/" />
       <arg value="-pdocbook.css=" />
       <arg value="-pdraft.mode=${draft}" />
       <arg value="-pdraft.watermark.image=draft.png" />
@@ -146,7 +141,7 @@ THE SOFTWARE.
       <arg value="-poutput.dir=${basedir}/${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/" />
       <arg value="${lib}/${lib.xslt2stylesheets}/xslt/base/pipelines/docbook.xpl" />
       <arg value="syntax-highlighter=0" />
-      <arg value="html-initial-stylesheet=../../../../html-single-customizations.xsl" />
+      <arg value="html-initial-stylesheet=${basedir}/${lib}/html-single-customizations.xsl" />
     </java>
 
     <if>
