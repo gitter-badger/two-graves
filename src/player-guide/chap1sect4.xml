@@ -319,22 +319,40 @@ THE SOFTWARE.
     <info>
       <title>&law_city;, City of Laws</title>
     </info>
-    <para/>
-        <section>
-      <info>
-        <title>Life in the City</title>
-      </info>
-      <para/>
-    </section>
+    <para>
+      At the heart of &nation_name; is the nation's crown jewel: the
+      capital city of &law_city;. Towering, gleaming buildings of marble
+      and polished stone strike a grand vista for those who first
+      lay eyes upon the city. Impressive grids of streets and avenues 
+      bustle with activity, feeding the machine that runs the nation.
+      At night, although the streets die down to dim illumination by
+      heavy iron lamps, the work of the city does not cease. Buildings
+      big and small come to life as interior lights shine through their
+      windows, offering tantalizing hints at the ongoings within.
+    </para>
+    <para>
+      From first sight to last, &law_city; whisks away newcomers and 
+      locals alike into an embrace of structure and control that seems 
+      almost caring. The city runs like clockwork, with each inhabitant 
+      and agency fulfilling a purpose in a timely and efficient manner. 
+      From the lowliest courier to the highest seats of government, 
+      every citizen of &law_city; is devoted fully to their cause. To do
+      otherwise would be to invite certain scorn and disdain from one's 
+      peers.
+    </para>
+    <para>
+      Just as each citizen is devoted to their tasks, so is the city itself
+      devoted to the law. Law is born and dies in &law_city;. Every 
+      agency houses its highest offices here in this locus of government power.
+      Yet despite the proximity of government control, the city does not
+      quake under the tyranny of authoritarianism. That the government
+      serves its people is a well respected fact, and it is commonly
+      understood that &law_city; only functions at the willing 
+      compliance of its citizens.
+    </para>
     <section>
       <info>
         <title>Places of Interest</title>
-      </info>
-      <para/>
-    </section>
-    <section>
-      <info>
-        <title>Government Officials</title>
       </info>
       <para/>
     </section>
