@@ -8,15 +8,21 @@ and Paizo products, please visit <http://paizo.com>.
 
 The content of this book is compliant with the Open Game License (OGL). 
 The OGL should have been made available to you when you received a copy 
-of this content. All text and art content in this book is hereby 
-designated as Open Game Content as defined in the Open Gaming License 
-version 1.0a Section 1(d), with the following exceptions: any content 
-used in this document under Paizo's Community Use Policy is owned by 
-Paizo Inc. and should not be considered Open Game Content unless 
-otherwise specified by Paizo Inc.
+of this content. The following items are hereby identified as Product Identity, 
+as defined in the Open Game License version 1.0a, Section 1(e), and are not Open
+Content: artwork. Any content used in this book under Paizo's Community Use 
+Policy is owned by Paizo Inc. and should not be considered Open Game Content 
+unless otherwise specified by Paizo Inc. All other content in this book is 
+hereby designated as Open Game Content as defined in the Open Gaming License 
+version 1.0a Section 1(d). No portion of this work other than the material 
+designated as Open Game Content may be reproduced in any form without written 
+permission. To learn more about the Open Game License and the d20 System 
+License, please visit 
+<http://www.wizards.com/default.asp?x=d20/article/srdarchive>.
 
 
 ------------------------------------------------------------------------
+
 
 OPEN GAME LICENSE Version 1.0a
 
