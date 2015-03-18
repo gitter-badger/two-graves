@@ -312,7 +312,44 @@ THE SOFTWARE.
       <info>
         <title>Places of Interest</title>
       </info>
-      <para/>
+      <variablelist>
+        <varlistentry>
+          <term>Grand Bazaar</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>House of Commerce</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Elven Enclave</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Dwarven Enclave</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Lakeside Docks</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&arts_city_river; River Customs</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+      </variablelist>
     </section>
   </section>
   <section>
@@ -354,7 +391,56 @@ THE SOFTWARE.
       <info>
         <title>Places of Interest</title>
       </info>
-      <para/>
+      <variablelist>
+        <varlistentry>
+          <term>Capitol Building</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Temple of Abadar</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Merchant Guild Headquarters</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>University of Law and Business</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&library;</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&police; Headquarters</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Lakeside Docks</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Emperor's Home</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+      </variablelist>
     </section>
   </section>
 </section>

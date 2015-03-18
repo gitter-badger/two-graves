@@ -101,6 +101,9 @@
   article.book>hr {
     display: none;
   }
+  header {
+    clear: both;
+  }
   article.chapter, article.glossary, article.appendix {
     -moz-column-count: 2;
     -webkit-column-count: 2;
@@ -160,7 +163,11 @@
   li {
     text-align: justify;
   }
+  dl {
+    clear: both;
+  }
   dt {
+    clear: left;
     float: left;
     font-weight: bold;
     text-indent: 2em;
