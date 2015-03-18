@@ -62,6 +62,11 @@ THE SOFTWARE.
       presence ensures that there is plenty of gold to keep the entertainers
       at their antics. 
     </para>
+    <mediaobject role="half-image">
+      <imageobject>
+        <imagedata format="SVG" width="100%" scalefit="1" fileref="https://googledrive.com/host/0B7b9uMyuu5dvNDZRUk5fSk1ZaGM" />
+      </imageobject>
+    </mediaobject>
     <para>
       Officials long gave up on imposing bureaucracy upon the citizens, and 
       now simply seek to ensure that the city runs smoothly from one 
@@ -84,11 +89,6 @@ THE SOFTWARE.
       city's cleanliness, strong sewers and trash removal systems sweep away 
       the filth and leave the city ready for the festivities to continue.
     </para>
-    <mediaobject>
-      <imageobject>
-        <imagedata format="SVG" width="100%" scalefit="1" fileref="https://googledrive.com/host/0B7b9uMyuu5dvNDZRUk5fSk1ZaGM" />
-      </imageobject>
-    </mediaobject>
     <section>
       <info>
         <title>Places of Interest</title>
@@ -295,6 +295,11 @@ THE SOFTWARE.
       omnipresent in &market_city;, ensuring that the city retains its name as a
       safe and reputable haven for trade. 
     </para>
+    <mediaobject role="half-image">
+      <imageobject>
+        <imagedata format="SVG" width="100%" scalefit="1" fileref="https://googledrive.com/host/0B7b9uMyuu5dvR3FwWEt6bW5UNmc" />
+      </imageobject>
+    </mediaobject>
     <para>
       The master craftsmen themselves are no pushovers either. Crafting guilds
       are strictly forbidden both in a legal sense and a communal one, as each
@@ -313,11 +318,6 @@ THE SOFTWARE.
       markers. At night, hanging iron lamps illuminate the city's famous 
       twenty-four hour markets.
     </para>
-    <mediaobject>
-      <imageobject>
-        <imagedata format="SVG" width="100%" scalefit="1" fileref="https://googledrive.com/host/0B7b9uMyuu5dvR3FwWEt6bW5UNmc" />
-      </imageobject>
-    </mediaobject>
     <section>
       <info>
         <title>Places of Interest</title>
@@ -451,7 +451,7 @@ THE SOFTWARE.
           </listitem>
         </varlistentry>
       </variablelist>
-      <mediaobject>
+      <mediaobject role="full-image">
         <imageobject>
           <imagedata format="SVG" width="100%" scalefit="1" fileref="https://googledrive.com/host/0B7b9uMyuu5dvM3o3aElWdTJTaGc" />
         </imageobject>

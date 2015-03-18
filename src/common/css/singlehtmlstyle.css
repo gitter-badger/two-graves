@@ -44,6 +44,13 @@
     padding-bottom: .1em;
     margin-bottom: 0px;
   }
+
+  /* Images */
+  div.half-image {
+    max-width: 50%;
+    width: 50%;
+    float: right;
+  }
   @media screen and (min-width: 50em) {
     .slicknav_menu {
       max-width: 18em;
@@ -89,6 +96,11 @@
     .toc li a {
       display: block;
       width: 100%;
+    }
+    div.half-image {
+      max-width: 100%;
+      width: 100%;
+      float: none;
     }
   }
 }
