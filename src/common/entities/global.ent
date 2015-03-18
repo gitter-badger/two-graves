@@ -42,7 +42,7 @@ THE SOFTWARE.
 <!ENTITY arts_city "Oblectant"><!-- they delight -->
 <!ENTITY market_city "Crent"><!-- they create -->
 <!ENTITY law_city "Regunt"><!-- they rule -->
-<!ENTITY arts_college "Arts College">
+<!ENTITY arts_college "Bell University">
 <!ENTITY amphitheater "Dragon's Teeth">
 <!ENTITY abadar_temple "The First Capitol">
 <!ENTITY cc_temple "The Best Vault">
@@ -53,7 +53,7 @@ THE SOFTWARE.
 <!ENTITY falls "Three Bridge Falls">
 <!ENTITY falls_druids "Three Bridge Falls Druids">
 <!ENTITY bad_druids "Balancers">
-<!ENTITY stadium "Lavender Stadium">
+<!ENTITY stadium "Lavender Fields">
 <!ENTITY monk_sect "Monks of the Empty Cup">
 <!ENTITY library "Knight Library">
 <!ENTITY knife_throwers "Silver Hilt Troupe">
@@ -65,13 +65,13 @@ THE SOFTWARE.
 <!ENTITY bridge "Bridge">
 <!ENTITY arts_city_river "Limen">
 <!ENTITY crusade_org "Founders">
-<!ENTITY mountain_range "PLACEHOLDER">
+<!ENTITY mountain_range "Devil's Tail">
 <!ENTITY rift "Great Rift">
 <!ENTITY valley_lake "Clearlake">
 <!ENTITY portals "Thresholds">
 <!ENTITY HoRs "District Representatives">
-<!ENTITY police_head "PLACEHOLDER">
-<!ENTITY emperor "PLACEHOLDER">
+<!ENTITY police_head "Nigel Croft">
+<!ENTITY emperor "Marshall Blackwood">
 <!ENTITY festival_agency "Festival Planning Committee">
 <!ENTITY auditioners "Auditioners">
 <!ENTITY arts_city_govt_district "Warehouse District">
