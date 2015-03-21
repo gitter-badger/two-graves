@@ -10,6 +10,12 @@ The build target `build.all` will produce all possible outputs.
 books. `build.epub` will produce an epub for each book. The outputs of 
 these build targets can be found in the `output` directory.
 
+The build target `release` will perform a `build.all` and also generate the
+`CHANGELOG.md` file for each source book. It does this by executing a bash 
+script (or batch file on Windows) that formats the git commit log and prepends 
+it to the `CHANGELOG.md` file. `git`, `sed`, `date`, and `cat` must be 
+resolvable from the PATH for this script to work.
+
 # Customization
 
 ## Building a subset of the books
