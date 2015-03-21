@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE book [
+<!DOCTYPE printhistory [
   <!ENTITY % sharedents SYSTEM "../common/entities/global.ent">
   %sharedents;
+  <!ENTITY changelog_link "https://github.com/rwdalpe/two-graves/blob/master/src/scenario/CHANGELOG.md">
 ]>
-<!-- 
+<!--
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -26,19 +27,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
-<book xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
-  <info>
-    <title>&product_title; Player's Guide
-    </title>
-    <xi:include href="../common/authors.xml" />
-    <xi:include href="../common/legal.xml" />
-    <xi:include href="../common/pubdate.xml" />
-    <xi:include href="printhistory.xml" />
-  </info>
-  <xi:include href="chap1.xml"/>
-  <xi:include href="chap2.xml"/>
-  <xi:include href="glossary.xml" />
-  <xi:include href="../common/ogl.xml" />
-  <xi:include href="../common/mit.xml" />
-</book>
+<printhistory xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <para>
+    This is a living document that may undergo changes. The latest date of
+    modification is shown above. To see a detailed explanation of changes 
+    between releases, please visit 
+    <link xlink:href="&changelog_link;">the Changelog</link> 
+    or view the git commit history at 
+    1<link xlink:href="https://github.com/rwdalpe/two-graves"/>.
+  </para>
+</printhistory>

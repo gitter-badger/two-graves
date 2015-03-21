@@ -32,8 +32,9 @@ THE SOFTWARE.
     <title>&product_title;
     </title>
     <xi:include href="../common/authors.xml" />
-    <xi:include href="../common/release.xml" />
     <xi:include href="../common/legal.xml" />
+    <xi:include href="../common/pubdate.xml" />
+    <xi:include href="printhistory.xml" />
   </info>
   <xi:include href="chap1.xml" />
   <xi:include href="../common/ogl.xml" />
