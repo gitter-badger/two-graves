@@ -37,8 +37,8 @@ Main NPCs that need help:
   - suspicious youth who seeks out the most seedy PC and asks if they can help him. He has some 
     "stuff" that he recently bought from a traveling merchant and can't sneak it into his parent's
     luggage
-      - Sleight of hand, and Stealth to conceal the "stuff." Bluff to get past
-        other guards/parents. 
+    - Sleight of hand, and Stealth to conceal the "stuff." Bluff to get past
+      other guards/parents.
 
 - superstitious man
   - Name: Felix
@@ -49,6 +49,13 @@ Main NPCs that need help:
     figured it was such a deal that he bought 20 when he only needed one. He also wants help putting
     up charms and wards around his house. Once that's done, he figures it's basically a fortress so
     he might as well stay, right?
+    - Knowledge (arcana) or Knowledge (religion) 10 to know that's not a real thing,
+      Diplomacy or Bluff (DC 25) to talk him out of it and into something else
+      Intimidate is ineffective and just makes him think the spikes will work
+      against you.
+    - Strength (DC 15) and some time to drive the spikes in.
+    - Diplomacy or Bluff (DC 15) to convince him to leave his house after it's
+      "secured." Intimidate is again ineffective. Physical harm works. 
 
 - Inn keeper
   - Name: Cenbert
@@ -59,6 +66,9 @@ Main NPCs that need help:
     his inn so he takes great pains to point out the condition and rarity of _every_ single thing in
     his inn, and wants the police to recognize what he's saying. Of course, he's not above 
     embellishing the truth about the value of his inn.
+    - Knowledge (local) (DC 15) to answer his inquiries about insurance policies
+      Appraise for appraising his value estimates on the inn and its contents
+      Sense Motive may also help with that.
 
 - granddaughter
   - Name: Verna
@@ -67,6 +77,10 @@ Main NPCs that need help:
   - a 17 year old granddaughter of the old shepard. She's out hunting in the woods with her dog.
     She's perfectly capable, but the PCs don't necessarily know that, and she does have a penchant
     for staying out late--well past the deadline for evacuation.
+    - Run into the dog first. Dog has a low growling pose but won't attack. Have 2
+      rounds to do something nice with the animal.
+    - Survival (DC 15) to track Verna down. Diplomacy (DC 20) to improve her attitude
+      because she doesn't know who they are/what's going on, or befriend the dog.
 
 Once the PCs have evacuated the remaining villagers (which should happen just a bit before 
 nightfall), they load them up onto a couple wagons and head out. There are a couple police officers
@@ -94,9 +108,9 @@ After the gnolls leave and the caravan arrives in the town, the PCs are brought 
 with the local chief of police. This is their first opportunity to leave the gnoll plot line and
 switch to one of the other main lines.
 
-If any hostages were taken, the police chief has a few options available: if they got the map, offer
+If any hostages were taken, the police chief has a few options available: if they got the letter, offer
 to reward the PCs handsomly if they track down the gnolls and retrieve the hostages. If they don't
-have the map, then the chief has another idea: pose as civilians and become captured, then break
+have the letter, then the chief has another idea: pose as civilians and become captured, then break
 out from the inside. 
 
 Switch to one of the other plot lines now depending on the choice made by the PCs.
