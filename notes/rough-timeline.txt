@@ -5,7 +5,7 @@ The nation has a law that allows it to conscript its citizens into the national 
 in their lifetime. For any PCs that wouldn't have volunteered to join this mission, this is the
 reason why they are here.
 
-PCs volunteer or get press ganged into helping evacuate an outlying village. The reason for the
+PCs volunteer or get press ganged into helping evacuate an outlying village (Torvent). The reason for the
 evacuation is that the national police have a hunch that the gnolls will be attacking this village
 next. They believe that because they received a complaint from one of the farmers that a hyena had
 killed a few of his sheep. Hyenas are not native to the country. Most of the evacuation goes without
@@ -19,17 +19,31 @@ and then a body of officers will wait in ambush.
 Main NPCs that need help:
 
 - Old shepard
+  - Name: Eustace
+  - Appearance: Human male, bald with a big white beard and a floppy sun hat
+  - Quirks: Likes to nickel and dime requests, has a loose grip on reality
   - old man who placed the original complaint about the hyenas. Has the following requests:
     - kill the hyena
+      - CR 1 encounter w/ a hyena
     - help him get his sheep into the wagons to be evacuated (yeah right)
+      - Diplomacy (DC 20, or 15 if a plan is devised to save some of the sheep),
+        Bluff, Intimidate (DC 15), or other social manipulation. 
     - oh right his granddaughter is out in the woods gathering food
 
 - druggie teen
+  - Name: Tomas
+  - Appearance: Human male, wiry with black hair and a scragly pseudo-beard
+  - Quirks: Reads like an open book, shifty, tries too hard to appear "tough", prone to hero worship
   - suspicious youth who seeks out the most seedy PC and asks if they can help him. He has some 
     "stuff" that he recently bought from a traveling merchant and can't sneak it into his parent's
     luggage
+      - Sleight of hand, and Stealth to conceal the "stuff." Bluff to get past
+        other guards/parents. 
 
 - superstitious man
+  - Name: Felix
+  - Appearance: Human male, Beer belly and balding, covered in charms and totems
+  - Quirks: superstitious, easily persuaded, likes to think of himself as knowledgeable
   - superstitious villager who recently got a "bargain deal" on some "anti-evil spikes" that are
     supposed to keep evil influences away from buildings whose foundation they are driven into. He
     figured it was such a deal that he bought 20 when he only needed one. He also wants help putting
@@ -37,6 +51,9 @@ Main NPCs that need help:
     he might as well stay, right?
 
 - Inn keeper
+  - Name: Cenbert
+  - Appearance: Halfling male, brown braided, well-oiled hair and impeccably clean clothing
+  - Quirks: Very proud, but a bit sneaky
   - man who built an inn/tavern and insured it with the nation. as part of that insurance, he has to
     fill out some paperwork which he wants to do before he evacuates. And he cares a lot about
     his inn so he takes great pains to point out the condition and rarity of _every_ single thing in
@@ -44,6 +61,9 @@ Main NPCs that need help:
     embellishing the truth about the value of his inn.
 
 - granddaughter
+  - Name: Verna
+  - Appearance: Human female, wears practical, well-worn hunter's attire
+  - Quirks: Attached at the hip to her dog, independent to a fault, wants to return to the mountainmen
   - a 17 year old granddaughter of the old shepard. She's out hunting in the woods with her dog.
     She's perfectly capable, but the PCs don't necessarily know that, and she does have a penchant
     for staying out late--well past the deadline for evacuation.
