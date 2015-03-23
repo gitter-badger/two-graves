@@ -25,7 +25,7 @@ fi
 
 GITARGS+=" -- src/common $2"
 
-GITRESULTS=$(git log --pretty=format:"### %s%n%n%H%n%n%aN <%aE>%n%n%cI%n%n%b" $GITARGS)
+GITRESULTS=$(git log --pretty=format:"### %s%n%n[%H](https://github.com/rwdalpe/two-graves/commit/%H)%n%n%aN <%aE>%n%n%cI%n%n%b" $GITARGS)
 
 if [ -n "$GITRESULTS" ]
 then
