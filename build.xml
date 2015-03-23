@@ -262,7 +262,7 @@ THE SOFTWARE.
       <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
                    value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
-      <arg file="${lib}/${lib.docbook.stylesheets}/epub3/chunk.xsl" />
+      <arg file="${lib}/epub-customizations.xsl" />
       <arg value="base.dir=${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
       <arg value="draft.mode=${draft}" />
       <arg value="draft.watermark.image=draft.png" />
