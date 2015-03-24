@@ -113,4 +113,9 @@ to reward the PCs handsomly if they track down the gnolls and retrieve the hosta
 have the letter, then the chief has another idea: pose as civilians and become captured, then break
 out from the inside. 
 
+Police Chief
+  CG Halfling female (Swashbuckler 4)
+  Appearance: looks a bit piratey
+  Quirks: Has a penchant for daring plans
+
 Switch to one of the other plot lines now depending on the choice made by the PCs.
