@@ -80,4 +80,8 @@ THE SOFTWARE.
 <!ENTITY arts_city_quality_district "Masters District">
 <!ENTITY arts_city_rich_district "Garden District">
 <!ENTITY arts_city_poor_district "Barrelbottom District">
+<!ENTITY grand_bazaar "Grand Bazaar">
+<!ENTITY market_house "House of Commerce">
+<!ENTITY elven_enclave "Nascereli">
+<!ENTITY dwarven_enclave "Khurulag">
 <!ENTITY mdash "&#x2014;">

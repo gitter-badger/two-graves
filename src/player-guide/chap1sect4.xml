@@ -326,27 +326,59 @@ THE SOFTWARE.
       </info>
       <variablelist>
         <varlistentry>
-          <term>Grand Bazaar</term>
+          <term>&grand_bazaar;</term>
           <listitem>
-            <para/>
+            <para>
+              Thousands of shoppers browse the rows of tents 
+              that fill this enormous open-air market. As one of 
+              &market_city;'s internationally iconic features, the 
+              &grand_bazaar; is home to all sorts of novelties and
+              unique items. Although locally regarded as more for show
+              than function, it is not unheard of to find true treasures
+              nestled in the wares here. 
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>House of Commerce</term>
+          <term>&market_house;</term>
           <listitem>
-            <para/>
+            <para>
+              Dozens of imposing wooden boards line the walls of this
+              large forum, each filled with statistics and
+              predictions for various market goods. Harried merchant 
+              apprentices hustle along the walls with tablets and chalk
+              in an unending effort to keep the boards up to date.
+              Meanwhile, cold faced merchants and crafters eye the ever
+              changing boards like vipers ready to strike.
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>Elven Enclave</term>
+          <term>&elven_enclave;</term>
           <listitem>
-            <para/>
+            <para>
+              &elven_enclave; is &nation_name;'s largest single home of 
+              elves. Here they have fostered a small forest grove and 
+              made their homes in its trunks and boughs. Elves, 
+              Half-Elves, and fey races are openly welcomed, but most 
+              others find themselves loosely tolerated as permanent 
+              residents.
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>Dwarven Enclave</term>
+          <term>&dwarven_enclave;</term>
           <listitem>
-            <para/>
+            <para>
+              Not to be outdone by the forest of &elven_enclave;
+              or the cut stone of &market_city; itself, the Dwarves
+              constructed a miniature mountainscape out of boulders
+              from the nation's mines. Now complete complete with carved
+              homes and bold designs, &dwarven_enclave; is a colony in
+              its own right. Although legally no citizen may be 
+              forbidden residence here, most non-Dwarves find the stony,
+              cramped interior unwelcoming.
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
