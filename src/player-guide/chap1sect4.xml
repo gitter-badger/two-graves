@@ -348,7 +348,7 @@ THE SOFTWARE.
               predictions for various market goods. Harried merchant 
               apprentices hustle along the walls with tablets and chalk
               in an unending effort to keep the boards up to date.
-              Meanwhile, cold faced merchants and crafters eye the ever
+              Meanwhile, cold-faced merchants and crafters eye the ever
               changing boards like vipers ready to strike.
             </para>
           </listitem>
@@ -373,7 +373,7 @@ THE SOFTWARE.
               Not to be outdone by the forest of &elven_enclave;
               or the cut stone of &market_city; itself, the Dwarves
               constructed a miniature mountainscape out of boulders
-              from the nation's mines. Now complete complete with carved
+              from the nation's mines. Now complete with carved
               homes and bold designs, &dwarven_enclave; is a colony in
               its own right. Although legally no citizen may be 
               forbidden residence here, most non-Dwarves find the stony,
@@ -382,15 +382,95 @@ THE SOFTWARE.
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>Lakeside Docks</term>
+          <term>&market_city_harbor;</term>
           <listitem>
-            <para/>
+            <para>
+              Cargo boats fill the numerous docks of this large
+              harbor on the &valley_lake;. Much of &market_city;'s imports
+              and exports pass through this harbor, and deckhands work 
+              feverishly to keep the flow of goods moving. 
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
           <term>&arts_city_river; River Customs</term>
           <listitem>
-            <para/>
+            <para>
+              Owned by the &customs_dept;, this customs house sits
+              on an island in the &arts_city_river; River just before
+              it passes through the city. Ships queue up to have their 
+              cargo inspected and their paperwork approved by the 
+              grim-faced and serious officials who work here.
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&market_city_rich_district;</term>
+          <listitem>
+            <para>
+              Perched atop the highest hill of &market_city;'s 
+              lakeshore, &market_city_rich_district; houses the 
+              wealthiest citizens and dignitaries of the city. 
+              A stunning lakeside vista complements the opulent 
+              estates here, and the city's most reputable envoys traverse 
+              the boulevards on business for their employers.
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&market_city_shopping_district;</term>
+          <listitem>
+            <para>
+              The &market_city_shopping_district; is home to the majority
+              of &market_city;'s storefronts and markets, and is the
+              city's largest and most famous district. From small 
+              one-man storefronts to the &grand_bazaar; itself, the
+              &market_city_shopping_district; encompasses trade of all
+              sizes and types.
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&market_city_workshop_district;</term>
+          <listitem>
+            <para>
+              Strategically located between the &market_city_harbor;
+              and the storefronts of &market_city_shopping_district;,
+              the &market_city_workshop_district; provides for makers
+              who require larger, more complex facilities. The sounds of
+              creation clamour forth from the district's workshops and 
+              forges as each crafter develops his next masterpiece. 
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&market_city_residential_district;</term>
+          <listitem>
+            <para>
+              &market_city_residential_district; provides accommodation
+              for those residents who do not live in their stores or
+              workshops, and those visitors who choose not to pay the
+              premiums of inns in the &market_city_shopping_district;. 
+              Although they are not the gilded estates of 
+              &market_city_rich_district;, the homes and buildings in
+              this district are by no means in shambles. Even the 
+              simplest housing in &market_city; reflects the city's
+              wealth and high standards of living.
+            </para>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&market_city_govt_district;</term>
+          <listitem>
+            <para>
+              Home to the offices of information brokers, merchant guild 
+              members, and government officials, the 
+              &market_city_govt_district; hosts the unseen web of 
+              data and law that keeps the city running. Through word of
+              mouth and fleet couriers, information and orders rush from
+              this district to recipients within and beyond &market_city;'s
+              borders.
+            </para>
           </listitem>
         </varlistentry>
       </variablelist>

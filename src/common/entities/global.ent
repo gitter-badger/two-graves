@@ -84,4 +84,10 @@ THE SOFTWARE.
 <!ENTITY market_house "House of Commerce">
 <!ENTITY elven_enclave "Nascereli">
 <!ENTITY dwarven_enclave "Khurulag">
+<!ENTITY market_city_harbor "Lakeside Harbor">
+<!ENTITY market_city_rich_district "The Heights">
+<!ENTITY market_city_shopping_district "Coin District">
+<!ENTITY market_city_workshop_district "Workshop District">
+<!ENTITY market_city_residential_district "North District">
+<!ENTITY market_city_govt_district "Operations District">
 <!ENTITY mdash "&#x2014;">
