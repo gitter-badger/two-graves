@@ -1,3 +1,53 @@
+## 2015-03-24 23:10 PDT
+
+### Adding more missing places of interest section for crent in the PG
+
+[763c3620fb6c904b915bd6fafc27a5f306383477](https://github.com/rwdalpe/two-graves/commit/763c3620fb6c904b915bd6fafc27a5f306383477)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-03-24T23:01:54-07:00
+
+Adding Lakeside Harbor, Limen River Customs, and all Crent's city
+districts as Places of Interest with details to the player's guide.
+
+### Fixing styling bug when JS is disabled: unnecessary margins
+
+[c80ff7b29bb0a2181f14139c5a07bf967afd67e9](https://github.com/rwdalpe/two-graves/commit/c80ff7b29bb0a2181f14139c5a07bf967afd67e9)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-03-24T00:11:56-07:00
+
+
+### Adding more places of interest to Crent in the player's guide
+
+[3993f7936a5c246b3b66163486f6d7d5fbc9a82e](https://github.com/rwdalpe/two-graves/commit/3993f7936a5c246b3b66163486f6d7d5fbc9a82e)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-03-23T21:32:24-07:00
+
+Adding details for the Grand Bazaar, the House of Commerce,
+Nascerili, and Khurulag.
+
+### Fixing a minor typo with no meaningful impact
+
+[aed12830891a50cc95a4a3764032068dd0e1a8a8](https://github.com/rwdalpe/two-graves/commit/aed12830891a50cc95a4a3764032068dd0e1a8a8)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-03-22T20:19:17-07:00
+
+
+### Publishing CHANGELOGs for latest version
+
+[d038fb32979a1e066acbd9d13bf10b544553e532](https://github.com/rwdalpe/two-graves/commit/d038fb32979a1e066acbd9d13bf10b544553e532)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-03-21T03:18:16-07:00
+
 ## 2015-03-21 03:15 PDT
 
 ### Removing extraneous 1 character from printhistory
