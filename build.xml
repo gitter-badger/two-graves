@@ -68,7 +68,7 @@ THE SOFTWARE.
 
   <target name="build.epub"
           description="Create EPUB output"
-          depends="-clean.epub,validate,-do-build.epub" />
+          depends="-clean.epub,validate,-get-timestamp,-do-build.epub" />
 
   <target name="build.html.single"
           description="Create HTML output in a single file"
@@ -266,6 +266,7 @@ THE SOFTWARE.
       <arg value="base.dir=${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
       <arg value="draft.mode=${draft}" />
       <arg value="draft.watermark.image=draft.png" />
+      <arg value="NOW=${NOWSUB}" />
     </java>
 
     <if>
