@@ -1,0 +1,167 @@
+/* http://paletton.com/#uid=53N0u0ktr+BhxZWnD+tHU+8XULF */
+html {
+  font-family: serif;
+  font-size: 1em;
+  hyphens: auto;
+}
+
+div.titlepage {
+  margin-top: 1em;
+}
+
+div.titlepage h1, div.titlepage h2, div.titlepage h3, div.titlepage h4,
+  div.titlepage h5, div.titlepage h6 {
+  font-family: serif;
+  font-style: normal;
+  font-weight: bold;
+  margin-bottom: 0em;
+  margin-top: 0px;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 2.08em;
+}
+
+h3 {
+  font-size: 1.73em;
+}
+
+h4 {
+  font-size: 1.44em;
+}
+
+h5 {
+  font-size: 1.2em;
+}
+
+section.chapter>div.titlepage {
+  border-bottom: .15em solid #2E64FE;
+}
+
+div.authorgroup {
+  font-size: .8em;
+}
+
+div.toc ol {
+  list-style-type: none;
+}
+
+div.toc ol ol {
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+div.toc nav>ol {
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.author h3 {
+  font-weight: bold;
+  font-size: 1em;
+  margin-bottom: 0px;
+}
+
+div.legalnotice {
+  font-size: .8em;
+}
+
+div.sidebar {
+  padding: .25em;
+  border: 1px solid #000000;
+  background: #cccccc;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  page-break-inside: avoid;
+}
+div.sidebar div.titlepage {
+  margin-top: 0px;
+}
+div.sidebar div.titlepage div.sidebar-title {
+  font-weight: bold;
+  font-size: 1.44em;
+  margin-top: 0px;
+  font-size: 1.44em;
+}
+
+div.sidebar p:last-child {
+  margin-bottom: 0px;
+}
+
+a {
+  color: #2E64FE;
+}
+
+a:visited {
+  color: #652EFE;
+}
+
+p {
+  line-height: 1.2em;
+  margin: 0px;
+  text-indent: 2em;
+  text-align: justify;
+}
+
+div.titlepage+* {
+  text-indent: 0px;
+  margin-top: .25em;
+}
+
+p.legalnotice-title {
+  margin-top: 1em;
+  text-indent: 0px;
+}
+
+p.legalnotice-title+* {
+  margin-top: 1em;
+  text-indent: 0px;
+}
+
+li p {
+  text-indent: 0px;
+}
+
+ul {
+  margin: .5em 0px;
+  padding: 0px 0px 0px 1em;
+}
+
+dl {
+  clear: both;
+  margin: 0px;
+  padding: 0px;
+}
+
+dt {
+  clear: left;
+  float: left;
+  font-weight: bold;
+  text-indent: 2em;
+}
+
+dt::after {
+  content: ":";
+  margin-right: .5em;
+}
+
+dd {
+  margin: 0px;
+}
+
+dd p {
+  text-indent: 0px;
+}
+
+div.titlepage+div.variablelist>dl.variablelist:first-of-type>dt:first-of-type
+  {
+  text-indent: 0px;
+}
+
+section.appendix p {
+  font-size: .8em;
+}

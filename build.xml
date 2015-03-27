@@ -266,6 +266,8 @@ THE SOFTWARE.
       <arg value="base.dir=${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
       <arg value="draft.mode=${draft}" />
       <arg value="draft.watermark.image=draft.png" />
+      <arg value="docbook.css.link=0" />
+      <arg value="html.stylesheet=epubstyle.css" />
       <arg value="NOW=${NOWSUB}" />
     </java>
 
@@ -276,6 +278,10 @@ THE SOFTWARE.
               todir="${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
       </then>
     </if>
+
+    <copy file="${src}/${src.epub.cssfiledir}/${src.epub.cssfile}"
+          todir="${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS" />
+
 
     <zip basedir="${outputdir}/${outputdir.epub}/${toplevelBookName}/"
          destfile="${outputdir}/${outputdir.epub}/${toplevelBookName}/${toplevelBookName}.epub"
