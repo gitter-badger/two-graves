@@ -2,7 +2,6 @@
 html {
   font-family: serif;
   font-size: 1em;
-  hyphens: auto;
 }
 
 div.titlepage {
@@ -78,9 +77,11 @@ div.sidebar {
   margin-bottom: 1em;
   page-break-inside: avoid;
 }
+
 div.sidebar div.titlepage {
   margin-top: 0px;
 }
+
 div.sidebar div.titlepage div.sidebar-title {
   font-weight: bold;
   font-size: 1.44em;
@@ -105,6 +106,7 @@ p {
   margin: 0px;
   text-indent: 2em;
   text-align: justify;
+  hyphens: auto;
 }
 
 div.titlepage+* {
@@ -132,28 +134,23 @@ ul {
 }
 
 dl {
-  clear: both;
   margin: 0px;
   padding: 0px;
 }
 
 dt {
-  clear: left;
-  float: left;
   font-weight: bold;
-  text-indent: 2em;
 }
 
-dt::after {
-  content: ":";
-  margin-right: .5em;
+*+dt {
+  margin-top: 1em;
 }
 
 dd {
   margin: 0px;
 }
 
-dd p {
+dd>*:first-child {
   text-indent: 0px;
 }
 
