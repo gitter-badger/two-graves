@@ -162,10 +162,11 @@ within the chasm while the ancient elemental slumbers.
 
 The chasm separates and isolates this kingdom from southern advances.
 
-Total land area is probably around 5000 sq-mi with an average population density of 90/sq-mi, but
+Total land area is probably around 10000 sq-mi with an average population density of 45/sq-mi,
+and a maximum population density of 130/sq-mi but
 some of the land is uncleared frontier territory or lacks sufficient population to work it.
 
-A rough estimation of a rectangular area for the nation is 87mix58mi.
+A rough estimation of a rectangular area for the nation is 172mix58mi.
 
 Low hills in the region represent the majority of the settled land.
 
