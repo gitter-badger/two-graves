@@ -367,3 +367,13 @@ cave.
 This is really the only major city in the nation that has an obviously seedy area. It's full of bars
 and gambling halls that appeal to the wild crowd of the city. The cultists have an outpost here to
 recruit new members from the downtrodden populace here.
+
+Major Agencies and Factions
+===========================
+
+National Police Force
+---------------------
+
+Colors: red and silver. Identified by their red scarves with silver border.
+Scarves must be worn when on duty by all registered officers who are not
+undercover. Volunteers are not given a scarf.
