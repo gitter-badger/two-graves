@@ -1,0 +1,73 @@
+Modified Talismanic Components
+==============================
+
+New across the board rules
+--------------------------
+
+1. Crafters no longer need to be able to cast an item's prerequisite spells, if 
+any. Instead, the crafter need only meet two conditions. This also applies when 
+creating potions, spell-trigger, and spell-completion items. There is no 
+increase to the DC of the Spellcraft check to create the item due to missing 
+prerequisites, but if the crafter does not meet these conditions she cannot 
+create the item.
+    1. The crafter must have levels in a class which is capable of casting the 
+same type of magic as classes which have the prerequisite spell on their 
+spell list. 
+    2. The crafter must be able to cast spells of the same level as the 
+prerequisite spell. If the caster does not have the prerequisite spell on their 
+spell list, they must be able to cast spells of a level that matches the 
+highest level at which a class of their magic type adds the prerequisite spell 
+to their spell list. If the crafter has levels in spellcasting classes for 
+multiple types of magic, they may choose which type of magic to apply for this 
+condition.
+    3. If a crafter takes the Master Craftsman feat, they must choose a type of 
+magic for the purposes of meeting these conditions. This choice cannot be 
+changed.
+
+2 options for creation
+----------------------
+
+It is up to GM discretion which of these options are available on a 
+case-by-case basis.
+
+### Quest for the Talismanic Components
+
+A crafter can draw from latent magical energies which abound in certain 
+scenarios and places in order to craft magic items. In doing so, they go on a 
+quest to fulfill certain conditions necessary for crafting the item and in 
+exchange pay no cost or a reduced cost for the creation of the item.
+
+When crafting in this manner, the time needed to create the item is dependent 
+on the conditions required by the Talismanic Components. The process may be 
+instantaneous or require hours/days.
+
+When crafting in this manner, the crafter does not need to make a Spellcraft 
+check to complete the item. The item will always be created, but may result in 
+a cursed item. To determine if this happens, make a Spellcraft check against 
+the normal DC of the Spellcraft check to create the item minus 5. If the check 
+fails, the resulting item is cursed.
+
+If utilizing the Perks and Flaws rules for magic item creation, apply the 
+Aberrant Mutation crafting challenge when creating the item in lieu of making 
+the Spellcraft check. The results of the challenge affect the outcome of the 
+crafting process.
+
+Crafters may cooperate to meet the conditions necessary to craft the item if 
+multiple types of magic are needed. However, all crafters must meet the 
+conditions specified by the Talismanic Components.
+
+### Purchase the Talismanic Components
+
+A crafter may purchase, at the full price listed for crafting the item, 
+materials sufficient to satisfy any Talismanic Components. When crafting in 
+this manner, there is the possibility of failure. The crafter must make a 
+Spellcraft check to complete the item. This check follows the normal rules, and 
+can result in loss of materials and the need to start over or a cursed item. 
+When crafting in this manner, time is required as per the standard magic item 
+crafting rules. If multiple types of magic are required to create the item, 
+multiple crafters may cooperate to meet the conditions necessary. In this case, 
+only the primary crafter must succeed at the Spellcraft check to create the 
+item. The other crafters are simply providing magical resources necessary 
+to meet the conditions, and as such cannot assist on the Spellcraft check to 
+create the item unless they possess the ability to do so via means such as the 
+feat Cooperative Crafting.
