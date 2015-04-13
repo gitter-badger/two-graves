@@ -4,7 +4,9 @@
   xmlns:m="http://docbook.org/xslt/ns/mode" xmlns="http://www.w3.org/1999/xhtml"
   xmlns:db="http://docbook.org/ns/docbook" xmlns:tmpl="http://docbook.org/xslt/titlepage-templates"
   xmlns:f="http://docbook.org/xslt/ns/extension" xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  exclude-result-prefixes="t xsl m db tmpl f xs">
+  xmlns:usrfn="http://docbook.org/xslt/ns/user-extension"
+
+  exclude-result-prefixes="t xsl m db tmpl f xs usrfn">
 
   <xsl:import href="docbook-xslt2-2.0.7-rwdalpe/xslt/base/html/final-pass.xsl" />
 
@@ -47,6 +49,19 @@
       <xsl:apply-templates />
     </div>
   </xsl:template>
+
+  <xsl:function name="usrfn:is-acceptable-mediaobject" as="xs:integer">
+    <xsl:param name="object" as="element()" />
+
+    <xsl:choose>
+      <xsl:when test="$object/@role = 'hires'">
+        0
+      </xsl:when>
+      <xsl:otherwise>
+        1
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:function>
 
   <xsl:template name="t:user-titlepage-templates" as="element(tmpl:templates-list)?">
     <tmpl:templates-list>
