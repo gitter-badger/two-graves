@@ -22,29 +22,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
-<!ENTITY % seorsus SYSTEM "seorsus/seorsus.ent">
-%seorsus;
-
-
-<!ENTITY product_title "Two Graves">
-<!ENTITY barb_king "Thara"><!-- vengeance -->
-<!ENTITY meadows_nation "Folda" ><!-- earth -->
-<!ENTITY desert_kingdom "Mughim"><!-- bleak -->
-<!ENTITY mountains_nation "Orgiluud" ><!-- peaks -->
-<!ENTITY cliffs_nation "Krig" ><!-- war -->
-<!ENTITY cliffs_nation_person "Krigerian">
-<!ENTITY cliffs_nation_people "Krigeri"><!-- warriors -->
-<!ENTITY forest_nation "Alberi" ><!-- trees -->
-<!ENTITY mountainmen "Vuori" ><!-- mountain -->
-<!ENTITY firepeople "Hariq"><!-- fire -->
-<!ENTITY earthpeople "Aroda"><!-- earth -->
-
-<!ENTITY beast_tribes "Bestial Tribes">
-<!ENTITY falls "Three Bridge Falls">
-<!ENTITY mountain_range "Devil's Tail Mountains">
-<!ENTITY rift "Great Rift">
-<!ENTITY valley_lake "Clearlake">
-<!ENTITY portals "Thresholds">
-<!ENTITY police_head "Nigel Croft">
-<!ENTITY emperor "Marshall Blackwood">
-<!ENTITY mdash "&#x2014;">
+<!ENTITY law_city "Regunt"><!-- they rule -->
+<!ENTITY abadar_temple "The First Capitol">
+<!ENTITY police_hq "Praesidium">
+<!ENTITY library "Knight Library">
+<!ENTITY law_city_capitol "">
