@@ -26,4 +26,8 @@ THE SOFTWARE.
 <!ENTITY abadar_temple "The First Capitol">
 <!ENTITY police_hq "Praesidium">
 <!ENTITY library "Knight Library">
-<!ENTITY law_city_capitol "">
+<!ENTITY law_city_capitol "Capitol Building">
+<!ENTITY merchant_guild_hq "Mercantile Guildhall">
+<!ENTITY law_uni "&nation_name; University of Law and Business">
+<!ENTITY emperor_home "Imperial Residence">
+<!ENTITY main_portal "Grand Threshold">

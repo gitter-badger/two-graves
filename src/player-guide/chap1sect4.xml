@@ -517,25 +517,31 @@ THE SOFTWARE.
       </info>
       <variablelist>
         <varlistentry>
-          <term>Capitol Building</term>
+          <term>&law_city_capitol;</term>
           <listitem>
             <para/>
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>Temple of Abadar</term>
+          <term>&main_portal;</term>
           <listitem>
             <para/>
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>Merchant Guild Headquarters</term>
+          <term>&abadar_temple;</term>
           <listitem>
             <para/>
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>University of Law and Business</term>
+          <term>&merchant_guild_hq;</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&law_uni;</term>
           <listitem>
             <para/>
           </listitem>
@@ -547,19 +553,13 @@ THE SOFTWARE.
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>&police; Headquarters</term>
+          <term>&police_hq;</term>
           <listitem>
             <para/>
           </listitem>
         </varlistentry>
         <varlistentry>
-          <term>Lakeside Docks</term>
-          <listitem>
-            <para/>
-          </listitem>
-        </varlistentry>
-        <varlistentry>
-          <term>Emperor's Home</term>
+          <term>&emperor_home;</term>
           <listitem>
             <para/>
           </listitem>
