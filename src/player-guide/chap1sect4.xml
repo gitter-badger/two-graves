@@ -525,7 +525,15 @@ THE SOFTWARE.
         <varlistentry>
           <term>&main_portal;</term>
           <listitem>
-            <para/>
+            <para>
+              A gilded quarter-sphere in the north of the city contains the
+              divine masterpiece through which travel using the &portals;
+              is made possible. Heavily staffed by the &police; and the 
+              &customs_dept;, hundreds of travelers are processed daily here.
+              The quarter-sphere opens to a dazzling view of the 
+              &law_city_capitol;, imposing the nation's crown jewel as the first
+              and last thing journeyers see during their time in &nation_name;.
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
@@ -560,6 +568,42 @@ THE SOFTWARE.
         </varlistentry>
         <varlistentry>
           <term>&emperor_home;</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&law_city_residential_district;</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&law_city_politician_district;</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&law_city_government_district;</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&law_city_plaza_district;</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&law_city_uni_district;</term>
+          <listitem>
+            <para/>
+          </listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>&law_city_market_district;</term>
           <listitem>
             <para/>
           </listitem>
