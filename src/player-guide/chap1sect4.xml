@@ -547,7 +547,14 @@ THE SOFTWARE.
         <varlistentry>
           <term>&abadar_temple;</term>
           <listitem>
-            <para/>
+            <para>
+              Originally the capitol building during the nation's infancy, 
+              Abadar's temple has since returned to its primary function. 
+              Although it may not have the same prestige it once did, the temple
+              has certainly not degraded in splendor. From within the church's
+              golden halls the clergy works tirelessly to bring the vision of
+              their forebears, the &crusade_org;, to life.
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
