@@ -584,7 +584,15 @@ THE SOFTWARE.
         <varlistentry>
           <term>&emperor_home;</term>
           <listitem>
-            <para/>
+            <para>
+              Lush, tall gardens and a host of guards keep this gleaming marble
+              estate private and safe. Despite its seclusion from the public 
+              eye, even here the Emperor cannot escape the responsibilites of 
+              his position. A direct view to the &law_city_capitol; cuts through
+              the manor's grounds, in keeping with a law that decrees the
+              Emperor's bed must always face the capitol, such that his duties
+              will be his last sight before retiring and his first upon waking.
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
