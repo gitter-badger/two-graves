@@ -578,7 +578,14 @@ THE SOFTWARE.
         <varlistentry>
           <term>&police_hq;</term>
           <listitem>
-            <para/>
+            <para>
+              The headquarters of the &police; is a sharp building supported by 
+              thick columns of polished stone which stand vigil along its 
+              perimeter. The majority of citizens will only ever enter the 
+              public offices and temple of Iomedae within the structure. It is 
+              well known, however, that the &police_hq; also conceals a 
+              well-guarded network of armories, archives, and barracks.
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
