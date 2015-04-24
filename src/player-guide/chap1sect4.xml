@@ -560,7 +560,16 @@ THE SOFTWARE.
         <varlistentry>
           <term>&merchant_guild_hq;</term>
           <listitem>
-            <para/>
+            <para>
+              Just to the north of the docks and warehouses on the &valley_lake;
+              are a series of large but utilitarian guildhalls. Collected within
+              are offices of the various merchant guilds that do business in
+              &nation_name;. Although the guilds would almost certainly prefer
+              to be headquartered in &market_city;, the law requires that they
+              be located here in &law_city;. The cunning merchants have made the
+              best of their situation, though, taking every opportunity to
+              endlessly lobby in the interest of their guilds.
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
