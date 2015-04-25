@@ -581,7 +581,15 @@ THE SOFTWARE.
         <varlistentry>
           <term>&library;</term>
           <listitem>
-            <para/>
+            <para>
+              In the west of the city, adjacent to the &law_uni;, rises the
+              nation's premier repository of knowledge. From modern research 
+              journals to ancient folklore, the &library; provides access to
+              an enormous wealth of information at no cost. The &library_staff;
+              of the library work tirelessly to expand and preserve the 
+              collection, and are often seen moving like ghosts through the book 
+              stacks.
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
