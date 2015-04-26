@@ -138,3 +138,67 @@ CR 3 gnoll leader
 Mounted on muzzled hyaenodons
 X gnolls (they come until they have sustained some number of defeats at the hands of the PCs)
 
+Forest Camp
+-----------
+
+### Treasure
+
+- 3x masterwork studded leather armor
+- Daredevil boots
+- 300 gp assorted jewelry
+- 200 gp of quality, but not masterwork, assorted gear
+- A spellbook containing: mending, open/close, ant haul, dancing lantern
+- Bag of Nature's Travel
+
+#### Bag of Nature's Travel
+
+Aura moderate illusion; CL 7th
+Slot ---; Price ; Weight ---;
+
+This bag contains 3 pinches of a natural material such as leaves, sand, snow,
+or water that allow the possessor and other creatures to travel under the guise
+of a natural phenomenon. 
+
+As a standard action the user may remove a pinch of the material from 
+within the bag and toss it overhead. He and all creatures within 30 feet instantaneously
+enter into an illusion of a natural phenomenon related to the material taken. 
+For leaves this might be a small whirlwind filled with debris; for
+sand, a sandstorm; for snow, a snowstorm or avalanche; and for water, a rushing
+torrent. Conscious, unwilling creatures must make a DC 13 Will save to avoid 
+being pulled into the effect. The illusion occupies a 60ft space centered on the
+user. If a 60ft space is not available, the magic fails to activate.
+
+While under the illusion of the phenomenon, all creatures are treated as having
+a base speed of 80 and as under the effects of the following spells: 
+feather step, feather fall, water walk, invisibility, and zone of silence. 
+Regardless of the type of the phenomenon invoked, it can do no harm nor gains any
+other properties related to how it appears. For example, a rock slide does not
+crush creatures, a rush of water cannot batter down doors, and a snow storm cannot
+slip through cracks.
+ 
+Creatures with the ability to see through invisibility may target creatures within
+the illusion. Creatures within the illusion are not denied any normal bonuses they
+would receive against attacks or other effects.
+ 
+Creatures in the illusion may take no actions but may communicate as normal.
+The creature who tossed the material controls the movement of the illusion and all
+creatures within. He may cease the effect at any time as a free action. Conscious
+creatures within the illusion may make another DC 13 Will save each round to escape.
+Succeeding on the Will save immediately ejects the creature from the illusion,
+ending all related effects. Ejected creatures may not attempt to rejoin the
+illusion.
+
+The illusion lasts for 10 minutes, after which it and all related effects 
+immediately end. Creatures are deposited in the same configuration as they were
+when the effect began. The creature who tossed the material may toss another pinch
+while the illusion is still in effect as a standard action. This will reset the 
+duration of the illusion back to 10 minutes. All creatures within the illusion
+may attempt another DC 13 Will save to escape. No new creatures may enter the
+illusion when the material is used in this manner.
+
+The bag can never hold more than 3 pinches of material, nor can it hold multiple
+types of material at the same time. When new material is added to the bag, it
+requires a week of charging time from the point it was added before the magic
+can be used. The bag may be harmlessly emptied without activating it.
+
+Craft Wondrous Item, feather step, water walk, major image; Cost
