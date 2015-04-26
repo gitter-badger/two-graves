@@ -26,6 +26,9 @@ They find lots of other suspiciously good gear and spell components here.
 Gnoll king
 ==========
 
+Overview
+--------
+
 The gnoll king has taken up residence in the mountains on the north border of the country. He 
 doesn't know it, but he's staying in the now abandoned layer of an old dragon who once lived there.
 That dragon is the one who "killed" the lich king before he realized the truth of his condition. The
@@ -48,6 +51,74 @@ PCs have to fight their way up the mountainside and then into the gnollish compo
 to the king. They fight him, he reveals he had been put into power in exchange for his commanding
 the gnolls to do the massacres in a specific way. He drops some hints about robed figures and
 merchants giving them magic and gear.
+
+Things to encounter on the way to the king
+------------------------------------------
+
+### The hillbillies
+
+The hillbillies live near/in the foothills of the mountains in an ancient temple
+once owned by their ancestors. The temple was not much even in its
+prime, but is now in complete disrepair. Time and weather have worn it down to
+nothing more than a shattered set of walls and partial roof above ground, and a
+cave-like worship chamber below ground. The hillbillies themselves live in
+small huts surrounding the temple.
+
+The hillbillies ignorantly pantomime the rituals and words taught to them by
+generations past. They worship the mountain now, having forgotten all traces of
+the dragon, and their rituals---while distinctly draconic sounding---are 
+completely garbled and nonsensical. 
+
+Recently, however, they got something right. They unknowingly performed a 
+draconic spirit summoning ritual during their daily prayer to the mountain in 
+the temple's worship chamber. Of course, none of the hillbillies are capable of
+controlling such a summoned spirit, and it drove them out of the worship 
+chamber. They managed to seal it inside, but are distraught because they
+cannot give worship to the mountain as instructed. They were definitely taught
+the fear their ancestors had for what happened if you didn't give worship. They
+don't know how to interpret the appearance of the spirit, and various theories
+abound. "It's a ghost!", "The mountain is angry with us!", and "Someone malicious put it
+there to harm the mountain!" are all popular theories.
+
+If the party doesn't immediately attack the hillbillies, they will ask for
+assisstance in clearing out the summoned spirit, but not before the paranoid
+among the hillbillies suggests that maybe these adventurers put the spirit there
+to begin with!
+
+### The deaf giant
+
+Geirbrand
+"Giant" Cliff Giant
+
+Somewhere deeper in the mountain pass is a plot of land owned by a cliff giant.
+His name is Geirbrandr, and he has been deaf since a young age. He was able to
+hear long enough to learn Giant, but no other languages. He can speak and read,
+but not read lips and obviously not hear. Although he cannot hear, he still has 
+his youthful habit of mumbling to himself in giant when he's annoyed.
+
+Geirbrandr is very large for his people, and that coupled with his general
+isolation and lack of formal education has given him the impression that
+non-giant humanoid creatures are more or less in the same category as animals.
+They're smarter and hurt a bit more than animals, but are mostly just a nuisance
+that should be shooed away since they clearly don't know better.
+
+When humanoids trapse through his lands, he'll try to harmlessly pick them up 
+and gently toss them out of his gardens. If they resist he'll switch to 
+nonlethal force to incapacitate intruders before removing them, grumbling to
+himself all the while.
+
+The quickest way to deal with Geirbrandr is to get on mounts and sprint through
+his gardens. When humanoids do this it greatly annoys him, as it's roughly the
+equivalent of a herd of dogs running through someone's flower garden, but he'll
+just blow some smoke and fix the damage. This is how the gnolls have been 
+getting past him.
+
+If the party can somehow manage to befriend Geirbrandr, he will tell them the
+direction that gnolls speed through his garden and will also show them a 
+hidden route that will take them past the gnoll stronghold. This works 
+especially well if Geirbrandr is placed near the end of the mountain pass.
+If he's placed somewhere near the middle or beginning, the route will need to
+have some other benefit.
 
 Encounter Plans
 ===============
