@@ -52,6 +52,20 @@ to the king. They fight him, he reveals he had been put into power in exchange f
 the gnolls to do the massacres in a specific way. He drops some hints about robed figures and
 merchants giving them magic and gear.
 
+The path to the king
+--------------------
+
+The gnolls have a special way of getting up and down the mountains. The 
+merchants have procured for them a few giant shadow birds. These birds are
+rare polar nocturnal hunters capable of carrying large baskets of gnolls. When
+they fly, their feathers naturally exude a shadowy concealant, making them
+basically invisible at night. They fly groups of gnolls back and forth from
+the mountain. Finding their drop-zone results in seeing some gnoll tracks and a
+couple very large rectangular markings.
+
+In this way, the gnolls can easily adapt their attack strategy by simply
+flying somewhere else.
+
 Things to encounter on the way to the king
 ------------------------------------------
 
@@ -119,6 +133,32 @@ hidden route that will take them past the gnoll stronghold. This works
 especially well if Geirbrandr is placed near the end of the mountain pass.
 If he's placed somewhere near the middle or beginning, the route will need to
 have some other benefit.
+
+### Gargoyle ridge
+
+Gargoyles attack on a narrow mountain ridge. Attempt to drag you over the edge
+so they can steal your stuff and drop you.
+
+### Dead vuori
+
+Vuori smuggler found with some stuff
+
+### Encounter with Werebear
+
+### Aberrant trap
+
+Some sort of aberrations stage a trap involving a "lost child"
+
+### Kobold ambush
+
+ancient kobold dragon worshippers, now far flung into savagery, set up ambush on
+a particular part of the mountain pass
+
+### Some sort of mountain based skill challenge
+
+### Wandering mountain witch
+
+### Old mine in the foothills
 
 Encounter Plans
 ===============
