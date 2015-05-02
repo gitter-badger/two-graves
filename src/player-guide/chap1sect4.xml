@@ -575,14 +575,24 @@ THE SOFTWARE.
         <varlistentry>
           <term>&law_uni;</term>
           <listitem>
-            <para/>
+            <para>
+              In the west of the city is the &law_uni;.
+              It is the incubator of &law_city;'s commercial and political
+              genius and also the prime entry point to the upper echelons of
+              &nation_name;'s political economy. It is neigh unheard of
+              that prominent figures do not have some tie to the university.
+              As a result, its student body does not just comprise
+              promising, untested politicians and merchants, but also veterans 
+              and experts from other parts of the country looking to advance
+              their positions. 
+            </para>
           </listitem>
         </varlistentry>
         <varlistentry>
           <term>&library;</term>
           <listitem>
             <para>
-              In the west of the city, adjacent to the &law_uni;, rises the
+              Adjacent to the &law_uni; rises the
               nation's premier repository of knowledge. From modern research 
               journals to ancient folklore, the &library; provides access to
               an enormous wealth of information at no cost. The &library_staff;
