@@ -21,15 +21,15 @@
     padding-left: .5in;
     @top-left-corner {
       content: "";
-      background: #5784FE;
+      background: #3D4F7E;
     }
     @left-middle {
       content: "";
-      background: #5784FE;
+      background: #3D4F7E;
     }
     @bottom-left-corner {
       content: "";
-      background: #5784FE;
+      background: #3D4F7E;
     }
     @bottom-left {
       content: counter(page);
@@ -41,15 +41,15 @@
     padding-right: .5in;
     @top-right-corner {
       content: "";
-      background: #5784FE;
+      background: #3D4F7E;
     }
     @right-middle {
       content: "";
-      background: #5784FE;
+      background: #3D4F7E;
     }
     @bottom-right-corner {
       content: "";
-      background: #5784FE;
+      background: #3D4F7E;
     }
     
     @bottom-right {
@@ -139,6 +139,7 @@
     margin: 0px;
     text-indent: 2em;
     text-align: justify;
+    line-height: 1.2em;
   }
   /*
    * we specifically call out div.sidebar here
@@ -157,6 +158,11 @@
    */
   div.sidebar-content > *:first-child {
     text-indent: 0px;
+  }
+  div.sidebar {
+    padding-top: .1em;
+    padding-bottom: .1em;
+    border-left: 1em solid #7A9EFE;
   }
 
   ul {
