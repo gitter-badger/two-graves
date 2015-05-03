@@ -10,7 +10,7 @@ div.titlepage {
 
 div.titlepage h1, div.titlepage h2, div.titlepage h3, div.titlepage h4,
   div.titlepage h5, div.titlepage h6 {
-  font-family: serif;
+  font-family: sans-serif;
   font-style: normal;
   font-weight: bold;
   margin-bottom: 0em;
@@ -70,11 +70,9 @@ div.legalnotice {
 }
 
 div.sidebar {
-  padding: .25em;
-  border: 1px solid #000000;
-  background: #cccccc;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  padding: .1em 1em;
+  border-left: 1em solid #7A9EFE;
+  margin: 1em 0px;
   page-break-inside: avoid;
 }
 
