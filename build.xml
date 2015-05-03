@@ -264,6 +264,7 @@ THE SOFTWARE.
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/epub-customizations.xsl" />
       <arg value="base.dir=${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
+      <arg value="chapter.autolabel=0"/>
       <arg value="draft.mode=${draft}" />
       <arg value="draft.watermark.image=draft.png" />
       <arg value="docbook.css.link=0" />

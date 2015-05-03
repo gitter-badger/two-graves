@@ -11,6 +11,18 @@
   <xsl:import href="docbook-xslt2-2.0.8-rwdalpe/xslt/base/html/final-pass.xsl" />
 
   <xsl:param name="section.autolabel.max.depth" select="0" />
+  <xsl:param name="autolabel.elements">
+    <db:appendix format="A" />
+    <db:figure />
+    <db:example />
+    <db:table />
+    <db:equation />
+    <db:part format="I" />
+    <db:reference format="I" />
+    <db:preface />
+    <db:qandadiv />
+    <db:refsection />
+  </xsl:param>
   <xsl:param name="NOW" select="current-dateTime()" />
 
   <xsl:template name="t:user-head-content">
