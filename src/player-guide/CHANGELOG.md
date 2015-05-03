@@ -1,3 +1,203 @@
+## 2015-05-02 18:01 PDT
+
+### Updating EPUB styling to match the changes made previously
+
+[a4e80a9198edf6c5c749b1f5a95bcd78160c1cce](https://github.com/rwdalpe/two-graves/commit/a4e80a9198edf6c5c749b1f5a95bcd78160c1cce)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-05-02T17:44:27-07:00
+
+
+### Tweaking print styling as well to match style from last commit
+
+[33560975aa5b04f11afdb5def501d4d27a6eba92](https://github.com/rwdalpe/two-graves/commit/33560975aa5b04f11afdb5def501d4d27a6eba92)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-05-02T10:40:29-07:00
+
+
+### Tweaking HTML style quite a bit
+
+[c1c5c1cbccaec73cb119be44dbb603fabefa3ba0](https://github.com/rwdalpe/two-graves/commit/c1c5c1cbccaec73cb119be44dbb603fabefa3ba0)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-05-02T10:19:32-07:00
+
+Spending some time experimenting with the HTML style. I think I
+like this better. Things that were changed:
+
+- Table of Contents and headers now use Open Sans Condensed font
+- Body copy now uses serif fonts
+- body copy line height increased
+- Color palette changed slightly
+- Sidebar notes are no longer gray boxes. Instead are slightly
+more integrated with the rest of the page's style
+
+### Adding Regunt law and business university PoI to the PG
+
+[37e2e48f9f0e3c709c35698473e1f3f2db74373e](https://github.com/rwdalpe/two-graves/commit/37e2e48f9f0e3c709c35698473e1f3f2db74373e)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-05-01T21:06:28-07:00
+
+
+### Naming the Stewards of the Knight Library in Regunt
+
+[4ef11458558a8626c6dcfa6a2129df7b2a9291c3](https://github.com/rwdalpe/two-graves/commit/4ef11458558a8626c6dcfa6a2129df7b2a9291c3)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-04-30T22:37:47-07:00
+
+
+### Adding Knight Library PoI description to regunt PG
+
+[ffc85982d63198e27b8beaad768d6f460968b07a](https://github.com/rwdalpe/two-graves/commit/ffc85982d63198e27b8beaad768d6f460968b07a)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-04-24T22:46:46-07:00
+
+I'm not particularly happy with this one, but I want to get
+something down. I'll come back to it later.
+
+### Adding Mercantile Guildhall PoI description for Regunt in the PG
+
+[5a327ab97e0d89647094324f42e8c2feae0a7443](https://github.com/rwdalpe/two-graves/commit/5a327ab97e0d89647094324f42e8c2feae0a7443)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-04-23T21:22:46-07:00
+
+
+### Adding Praesidium PoI description to regunt section of PG
+
+[054483ac755f3723c979d7a89c17ee1b4092c93f](https://github.com/rwdalpe/two-graves/commit/054483ac755f3723c979d7a89c17ee1b4092c93f)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-04-22T23:52:19-07:00
+
+
+### Adding Imperial Residence PoI description in the players guide
+
+[3e830c0d7f1f878fc0f34c4c248823fa819e5405](https://github.com/rwdalpe/two-graves/commit/3e830c0d7f1f878fc0f34c4c248823fa819e5405)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-04-21T21:09:45-07:00
+
+
+### Adding Regunt Abadar temple PoI text to player's guide
+
+[dfb4ecd21cc85b84c1e95ce9cb7a030cf1367923](https://github.com/rwdalpe/two-graves/commit/dfb4ecd21cc85b84c1e95ce9cb7a030cf1367923)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-04-19T23:14:04-07:00
+
+
+### Adding Regunt Capitol Building PoI text to player's guide
+
+[0de3a42f2df5b4777b97bb13b630eeb328a6a173](https://github.com/rwdalpe/two-graves/commit/0de3a42f2df5b4777b97bb13b630eeb328a6a173)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-04-19T18:59:50-07:00
+
+
+### Starting body content of PG Regunt PoI
+
+[9c94d2775f11a7a568a43407c12eb2a7bdaee1a4](https://github.com/rwdalpe/two-graves/commit/9c94d2775f11a7a568a43407c12eb2a7bdaee1a4)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-04-19T15:25:49-07:00
+
+Adding body content for Grand Threshold PoI. Added Regunt district
+rough names. Those names will change soon.
+
+### Finalizing titles of Regunt's non-district places of interest
+
+[e25da8173f2230dc300173d20b5d565153d60985](https://github.com/rwdalpe/two-graves/commit/e25da8173f2230dc300173d20b5d565153d60985)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-04-18T13:23:48-07:00
+
+No content yet for the places of interest, but their titles are
+in place now. Still missing the districts.
+
+### Splitting out XML entities into separate files.
+
+[47341da819c016848a2c9c23877c1a608e98e883](https://github.com/rwdalpe/two-graves/commit/47341da819c016848a2c9c23877c1a608e98e883)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-04-18T11:53:53-07:00
+
+Eventually, I would probably like to take the `common/entities`
+folder and move it to a separate repository so that any future
+scenarios can all reference the same set of entities. At that
+time, it will be necessary to have some sort of structure
+implicitly defined on those entities.
+
+This is my first attempt at this. The entities are broken down
+by major geo-political region. Those are further broken down into
+the elements that constitute that region.
+
+### Restyling dl element for epub output
+
+[63e24372729228b8d1ca128ee2434ecea837535f](https://github.com/rwdalpe/two-graves/commit/63e24372729228b8d1ca128ee2434ecea837535f)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-03-27T19:09:58-07:00
+
+The floating dt elements weren't looking great in several ereading
+programs, so I'm simplifying them a bit so that they won't look so
+strange, even if they don't look as nice in the best case.
+
+### Finally simplifying the print stylesheets some.
+
+[b6ae8fd7e56fac18736d077fd872cd1d173695b7](https://github.com/rwdalpe/two-graves/commit/b6ae8fd7e56fac18736d077fd872cd1d173695b7)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-03-27T00:30:58-07:00
+
+Looking back of course the styles that were there were terribly
+bad code, but now they're more straightforward. Should be nearly
+identical visually.
+
+### Adding some custom CSS styling to EPUB output
+
+[3c05ba139eea0e4fe90e39088e57525536d57416](https://github.com/rwdalpe/two-graves/commit/3c05ba139eea0e4fe90e39088e57525536d57416)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-03-26T23:14:00-07:00
+
+Bringing over something similar to the HTML print CSS stylesheet
+for EPUB styling. That way, if the user device doesn't override it,
+we'll get something kind of the like the PDF but without columns
+or pictures.
+
+The styles are slightly different because the EPUB HTML comes from
+the docbook-xsl-ns stylesheets rather than the xslt20 stylesheets.
+
+### Publishing Players Guide CHANGELOG for latest version
+
+[8a4d03ed969c05a030c00f0cb97624296238d8f4](https://github.com/rwdalpe/two-graves/commit/8a4d03ed969c05a030c00f0cb97624296238d8f4)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-03-24T23:12:59-07:00
+
 ## 2015-03-24 23:10 PDT
 
 ### Adding more missing places of interest section for crent in the PG

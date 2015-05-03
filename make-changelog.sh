@@ -6,7 +6,8 @@ LASTCOMMIT=""
 
 if [ -e $1 ]
 then
-  LASTCOMMIT=$(sed '5q;d' "$1")
+  # Extract the last commit hash from the changelog
+  LASTCOMMIT=$(sed '5q;d' "$1" | sed -n 's/.*\[\(.*\)\].*/\1/p')
   if [ -n "$LASTCOMMIT" ]
   then
     USELASTCOMMIT=1
