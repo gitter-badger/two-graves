@@ -15,3 +15,30 @@ The gamblers are in the sewer, but a different part of the sewer than the seedy
 bar patron from the cult plot Hook 1. When confronted, they of course flee, and
 the mission may become to track them down and bring them in from the city 
 without disrupting the ongoing festival at the time.
+
+Intermediary Hook: Verna's Father
+=================================
+
+On the way to the mountain pass, the group can come across a small band of
+Vuori. 5 men in total. If Verna is with them, she'll break all cover and run up
+to them. She'll start yelling during her approach if they've seen a Vuori with
+a big red beard. Her voice trails off as they turn around and she notes that 3
+of the 5 men have red beards of varying length.
+
+She's looking for her father, a Vuori described by her mother as having
+"the biggest red beard she'd ever seen, and missing a toe on his right foot."
+Verna's mother died early in Verna's life and never told anyone her father's
+name, for fear that her grandfather would try to go into the mountains and hunt
+him down (a likely assumption).
+
+The vuori here are smugglers. Their whole party consists of 8 men. 1 man was
+their fur hunter who left the group some days ago to hunt down a leopard. He
+is now, unbeknownst to them, dead. He too had a big red beard, but is not 
+Verna's father.
+
+The other two are going to pick up the cache they've been hired to smuggle out
+of the country. They won't be back for some time, and the Vuori here aren't
+going to leave without them. They're jumpy overall, being smugglers and whatnot,
+but they are all genuinely concerned for Verna, and will truthfully agree to
+help her if they aren't too pressured by the players. Verna will, of course,
+want to go with them. 
