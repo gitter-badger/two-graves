@@ -31,10 +31,9 @@ THE SOFTWARE.
 <!ENTITY law_uni "&nation_name; University of Law and Business">
 <!ENTITY emperor_home "Imperial Residence">
 <!ENTITY main_portal "Grand Threshold">
-<!ENTITY law_city_residential_district "Residential District">
-<!ENTITY law_city_politician_district "Rich Residential District">
-<!ENTITY law_city_government_district "Government District">
+<!ENTITY law_city_residential_district "Commuter's District">
+<!ENTITY law_city_politician_district "Uptown District">
+<!ENTITY law_city_government_district "Principal District">
 <!ENTITY law_city_plaza_district "Main Plaza">
-<!ENTITY law_city_uni_district "University District">
-<!ENTITY law_city_market_district "Market District">
+<!ENTITY law_city_market_district "Commercial District">
 <!ENTITY library_staff "Stewards">
