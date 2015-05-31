@@ -42,3 +42,35 @@ going to leave without them. They're jumpy overall, being smugglers and whatnot,
 but they are all genuinely concerned for Verna, and will truthfully agree to
 help her if they aren't too pressured by the players. Verna will, of course,
 want to go with them. 
+
+Intermediary Hook: Observatory Hag
+==================================
+
+High-level summary:
+- 50-80 years ago Desnan astronomers came into the mountains to found an 
+observatory. They did it.
+- They have a journal where they note that there are some kobolds living in ice
+caves nearby. Not considered a threat, and they have "means of securing the
+observatory if necessary."
+- One day journal details the arrival of the hag
+- Hag assaults observatory
+- Astronomers secure the 2nd and 3rd floors using magic
+- Hag gets in somehow, forces astronomers away/kills them
+- Hag takes over observatory, enslaves kobolds
+  - the kobolds were made arctic by the dragon that used to live in the 
+  mountains. The hag ensorcelled/killed off all the old shamans and replaced
+  their dogma with her own. no clues left about the dragon's involvement except
+  notes from the astronomers that the kobolds were already arctic before the
+  hag's arrival.
+
+Astronomers had some nice stuff:
+- (magical?) spyglass
+- broken magical telescope. could be repaired and then allows you to see into
+other planes
+- other assorted loot
+
+Journal and some loot is hidden behind a door that has a magical starmap on it.
+The stars can be rearranged. Knowledge (religion) check recalls a Desnan folk
+tail that recounts a poem of a race between man and a rabbit to determine which
+creature would possess Desna's luck. Rabbit wins, that's why rabbits' feet are
+lucky. Rearrange star map to form a rabbit = door open.
