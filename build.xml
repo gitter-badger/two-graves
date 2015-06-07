@@ -96,7 +96,7 @@ THE SOFTWARE.
     <delete file="${lib}/${lib.jing.zip}" />
     <delete dir="${lib}/${lib.tools}/${lib.calabash}" />
     <delete file="${lib}/${lib.calabash.zip}" />
-    <delete file="${lib}/${lib.fop}"/>
+    <delete dir="${lib}/${lib.fop}"/>
     <delete file="${lib}/${lib.fop.zip}"/>
   </target>
 
