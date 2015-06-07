@@ -96,6 +96,8 @@ THE SOFTWARE.
     <delete file="${lib}/${lib.jing.zip}" />
     <delete dir="${lib}/${lib.tools}/${lib.calabash}" />
     <delete file="${lib}/${lib.calabash.zip}" />
+    <delete file="${lib}/${lib.fop}"/>
+    <delete file="${lib}/${lib.fop.zip}"/>
   </target>
 
   <target name="getlibs" description="Retrieve all necessary lib files for building">
@@ -109,6 +111,8 @@ THE SOFTWARE.
     <unzip dest="${lib}/" src="${lib}/${lib.jing.zip}" overwrite="false" />
     <get dest="${lib}/" src="${lib.calabash.url}" skipexisting="true" />
     <unzip dest="${lib}/${lib.tools}" src="${lib}/${lib.calabash.zip}" overwrite="false" />
+    <get dest="${lib}/" src="${lib.fop.url}" skipexisting="true" />
+    <unzip dest="${lib}/" src="${lib}/${lib.fop.zip}" overwrite="false" />
   </target>
 
   <target name="release"
