@@ -101,7 +101,6 @@ THE SOFTWARE.
   </target>
 
   <target name="getlibs" description="Retrieve all necessary lib files for building">
-    <chmod perm="u+x" file="${lib}/${lib.fop}/fop" />
     <mkdir dir="${lib}" />
     <get dest="${lib}/" src="${lib.xslt2stylesheets.url}" skipexisting="true" />
     <unzip dest="${lib}/" src="${lib}/${lib.xslt2stylesheets.zip}" overwrite="false" />
@@ -113,6 +112,7 @@ THE SOFTWARE.
     <unzip dest="${lib}/${lib.tools}" src="${lib}/${lib.calabash.zip}" overwrite="false" />
     <get dest="${lib}/" src="${lib.fop.url}" skipexisting="true" />
     <unzip dest="${lib}/" src="${lib}/${lib.fop.zip}" overwrite="false" />
+    <chmod perm="u+x" file="${lib}/${lib.fop}/fop" />
   </target>
 
   <target name="release"
