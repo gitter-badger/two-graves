@@ -66,6 +66,20 @@ couple very large rectangular markings.
 In this way, the gnolls can easily adapt their attack strategy by simply
 flying somewhere else.
 
+The dragon's den
+----------------
+
+### History
+
+dragon that lived here was an aerial ace. entrance is a 45deg angle swooping tunnel that would
+require immense dexterity to navigate in flight. guarded by a craggy exterior that shields view
+of the entrance from below. dragon would swoop in before catching his descent at the entrance
+to the main cave. at the bottom, as a contingency, is a hot spring with some minor healing
+properties. dragon could use it as a crash pad.
+
+the hot spring adds humidity and such to the cave system, enabling an ecosystem that might not
+otherwise be possible in a series of ice caves.
+
 Things to encounter on the way to the king
 ------------------------------------------
 
