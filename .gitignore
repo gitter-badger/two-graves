@@ -5,6 +5,7 @@ output
 docbook.xsd
 lib/*.zip
 lib/**/*.zip
+lib/fop-1.1
 lib/docbook-*-rwdalpe
 lib/docbook-xsl-java*
 lib/tools/*calabash*
