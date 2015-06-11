@@ -656,7 +656,13 @@ THE SOFTWARE.
         <varlistentry>
           <term>&law_city_plaza_district;</term>
           <listitem>
-            <para/>
+            <para>
+	      The &law_city_plaza_district; is filled with open gardens and
+	      other areas for public gatherings. This district lies in contrast
+	      with the purposeful feeling that pervades the rest of
+	      &law_city;, providing residents and visitors with an escape
+	      from unending the rush of the city.
+	    </para>
           </listitem>
         </varlistentry>
         <varlistentry>
