@@ -632,7 +632,13 @@ THE SOFTWARE.
         <varlistentry>
           <term>&law_city_residential_district;</term>
           <listitem>
-            <para/>
+            <para>
+	      &law_city_residential_district; caters to citizens who need
+	      or choose to spend their time between &law_city; and other
+	      settlements. The area features modest, efficient housing and a
+	      large number of inns with convenient access to the major roads
+	      between &law_city; and &market_city; and &arts_city;.
+	    </para>
           </listitem>
         </varlistentry>
         <varlistentry>
