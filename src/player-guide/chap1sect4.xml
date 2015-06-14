@@ -644,13 +644,29 @@ THE SOFTWARE.
         <varlistentry>
           <term>&law_city_politician_district;</term>
           <listitem>
-            <para/>
+            <para>
+	      Home to many of &law_city;'s powerful mercantile and
+	      political elite, the &law_city_politician_district; features
+	      lavish estates with secluded vistas onto the &valley_lake;.
+	      Tactically located near hotbeds of influence such as the
+	      &law_city_government_district;, &law_uni;, and
+	      &law_city_market_district;, soirees and galas featuring
+	      the nation's most renowed often take place here.
+	    </para>
           </listitem>
         </varlistentry>
         <varlistentry>
           <term>&law_city_government_district;</term>
           <listitem>
-            <para/>
+            <para>
+	      The largest district in the city, the &law_city_government_district;
+	      contains the majority of &law_city;'s government buildings and
+	      centers of religious worship. Neat and orderly even under the
+	      weight of the thousands working here, this district could almost
+	      be considered a settlement of its own within the city. Businesses of all
+	      types have been built to support the district's employees, ensuring
+	      they are well provided for as they toil for the good of the nation.
+	    </para>
           </listitem>
         </varlistentry>
         <varlistentry>
@@ -668,7 +684,12 @@ THE SOFTWARE.
         <varlistentry>
           <term>&law_city_market_district;</term>
           <listitem>
-            <para/>
+            <para>
+	      This district houses the city's harbors, markets, and enterprises
+	      like the &merchant_guild_hq;. Busy at all times of day and night,
+	      goods endlessly flow through wide streets for sale, storage, and
+	      evaluation.
+	    </para>
           </listitem>
         </varlistentry>
       </variablelist>
