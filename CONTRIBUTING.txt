@@ -1,3 +1,16 @@
+# Contributor Licensing Agreement
+
+By submitting code for official inclusion into this project, you agree
+that your submitted work, including modifications or derivatives of existing
+work, is licensed under the MIT License and that you have the authority
+to offer this licensing to the project.
+
+By submitting textual content for official inclusion into this project,
+you agree that your submitted work, including modifications or
+derivatives of existing work, is designated as Open Game Content as defined
+in the Open Gaming License version 1.0a Section 1(d) and that you have
+the authority to offer this licensing to the project.
+
 # How to contribute
 
 We welcome contributions to the project! We have a few process and

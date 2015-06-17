@@ -34,6 +34,7 @@ THE SOFTWARE.
   <!-- BEGIN ADDITIONAL LIBRARIES AND CLASSPATH DEFINITIONS -->
 
   <path id="xslt2.classpath">
+    <pathelement location="${lib}/${lib.tools}" />
     <fileset dir="${lib}/${lib.tools}/${lib.calabash}">
       <include name="**/*.jar" />
     </fileset>
@@ -41,7 +42,6 @@ THE SOFTWARE.
       <include name="**/*.jar" />
     </fileset>
     <pathelement location="${lib}/${lib.xslt2stylesheets-extensions}" />
-    <pathelement location="${lib}/${lib.tools}" />
   </path>
 
   <path id="xslt1.classpath">
