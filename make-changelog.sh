@@ -30,7 +30,7 @@ GITRESULTS=$(git log --pretty=format:"### %s%n%n[%H](https://github.com/rwdalpe/
 
 if [ -n "$GITRESULTS" ]
 then
-  echo -e "$GITRESULTS\n" | cat - "$1" > "$1.new"
+  echo -e "$GITRESULTS\n" > "$1.new"
   mv "$1.new" "$1"
   echo -e "## $(date --date "$3" +"%Y-%m-%d %H:%M %Z")\n" | cat - "$1" > "$1.new"
   mv "$1.new" "$1"
