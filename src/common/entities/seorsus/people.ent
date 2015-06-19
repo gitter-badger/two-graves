@@ -22,21 +22,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
-<!ENTITY % cities-law_city SYSTEM "cities/law_city.ent">
-%cities-law_city;
-<!ENTITY % cities-arts_city SYSTEM "cities/arts_city.ent">
-%cities-arts_city;
-<!ENTITY % cities-market_city SYSTEM "cities/market_city.ent">
-%cities-market_city;
-<!ENTITY % groups SYSTEM "groups.ent">
-%groups;
-<!ENTITY % people SYSTEM "people.ent">
-%people;
-<!ENTITY % places SYSTEM "places.ent">
-%places;
-
-<!ENTITY nation_name "Seorsus"><!-- sundered -->
-<!ENTITY nation_person "Seorsite">
-<!ENTITY nation_people "Seorsites">
-<!ENTITY old_nation_name "Sejunctu'serat"><!-- was separated -->
-<!ENTITY valley_name "Multae"><!-- many -->
+<!ENTITY police_head "Nigel Croft">
+<!ENTITY emperor "Marshall Blackwood">
