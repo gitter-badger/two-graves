@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE glossary [
-  <!ENTITY % sharedents SYSTEM "./entities/global.ent">
+  <!ENTITY % sharedents SYSTEM "urn:x-twograves:globalentities">
   %sharedents;
 ]>
 <!-- 

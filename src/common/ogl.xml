@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE appendix [
+  <!ENTITY % sharedents SYSTEM "urn:x-twograves:globalentities">
+  %sharedents;
+]>
 <!--
 The MIT License (MIT)
 
@@ -179,7 +183,7 @@ THE SOFTWARE.
     Reynolds.
   </para>
   <para>
-    Two Graves Player's Guide Copyright 2014, Robert Winslow Dalpe and 
+    &product_title; Player's Guide Copyright 2014, Robert Winslow Dalpe and 
     Ashlyn Warren.
   </para>
 </appendix>

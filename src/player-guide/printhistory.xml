@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE printhistory [
-  <!ENTITY % sharedents SYSTEM "../common/entities/global.ent">
+  <!ENTITY % sharedents SYSTEM "urn:x-twograves:globalentities">
   %sharedents;
   <!ENTITY changelog_link "https://github.com/rwdalpe/two-graves/blob/master/src/player-guide/CHANGELOG.md">
 ]>
