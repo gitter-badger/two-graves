@@ -36,15 +36,15 @@ THE SOFTWARE.
       <title>Commonalities Across Races</title>
     </info>
     <para>
-      Due to the high economic and entertainment specialties of &nation_name;, it draws craftsman
+      Due to the high economic and entertainment specialties of <glossterm baseform="&nation_name;">&nation_name;</glossterm>, it draws craftsman
       and tourists from all over the world. Unless described otherwise, you can assume that almost
       any race can be represented as either a craftsman or a tourist.
     </para>
     <para>
-      Futhermore, the nation of &cliffs_nation; has no discrimination against any race so long as 
-      they can carry their weight in war. &cliffs_nation_person; bodyguards, hunters, policemen, and 
+      Futhermore, the nation of <glossterm baseform="&cliffs_nation;">&cliffs_nation;</glossterm> has no discrimination against any race so long as 
+      they can carry their weight in war. <glossterm baseform="&cliffs_nation_person;">&cliffs_nation_person;</glossterm> bodyguards, hunters, policemen, and 
       members of any other profession that involves martial prowess can easily find employment in 
-      &nation_name; regardless of their racial background.
+      <glossterm baseform="&nation_name;">&nation_name;</glossterm> regardless of their racial background.
     </para>
   </sidebar>
   <section>
@@ -53,21 +53,21 @@ THE SOFTWARE.
     </info>
     <para>
       Humans are the dominant race in the central cities and in the nation at large, despite the 
-      generally high levels of diversity in the country. Humans native to &nation_name;
+      generally high levels of diversity in the country. Humans native to <glossterm baseform="&nation_name;">&nation_name;</glossterm>
       are represented in all professions, and tend to hold the majority of influential positions 
       both in the economic and political spheres. They can be found in every major city and in the
       outlying areas of the country.
     </para> 
     <para>
-      Humans hailing from other parts of the continent tend to come to &nation_name; for
+      Humans hailing from other parts of the continent tend to come to <glossterm baseform="&nation_name;">&nation_name;</glossterm> for
       more specialized reasons. Farmers, clerics on pilgrimage, and visiting aristocrats from 
-      &meadows_nation; are all common sights. The goat-riding &mountainmen; 
-      from the peaks of &mountains_nation;
+      <glossterm baseform="&meadows_nation;">&meadows_nation;</glossterm> are all common sights. The goat-riding <glossterm baseform="&mountainmen;">&mountainmen;</glossterm> 
+      from the peaks of <glossterm baseform="&mountains_nation;">&mountains_nation;</glossterm>
       are more rare, but sometimes come down to the valley for supplies or when they are seeking
       lesser or perhaps even greater solitude than they found among their people in the mountains.
-      The exotic &firepeople; from neighboring &desert_kingdom; are often employed as guides and 
-      laborers, although some have left their homes to make a living as performers in &arts_city;.
-      Humans from &forest_nation; are significantly more rare, but occasionally a prodigy from the 
+      The exotic <glossterm baseform="&firepeople;">&firepeople;</glossterm> from neighboring <glossterm baseform="&desert_kingdom;">&desert_kingdom;</glossterm> are often employed as guides and 
+      laborers, although some have left their homes to make a living as performers in <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
+      Humans from <glossterm baseform="&forest_nation;">&forest_nation;</glossterm> are significantly more rare, but occasionally a prodigy from the 
       mage's academy or a wayward druid will make an appearance.
     </para>
   </section>
@@ -77,19 +77,19 @@ THE SOFTWARE.
     </info>
     <para>
       Because of the rich underground resources in the country, dwarves are frequently drawn here.
-      Most dwarves hail from the mountains in &mountains_nation; to live with their bretheren in the 
+      Most dwarves hail from the mountains in <glossterm baseform="&mountains_nation;">&mountains_nation;</glossterm> to live with their bretheren in the 
       large network of dwarven homes that have been built under the earth. Although most dwarves
       will be living in the outlying areas of the nation, many certainly do find their way to
       the central cities. 
     </para>
     <para>
-      Most dwarves will find &market_city; to their liking, as the ever-open markets and vendors 
+      Most dwarves will find <glossterm baseform="&market_city;">&market_city;</glossterm> to their liking, as the ever-open markets and vendors 
       offer a great opportunity to sell their wares and find rare materials. Some dwarves with an 
-      eye for government or leadership settle in &law_city; and take a post in a guild 
+      eye for government or leadership settle in <glossterm baseform="&law_city;">&law_city;</glossterm> and take a post in a guild 
       or legal office. Dwarves in the legal realm tend to put their strong racial loyalties to use
       defending the interests of other dwarves, and as such many find their way into positions as 
       District Representatives. Dwarves rarely tend to have the patience for as wild a city as
-      &arts_city;.
+      <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
     </para>
   </section>
   <section>
@@ -100,13 +100,13 @@ THE SOFTWARE.
       Elves do come to the central cities in some numbers, but are rarely found elsewhere the nation.
       Drawn by the wealth of craftsmanship and artistic talent, elves come to display their own prowess
       and compare their works to other master artisans'. Because of this, most elves make their home in
-      a de-facto elven district in &market_city;, where they can live in a manner closer to home while still 
+      a de-facto elven district in <glossterm baseform="&market_city;">&market_city;</glossterm>, where they can live in a manner closer to home while still 
       reaping the advantages of the city. Elves almost never bother with the political and mercantile
-      business that takes place in &law_city;, but sometimes are drawn to the lively music and performances
-      in &arts_city;.
+      business that takes place in <glossterm baseform="&law_city;">&law_city;</glossterm>, but sometimes are drawn to the lively music and performances
+      in <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
     </para>
     <para>
-      Most of the elves living in &nation_name; hail from from &forest_nation;, and those that are 
+      Most of the elves living in <glossterm baseform="&nation_name;">&nation_name;</glossterm> hail from from <glossterm baseform="&forest_nation;">&forest_nation;</glossterm>, and those that are 
       not craftsmen are most often artists or performers, members of the mage's academy, druids, 
       rangers, or clerics of Shelyn. 
     </para>
@@ -116,12 +116,12 @@ THE SOFTWARE.
       <title>Gnomes</title>
     </info>
     <para>
-      The constant festivites and general excitement of &arts_city; are perfectly suited to the typical
+      The constant festivites and general excitement of <glossterm baseform="&arts_city;">&arts_city;</glossterm> are perfectly suited to the typical
       gnome's demeanor. There they delight in taking part in or simply watching performances. While some
       rise to great heights in official groups, most gnomes find great pleasure in being street performers
       or vendors. Gnomes with an eye for business or a craving for the excitement of mercantile 
-      enterprises will sometimes venture into &market_city; to try their luck there.
-      &law_city; is far too boring and rigid for the majority of Gnomes, and they are rarely seen
+      enterprises will sometimes venture into <glossterm baseform="&market_city;">&market_city;</glossterm> to try their luck there.
+      <glossterm baseform="&law_city;">&law_city;</glossterm> is far too boring and rigid for the majority of Gnomes, and they are rarely seen
       there.
     </para>
     <mediaobject role="half-image">
@@ -137,12 +137,12 @@ THE SOFTWARE.
     <para>
       Halflings dovetail with ease into the hubbub and excitement of the central cities, and
       they can be found in great numbers all over the country. 
-      Artisans, shopkeepers, performers, and even occasionally politicians, a &nation_person; 
+      Artisans, shopkeepers, performers, and even occasionally politicians, a <glossterm baseform="&nation_person;">&nation_person;</glossterm> 
       halfling's upbeat and amiable attitude is a formidable asset.
     </para>
     <para>
-      Halflings coming from &meadows_nation; are often members of the merchant class, seeking 
-      potential business partners. The rural, hill-giant loving halflings from &mountains_nation;
+      Halflings coming from <glossterm baseform="&meadows_nation;">&meadows_nation;</glossterm> are often members of the merchant class, seeking 
+      potential business partners. The rural, hill-giant loving halflings from <glossterm baseform="&mountains_nation;">&mountains_nation;</glossterm>
       are more likely to become farmers in the outskirts of the nation.
     </para>
   </section>
@@ -154,9 +154,9 @@ THE SOFTWARE.
       Half-elves face no discrimination for their mixed origin in any of the central cities, where diversity
       is welcome and omnipresent. Because of this welcoming environment, half-elves have flourished in
       the region and many travel from distant lands to come here. They are the second most populous
-      race in &nation_name;. Here, their mixed origin plays to their
+      race in <glossterm baseform="&nation_name;">&nation_name;</glossterm>. Here, their mixed origin plays to their
       advantage, and they are well suited to any role. However, many heed the call of their
-      elven side and find themselves as either artisans in &market_city; or performers in &arts_city;.
+      elven side and find themselves as either artisans in <glossterm baseform="&market_city;">&market_city;</glossterm> or performers in <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
     </para>
   </section>
   <section>
