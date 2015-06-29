@@ -11,6 +11,7 @@
   <xsl:import href="docbook-xslt2-2.0.8-rwdalpe/xslt/base/html/final-pass.xsl" />
 
   <xsl:param name="section.autolabel.max.depth" select="0" />
+  <xsl:param name="glossterm.auto.link" select="1" />
   <xsl:param name="autolabel.elements">
     <db:appendix format="A" />
     <db:figure />

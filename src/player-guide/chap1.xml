@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE chapter [
-  <!ENTITY % sharedents SYSTEM "../common/entities/global.ent">
+  <!ENTITY % sharedents SYSTEM "urn:x-twograves:globalentities">
   %sharedents;
 ]>
 <!--
@@ -32,7 +32,8 @@ THE SOFTWARE.
     <title>The Nation of &nation_name;</title>
   </info>
   <para>
-    Here you will find information about &nation_name; and its major settlments that any 
+    Here you will find information about <glossterm baseform="&nation_name;">&nation_name;</glossterm>
+    and its major settlments that any 
     individual who lives in or has briefly researched the nation would know. Feel free to use 
     these sections to help build your characters and integrate them into the world. 
   </para>

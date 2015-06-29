@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE glossary [
-  <!ENTITY % sharedents SYSTEM "../common/entities/global.ent">
+  <!ENTITY % sharedents SYSTEM "./entities/global.ent">
   %sharedents;
 ]>
 <!-- 
@@ -27,8 +27,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
 <glossary xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
-  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" role="auto" xml:id="glossary">
-  <info>
-    <title>Glossary</title>
-  </info>
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <glossentry xml:id="nation_name">
+    <glossterm>&nation_name;</glossterm>
+    <glossdef>
+      <para>The major nation of the book</para>
+    </glossdef>
+  </glossentry>
 </glossary>

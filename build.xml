@@ -96,8 +96,8 @@ THE SOFTWARE.
     <delete file="${lib}/${lib.jing.zip}" />
     <delete dir="${lib}/${lib.tools}/${lib.calabash}" />
     <delete file="${lib}/${lib.calabash.zip}" />
-    <delete dir="${lib}/${lib.fop}"/>
-    <delete file="${lib}/${lib.fop.zip}"/>
+    <delete dir="${lib}/${lib.fop}" />
+    <delete file="${lib}/${lib.fop.zip}" />
   </target>
 
   <target name="getlibs" description="Retrieve all necessary lib files for building">
@@ -134,6 +134,9 @@ THE SOFTWARE.
     <mkdir dir="${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}" />
 
     <java classpathref="xslt2.classpath" fork="true" classname="com.xmlcalabash.drivers.Main">
+      <sysproperty key="xml.catalog.files" value="${src}/common/catalog.xml" />
+      <arg value="--entity-resolver=org.xmlresolver.Resolver" />
+      <arg value="--uri-resolver=org.xmlresolver.Resolver" />
       <arg value="-oresult=${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html" />
       <arg value="-isource=${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg value="-pgenerate.meta.generator=0" />
@@ -145,6 +148,7 @@ THE SOFTWARE.
       <arg value="-puse.extensions=1" />
       <arg value="-poutput.dir=${basedir}/${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/" />
       <arg value="-pNOW=${NOWSUB}" />
+      <arg value="-pglossary.collection=urn:x-twograves:glossary" />
       <arg value="${lib}/${lib.xslt2stylesheets}/xslt/base/pipelines/docbook.xpl" />
       <arg value="syntax-highlighter=0" />
       <arg value="html-initial-stylesheet=${basedir}/${lib}/html-single-customizations.xsl" />
@@ -268,7 +272,7 @@ THE SOFTWARE.
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/epub-customizations.xsl" />
       <arg value="base.dir=${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
-      <arg value="chapter.autolabel=0"/>
+      <arg value="chapter.autolabel=0" />
       <arg value="draft.mode=${draft}" />
       <arg value="draft.watermark.image=draft.png" />
       <arg value="docbook.css.link=0" />
@@ -333,15 +337,29 @@ THE SOFTWARE.
                    value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
       <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
                    value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <arg value="-C" />
+      <arg value="${src}/common/catalog.xml" />
+      <arg value="-r" />
+      <arg value="com.thaiopensource.resolver.catalog.XercesCatalogResolverFactoryImpl" />
       <arg file="${lib}/${lib.docbook}/rng/docbook.rng" />
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
     </java>
 
-    <java classpathref="xslt1.classpath" failonerror="true" classname="com.icl.saxon.StyleSheet">
+    <java classpathref="xslt1.classpath"
+          fork="true"
+          failonerror="true"
+          classname="com.icl.saxon.StyleSheet">
       <sysproperty key="javax.xml.parsers.SAXParserFactory"
                    value="org.apache.xerces.jaxp.SAXParserFactoryImpl" />
       <sysproperty key="org.apache.xerces.xni.parser.XMLParserConfiguration"
                    value="org.apache.xerces.parsers.XIncludeParserConfiguration" />
+      <sysproperty key="xml.catalog.files" value="${src}/common/catalog.xml" />
+      <arg value="-r" />
+      <arg value="org.apache.xml.resolver.tools.CatalogResolver" />
+      <arg value="-x" />
+      <arg value="org.apache.xml.resolver.tools.ResolvingXMLReader" />
+      <arg value="-y" />
+      <arg value="org.apache.xml.resolver.tools.ResolvingXMLReader" />
       <arg value="-o" />
       <arg value="${outputdir}/${outputdir.validation}/schematronerrors.txt" />
       <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
