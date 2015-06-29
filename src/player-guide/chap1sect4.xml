@@ -32,7 +32,7 @@ THE SOFTWARE.
     <title>The Central Cities</title>
   </info>
   <para>
-    The Central Cities are the largest urban centers in &nation_name;. They
+    The Central Cities are the largest urban centers in <glossterm baseform="&nation_name;">&nation_name;</glossterm>. They
     represent the peak of culture and progress in the nation, and each of
     them has developed their own unique culture and specialties over time.
   </para>
@@ -44,7 +44,7 @@ THE SOFTWARE.
       Although they may not be specifically called out in these sections, you
       can expect most government agencies that deal with infrastructure to 
       have representation in all large settlements. This includes, but is not
-      limited to, divisions such as the &police;, &public_works;, and other 
+      limited to, divisions such as the <glossterm baseform="&police;">&police;</glossterm>, <glossterm baseform="&public_works;">&public_works;</glossterm>, and other 
       servants of the common good.
     </para>
   </sidebar>
@@ -53,14 +53,14 @@ THE SOFTWARE.
       <title>&arts_city;, City of Arts</title>
     </info>
     <para>
-      Brimming with life and activity, the city of &arts_city; is the 
-      veritable pulse of &nation_name;. Artists and entertainers from all 
+      Brimming with life and activity, the city of <glossterm baseform="&arts_city;">&arts_city;</glossterm> is the 
+      veritable pulse of <glossterm baseform="&nation_name;">&nation_name;</glossterm>. Artists and entertainers from all 
       walks of life flock to the city to join in the cultural melting pot and
-      experience the wealth &arts_city; has to offer. Anywhere is a stage, and
+      experience the wealth <glossterm baseform="&arts_city;">&arts_city;</glossterm> has to offer. Anywhere is a stage, and
       revelry spills out into the streets, infusing the city with a constant 
       state of festivity. Each day could bring new celebrations replete with 
       performances and displays unlike any seen before it. As a result, 
-      &arts_city; is a hot spot for tourists from around the world, and their
+      <glossterm baseform="&arts_city;">&arts_city;</glossterm> is a hot spot for tourists from around the world, and their
       presence ensures that there is plenty of gold to keep the entertainers
       at their antics. 
     </para>
@@ -73,9 +73,9 @@ THE SOFTWARE.
       Officials long gave up on imposing bureaucracy upon the citizens, and 
       now simply seek to ensure that the city runs smoothly from one 
       performance to the next. The last vestige of control the government 
-      maintains over the celebrations is the &festival_agency;, which 
+      maintains over the celebrations is the <glossterm baseform="&festival_agency;">&festival_agency;</glossterm>, which 
       stages city-wide festivals, schedules access to large venues such as 
-      &stadium;, and provides publicity for ambitious performers. The &police; 
+      <glossterm baseform="&stadium;">&stadium;</glossterm>, and provides publicity for ambitious performers. The <glossterm baseform="&police;">&police;</glossterm> 
       patrols the streets, keeping the city safe for residents and tourists 
       alike, but their presence is understated and does not impinge on the 
       city's carefree atmosphere. Petty crime is uncommon, and offenders are 
@@ -83,7 +83,7 @@ THE SOFTWARE.
     </para>
     <para>
       Despite the apparent laissez-faire attitude of the government,
-      &arts_city; is extremely well-maintained. Buildings of sturdy wood and
+      <glossterm baseform="&arts_city;">&arts_city;</glossterm> is extremely well-maintained. Buildings of sturdy wood and
       cut stone stand strong against the neverending flow of residents, and
       paved streets make for easy transport around the city. Lights both
       magical and mundane line the streets and buildings, vying for the 
@@ -101,12 +101,12 @@ THE SOFTWARE.
           <listitem>
             <para>
               Rows of enormous amethyst crystals jutting from the entrance 
-              give &arts_city;'s premier amphitheater it's name. Although its 
+              give <glossterm baseform="&arts_city;">&arts_city;'s</glossterm> premier amphitheater it's name. Although its 
               appearance and sublime acoustics would suggest a man-made 
-              structure, &amphitheater; is actually a naturally occurring
-              geode phenomenon. Performing even once in the &amphitheater; is 
+              structure, <glossterm baseform="&amphitheater;">&amphitheater;</glossterm> is actually a naturally occurring
+              geode phenomenon. Performing even once in the <glossterm baseform="&amphitheater;">&amphitheater;</glossterm> is 
               the goal of many artists, and competition is fierce. The revered
-              &auditioners; are the final elite arbiters of who will be graced
+              <glossterm baseform="&auditioners;">&auditioners;</glossterm> are the final elite arbiters of who will be graced
               by the stage.
             </para>
           </listitem>
@@ -117,9 +117,9 @@ THE SOFTWARE.
             <para>
               Vivid botanical gardens and serene marble galleries compose the
               nation's premier temple of Shelyn. The temple is built on the 
-              edge of the city and situated near the &amphitheater; so that the 
+              edge of the city and situated near the <glossterm baseform="&amphitheater;">&amphitheater;</glossterm> so that the 
               clergy may more easily tend to the amphitheater. Compared to the 
-              intensity of the city, &shelyn_temple; is truly a sanctuary for 
+              intensity of the city, <glossterm baseform="&shelyn_temple;">&shelyn_temple;</glossterm> is truly a sanctuary for 
               those who wish to reflect upon the spiritual impact of the arts. 
             </para>
           </listitem>
@@ -128,7 +128,7 @@ THE SOFTWARE.
           <term>&arts_college;</term>
           <listitem>
             <para>
-              &arts_college; is one of the world's most prestigious schools for 
+              <glossterm baseform="&arts_college;">&arts_college;</glossterm> is one of the world's most prestigious schools for 
               the fine arts, and a central location for both prospective students
               and tourists alike. Although its intimidating spires, sharply slanted
               rooftops, and aged stone walls cast an imposing shadow, they belie
@@ -143,12 +143,12 @@ THE SOFTWARE.
           <listitem>
             <para>
               Named for the carpet of small purple flowers that blooms in the 
-              spring, the &stadium; is an expansive, open-air park and a prime
+              spring, the <glossterm baseform="&stadium;">&stadium;</glossterm> is an expansive, open-air park and a prime
               location for many public events. Complete with several small 
               venues for performances as well as a large stadium, the 
-              &stadium; boasts ample space and seating for tourists and citizens
+              <glossterm baseform="&stadium;">&stadium;</glossterm> boasts ample space and seating for tourists and citizens
               alike. Whether it be music, sports, or festivals, an event in the
-              &stadium; is sure to be lively and draw a large crowd.
+              <glossterm baseform="&stadium;">&stadium;</glossterm> is sure to be lively and draw a large crowd.
             </para>
           </listitem>
         </varlistentry>
@@ -156,10 +156,10 @@ THE SOFTWARE.
           <term>&bridge;</term>
           <listitem>
             <para>
-              Spanning the &arts_city_river; River and joining the east and west
-              of &arts_city; together, the &bridge; is more than just an 
-              important piece of infrastructure. Many bits of &arts_city; 
-              culture have incoporated the &bridge;, from tossing flowers into 
+              Spanning the <glossterm baseform="&arts_city_river;">&arts_city_river;</glossterm> River and joining the east and west
+              of <glossterm baseform="&arts_city;">&arts_city;</glossterm> together, the <glossterm baseform="&bridge;">&bridge;</glossterm> is more than just an 
+              important piece of infrastructure. Many bits of <glossterm baseform="&arts_city;">&arts_city;</glossterm> 
+              culture have incoporated the <glossterm baseform="&bridge;">&bridge;</glossterm>, from tossing flowers into 
               the river below for good luck to being a hotspot for watching
               fireworks. More practically, it's also a natural chokepoint for 
               traffic through the city and its wide stone path is filled with 
@@ -173,7 +173,7 @@ THE SOFTWARE.
           <listitem>
             <para>
               A large stone carving of a frothing mug adorns the facade of
-              &arts_city;'s favorite temple to the god of drinking and 
+              <glossterm baseform="&arts_city;">&arts_city;'s</glossterm> favorite temple to the god of drinking and 
               merriment. This multi-story wood and stone building radiates a 
               warmth and festivity that can be felt from blocks away. The temple 
               hosts a stage and doubles as both a comedy house and theater for 
@@ -187,7 +187,7 @@ THE SOFTWARE.
           <term>&arts_city_tourist_district;</term>
           <listitem>
             <para>
-              Surrounding &arts_city;'s central plazas, this bustling
+              Surrounding <glossterm baseform="&arts_city;">&arts_city;'s</glossterm> central plazas, this bustling
               district is a hotspot for tourism and revelry. Although
               most come to the district to be at the center of the 
               city's constant festivals, the competition between 
@@ -203,10 +203,10 @@ THE SOFTWARE.
           <listitem>
             <para>
               Fed by the youthful, creative energies of the
-              &arts_college;, the &arts_city_college_district; is the
+              <glossterm baseform="&arts_college;">&arts_college;</glossterm>, the <glossterm baseform="&arts_city_college_district;">&arts_city_college_district;</glossterm> is the
               premiere place to scout rising talent and share ideas in
               the city. Although not as upscale as some parts of 
-              &arts_city;, the inhabitants of the district are jovial
+              <glossterm baseform="&arts_city;">&arts_city;</glossterm>, the inhabitants of the district are jovial
               and create a welcoming atmosphere. Collaboration and
               competition go hand-in-hand here, and it's very likely to
               see spontaneous performances erupt in the persuit of great
@@ -219,11 +219,11 @@ THE SOFTWARE.
           <listitem>
             <para>
               Mostly separated from the hustle and bustle of the city,
-              the &arts_city_rich_district; provides a serene place for
+              the <glossterm baseform="&arts_city_rich_district;">&arts_city_rich_district;</glossterm> provides a serene place for
               those who can afford it. Residents and visitors enjoy
               beautiful courtyards, spotless streets, and exclusively 
-              close access to iconic locations such as &amphitheater; 
-              and &shelyn_temple;.
+              close access to iconic locations such as <glossterm baseform="&amphitheater;">&amphitheater;</glossterm> 
+              and <glossterm baseform="&shelyn_temple;">&shelyn_temple;</glossterm>.
             </para>
           </listitem>
         </varlistentry>
@@ -231,12 +231,12 @@ THE SOFTWARE.
           <term>&arts_city_poor_district;</term>
           <listitem>
             <para>
-              To call &arts_city_poor_district; a slum would be 
-              disingenuous, but compared to the rest of &arts_city; 
+              To call <glossterm baseform="&arts_city_poor_district;">&arts_city_poor_district;</glossterm> a slum would be 
+              disingenuous, but compared to the rest of <glossterm baseform="&arts_city;">&arts_city;</glossterm> 
               this district falls behind in upkeep and cleanliness.
               Tenement housing is plentiful, and in lieu of access to
               more fanciful pursuits, the residents of
-              &arts_city_poor_district; excel in vice entertainment.
+              <glossterm baseform="&arts_city_poor_district;">&arts_city_poor_district;</glossterm> excel in vice entertainment.
               Seedy bars and brothels adorn the streets, and the venues
               host bawdy and burlesque performances too vulgar for
               popular taste.
@@ -248,9 +248,9 @@ THE SOFTWARE.
           <listitem>
             <para>
               Tucked away in a less-noticeable portion of the city,
-              &arts_city_govt_district; houses offices and storage 
-              for government agencies such as the &police; and
-              &festival_agency;.
+              <glossterm baseform="&arts_city_govt_district;">&arts_city_govt_district;</glossterm> houses offices and storage 
+              for government agencies such as the <glossterm baseform="&police;">&police;</glossterm> and
+              <glossterm baseform="&festival_agency;">&festival_agency;</glossterm>.
             </para>
           </listitem>
         </varlistentry>
@@ -258,9 +258,9 @@ THE SOFTWARE.
           <term>&arts_city_quality_district;</term>
           <listitem>
             <para>
-              Many master craftsmen who outfit &arts_city; with 
+              Many master craftsmen who outfit <glossterm baseform="&arts_city;">&arts_city;</glossterm> with 
               superior quality instruments and supplies base their
-              workshops in &arts_city_quality_district;. These great 
+              workshops in <glossterm baseform="&arts_city_quality_district;">&arts_city_quality_district;</glossterm>. These great 
               makers demand a particular environment for their work, and
               the district has molded to reflect their tastes. Simple, 
               refined architecture and narrow cobbled streets give the 
@@ -278,23 +278,23 @@ THE SOFTWARE.
     </info>
     <para>
       Words and noise blend with the clink of coins in the vibrant market city
-      of &market_city;. Known for its unparalleled selection of exotic goods,
+      of <glossterm baseform="&market_city;">&market_city;</glossterm>. Known for its unparalleled selection of exotic goods,
       which harken both to cultures from around the world and at the same time
-      something completely original, &market_city; is a haven for craftsmen.
+      something completely original, <glossterm baseform="&market_city;">&market_city;</glossterm> is a haven for craftsmen.
       The best of the best travel here to study with other masters from all
       around. The result is a forge of rivalries and collaborations which
       drive the innovations of these ambitious creators ever foward. Their work
-      and success have brought incredibly reknown to  both &market_city; and the
+      and success have brought incredibly reknown to  both <glossterm baseform="&market_city;">&market_city;</glossterm> and the
       nation as a whole, and wealth naturally flows to the city in the form of 
       hardened merchants and more casual buyers.
     </para>
     <para>
       The siren call of wealth and skill brings along with it much more strict
       government oversight. Left to their own devices, foreign merchants would
-      surely bleed the country dry. In response, agencies such as the &customs_dept; and
-      the &labor_dept; keep close watch on the conditions of the city. Given
-      the amount of coin that flows through the streets, the &police; are
-      omnipresent in &market_city;, ensuring that the city retains its name as a
+      surely bleed the country dry. In response, agencies such as the <glossterm baseform="&customs_dept;">&customs_dept;</glossterm> and
+      the <glossterm baseform="&labor_dept;">&labor_dept;</glossterm> keep close watch on the conditions of the city. Given
+      the amount of coin that flows through the streets, the <glossterm baseform="&police;">&police;</glossterm> are
+      omnipresent in <glossterm baseform="&market_city;">&market_city;</glossterm>, ensuring that the city retains its name as a
       safe and reputable haven for trade. 
     </para>
     <mediaobject role="half-image">
@@ -310,7 +310,7 @@ THE SOFTWARE.
       paramount and palpable in the transactions that take place here.
     </para>
     <para>
-      To feed the high demand of buyers, &market_city; has built itself up 
+      To feed the high demand of buyers, <glossterm baseform="&market_city;">&market_city;</glossterm> has built itself up 
       around a system of attractive and efficient roads and neighborhoods.
       No space is wasted in thoroughfares large or small, as every bit of
       available wall space is transformed into a storefront or workshop. Sturdy stone
@@ -331,8 +331,8 @@ THE SOFTWARE.
             <para>
               Thousands of shoppers browse the rows of tents 
               that fill this enormous open-air market. As one of 
-              &market_city;'s internationally iconic features, the 
-              &grand_bazaar; is home to all sorts of novelties and
+              <glossterm baseform="&market_city;">&market_city;'s</glossterm> internationally iconic features, the 
+              <glossterm baseform="&grand_bazaar;">&grand_bazaar;</glossterm> is home to all sorts of novelties and
               unique items. Although locally regarded as more for show
               than function, it is not unheard of to find true treasures
               nestled in the wares here. 
@@ -357,7 +357,7 @@ THE SOFTWARE.
           <term>&elven_enclave;</term>
           <listitem>
             <para>
-              &elven_enclave; is &nation_name;'s largest single home of 
+              <glossterm baseform="&elven_enclave;">&elven_enclave;</glossterm> is <glossterm baseform="&nation_name;">&nation_name;'s</glossterm> largest single home of 
               elves. Here they have fostered a small forest grove and 
               made their homes in its trunks and boughs. Elves, 
               Half-Elves, and fey races are openly welcomed, but most 
@@ -370,11 +370,11 @@ THE SOFTWARE.
           <term>&dwarven_enclave;</term>
           <listitem>
             <para>
-              Not to be outdone by the forest of &elven_enclave;
-              or the cut stone of &market_city; itself, the Dwarves
+              Not to be outdone by the forest of <glossterm baseform="&elven_enclave;">&elven_enclave;</glossterm>
+              or the cut stone of <glossterm baseform="&market_city;">&market_city;</glossterm> itself, the Dwarves
               constructed a miniature mountainscape out of boulders
               from the nation's mines. Now complete with carved
-              homes and bold designs, &dwarven_enclave; is a colony in
+              homes and bold designs, <glossterm baseform="&dwarven_enclave;">&dwarven_enclave;</glossterm> is a colony in
               its own right. Although legally no citizen may be 
               forbidden residence here, most non-Dwarves find the stony,
               cramped interior unwelcoming.
@@ -386,7 +386,7 @@ THE SOFTWARE.
           <listitem>
             <para>
               Cargo boats fill the numerous docks of this large
-              harbor on the &valley_lake;. Much of &market_city;'s imports
+              harbor on the <glossterm baseform="&valley_lake;">&valley_lake;</glossterm>. Much of <glossterm baseform="&market_city;">&market_city;'s</glossterm> imports
               and exports pass through this harbor, and deckhands work 
               feverishly to keep the flow of goods moving. 
             </para>
@@ -396,8 +396,8 @@ THE SOFTWARE.
           <term>&arts_city_river; River Customs</term>
           <listitem>
             <para>
-              Owned by the &customs_dept;, this customs house sits
-              on an island in the &arts_city_river; River just before
+              Owned by the <glossterm baseform="&customs_dept;">&customs_dept;</glossterm>, this customs house sits
+              on an island in the <glossterm baseform="&arts_city_river;">&arts_city_river;</glossterm> River just before
               it passes through the city. Ships queue up to have their 
               cargo inspected and their paperwork approved by the 
               grim-faced and serious officials who work here.
@@ -408,8 +408,8 @@ THE SOFTWARE.
           <term>&market_city_rich_district;</term>
           <listitem>
             <para>
-              Perched atop the highest hill of &market_city;'s 
-              lakeshore, &market_city_rich_district; houses the 
+              Perched atop the highest hill of <glossterm baseform="&market_city;">&market_city;'s</glossterm> 
+              lakeshore, <glossterm baseform="&market_city_rich_district;">&market_city_rich_district;</glossterm> houses the 
               wealthiest citizens and dignitaries of the city. 
               A stunning lakeside vista complements the opulent 
               estates here, and the city's most reputable envoys traverse 
@@ -421,11 +421,11 @@ THE SOFTWARE.
           <term>&market_city_shopping_district;</term>
           <listitem>
             <para>
-              The &market_city_shopping_district; is home to the majority
-              of &market_city;'s storefronts and markets, and is the
+              The <glossterm baseform="&market_city_shopping_district;">&market_city_shopping_district;</glossterm> is home to the majority
+              of <glossterm baseform="&market_city;">&market_city;'s</glossterm> storefronts and markets, and is the
               city's largest and most famous district. From small 
-              one-man storefronts to the &grand_bazaar; itself, the
-              &market_city_shopping_district; encompasses trade of all
+              one-man storefronts to the <glossterm baseform="&grand_bazaar;">&grand_bazaar;</glossterm> itself, the
+              <glossterm baseform="&market_city_shopping_district;">&market_city_shopping_district;</glossterm> encompasses trade of all
               sizes and types.
             </para>
           </listitem>
@@ -434,9 +434,9 @@ THE SOFTWARE.
           <term>&market_city_workshop_district;</term>
           <listitem>
             <para>
-              Strategically located between the &market_city_harbor;
-              and the storefronts of &market_city_shopping_district;,
-              the &market_city_workshop_district; provides for makers
+              Strategically located between the <glossterm baseform="&market_city_harbor;">&market_city_harbor;</glossterm>
+              and the storefronts of <glossterm baseform="&market_city_shopping_district;">&market_city_shopping_district;</glossterm>,
+              the <glossterm baseform="&market_city_workshop_district;">&market_city_workshop_district;</glossterm> provides for makers
               who require larger, more complex facilities. The sounds of
               creation clamour forth from the district's workshops and 
               forges as each crafter develops his next masterpiece. 
@@ -447,14 +447,14 @@ THE SOFTWARE.
           <term>&market_city_residential_district;</term>
           <listitem>
             <para>
-              &market_city_residential_district; provides accommodation
+              <glossterm baseform="&market_city_residential_district;">&market_city_residential_district;</glossterm> provides accommodation
               for those residents who do not live in their stores or
               workshops, and those visitors who choose not to pay the
-              premiums of inns in the &market_city_shopping_district;. 
+              premiums of inns in the <glossterm baseform="&market_city_shopping_district;">&market_city_shopping_district;</glossterm>. 
               Although they are not the gilded estates of 
-              &market_city_rich_district;, the homes and buildings in
+              <glossterm baseform="&market_city_rich_district;">&market_city_rich_district;</glossterm>, the homes and buildings in
               this district are by no means in shambles. Even the 
-              simplest housing in &market_city; reflects the city's
+              simplest housing in <glossterm baseform="&market_city;">&market_city;</glossterm> reflects the city's
               wealth and high standards of living.
             </para>
           </listitem>
@@ -465,10 +465,10 @@ THE SOFTWARE.
             <para>
               Home to the offices of information brokers, merchant guild 
               members, and government officials, the 
-              &market_city_govt_district; hosts the unseen web of 
+              <glossterm baseform="&market_city_govt_district;">&market_city_govt_district;</glossterm> hosts the unseen web of 
               data and law that keeps the city running. Through word of
               mouth and fleet couriers, information and orders rush from
-              this district to recipients within and beyond &market_city;'s
+              this district to recipients within and beyond <glossterm baseform="&market_city;">&market_city;'s</glossterm>
               borders.
             </para>
           </listitem>
@@ -481,8 +481,8 @@ THE SOFTWARE.
       <title>&law_city;, City of Laws</title>
     </info>
     <para>
-      At the heart of &nation_name; is the nation's crown jewel: the
-      capital city of &law_city;. Towering, gleaming buildings of marble
+      At the heart of <glossterm baseform="&nation_name;">&nation_name;</glossterm> is the nation's crown jewel: the
+      capital city of <glossterm baseform="&law_city;">&law_city;</glossterm>. Towering, gleaming buildings of marble
       and polished stone strike a grand vista for those who first
       lay eyes upon the city. Impressive grids of streets and avenues 
       bustle with activity, feeding the machine that runs the nation.
@@ -492,23 +492,23 @@ THE SOFTWARE.
       windows, offering tantalizing hints at the ongoings within.
     </para>
     <para>
-      From first sight to last, &law_city; whisks away newcomers and 
+      From first sight to last, <glossterm baseform="&law_city;">&law_city;</glossterm> whisks away newcomers and 
       locals alike into an embrace of structure and control that seems 
       almost caring. The city runs like clockwork, with each inhabitant 
       and agency fulfilling a purpose in a timely and efficient manner. 
       From the lowliest courier to the highest seats of government, 
-      every citizen of &law_city; is devoted fully to their cause. To do
+      every citizen of <glossterm baseform="&law_city;">&law_city;</glossterm> is devoted fully to their cause. To do
       otherwise would be to invite certain scorn and disdain from one's 
       peers.
     </para>
     <para>
       Just as each citizen is devoted to their tasks, so is the city itself
-      devoted to the law. Law is born and dies in &law_city;. Every 
+      devoted to the law. Law is born and dies in <glossterm baseform="&law_city;">&law_city;</glossterm>. Every 
       agency houses its highest offices here in this locus of government power.
       Yet despite the proximity of government control, the city does not
       quake under the tyranny of authoritarianism. That the government
       serves its people is a well respected fact, and it is commonly
-      understood that &law_city; only functions at the willing 
+      understood that <glossterm baseform="&law_city;">&law_city;</glossterm> only functions at the willing 
       compliance of its citizens.
     </para>
     <section>
@@ -523,7 +523,7 @@ THE SOFTWARE.
               A quartet of obelisks surround this domed building which towers 
               above the inner city. With architectural adornments and 
               intricacies that border on ostentatiousness, the seat of 
-              &nation_name;'s governmental power serves as a constant reminder 
+              <glossterm baseform="&nation_name;">&nation_name;'s</glossterm> governmental power serves as a constant reminder 
               of the nation's political and economic mastery. Here the Senate
               holds council with the Emperor, and the majority of government
               agencies also keep their headquarters within.
@@ -535,12 +535,12 @@ THE SOFTWARE.
           <listitem>
             <para>
               A gilded quarter-sphere in the north of the city contains the
-              divine masterpiece through which travel using the &portals;
-              is made possible. Heavily staffed by the &police; and the 
-              &customs_dept;, hundreds of travelers are processed daily here.
+              divine masterpiece through which travel using the <glossterm baseform="&portals;">&portals;</glossterm>
+              is made possible. Heavily staffed by the <glossterm baseform="&police;">&police;</glossterm> and the 
+              <glossterm baseform="&customs_dept;">&customs_dept;</glossterm>, hundreds of travelers are processed daily here.
               The quarter-sphere opens to a dazzling view of the 
-              &law_city_capitol;, imposing the nation's crown jewel as the first
-              and last thing journeyers see during their time in &nation_name;.
+              <glossterm baseform="&law_city_capitol;">&law_city_capitol;</glossterm>, imposing the nation's crown jewel as the first
+              and last thing journeyers see during their time in <glossterm baseform="&nation_name;">&nation_name;</glossterm>.
             </para>
           </listitem>
         </varlistentry>
@@ -553,7 +553,7 @@ THE SOFTWARE.
               Although it may not have the same prestige it once did, the temple
               has certainly not degraded in splendor. From within the church's
               golden halls the clergy works tirelessly to bring the vision of
-              their forebears, the &crusade_org;, to life.
+              their forebears, the <glossterm baseform="&crusade_org;">&crusade_org;</glossterm>, to life.
             </para>
           </listitem>
         </varlistentry>
@@ -561,12 +561,12 @@ THE SOFTWARE.
           <term>&merchant_guild_hq;</term>
           <listitem>
             <para>
-              Just to the north of the docks and warehouses on the &valley_lake;
+              Just to the north of the docks and warehouses on the <glossterm baseform="&valley_lake;">&valley_lake;</glossterm>
               are a series of large but utilitarian guildhalls. Collected within
               are offices of the various merchant guilds that do business in
-              &nation_name;. Although the guilds would almost certainly prefer
-              to be headquartered in &market_city;, the law requires that they
-              be located here in &law_city;. The cunning merchants have made the
+              <glossterm baseform="&nation_name;">&nation_name;</glossterm>. Although the guilds would almost certainly prefer
+              to be headquartered in <glossterm baseform="&market_city;">&market_city;</glossterm>, the law requires that they
+              be located here in <glossterm baseform="&law_city;">&law_city;</glossterm>. The cunning merchants have made the
               best of their situation, though, taking every opportunity to
               endlessly lobby in the interest of their guilds.
             </para>
@@ -576,10 +576,10 @@ THE SOFTWARE.
           <term>&law_uni;</term>
           <listitem>
             <para>
-              In the west of the city is the &law_uni;.
-              It is the incubator of &law_city;'s commercial and political
+              In the west of the city is the <glossterm baseform="&law_uni;">&law_uni;</glossterm>.
+              It is the incubator of <glossterm baseform="&law_city;">&law_city;'s</glossterm> commercial and political
               genius and also the prime entry point to the upper echelons of
-              &nation_name;'s political economy. It is neigh unheard of
+              <glossterm baseform="&nation_name;">&nation_name;'s</glossterm> political economy. It is neigh unheard of
               that prominent figures do not have some tie to the university.
               As a result, its student body does not just comprise
               promising, untested politicians and merchants, but also veterans 
@@ -592,10 +592,10 @@ THE SOFTWARE.
           <term>&library;</term>
           <listitem>
             <para>
-              Adjacent to the &law_uni; rises the
+              Adjacent to the <glossterm baseform="&law_uni;">&law_uni;</glossterm> rises the
               nation's premier repository of knowledge. From modern research 
-              journals to ancient folklore, the &library; provides access to
-              an enormous wealth of information at no cost. The &library_staff;
+              journals to ancient folklore, the <glossterm baseform="&library;">&library;</glossterm> provides access to
+              an enormous wealth of information at no cost. The <glossterm baseform="&library_staff;">&library_staff;</glossterm>
               of the library work tirelessly to expand and preserve the 
               collection, and are often seen moving like ghosts through the book 
               stacks.
@@ -606,11 +606,11 @@ THE SOFTWARE.
           <term>&police_hq;</term>
           <listitem>
             <para>
-              The headquarters of the &police; is a sharp building supported by 
+              The headquarters of the <glossterm baseform="&police;">&police;</glossterm> is a sharp building supported by 
               thick columns of polished stone which stand vigil along its 
               perimeter. The majority of citizens will only ever enter the 
               public offices and temple of Iomedae within the structure. It is 
-              well known, however, that the &police_hq; also conceals a 
+              well known, however, that the <glossterm baseform="&police_hq;">&police_hq;</glossterm> also conceals a 
               well-guarded network of armories, archives, and barracks.
             </para>
           </listitem>
@@ -622,7 +622,7 @@ THE SOFTWARE.
               Lush, tall gardens and a host of guards keep this gleaming marble
               estate private and safe. Despite its seclusion from the public 
               eye, even here the Emperor cannot escape the responsibilites of 
-              his position. A direct view to the &law_city_capitol; cuts through
+              his position. A direct view to the <glossterm baseform="&law_city_capitol;">&law_city_capitol;</glossterm> cuts through
               the manor's grounds, in keeping with a law that decrees the
               Emperor's bed must always face the capitol, such that his duties
               will be his last sight before retiring and his first upon waking.
@@ -633,11 +633,11 @@ THE SOFTWARE.
           <term>&law_city_residential_district;</term>
           <listitem>
             <para>
-	      &law_city_residential_district; caters to citizens who need
-	      or choose to spend their time between &law_city; and other
+	      <glossterm baseform="&law_city_residential_district;">&law_city_residential_district;</glossterm> caters to citizens who need
+	      or choose to spend their time between <glossterm baseform="&law_city;">&law_city;</glossterm> and other
 	      settlements. The area features modest, efficient housing and a
 	      large number of inns with convenient access to the major roads
-	      between &law_city; and &market_city; and &arts_city;.
+	      between <glossterm baseform="&law_city;">&law_city;</glossterm> and <glossterm baseform="&market_city;">&market_city;</glossterm> and <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
 	    </para>
           </listitem>
         </varlistentry>
@@ -645,12 +645,12 @@ THE SOFTWARE.
           <term>&law_city_politician_district;</term>
           <listitem>
             <para>
-	      Home to many of &law_city;'s powerful mercantile and
-	      political elite, the &law_city_politician_district; features
-	      lavish estates with secluded vistas onto the &valley_lake;.
+	      Home to many of <glossterm baseform="&law_city;">&law_city;'s</glossterm> powerful mercantile and
+	      political elite, the <glossterm baseform="&law_city_politician_district;">&law_city_politician_district;</glossterm> features
+	      lavish estates with secluded vistas onto the <glossterm baseform="&valley_lake;">&valley_lake;</glossterm>.
 	      Tactically located near hotbeds of influence such as the
-	      &law_city_government_district;, &law_uni;, and
-	      &law_city_market_district;, soirees and galas featuring
+	      <glossterm baseform="&law_city_government_district;">&law_city_government_district;</glossterm>, <glossterm baseform="&law_uni;">&law_uni;</glossterm>, and
+	      <glossterm baseform="&law_city_market_district;">&law_city_market_district;</glossterm>, soirees and galas featuring
 	      the nation's most renowed often take place here.
 	    </para>
           </listitem>
@@ -659,8 +659,8 @@ THE SOFTWARE.
           <term>&law_city_government_district;</term>
           <listitem>
             <para>
-	      The largest district in the city, the &law_city_government_district;
-	      contains the majority of &law_city;'s government buildings and
+	      The largest district in the city, the <glossterm baseform="&law_city_government_district;">&law_city_government_district;</glossterm>
+	      contains the majority of <glossterm baseform="&law_city;">&law_city;'s</glossterm> government buildings and
 	      centers of religious worship. Neat and orderly even under the
 	      weight of the thousands working here, this district could almost
 	      be considered a settlement of its own within the city. Businesses of all
@@ -673,10 +673,10 @@ THE SOFTWARE.
           <term>&law_city_plaza_district;</term>
           <listitem>
             <para>
-	      The &law_city_plaza_district; is filled with open gardens and
+	      The <glossterm baseform="&law_city_plaza_district;">&law_city_plaza_district;</glossterm> is filled with open gardens and
 	      other areas for public gatherings. This district lies in contrast
 	      with the purposeful feeling that pervades the rest of
-	      &law_city;, providing residents and visitors with an escape
+	      <glossterm baseform="&law_city;">&law_city;</glossterm>, providing residents and visitors with an escape
 	      from unending the rush of the city.
 	    </para>
           </listitem>
@@ -686,7 +686,7 @@ THE SOFTWARE.
           <listitem>
             <para>
 	      This district houses the city's harbors, markets, and enterprises
-	      like the &merchant_guild_hq;. Busy at all times of day and night,
+	      like the <glossterm baseform="&merchant_guild_hq;">&merchant_guild_hq;</glossterm>. Busy at all times of day and night,
 	      goods endlessly flow through wide streets for sale, storage, and
 	      evaluation.
 	    </para>
