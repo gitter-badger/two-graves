@@ -32,43 +32,47 @@ THE SOFTWARE.
     <title>The Government of &nation_name;</title>
   </info>
   <para>
-    Outwardly, the government of &nation_name; is composed of three parts: an Emperor, a Senate,
-    and &HoRs;. The Emperor is an elected official rather than a supreme ruler. There is no term
-    limit for an Emperor, but most choose to rule for twenty to twenty five years before stepping
-    down. The Emperor holds the power to veto laws, act as the commander of the &police;, and
-    resolve tie votes in the Senate. The current Emperor is &emperor;.
+    Outwardly, the government of <glossterm baseform="&nation_name;">&nation_name;</glossterm>
+    is composed of three parts: an Emperor, a Senate, and <glossterm baseform="&HoRs;">&HoRs;</glossterm>.
+    The Emperor is an elected official rather than a supreme ruler. 
+    There is no term limit for an Emperor, but most choose to rule for twenty to twenty five years before stepping down.
+    The Emperor holds the power to veto laws, act as the commander of the <glossterm baseform="&police;">&police;</glossterm>,
+    and resolve tie votes in the Senate.
+    The current Emperor is <glossterm baseform="&emperor;">&emperor;</glossterm>.
   </para>
   <para>
-    The Senate comprises eighteen leaders chosen from and by the
-    nation's eminent temples, with each temple holding a number of positions corresponding 
-    to their influence. Senators are solely responsible for ratifying laws, and they also have 
-    the power to call for an immediate re-election of the Emperor. &HoRs; are officials elected
-    every four years by the citizens of their districts. Legally, the &HoRs; have only three 
-    powers: they elect the Emperor from one of their own; they are the only citizens, besides the
-    Emperor, permitted to directly address a meeting of the Senate; and they may vote to forcibly
-    remove Senators from office for life.
+    The Senate comprises eighteen leaders chosen from and by the nation's eminent temples,
+    with each temple holding a number of positions corresponding to their influence. 
+    Senators are solely responsible for ratifying laws, and they also have the power to call for an immediate re-election of the Emperor.
+    <glossterm baseform="&HoRs;">&HoRs;</glossterm> are officials elected every four years by the citizens of their districts.
+    Legally, the <glossterm baseform="&HoRs;">&HoRs;</glossterm> have only three powers:
+    they elect the Emperor from one of their own; they are the only citizens, besides the Emperor, permitted to directly address a meeting of the Senate;
+    and they may vote to forcibly remove Senators from office for life.
   </para>
   <sidebar>
     <info>
       <title>Who's in the Senate?</title>
     </info>
     <para>
-      Currently, the temple of Abadar is allocated eight senate seats. Shelyn holds three, and
-      Sarenrae and Cayden Cailean each hold two. Pharasma, Iomedae, and Erastil are all 
-      represented, but each holds only one seat.
+      Currently, the temple of Abadar is allocated eight senate seats.
+      Shelyn holds three, and Sarenrae and Cayden Cailean each hold two.
+      Pharasma, Iomedae, and Erastil are all represented, but each holds only one seat.
     </para>
   </sidebar>
   <para>
-    In practice, of course, the government is much more than just the sum of its leadership. Of the various 
-    agencies and divisions that constitute the government, the largest
-    and most publicly visible are the &police;, the &customs_dept;, and the &public_works;. The &police; 
-    is charged with maintaining peace and safety 
-    throughout the nation, and is the closest thing &nation_name; has to a military force. The current 
-    head of police, &police_head;, continues to uphold the organization's
-    excellent reputation. Although he may claim that they are chronicly understaffed and underfunded, 
-    &nation_name; is an incredibly safe country. The &customs_dept; controls and maintains the magical gates
-    that lead to &nation_name;, and are also responsible for levying taxes on exported goods. The &public_works;
-    builds and maintains infrastructure such as roads, bridges, and waterways, and also settles disputes over
-    public lands, most frequently regarding the ancient relics scattered about the country.
+    In practice, of course, the government is much more than just the sum of its leadership.
+    Of the various agencies and divisions that constitute the government,
+    the largest and most publicly visible are the <glossterm baseform="&police;">&police;</glossterm>,
+    the <glossterm baseform="&customs_dept;">&customs_dept;</glossterm>,
+    and the <glossterm baseform="&public_works;">&public_works;</glossterm>.
+    The <glossterm baseform="&police;">&police;</glossterm> is charged with maintaining peace and safety throughout the nation,
+    and is the closest thing <glossterm baseform="&nation_name;">&nation_name;</glossterm> has to a military force. 
+    The current head of police, <glossterm baseform="&police_head;">&police_head;</glossterm>, continues to uphold the organization's excellent reputation.
+    Although he may claim that they are chronicly understaffed and underfunded, <glossterm baseform="&nation_name;">&nation_name;</glossterm>
+    is an incredibly safe country.
+    The <glossterm baseform="&customs_dept;">&customs_dept;</glossterm> controls and maintains the magical gates that lead to
+    <glossterm baseform="&nation_name;">&nation_name;</glossterm>, and are also responsible for levying taxes on exported goods.
+    The <glossterm baseform="&public_works;">&public_works;</glossterm> builds and maintains infrastructure such as roads, bridges, and waterways,
+    and also settles disputes over public lands, most frequently regarding the ancient relics scattered about the country.
   </para>
 </section>

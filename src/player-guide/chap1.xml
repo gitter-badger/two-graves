@@ -33,9 +33,8 @@ THE SOFTWARE.
   </info>
   <para>
     Here you will find information about <glossterm baseform="&nation_name;">&nation_name;</glossterm>
-    and its major settlments that any 
-    individual who lives in or has briefly researched the nation would know. Feel free to use 
-    these sections to help build your characters and integrate them into the world. 
+    and its major settlments that any individual who lives in or has briefly researched the nation would know. 
+    Feel free to use these sections to help build your characters and integrate them into the world. 
   </para>
   <mediaobject role="full-image">
     <imageobject>
@@ -43,19 +42,21 @@ THE SOFTWARE.
     </imageobject>
   </mediaobject>
   <para>
-    According to national history, centuries ago the valley of &valley_name; was long uninhabited and widely thought to be a cursed land.
-    Determined to break ground for civilization where all others had failed, Abadaran crusaders embarked on
-    a mission to colonize the valley. They swore a holy oath to build a shining metropolis that would last for centuries to come.
-    From their effort and toil the nation of &nation_name; was born. Spurred on by their success,
-    they created the organization known as the &crusade_org; and dedicated it to
-    sharing &nation_name;'s glory with the world. To that end, they established a means of constructing
-    &portals;&mdash;magical gates used to travel to and from &nation_name;.
-    Immigrants to the new nation were slow to come at first, but they did arrive. And as they 
-    arrived, they started successful new lives in the bountiful valley. Word 
-    spread, and the population of &nation_name; grew exponentially as people from all over the 
-    continent came to investigate this new wonder and found their expectations exceeded. It was 
-    not long before the fledgling nation became the hub of luxury, trade, and travel that it is 
-    today.
+    According to national history, centuries ago the valley of <glossterm baseform="&valley_name;">&valley_name;</glossterm>
+    was long uninhabited and widely thought to be a cursed land.
+    Determined to break ground for civilization where all others had failed, Abadaran crusaders embarked on a mission to colonize the valley. 
+    They swore a holy oath to build a shining metropolis that would last for centuries to come.
+    From their effort and toil the nation of <glossterm baseform="&nation_name;">&nation_name;</glossterm> was born. 
+    Spurred on by their success, they created the organization known as the <glossterm baseform="&crusade_org;">&crusade_org;</glossterm>
+    and dedicated it to sharing <glossterm baseform="&nation_name;">&nation_name;'s</glossterm> glory with the world. 
+    To that end, they established a means of constructing
+    <glossterm baseform="&portals;">&portals;</glossterm>&mdash;magical gates used to travel to and from 
+    <glossterm baseform="&nation_name;">&nation_name;</glossterm>.
+    Immigrants to the new nation were slow to come at first, but they did arrive. 
+    And as they arrived, they started successful new lives in the bountiful valley. 
+    Word spread, and the population of <glossterm baseform="&nation_name;">&nation_name;</glossterm> 
+    grew exponentially as people from all over the continent came to investigate this new wonder and found their expectations exceeded. 
+    It was not long before the fledgling nation became the hub of luxury, trade, and travel that it is today.
   </para>
   <xi:include href="chap1sect1.xml" />
   <xi:include href="chap1sect2.xml" />
