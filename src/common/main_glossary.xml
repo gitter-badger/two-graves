@@ -31,7 +31,63 @@ THE SOFTWARE.
   <glossentry xml:id="nation_name">
     <glossterm>&nation_name;</glossterm>
     <glossdef>
-      <para>The major nation of the book</para>
+      <para>
+        A thriving nation in the valley of <glossterm baseform="&valley_name;">&valley_name;</glossterm>.
+      </para>
     </glossdef>
   </glossentry>
+  <glossentry xml:id="valley_name">
+    <glossterm>&valley_name;</glossterm>
+    <glossdef>
+      <para>
+        A lush valley that lies between the <glossterm baseform="&rift;">&rift;</glossterm>
+        and the <glossterm baseform="&mountain_range;">&mountain_range;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="crusade_org">
+    <glossterm>&crusade_org;</glossterm>
+    <glossdef>
+      <para>
+        The original founders of <glossterm baseform="&nation_name;">&nation_name;</glossterm>. 
+        Now a sect of Abadarians dedicated to spreading the glory of the nation.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="portals">
+    <glossterm>&portals;</glossterm>
+    <glossdef>
+      <para>
+        Magical gates that can take travelers to and from <glossterm baseform="&nation_name;">&nation_name;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="rift">
+    <glossterm>&rift;</glossterm>
+    <glossdef>
+      <para>
+        A massive fissure that splits the continent of <glossterm baseform="&continent_name;">&continent_name;</glossterm>.
+        It is of unknown depth and surrounded by a large cliff wall.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="mountain_range">
+    <glossterm>&mountain_range;</glossterm>
+    <glossdef>
+      <para>
+        The mountain range extending out from <glossterm baseform="&volcano_name;">&volcano_name;</glossterm>
+        to the eastern shore of <glossterm baseform="&continent_name;">&continent_name;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="valley_lake">
+  <glossterm>&valley_lake;</glossterm>
+  <glossdef>
+    <para>
+      The largest lake in the valley of <glossterm baseform="&valley_name;">&valley_name;</glossterm>.
+      It is fed by rivers from the <glossterm baseform="&mountain_range;">&mountain_range;</glossterm>
+      and drains underground into the <glossterm baseform="&rift;">&rift;</glossterm>.
+    </para>
+  </glossdef>
+</glossentry>
 </glossary>

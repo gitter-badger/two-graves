@@ -39,6 +39,9 @@ THE SOFTWARE.
 <!ENTITY firepeople "Hariq"><!-- fire -->
 <!ENTITY earthpeople "Aroda"><!-- earth -->
 
+<!ENTITY continent_name "PLACEHOLDER">
+<!ENTITY volcano_name "PLACEHOLDER">
+
 <!ENTITY beast_tribes "Bestial Tribes">
 <!ENTITY mountain_range "Devil's Tail Mountains">
 <!ENTITY rift "Great Rift">

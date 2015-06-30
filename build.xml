@@ -225,6 +225,7 @@ THE SOFTWARE.
       <arg value="draft.watermark.image=draft.png" />
       <arg value="glossary.collection=urn:x-twograves:glossary" />
       <arg value="glossterm.auto.link=1" />
+      <arg value="glossary.sort=1" />
     </java>
 
     <if>
@@ -296,6 +297,7 @@ THE SOFTWARE.
       <arg value="NOW=${NOWSUB}" />
       <arg value="glossary.collection=urn:x-twograves:glossary" />
       <arg value="glossterm.auto.link=1" />
+      <arg value="glossary.sort=1" />
     </java>
 
     <if>

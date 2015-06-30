@@ -12,6 +12,7 @@
 
   <xsl:param name="section.autolabel.max.depth" select="0" />
   <xsl:param name="glossterm.auto.link" select="1" />
+  <xsl:param name="glossary.sort" select="1" />
   <xsl:param name="autolabel.elements">
     <db:appendix format="A" />
     <db:figure />
