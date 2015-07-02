@@ -66,7 +66,7 @@ THE SOFTWARE.
       are more rare, but sometimes come down to the valley for supplies or when they are seeking
       lesser or perhaps even greater solitude than they found among their people in the mountains.
       The exotic <glossterm baseform="&firepeople;">&firepeople;</glossterm> from neighboring <glossterm baseform="&desert_kingdom;">&desert_kingdom;</glossterm> are often employed as guides and 
-      laborers, although some have left their homes to make a living as performers in <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
+      laborers, although some have left their homes to make a living as performers in <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>.
       Humans from <glossterm baseform="&forest_nation;">&forest_nation;</glossterm> are significantly more rare, but occasionally a prodigy from the 
       mage's academy or a wayward druid will make an appearance.
     </para>
@@ -83,13 +83,13 @@ THE SOFTWARE.
       the central cities. 
     </para>
     <para>
-      Most dwarves will find <glossterm baseform="&market_city;">&market_city;</glossterm> to their liking, as the ever-open markets and vendors 
+      Most dwarves will find <link linkend="player-guide.nation.cities.market_city">&market_city;</link> to their liking, as the ever-open markets and vendors 
       offer a great opportunity to sell their wares and find rare materials. Some dwarves with an 
-      eye for government or leadership settle in <glossterm baseform="&law_city;">&law_city;</glossterm> and take a post in a guild 
+      eye for government or leadership settle in <link linkend="player-guide.nation.cities.law_city">&law_city;</link> and take a post in a guild 
       or legal office. Dwarves in the legal realm tend to put their strong racial loyalties to use
       defending the interests of other dwarves, and as such many find their way into positions as 
       District Representatives. Dwarves rarely tend to have the patience for as wild a city as
-      <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
+      <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>.
     </para>
   </section>
   <section>
@@ -100,10 +100,10 @@ THE SOFTWARE.
       Elves do come to the central cities in some numbers, but are rarely found elsewhere the nation.
       Drawn by the wealth of craftsmanship and artistic talent, elves come to display their own prowess
       and compare their works to other master artisans'. Because of this, most elves make their home in
-      a de-facto elven district in <glossterm baseform="&market_city;">&market_city;</glossterm>, where they can live in a manner closer to home while still 
+      a de-facto elven district in <link linkend="player-guide.nation.cities.market_city">&market_city;</link>, where they can live in a manner closer to home while still 
       reaping the advantages of the city. Elves almost never bother with the political and mercantile
-      business that takes place in <glossterm baseform="&law_city;">&law_city;</glossterm>, but sometimes are drawn to the lively music and performances
-      in <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
+      business that takes place in <link linkend="player-guide.nation.cities.law_city">&law_city;</link>, but sometimes are drawn to the lively music and performances
+      in <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>.
     </para>
     <para>
       Most of the elves living in <glossterm baseform="&nation_name;">&nation_name;</glossterm> hail from from <glossterm baseform="&forest_nation;">&forest_nation;</glossterm>, and those that are 
@@ -116,12 +116,12 @@ THE SOFTWARE.
       <title>Gnomes</title>
     </info>
     <para>
-      The constant festivites and general excitement of <glossterm baseform="&arts_city;">&arts_city;</glossterm> are perfectly suited to the typical
+      The constant festivites and general excitement of <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link> are perfectly suited to the typical
       gnome's demeanor. There they delight in taking part in or simply watching performances. While some
       rise to great heights in official groups, most gnomes find great pleasure in being street performers
       or vendors. Gnomes with an eye for business or a craving for the excitement of mercantile 
-      enterprises will sometimes venture into <glossterm baseform="&market_city;">&market_city;</glossterm> to try their luck there.
-      <glossterm baseform="&law_city;">&law_city;</glossterm> is far too boring and rigid for the majority of Gnomes, and they are rarely seen
+      enterprises will sometimes venture into <link linkend="player-guide.nation.cities.market_city">&market_city;</link> to try their luck there.
+      <link linkend="player-guide.nation.cities.law_city">&law_city;</link> is far too boring and rigid for the majority of Gnomes, and they are rarely seen
       there.
     </para>
     <mediaobject role="half-image">
@@ -156,7 +156,7 @@ THE SOFTWARE.
       the region and many travel from distant lands to come here. They are the second most populous
       race in <glossterm baseform="&nation_name;">&nation_name;</glossterm>. Here, their mixed origin plays to their
       advantage, and they are well suited to any role. However, many heed the call of their
-      elven side and find themselves as either artisans in <glossterm baseform="&market_city;">&market_city;</glossterm> or performers in <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
+      elven side and find themselves as either artisans in <link linkend="player-guide.nation.cities.market_city">&market_city;</link> or performers in <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>.
     </para>
   </section>
   <section>

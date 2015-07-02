@@ -169,7 +169,7 @@ THE SOFTWARE.
             </para>
           </listitem>
         </varlistentry>
-        <varlistentry>
+        <varlistentry xml:id="player-guide.nation.cities.arts_city.poi.cc_temple">
           <term>&cc_temple;</term>
           <listitem>
             <para>
@@ -550,7 +550,7 @@ THE SOFTWARE.
             </para>
           </listitem>
         </varlistentry>
-        <varlistentry>
+        <varlistentry xml:id="player-guide.nation.cities.law_city.poi.abadar_temple">
           <term>&abadar_temple;</term>
           <listitem>
             <para>
@@ -608,7 +608,7 @@ THE SOFTWARE.
             </para>
           </listitem>
         </varlistentry>
-        <varlistentry>
+        <varlistentry xml:id="player-guide.nation.cities.law_city.poi.police_hq">
           <term>&police_hq;</term>
           <listitem>
             <para>

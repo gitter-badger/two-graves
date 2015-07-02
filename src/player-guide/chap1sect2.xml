@@ -37,11 +37,11 @@ THE SOFTWARE.
     Although the nation is not strictly aligned with any one deity,
     its senate is composed of eighteen representatives from the most influential temples&mdash;be it influence through number of worshipers, wealth, or other means. Currently the temples of 
     Abadar, Shelyn, Cayden Cailean, Sarenrae, Pharasma, Iomedae, and Erastil hold senate positions.
-    The temple of Abadar has maintained major power in the city, and from the gilded halls of <glossterm baseform="&abadar_temple;">&abadar_temple;</glossterm>
-    in <glossterm baseform="&law_city;">&law_city;</glossterm> it oversees much of the nation's financial and legal well-being.
-    Shelyn and Cayden Cailean both have large followings in <glossterm baseform="&arts_city;">&arts_city;</glossterm>,
-    and their temples&mdash;<glossterm baseform="&shelyn_temple;">&shelyn_temple;</glossterm> and
-    <glossterm baseform="&cc_temple;">&cc_temple;</glossterm>&mdash;draw tourists and worshippers from far and wide.
+    The temple of Abadar has maintained major power in the city, and from the gilded halls of <xref linkend="player-guide.nation.cities.law_city.poi.abadar_temple"/>
+    in <link linkend="player-guide.nation.cities.law_city">&law_city;</link> it oversees much of the nation's financial and legal well-being.
+    Shelyn and Cayden Cailean both have large followings in <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>,
+    and their temples&mdash;<xref linkend="player-guide.nation.cities.arts_city.poi.shelyn_temple"/> and
+    <xref linkend="player-guide.nation.cities.arts_city.poi.cc_temple"/>&mdash;draw tourists and worshippers from far and wide.
   </para>
   <sidebar>
     <info>
@@ -54,7 +54,7 @@ THE SOFTWARE.
     </para>
   </sidebar>
   <para>
-    Iomedae's temple is the <glossterm baseform="&police_hq;">&police_hq;</glossterm> in <glossterm baseform="&law_city;">&law_city;</glossterm>
+    Iomedae's temple is the <xref linkend="player-guide.nation.cities.law_city.poi.police_hq"/> in <link linkend="player-guide.nation.cities.law_city">&law_city;</link>
     and much of the police force are devotees.
     Sarenrae, Pharasma, and Erastil enjoy large popular support from all around the nation for their public services and good works,
     but they do not maintain large shrines or temples in any one location. 

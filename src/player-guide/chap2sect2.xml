@@ -68,15 +68,15 @@ THE SOFTWARE.
     <para>
       As a cultural capital, <glossterm baseform="&nation_name;">&nation_name;</glossterm>&mdash;and in particular the central cities&mdash;holds 
       performance and entertainment in high esteem and demand. One of the central cities, 
-      <glossterm baseform="&arts_city;">&arts_city;</glossterm>, is completely dedicated to the betterment and enjoyment of the arts, and any
+      <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>, is completely dedicated to the betterment and enjoyment of the arts, and any
       performer, new or veteran, will find opportunity there. From frenetic street festivals, to
       the studious halls of <glossterm baseform="&arts_college;">&arts_college;</glossterm>, to the crystalline elegance of the <glossterm baseform="&amphitheater;">&amphitheater;</glossterm> 
-      amphitheater, there is no limit to the passions of <glossterm baseform="&arts_city;">&arts_city;'s</glossterm> citizens. This intensity has 
+      amphitheater, there is no limit to the passions of <link linkend="player-guide.nation.cities.arts_city">&arts_city;'s</link> citizens. This intensity has 
       even produced a saying known throughout the nation: no great performer will forever die so 
-      long as there is music in <glossterm baseform="&arts_city;">&arts_city;</glossterm>. 
+      long as there is music in <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>. 
     </para>
     <para>
-      Even outside of <glossterm baseform="&arts_city;">&arts_city;</glossterm>, a performer has many opportunities to excel. Politicians, 
+      Even outside of <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>, a performer has many opportunities to excel. Politicians, 
       storeowners, and merchant guilds are all keenly aware of the impact a charismatic face can
       have on one's audience, and many seek the services of skilled spokesmen. Travelers, far
       from their homes, find comfort in local song and art even in a land so distant. And a rural
@@ -93,7 +93,7 @@ THE SOFTWARE.
       government are steeped in religion, and many faiths have large temples and congregations here.
       The temples of Abadar, Shelyn, and Cayden Cailean hold particularly strong
       political influence, and many of their clerics become officiaries in the grand courts of 
-      <glossterm baseform="&law_city;">&law_city;</glossterm> or the wild streets of <glossterm baseform="&arts_city;">&arts_city;</glossterm>. But for every cleric who wields the might of 
+      <link linkend="player-guide.nation.cities.law_city">&law_city;</link> or the wild streets of <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>. But for every cleric who wields the might of 
       cities, there are a thousand others dedicated to more personal endeavors. 
     </para>
     <para>
@@ -151,7 +151,7 @@ THE SOFTWARE.
       to take on the role of bodyguard or strongman for a wealthy noble or shop owner. Others still
       may prefer to take a riskier path and bring their feats to the stage as combat performers
       &mdash;masquerading their deadly arts as performance pieces or sport in the <glossterm baseform="&stadium;">&stadium;</glossterm> in
-      <glossterm baseform="&arts_city;">&arts_city;</glossterm>. Outside of the central cities, those skilled in combat and with good knowledge 
+      <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>. Outside of the central cities, those skilled in combat and with good knowledge 
       of the land excel as hunters or guards for villages and trade caravans. 
     </para>
   </section>
@@ -221,7 +221,7 @@ THE SOFTWARE.
       heart of the country, those with connections to the wilds can deal in lucrative exotic pelts, 
       trophies, and other goods. For those who do not wish to exploit their talents for profit from 
       slaughter, there are many men, women, and children who will pay handsomly to see talented 
-      animals and their trainers perform in <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
+      animals and their trainers perform in <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>.
     </para>
   </section>
   <section>
@@ -253,7 +253,7 @@ THE SOFTWARE.
       Opportunities of all kinds can appear unexpectedly in <glossterm baseform="&nation_name;">&nation_name;</glossterm>, and a sorcerer's 
       innate ability to instanly access the full wealth of her magical strengths is an invaluable 
       tool for responding to sudden windfalls. In the bustling central cities, sorcerers
-      are valued as enchanters in crafting workshops, but they are especially valued in <glossterm baseform="&arts_city;">&arts_city;</glossterm>. 
+      are valued as enchanters in crafting workshops, but they are especially valued in <link linkend="player-guide.nation.cities.arts_city">&arts_city;</link>. 
       There, the constantly changing environment of festivals and performances often demands
       immediate response to crazy schemes and outlandish requests. A company of sorcerers known as 
       <glossterm baseform="&fireworks_co;">&fireworks_co;</glossterm> has specialized in this field, and keeps a sizable retinue of magical adepts on
@@ -284,7 +284,7 @@ THE SOFTWARE.
       Craftsman also value skilled wizards, and many vie to employ the best in their 
       workshops. For those who cannot afford a full time enchanter, supply shops offer the end 
       results of the creative process. <glossterm baseform="&magic_supply;">&magic_supply;</glossterm> is a particularly well known name in 
-      <glossterm baseform="&market_city;">&market_city;</glossterm>, and they employ skilled enchanters to fulfill bulk and custom requests for 
+      <link linkend="player-guide.nation.cities.market_city">&market_city;</link>, and they employ skilled enchanters to fulfill bulk and custom requests for 
       their clients.
     </para>
   </section>
