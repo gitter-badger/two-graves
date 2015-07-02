@@ -10,6 +10,7 @@ lib/docbook-*-rwdalpe
 lib/docbook-xsl-java*
 lib/tools/*calabash*
 lib/jing*
+lib/prepared_catalog.xml
 src/**/img/
 fontconfig
 *.xpr
