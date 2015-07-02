@@ -38,7 +38,7 @@ THE SOFTWARE.
     There is no term limit for an Emperor, but most choose to rule for twenty to twenty five years before stepping down.
     The Emperor holds the power to veto laws, act as the commander of the <glossterm baseform="&police;">&police;</glossterm>,
     and resolve tie votes in the Senate.
-    The current Emperor is <glossterm baseform="&emperor;">&emperor;</glossterm>.
+    The current Emperor is <person><personname>&emperor;</personname></person>.
   </para>
   <para>
     The Senate comprises eighteen leaders chosen from and by the nation's eminent temples,
@@ -67,7 +67,8 @@ THE SOFTWARE.
     and the <glossterm baseform="&public_works;">&public_works;</glossterm>.
     The <glossterm baseform="&police;">&police;</glossterm> is charged with maintaining peace and safety throughout the nation,
     and is the closest thing <glossterm baseform="&nation_name;">&nation_name;</glossterm> has to a military force. 
-    The current head of police, <glossterm baseform="&police_head;">&police_head;</glossterm>, continues to uphold the organization's excellent reputation.
+    The current head of police, <person><personname>&police_head;</personname></person>,
+    continues to uphold the organization's excellent reputation.
     Although he may claim that they are chronicly understaffed and underfunded, <glossterm baseform="&nation_name;">&nation_name;</glossterm>
     is an incredibly safe country.
     The <glossterm baseform="&customs_dept;">&customs_dept;</glossterm> controls and maintains the magical gates that lead to
