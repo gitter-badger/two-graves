@@ -143,4 +143,50 @@ THE SOFTWARE.
       </para>
     </glossdef>
   </glossentry>
+  <glossentry xml:id="HoRs">
+    <glossterm>&HoRs;</glossterm>
+    <glossdef>
+      <para>
+        <glossterm baseform="&nation_name;">&nation_name;</glossterm> government officials that represent a particular district
+        or region in the nation.
+        They are democratically elected by the citizens of their districts.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="police">
+    <glossterm>&police;</glossterm>
+    <glossdef>
+      <para>
+        A government-controlled peacekeeping force in <glossterm baseform="&nation_name;">&nation_name;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="customs_dept">
+    <glossterm>&customs_dept;</glossterm>
+    <glossdef>
+      <para>
+        The government agency responsible for <glossterm baseform="&nation_name;">&nation_name;'s</glossterm>
+        commercial export and immigration policies. 
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="public_works">
+    <glossterm>&public_works;</glossterm>
+    <glossdef>
+      <para>
+        The government agency responsible for managing infrastructure and other public resources in
+        <glossterm baseform="&nation_name;">&nation_name;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="festival_agency">
+    <glossterm>&festival_agency;</glossterm>
+    <glossdef>
+      <para>
+        The government agency responsible for approving and planning public celebrations in
+        <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
+  
 </glossary>
