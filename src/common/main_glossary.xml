@@ -81,13 +81,66 @@ THE SOFTWARE.
     </glossdef>
   </glossentry>
   <glossentry xml:id="valley_lake">
-  <glossterm>&valley_lake;</glossterm>
-  <glossdef>
-    <para>
-      The largest lake in the valley of <glossterm baseform="&valley_name;">&valley_name;</glossterm>.
-      It is fed by rivers from the <glossterm baseform="&mountain_range;">&mountain_range;</glossterm>
-      and drains underground into the <glossterm baseform="&rift;">&rift;</glossterm>.
-    </para>
-  </glossdef>
-</glossentry>
+    <glossterm>&valley_lake;</glossterm>
+    <glossdef>
+      <para>
+        The largest lake in the valley of <glossterm baseform="&valley_name;">&valley_name;</glossterm>.
+        It is fed by rivers from the <glossterm baseform="&mountain_range;">&mountain_range;</glossterm>
+        and drains underground into the <glossterm baseform="&rift;">&rift;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="abadar_temple">
+    <glossterm>&abadar_temple;</glossterm>
+    <glossdef>
+      <para>
+        <glossterm baseform="&nation_name;">&nation_name;'s</glossterm> premier temple to Abadar, located in
+        <glossterm baseform="&law_city;">&law_city;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="law_city">
+    <glossterm>&law_city;</glossterm>
+    <glossdef>
+      <para>
+        The capital of <glossterm baseform="&nation_name;">&nation_name;</glossterm>, best known for its legal enterprises.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="arts_city">
+    <glossterm>&arts_city;</glossterm>
+    <glossdef>
+      <para>
+        One of the largest cities in <glossterm baseform="&nation_name;">&nation_name;</glossterm>. 
+        It's residents and industries specialize in the arts and entertainment.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="shelyn_temple">
+    <glossterm>&shelyn_temple;</glossterm>
+    <glossdef>
+      <para>
+        <glossterm baseform="&nation_name;">&nation_name;'s</glossterm> premier temple to Shelyn, located in
+        <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="cc_temple">
+    <glossterm>&cc_temple;</glossterm>
+    <glossdef>
+      <para>
+        <glossterm baseform="&nation_name;">&nation_name;'s</glossterm> premier temple to Cayden Cailean, located in
+        <glossterm baseform="&arts_city;">&arts_city;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
+  <glossentry xml:id="police_hq">
+    <glossterm>&police_hq;</glossterm>
+    <glossdef>
+      <para>
+        The headquarters of <glossterm baseform="&nation_name;">&nation_name;'s</glossterm> <glossterm baseform="&police;">&police;</glossterm>,
+        located in <glossterm baseform="&law_city;">&law_city;</glossterm>.
+      </para>
+    </glossdef>
+  </glossentry>
 </glossary>
