@@ -152,6 +152,7 @@ THE SOFTWARE.
       <arg value="${lib}/${lib.xslt2stylesheets}/xslt/base/pipelines/docbook.xpl" />
       <arg value="syntax-highlighter=0" />
       <arg value="html-initial-stylesheet=${basedir}/${lib}/html-single-customizations.xsl" />
+      <arg value="preprocess-params-file=${basedir}/${lib}/preprocess-params.xsl" />
     </java>
 
     <if>
