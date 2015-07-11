@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!--
+////
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -21,13 +20,27 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
--->
-<!ENTITY falls_druids "Three Bridge Falls Druids">
-<!ENTITY bad_druids "Balancers">
-<!ENTITY monk_sect "Monks of the Empty Cup">
-<!ENTITY customs_dept "Department of Customs and Immigration">
-<!ENTITY labor_dept "Department of Labor">
-<!ENTITY public_works "Public Works Agency">
-<!ENTITY crusade_org "Founders">
-<!ENTITY police "National Police Force">
-<!ENTITY HoRs "District Representatives">
+////
+include:: ./seorsus/seorsus.txt[]
+
+:product_title: Two Graves
+:barb_king: Thara
+:meadows:nation: Folda
+:desert_kingdom: Mughim
+:mountains_nation: Orgiluud
+:cliffs_nation: Krig
+:cliffs_nation_person: Krigerian
+:cliffs_nation_people: Krigeri
+:forest_nation: Alberi
+:mountainmen: Vuori
+:firepeople: Hariq
+:earthpeople: Aroda
+
+:continent_name: PLACEHOLDER
+:volcano_name: PLACEHOLDER
+
+:beast_tribes: Bestial Tribes
+:mountain_range: Devil's Tail Mountains
+:rift: Great Rift
+:portals: Thresholds
+:mdash: &#x2014;

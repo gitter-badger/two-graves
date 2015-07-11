@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!--
+////
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -21,22 +20,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
--->
-<!ENTITY % cities-law_city SYSTEM "cities/law_city.ent">
-%cities-law_city;
-<!ENTITY % cities-arts_city SYSTEM "cities/arts_city.ent">
-%cities-arts_city;
-<!ENTITY % cities-market_city SYSTEM "cities/market_city.ent">
-%cities-market_city;
-<!ENTITY % groups SYSTEM "groups.ent">
-%groups;
-<!ENTITY % people SYSTEM "people.ent">
-%people;
-<!ENTITY % places SYSTEM "places.ent">
-%places;
+////
 
-<!ENTITY nation_name "Seorsus"><!-- sundered -->
-<!ENTITY nation_person "Seorsite">
-<!ENTITY nation_people "Seorsites">
-<!ENTITY old_nation_name "Sejunctu'serat"><!-- was separated -->
-
+:law_city: Regunt
+:abadar_temple: The First Capitol
+:police_hq: Praesidium
+:library: Knight Library
+:law_city_capitol: Capitol Building
+:merchant_guild_hq: Mercantile Guildhall
+:law_uni: &nation_name; University of Law and Business
+:emperor_home: Imperial Residence
+:main_portal: Grand Threshold
+:law_city_residential_district: Commuter's District
+:law_city_politician_district: Uptown District
+:law_city_government_district: Principal District
+:law_city_plaza_district: Main Plaza
+:law_city_market_district: Commercial District
+:library_staff: Stewards

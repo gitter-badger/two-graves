@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!--
+////
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -21,16 +20,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
--->
-<!ENTITY market_city "Crent"><!-- they create -->
-<!ENTITY magic_supply "Berthold's Magic Supply">
-<!ENTITY grand_bazaar "Grand Bazaar">
-<!ENTITY market_house "House of Commerce">
-<!ENTITY elven_enclave "Nascereli">
-<!ENTITY dwarven_enclave "Khurulag">
-<!ENTITY market_city_harbor "Lakeside Harbor">
-<!ENTITY market_city_rich_district "The Heights">
-<!ENTITY market_city_shopping_district "Coin District">
-<!ENTITY market_city_workshop_district "Workshop District">
-<!ENTITY market_city_residential_district "North District">
-<!ENTITY market_city_govt_district "Operations District">
+////
+
+include:: ./cities/law_city.txt[]
+include:: ./cities/arts_city.txt[]
+include:: ./cities/market_city.txt[]
+include:: ./groups.txt[]
+include:: ./people.txt[]
+include:: ./places.txt[]
+
+:nation_name: Seorsus
+:nation_person: Seorsite
+:nation_people: Seorsites
+:old_nation_name: Sejunctu'serat
+

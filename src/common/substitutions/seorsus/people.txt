@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!--
+////
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -21,29 +20,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
--->
-<!ENTITY % seorsus SYSTEM "seorsus/seorsus.ent">
-%seorsus;
+////
 
-
-<!ENTITY product_title "Two Graves">
-<!ENTITY barb_king "Thara"><!-- vengeance -->
-<!ENTITY meadows_nation "Folda" ><!-- earth -->
-<!ENTITY desert_kingdom "Mughim"><!-- bleak -->
-<!ENTITY mountains_nation "Orgiluud" ><!-- peaks -->
-<!ENTITY cliffs_nation "Krig" ><!-- war -->
-<!ENTITY cliffs_nation_person "Krigerian">
-<!ENTITY cliffs_nation_people "Krigeri"><!-- warriors -->
-<!ENTITY forest_nation "Alberi" ><!-- trees -->
-<!ENTITY mountainmen "Vuori" ><!-- mountain -->
-<!ENTITY firepeople "Hariq"><!-- fire -->
-<!ENTITY earthpeople "Aroda"><!-- earth -->
-
-<!ENTITY continent_name "PLACEHOLDER">
-<!ENTITY volcano_name "PLACEHOLDER">
-
-<!ENTITY beast_tribes "Bestial Tribes">
-<!ENTITY mountain_range "Devil's Tail Mountains">
-<!ENTITY rift "Great Rift">
-<!ENTITY portals "Thresholds">
-<!ENTITY mdash "&#x2014;">
+:police_head: Nigel Croft
+:emperor: Marshall Blackwood

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!--
+////
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -21,22 +20,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
--->
-<!ENTITY arts_city "Oblectant"><!-- they delight -->
-<!ENTITY arts_college "Bell University">
-<!ENTITY amphitheater "Dragon's Teeth">
-<!ENTITY cc_temple "The Best Vault">
-<!ENTITY shelyn_temple "Couatl's Voice">
-<!ENTITY stadium "Lavender Fields">
-<!ENTITY knife_throwers "Silver Hilt Troupe">
-<!ENTITY fireworks_co "Light the Sky! Fireworks and other Visual Effects!">
-<!ENTITY bridge "Bridge">
-<!ENTITY arts_city_river "Limen">
-<!ENTITY arts_city_govt_district "Warehouse District">
-<!ENTITY arts_city_tourist_district "Plaza District">
-<!ENTITY arts_city_college_district "College District">
-<!ENTITY arts_city_quality_district "Masters District">
-<!ENTITY arts_city_rich_district "Garden District">
-<!ENTITY arts_city_poor_district "Barrelbottom District">
-<!ENTITY festival_agency "Festival Planning Committee">
-<!ENTITY auditioners "Auditioners">
+////
+
+:falls_druids: Three Bridge Falls Druids
+:bad_druids: Balancers
+:monk_sect: Monks of the Empty Cup
+:customs_dept: Department of Customs and Immigration
+:labor_dept: Department of Labor
+:public_works: Public Works Agency
+:crusade_org: Founders
+:police: National Police Force
+:HoRs: District Representatives

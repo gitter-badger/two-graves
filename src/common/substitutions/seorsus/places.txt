@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!--
+////
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -21,19 +20,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
--->
-<!ENTITY law_city "Regunt"><!-- they rule -->
-<!ENTITY abadar_temple "The First Capitol">
-<!ENTITY police_hq "Praesidium">
-<!ENTITY library "Knight Library">
-<!ENTITY law_city_capitol "Capitol Building">
-<!ENTITY merchant_guild_hq "Mercantile Guildhall">
-<!ENTITY law_uni "&nation_name; University of Law and Business">
-<!ENTITY emperor_home "Imperial Residence">
-<!ENTITY main_portal "Grand Threshold">
-<!ENTITY law_city_residential_district "Commuter's District">
-<!ENTITY law_city_politician_district "Uptown District">
-<!ENTITY law_city_government_district "Principal District">
-<!ENTITY law_city_plaza_district "Main Plaza">
-<!ENTITY law_city_market_district "Commercial District">
-<!ENTITY library_staff "Stewards">
+////
+
+:falls: Three Bridge Falls
+:valley_lake: Clearlake
+:valley_name: Multae

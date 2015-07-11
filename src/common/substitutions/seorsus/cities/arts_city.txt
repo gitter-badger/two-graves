@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!--
+////
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -21,7 +20,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
--->
-<!ENTITY falls "Three Bridge Falls">
-<!ENTITY valley_lake "Clearlake">
-<!ENTITY valley_name "Multae"><!-- many -->
+////
+
+:arts_city: Oblectant
+:arts_college: Bell University
+:amphitheater: Dragon's Teeth
+:cc_temple: The Best Vault
+:shelyn_temple: Couatl's Voice
+:stadium: Lavender Fields
+:knife_throwers: Silver Hilt Troupe
+:fireworks_co: Light the Sky! Fireworks and other Visual Effects!
+:bridge: Bridge
+:arts_city_river: Limen
+:arts_city_govt_district: Warehouse District
+:arts_city_tourist_district: Plaza District
+:arts_city_college_district: College District
+:arts_city_quality_district: Masters District
+:arts_city_rich_district: Garden District
+:arts_city_poor_district: Barrelbottom District
+:festival_agency: Festival Planning Committee
+:auditioners: Auditioners
