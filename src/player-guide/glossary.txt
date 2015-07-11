@@ -1,8 +1,5 @@
-include::../common/substitutions/global.txt[]
-
-:changelog_link: https://github.com/rwdalpe/two-graves/blob/master/src/player-guide/CHANGELOG.md
-
 ////
+<!-- 
 The MIT License (MIT)
 
 Copyright (c) 2014 Robert Winslow Dalpe
@@ -26,16 +23,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ////
 
-= {product_title} Player's Guide
-:doctype: book
-:docinfo:
-
-include::chap1.txt[]
-include::glossary.txt[]
-include::../common/ogl.txt[]
-
-////
-  include::chap2.txt[]
-
-  include::../mit.txt[]
-////
+[[glossary]]
+[glossary]
+[role=auto]
+== Glossary
