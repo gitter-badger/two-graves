@@ -1,0 +1,63 @@
+<authorgroup xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <author xml:id="author1">
+    <personname>
+      <firstname>Robert</firstname>
+      <othername>Winslow</othername>
+      <surname>Dalpe</surname>
+    </personname>
+    <email>rwdalpe@gmail.com</email>
+  </author>
+  <author xml:id="author2">
+    <personname>
+      <firstname>Ashlyn</firstname>
+      <surname>Warren</surname>
+    </personname>
+  </author>
+</authorgroup>
+<legalnotice xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <title>Legal Information</title>
+  <para>
+    This content uses trademarks and/or copyrights owned by Paizo Inc., which are used under 
+    Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access
+    this content. This content is not published, endorsed, or specifically approved by Paizo 
+    Inc. For more information about Paizo's Community Use Policy, please visit 
+    <link xlink:href="http://paizo.com/communityuse"/>. For more information about Paizo Inc. 
+    and Paizo products, please visit <link xlink:href="http://paizo.com"/>.
+  </para>
+  <para>
+    The content of this book is compliant with the Open Game License (OGL). The
+    OGL can be found in <xref linkend="ogl" />. The following items are hereby 
+    identified as Product Identity, as defined in the Open Game License version 
+    1.0a, Section 1(e), and are not Open Content: artwork. Any content used in 
+    this book under Paizo's Community Use Policy is owned by Paizo Inc. and 
+    should not be considered Open Game Content unless otherwise specified by 
+    Paizo Inc. All other content in this book is hereby designated as Open Game Content 
+    as defined in the Open Gaming License version 1.0a Section 1(d). No portion 
+    of this work other than the material designated as Open Game Content may be 
+    reproduced in any form without written permission. To learn more about the 
+    Open Game License and the d20 System License, please visit 
+    <link xlink:href="http://www.wizards.com/default.asp?x=d20/article/srdarchive"/>.
+  </para>
+  <para>
+    The source code used to generate the textual content of this book is available at 
+    <link xlink:href="https://github.com/rwdalpe/two-graves"/> and is available under the
+    MIT license.
+  </para>
+</legalnotice>
+<pubdate xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <?dbtimestamp format="Y-m-d H:M:S"?>
+</pubdate>
+<printhistory xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+  <para>
+    This is a living document that may undergo changes. The latest date of
+    modification is shown above. To see a detailed explanation of changes 
+    between releases, please visit 
+    <link xlink:href="{changelog_link}">the Changelog</link> 
+    or view the git commit history at 
+    <link xlink:href="https://github.com/rwdalpe/two-graves"/>.
+  </para>
+</printhistory>
