@@ -1,4 +1,4 @@
-include:: ../common/substitutions/global.txt[]
+include::../common/substitutions/global.txt[]
 
 :changelog_link: https://github.com/rwdalpe/two-graves/blob/master/src/player-guide/CHANGELOG.md
 
@@ -30,8 +30,11 @@ THE SOFTWARE.
 :doctype: book
 :docinfo:
 
-include:: chap1.txt[]
-include:: chap2.txt[]
-include:: glossary.txt[]
-include:: ../common/ogl.txt[]
-include:: ../mit.txt[]
+include::chap1.txt[]
+include::../common/ogl.txt[]
+
+////
+  include::chap2.txt[]
+  include::glossary.txt[]
+  include::../mit.txt[]
+////

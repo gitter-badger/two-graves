@@ -1,0 +1,55 @@
+include::../common/substitutions/global.txt[]
+
+////
+The MIT License (MIT)
+
+Copyright (c) 2014 Robert Winslow Dalpe
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+////
+
+== The Nation of {nation_name}
+
+Here you will find information about glossterm::[{nation_name}] and its major settlments that any individual who lives in or has briefly researched the nation would know. 
+Feel free to use these sections to help build your characters and integrate them into the world. 
+
+[role=full-image]
+image::https://googledrive.com/host/0B7b9uMyuu5dvVzRwUEhMSEo4NWs[]
+
+According to national history, centuries ago the valley of glossterm::[{valley_name}] was long uninhabited and widely thought to be a cursed land.
+Determined to break ground for civilization where all others had failed, Abadaran crusaders embarked on a mission to colonize the valley. 
+They swore a holy oath to build a shining metropolis that would last for centuries to come.
+From their effort and toil the nation of glossterm::[{nation_name}] was born. 
+Spurred on by their success, they created the organization known as the glossterm::[{crusade_org}]
+and dedicated it to sharing glossterm::[{nation_name},{nation_name}'s] glory with the world. 
+To that end, they established a means of constructing
+glossterm::[{portals}, {portals}]{mdash}magical gates used to travel to and from 
+glossterm::[{nation_name}, {nation_name}].
+Immigrants to the new nation were slow to come at first, but they did arrive. 
+And as they arrived, they started successful new lives in the bountiful valley. 
+Word spread, and the population of glossterm::[{nation_name}, {nation_name}] 
+grew exponentially as people from all over the continent came to investigate this new wonder and found their expectations exceeded. 
+It was not long before the fledgling nation became the hub of luxury, trade, and travel that it is today.
+
+////
+<xi:include href="chap1sect1.xml" />
+<xi:include href="chap1sect2.xml" />
+<xi:include href="chap1sect3.xml" />
+<xi:include href="chap1sect4.xml" />
+////

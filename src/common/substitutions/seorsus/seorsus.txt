@@ -22,12 +22,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ////
 
-include:: ./cities/law_city.txt[]
-include:: ./cities/arts_city.txt[]
-include:: ./cities/market_city.txt[]
-include:: ./groups.txt[]
-include:: ./people.txt[]
-include:: ./places.txt[]
+include::./cities/law_city.txt[]
+include::./cities/arts_city.txt[]
+include::./cities/market_city.txt[]
+include::./groups.txt[]
+include::./people.txt[]
+include::./places.txt[]
 
 :nation_name: Seorsus
 :nation_person: Seorsite
