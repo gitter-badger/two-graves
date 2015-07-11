@@ -27,6 +27,7 @@ THE SOFTWARE.
 == Adventurers in {nation_name}
 
 include::./chap2sect1.txt[]
+include::./chap2sect2.txt[]
 
 ////
   <xi:include href="chap2sect1.xml"/>
