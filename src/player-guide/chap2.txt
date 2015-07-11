@@ -1,7 +1,5 @@
 include::../common/substitutions/global.txt[]
 
-:changelog_link: https://github.com/rwdalpe/two-graves/blob/master/src/player-guide/CHANGELOG.md
-
 ////
 The MIT License (MIT)
 
@@ -26,18 +24,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ////
 
-= {product_title} Player's Guide
-:doctype: book
-:docinfo:
+== Adventurers in {nation_name}
 
-include::chap1.txt[]
-include::chap2.txt[]
-include::glossary.txt[]
-include::../common/ogl.txt[]
-include::../common/mit.txt[]
+include::./chap2sect1.txt[]
 
 ////
-  
-
-
+  <xi:include href="chap2sect1.xml"/>
+  <xi:include href="chap2sect2.xml"/>
+  <xi:include href="chap2sect3.xml"/>
 ////

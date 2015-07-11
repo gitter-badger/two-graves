@@ -1,0 +1,129 @@
+include::../common/substitutions/global.txt[]
+
+////
+The MIT License (MIT)
+
+Copyright (c) 2014 Robert Winslow Dalpe
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+////
+
+=== Races in {nation_name}
+
+.Commonalities Across Races
+***************************
+Due to the high economic and entertainment specialties of glossterm::[{nation_name}, {nation_name}], it draws craftsman
+and tourists from all over the world. Unless described otherwise, you can assume that almost
+any race can be represented as either a craftsman or a tourist.
+
+Futhermore, the nation of glossterm::[{cliffs_nation}, {cliffs_nation}] has no discrimination against any race so long as 
+they can carry their weight in war. glossterm::[{cliffs_nation_person}, {cliffs_nation_person}] bodyguards, hunters, policemen, and 
+members of any other profession that involves martial prowess can easily find employment in 
+glossterm::[{nation_name}, {nation_name}] regardless of their racial background.
+***************************
+
+==== Humans 
+
+Humans are the dominant race in the central cities and in the nation at large, despite the 
+generally high levels of diversity in the country. Humans native to glossterm::[{nation_name}, {nation_name}]
+are represented in all professions, and tend to hold the majority of influential positions 
+both in the economic and political spheres. They can be found in every major city and in the
+outlying areas of the country.
+
+Humans hailing from other parts of the continent tend to come to glossterm::[{nation_name}, {nation_name}] for
+more specialized reasons. Farmers, clerics on pilgrimage, and visiting aristocrats from 
+glossterm::[{meadows_nation}, {meadows_nation}] are all common sights. The goat-riding glossterm::[{mountainmen}, {mountainmen}] 
+from the peaks of glossterm::[{mountains_nation}, {mountains_nation}]
+are more rare, but sometimes come down to the valley for supplies or when they are seeking
+lesser or perhaps even greater solitude than they found among their people in the mountains.
+The exotic glossterm::[{firepeople}, {firepeople}] from neighboring glossterm::[{desert_kingdom}, {desert_kingdom}] are often employed as guides and 
+laborers, although some have left their homes to make a living as performers in <<player-guide.nation.cities.arts_city,{arts_city}>>.
+Humans from glossterm::[{forest_nation}, {forest_nation}] are significantly more rare, but occasionally a prodigy from the 
+mage's academy or a wayward druid will make an appearance.
+
+==== Dwarves
+
+Because of the rich underground resources in the country, dwarves are frequently drawn here.
+Most dwarves hail from the mountains in glossterm::[{mountains_nation}, {mountains_nation}] to live with their bretheren in the 
+large network of dwarven homes that have been built under the earth. Although most dwarves
+will be living in the outlying areas of the nation, many certainly do find their way to
+the central cities. 
+
+Most dwarves will find <<player-guide.nation.cities.market_city,{market_city}>> to their liking, as the ever-open markets and vendors 
+offer a great opportunity to sell their wares and find rare materials. Some dwarves with an 
+eye for government or leadership settle in <<player-guide.nation.cities.law_city,{law_city}>> and take a post in a guild 
+or legal office. Dwarves in the legal realm tend to put their strong racial loyalties to use
+defending the interests of other dwarves, and as such many find their way into positions as 
+District Representatives. Dwarves rarely tend to have the patience for as wild a city as
+<<player-guide.nation.cities.arts_city,{arts_city}>>.
+
+==== Elves
+
+Elves do come to the central cities in some numbers, but are rarely found elsewhere the nation.
+Drawn by the wealth of craftsmanship and artistic talent, elves come to display their own prowess
+and compare their works to other master artisans'. Because of this, most elves make their home in
+a de-facto elven district in <<player-guide.nation.cities.market_city,{market_city}>>, where they can live in a manner closer to home while still 
+reaping the advantages of the city. Elves almost never bother with the political and mercantile
+business that takes place in <<player-guide.nation.cities.law_city,{law_city}>>, but sometimes are drawn to the lively music and performances
+in <<player-guide.nation.cities.arts_city,{arts_city}>>.
+
+Most of the elves living in glossterm::[{nation_name}, {nation_name}] hail from from glossterm::[{forest_nation}, {forest_nation}], and those that are 
+not craftsmen are most often artists or performers, members of the mage's academy, druids, 
+rangers, or clerics of Shelyn. 
+
+==== Gnomes
+
+The constant festivites and general excitement of <<player-guide.nation.cities.arts_city,{arts_city}>> are perfectly suited to the typical
+gnome's demeanor. There they delight in taking part in or simply watching performances. While some
+rise to great heights in official groups, most gnomes find great pleasure in being street performers
+or vendors. Gnomes with an eye for business or a craving for the excitement of mercantile 
+enterprises will sometimes venture into <<player-guide.nation.cities.market_city,{market_city}>> to try their luck there.
+<<player-guide.nation.cities.law_city,{law_city}>> is far too boring and rigid for the majority of Gnomes, and they are rarely seen
+there.
+
+[role=half-image]
+image::https://googledrive.com/host/0B7b9uMyuu5dvS3Y5ZG1ZTHo3ZFU
+
+==== Halflings
+
+Halflings dovetail with ease into the hubbub and excitement of the central cities, and
+they can be found in great numbers all over the country. 
+Artisans, shopkeepers, performers, and even occasionally politicians, a glossterm::[{nation_person}, {nation_person}] 
+halfling's upbeat and amiable attitude is a formidable asset.
+
+Halflings coming from glossterm::[{meadows_nation}, {meadows_nation}] are often members of the merchant class, seeking 
+potential business partners. The rural, hill-giant loving halflings from glossterm::[{mountains_nation}, {mountains_nation}]
+are more likely to become farmers in the outskirts of the nation.
+
+==== Half-Elves
+
+Half-elves face no discrimination for their mixed origin in any of the central cities, where diversity
+is welcome and omnipresent. Because of this welcoming environment, half-elves have flourished in
+the region and many travel from distant lands to come here. They are the second most populous
+race in glossterm::[{nation_name}, {nation_name}]. Here, their mixed origin plays to their
+advantage, and they are well suited to any role. However, many heed the call of their
+elven side and find themselves as either artisans in <<player-guide.nation.cities.market_city,{market_city}>> or performers in <<player-guide.nation.cities.arts_city,{arts_city}>>.
+
+==== Half-Orcs
+
+Although diversity is welcomed in the central cities, brutishness and crassness are not. Although not
+hated or feared by any means, most half-orcs simply do not fit into the lifestyle of these cities,
+and so choose instead to live in the outlying towns and villages of the nation. Those who do choose
+to live the cities tend to make their living as bodyguards for wealthy politicians or merchants, or
+as a part of the police force.
