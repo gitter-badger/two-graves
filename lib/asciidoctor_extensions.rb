@@ -6,12 +6,19 @@ class GlossTermInlineMacro < Extensions::InlineMacroProcessor
   use_dsl
 
   named :glossterm
-  name_positional_attributes 'baseform', 'termtext'
+  name_positional_attributes 'baseform', 'termtext', 'noindex'
 
   def process parent, target, attrs
     baseform = (attrs.key? 'baseform') ? attrs['baseform'] : nil
     termtext = (attrs.key? 'termtext') ? attrs['termtext'] : baseform
-    %(<glossterm #{baseform != nil ? %(baseform="#{baseform}") : ""}>#{termtext != nil ? termtext : ""}</glossterm>)
+    noindex = (attrs.key? 'noindex') ? attrs['noindex'] == '1' : false
+    baseformAttr = baseform != nil ? %(baseform="#{baseform}") : ""
+    termtext = termtext != nil ? termtext : ""
+    if noindex
+      %(<glossterm #{baseformAttr}>#{termtext}</glossterm>)
+    else
+      %(<glossterm #{baseformAttr}>#{termtext}</glossterm><indexterm><primary>#{termtext}</primary></indexterm>)
+    end
   end
 end
 
