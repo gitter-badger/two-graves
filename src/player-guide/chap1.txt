@@ -48,6 +48,6 @@ grew exponentially as people from all over the continent came to investigate thi
 It was not long before the fledgling nation became the hub of luxury, trade, and travel that it is today.
 
 include::./chap1sect1.txt[]
-//include::./chap1sect2.txt[]
-//include::./chap1sect3.txt[]
+include::./chap1sect2.txt[]
+include::./chap1sect3.txt[]
 //include::./chap1sect4.txt[]

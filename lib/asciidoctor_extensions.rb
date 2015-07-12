@@ -15,6 +15,18 @@ class GlossTermInlineMacro < Extensions::InlineMacroProcessor
   end
 end
 
+class PersonInlineMacro < Extensions::InlineMacroProcessor
+  use_dsl
+
+  named :person
+  name_positional_attributes 'personname'
+
+  def process parent, target, attrs
+    %(<person><personname>#{attrs['personname']}</personname></person>)
+  end
+end
+
 Extensions.register do
   inline_macro GlossTermInlineMacro
+  inline_macro PersonInlineMacro
 end
