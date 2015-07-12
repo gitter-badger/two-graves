@@ -50,4 +50,4 @@ It was not long before the fledgling nation became the hub of luxury, trade, and
 include::./chap1sect1.txt[]
 include::./chap1sect2.txt[]
 include::./chap1sect3.txt[]
-//include::./chap1sect4.txt[]
+include::./chap1sect4.txt[]
