@@ -78,7 +78,7 @@ You may choose one of the following trait bonuses:
 
 * Add Abyssal (cannot speak) and Gnollish to your list of languages.
 
-=====Shadows of the Past
+===== Shadows of the Past
 
 Someone, or multiple people, dear to you have been forcibly taken away before your eyes by
 sinister figures in dark cloaks. They may have come during the night and burst into your

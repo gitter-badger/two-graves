@@ -54,7 +54,7 @@ presence ensures that there is plenty of gold to keep the entertainers
 at their antics. 
 
 [role=half-image]
-image::https://googledrive.com/host/0B7b9uMyuu5dvNDZRUk5fSk1ZaGM
+image::https://googledrive.com/host/0B7b9uMyuu5dvNDZRUk5fSk1ZaGM[]
 
 Officials long gave up on imposing bureaucracy upon the citizens, and 
 now simply seek to ensure that the city runs smoothly from one 
@@ -219,7 +219,7 @@ the amount of coin that flows through the streets, the glossterm::[{police}, {po
 omnipresent in <<player-guide.nation.cities.market_city,{market_city}>>, ensuring that the city retains its name as a
 safe and reputable haven for trade. 
 [role="half-image"]
-image::https://googledrive.com/host/0B7b9uMyuu5dvR3FwWEt6bW5UNmc
+image::https://googledrive.com/host/0B7b9uMyuu5dvR3FwWEt6bW5UNmc[]
 
 The master craftsmen themselves are no pushovers either. Crafting guilds
 are strictly forbidden both in a legal sense and a communal one, as each
@@ -481,4 +481,4 @@ Home to many of <<player-guide.nation.cities.law_city,{law_city}'s>> powerful me
   evaluation.
 
 [role=full-image]
-image::https://googledrive.com/host/0B7b9uMyuu5dvM3o3aElWdTJTaGc
+image::https://googledrive.com/host/0B7b9uMyuu5dvM3o3aElWdTJTaGc[]

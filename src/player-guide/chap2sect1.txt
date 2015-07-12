@@ -98,7 +98,7 @@ enterprises will sometimes venture into <<player-guide.nation.cities.market_city
 there.
 
 [role=half-image]
-image::https://googledrive.com/host/0B7b9uMyuu5dvS3Y5ZG1ZTHo3ZFU
+image::https://googledrive.com/host/0B7b9uMyuu5dvS3Y5ZG1ZTHo3ZFU[]
 
 ==== Halflings
 

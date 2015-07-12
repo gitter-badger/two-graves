@@ -25,7 +25,7 @@ include::./seorsus/seorsus.txt[]
 
 :product_title: Two Graves
 :barb_king: Thara
-:meadows:nation: Folda
+:meadows_nation: Folda
 :desert_kingdom: Mughim
 :mountains_nation: Orgiluud
 :cliffs_nation: Krig
