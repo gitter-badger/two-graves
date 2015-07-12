@@ -47,9 +47,7 @@ Word spread, and the population of glossterm::[{nation_name}, {nation_name}]
 grew exponentially as people from all over the continent came to investigate this new wonder and found their expectations exceeded. 
 It was not long before the fledgling nation became the hub of luxury, trade, and travel that it is today.
 
-////
-<xi:include href="chap1sect1.xml" />
-<xi:include href="chap1sect2.xml" />
-<xi:include href="chap1sect3.xml" />
-<xi:include href="chap1sect4.xml" />
-////
+include::./chap1sect1.txt[]
+//include::./chap1sect2.txt[]
+//include::./chap1sect3.txt[]
+//include::./chap1sect4.txt[]
