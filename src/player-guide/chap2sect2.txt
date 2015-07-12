@@ -52,7 +52,7 @@ names in a new land.
 
 ==== Bards
 
-As a cultural capital, glossterm::[{nation_name}, {nation_name}]&mdash;and in particular the central cities&mdash;holds 
+As a cultural capital, glossterm::[{nation_name}, {nation_name}]{mdash}and in particular the central cities{mdash}holds 
 performance and entertainment in high esteem and demand. One of the central cities, 
 <<player-guide.nation.cities.arts_city,{arts_city}>>, is completely dedicated to the betterment and enjoyment of the arts, and any
 performer, new or veteran, will find opportunity there. From frenetic street festivals, to
@@ -80,7 +80,7 @@ cities, there are a thousand others dedicated to more personal endeavors.
 
 Clerics of many faiths, but especially of Sarenrae, Pharasma, and Erastil, roam the cities and
 countryside performing good works and aiding public services. Some heed a call to protect 
-their loved ones, and join the glossterm::[{police}, {police}]&mdash;a calling often heard by the faithful of 
+their loved ones, and join the glossterm::[{police}, {police}]{mdash}a calling often heard by the faithful of 
 Iomedae. Others still seek scholarship in the glossterm::[{library}, {library}] or glossterm::[{arts_college}, {arts_college}], or to study the 
 mysterious and powerful relic shrines that dot the country.
 
@@ -93,7 +93,7 @@ also of those who have traveled long distances to experience the wonders of the 
 particular, the nation has a considerable influx of druids from glossterm::[{forest_nation}, {forest_nation}] even those of
 the reclusive glossterm::[{beast_tribes}, {beast_tribes}]. Once in the country, druids tend to pursue their own
 goals as wanderers, members of a druidic micro-community, or even as members of larger 
-organizations for&mdash;or perhaps against&mdash;the government.
+organizations for{mdash}or perhaps against{mdash}the government.
 
 The druidic micro-communities are groups of druids that tend to gather together at sites of
 particular spiritual significance. There, they tend to flora and fauna of the area and ensure
@@ -121,7 +121,7 @@ employ a wide range of skilled combat researchers and engineers to develop new t
 equipment. Fighters looking to earn more than the govnerment is willing to pay might prefer
 to take on the role of bodyguard or strongman for a wealthy noble or shop owner. Others still
 may prefer to take a riskier path and bring their feats to the stage as combat performers
-&mdash;masquerading their deadly arts as performance pieces or sport in the glossterm::[{stadium}, {stadium}] in
+{mdash}masquerading their deadly arts as performance pieces or sport in the glossterm::[{stadium}, {stadium}] in
 <<player-guide.nation.cities.arts_city,{arts_city}>>. Outside of the central cities, those skilled in combat and with good knowledge 
 of the land excel as hunters or guards for villages and trade caravans. 
 
@@ -152,7 +152,7 @@ many causes worthy of advancement in glossterm::[{nation_name}, {nation_name}], 
 tolerant or flexible codes will often find their efforts rewarded. In particular, paladins of 
 Sarenrae and Erastil are often welcomed with open arms for their efforts to be understanding
 and mend the sufferings of the people. Some members of the glossterm::[{police}, {police}] are also paladins of
-Iomedae, and they snuff out crime and corruption with zeal&mdash;though always under the 
+Iomedae, and they snuff out crime and corruption with zeal{mdash}though always under the 
 careful guidance of their superiors.
 
 But despite the best efforts of the nation's leadership to keep the zealots away, they are not
@@ -185,7 +185,7 @@ very useful. Merchants and politicians alike can always find a role for someone 
 quick hands and silent feet, and in a land of tourism and commerce pickpockets and con 
 artists have ample choice of targets if they're willing to take the risk. Some reformed
 scoundrels might choose to redeem themselves as bounty hunters or undercover agents for the
-glossterm::[{police}, {police}]. Others instead opt to live as performers&mdash;bringing joy and
+glossterm::[{police}, {police}]. Others instead opt to live as performers{mdash}bringing joy and
 excitement instead of aggravation and ruin. The glossterm::[{knife_throwers}, {knife_throwers}] is particularly well known 
 for taking in those of dubious pasts and repurposing them to more gainful employment as 
 daring, skillful daredevils.

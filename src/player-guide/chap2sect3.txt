@@ -65,7 +65,7 @@ begins. Campaign traits are a fast and effective way to do this, but are not the
 
 You were attacked by a band of gnolls recently in your life, and now you harbor a deep, 
 burning hatred for the monsters. Perhaps your village was ransacked, and though you were 
-not killed&mdash;due to either resourcefulness or maybe blind luck&mdash;many of your 
+not killed{mdash}due to either resourcefulness or maybe blind luck{mdash}many of your 
 friends and loved ones were. Or perhaps your caravan was attacked on the road and you lost
 your belongings or close companions to the gnollish bandits. Whatever the situation, you've
 had something dear stripped from you, and your dreams are haunted by cackles and barks in
