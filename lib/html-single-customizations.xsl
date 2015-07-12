@@ -8,7 +8,7 @@
 
   exclude-result-prefixes="t xsl m db tmpl f xs usrfn">
 
-  <xsl:import href="docbook-xslt2-2.0.8-rwdalpe/xslt/base/html/final-pass.xsl" />
+  <xsl:import href="docbook-xslt2-2.0.9-rwdalpe/xslt/base/html/final-pass.xsl" />
 
   <xsl:param name="section.autolabel.max.depth" select="0" />
   <xsl:param name="glossterm.auto.link" select="1" />
@@ -57,6 +57,33 @@
     </div>
   </xsl:template>
 
+  <!-- BEGIN TEMPORARY WORKAROUND FOR ISSUE https://github.com/rwdalpe/two-graves/issues/6 -->
+  <xsl:template match="db:informalfigure">
+    <xsl:if test="./db:mediaobject">
+      <xsl:apply-templates mode="m:mediafixer"/>
+    </xsl:if>
+  </xsl:template>
+
+  <xsl:template match="db:informalfigure/db:mediaobject" mode="m:mediafixer">
+    <xsl:variable name="role" select="../@role" />
+    <xsl:variable name="thisobj" as="element()+">
+      <xsl:copy>
+        <xsl:attribute name="role" select="$role" />
+        <xsl:apply-templates select="@*|node()" mode="m:identity" />
+      </xsl:copy>
+    </xsl:variable>
+    <xsl:apply-templates select="$thisobj" />
+  </xsl:template>
+
+  <xsl:template match="db:textobject" mode="m:identity"/>
+
+  <xsl:template match="@*|node()" mode="m:identity">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()" mode="m:identity" />
+    </xsl:copy>
+  </xsl:template>
+  <!--  END TEMPORARY WORKAROUND FOR ISSUE https://github.com/rwdalpe/two-graves/issues/6 -->
+
   <xsl:template match="db:printhistory" mode="m:titlepage-mode">
     <div>
       <xsl:sequence select="f:html-attributes(.)" />
@@ -65,15 +92,11 @@
   </xsl:template>
 
   <xsl:function name="usrfn:is-acceptable-mediaobject" as="xs:integer">
-    <xsl:param name="object" as="element()" />
+    <xsl:param name="object" as="element()*" />
 
     <xsl:choose>
-      <xsl:when test="$object/@role = 'hires'">
-        0
-      </xsl:when>
-      <xsl:otherwise>
-        1
-      </xsl:otherwise>
+      <xsl:when test="$object/@role = 'hires'">0</xsl:when>
+      <xsl:otherwise>1</xsl:otherwise>
     </xsl:choose>
   </xsl:function>
 
