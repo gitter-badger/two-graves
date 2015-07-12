@@ -35,9 +35,3 @@ include::chap2.txt[]
 include::glossary.txt[]
 include::../common/ogl.txt[]
 include::../common/mit.txt[]
-
-////
-  
-
-
-////

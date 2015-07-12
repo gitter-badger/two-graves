@@ -27,7 +27,6 @@
    "http://www.oasis-open.org/committees/entity/release/1.0/catalog.dtd">
 <catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
   <group prefer="system" id="local-catalog" xml:base="urn:x-twograves:local-catalog-baseurl">
-    <uri name="urn:x-twograves:glossary" uri="./common/main_glossary.xml" />
-    <system systemId="urn:x-twograves:globalentities" uri="./common/entities/global.ent" />
+    <uri name="urn:x-twograves:glossary" uri="./main_glossary.xml" />
   </group>
 </catalog>

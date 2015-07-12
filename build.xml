@@ -33,6 +33,12 @@ THE SOFTWARE.
 
   <!-- BEGIN ADDITIONAL LIBRARIES AND CLASSPATH DEFINITIONS -->
 
+  <path id="asciidoctorj.classpath">
+    <fileset dir="${lib}/${lib.asciidoctorj}/lib">
+      <include name="**/*.jar" />
+    </fileset>
+  </path>
+
   <path id="xslt2.classpath">
     <pathelement location="${lib}/${lib.tools}" />
     <fileset dir="${lib}/${lib.tools}/${lib.calabash}">
@@ -80,8 +86,12 @@ THE SOFTWARE.
 
   <target name="validate"
           description="Validate all DocBook documents"
-          depends="getlibs,-clean.validation,-prepare.catalog,-do-validate">
+          depends="getlibs,-clean.validation,convert.asciidoc,-do-validate">
   </target>
+
+  <target name="convert.asciidoc"
+          description="Converts all asciidoc documents to DocBook format"
+          depends="getlibs,-clean.docbook,-prepare.catalog,-prepare.glossary,-do-convert.asciidoc" />
 
   <target name="clean" description="Remove all output and build artifacts">
     <delete dir="${outputdir}" />
@@ -142,7 +152,7 @@ THE SOFTWARE.
       <arg value="--entity-resolver=org.xmlresolver.Resolver" />
       <arg value="--uri-resolver=org.xmlresolver.Resolver" />
       <arg value="-oresult=${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/index.html" />
-      <arg value="-isource=${src}/${toplevelBookName}/${toplevelBookName}.xml" />
+      <arg value="-isource=${outputdir}/${outputdir.docbook}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg value="-pgenerate.meta.generator=0" />
       <arg value="-pdocbook.css=" />
       <arg value="-pdraft.mode=${draft}" />
@@ -217,7 +227,7 @@ THE SOFTWARE.
       <arg value="org.apache.xml.resolver.tools.ResolvingXMLReader" />
       <arg value="-o" />
       <arg value="${outputdir}/${outputdir.fo}/${toplevelBookName}/${toplevelBookName}.fo" />
-      <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
+      <arg file="${outputdir}/${outputdir.docbook}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/fo-customizations.xsl" />
       <arg value="toc.indent.width=16" />
       <arg value="fop1.extensions=1" />
@@ -291,7 +301,7 @@ THE SOFTWARE.
       <arg value="org.apache.xml.resolver.tools.ResolvingXMLReader" />
       <arg value="-y" />
       <arg value="org.apache.xml.resolver.tools.ResolvingXMLReader" />
-      <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
+      <arg file="${outputdir}/${outputdir.docbook}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${lib}/epub-customizations.xsl" />
       <arg value="base.dir=${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
       <arg value="chapter.autolabel=0" />
@@ -323,6 +333,37 @@ THE SOFTWARE.
   </target>
   <target name="-clean.epub">
     <delete dir="${outputdir}/${outputdir.epub}/" />
+  </target>
+
+  <!-- ASCIIDOC -->
+  <target name="-do-convert.asciidoc">
+    <foreach target="-convert.asciidoc.one"
+             param="toplevelBookName"
+             list="${src.toplevel-books}"
+             inheritall="true" />
+  </target>
+
+  <target name="-convert.asciidoc.one">
+    <mkdir dir="${outputdir}/${outputdir.docbook}/${toplevelBookName}" />
+
+    <java classpathref="asciidoctorj.classpath"
+          failonerror="true"
+          fork="true"
+          classname="org.asciidoctor.cli.AsciidoctorInvoker">
+      <arg value="-r" />
+      <arg value="${basedir}/${lib}/asciidoctor_extensions.rb" />
+      <arg value="-d" />
+      <arg value="book" />
+      <arg value="-b" />
+      <arg value="docbook" />
+      <arg value="-o" />
+      <arg value="${outputdir}/${outputdir.docbook}/${toplevelBookName}/${toplevelBookName}.xml" />
+      <arg value="${src}/${toplevelBookName}/${toplevelBookName}.txt" />
+    </java>
+  </target>
+
+  <target name="-clean.docbook">
+    <delete dir="${outputdir}/${outputdir.docbook}/" />
   </target>
 
   <!-- VALIDATION -->
@@ -367,7 +408,7 @@ THE SOFTWARE.
       <arg value="-r" />
       <arg value="com.thaiopensource.resolver.catalog.XercesCatalogResolverFactoryImpl" />
       <arg file="${lib}/${lib.docbook}/rng/docbook.rng" />
-      <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
+      <arg file="${outputdir}/${outputdir.docbook}/${toplevelBookName}/${toplevelBookName}.xml" />
     </java>
 
     <java classpathref="xslt1.classpath"
@@ -387,7 +428,7 @@ THE SOFTWARE.
       <arg value="org.apache.xml.resolver.tools.ResolvingXMLReader" />
       <arg value="-o" />
       <arg value="${outputdir}/${outputdir.validation}/schematronerrors.txt" />
-      <arg file="${src}/${toplevelBookName}/${toplevelBookName}.xml" />
+      <arg file="${outputdir}/${outputdir.docbook}/${toplevelBookName}/${toplevelBookName}.xml" />
       <arg file="${outputdir}/${outputdir.validation}/schematronvalidation.xsl" />
     </java>
 
@@ -448,12 +489,9 @@ THE SOFTWARE.
   </target>
 
   <!-- PREPARATION -->
-  <target name="-convert.asciidoc">
-  
-  </target>
-  
   <target name="-prepare.catalog">
-    <property name="local-catalog-baseurl.absolutepath" location="${src}" />
+    <property name="local-catalog-baseurl.absolutepath"
+              location="${outputdir}/${outputdir.docbook}/common" />
 
     <xslt style="${lib}/prepare_catalog.xsl"
           in="${lib}/catalog.xml"
@@ -465,5 +503,23 @@ THE SOFTWARE.
     </xslt>
   </target>
 
+  <target name="-prepare.glossary">
+    <mkdir dir="${outputdir}/${outputdir.docbook}/common" />
+
+    <java classpathref="asciidoctorj.classpath"
+          failonerror="true"
+          fork="true"
+          classname="org.asciidoctor.cli.AsciidoctorInvoker">
+      <arg value="-r" />
+      <arg value="${basedir}/${lib}/asciidoctor_extensions.rb" />
+      <arg value="-b" />
+      <arg value="docbook" />
+      <arg value="-d" />
+      <arg value="glossary" />
+      <arg value="-o" />
+      <arg value="${outputdir}/${outputdir.docbook}/common/main_glossary.xml" />
+      <arg value="${src}/common/main_glossary.txt" />
+    </java>
+  </target>
   <!-- END PRIVATE TARGETS -->
 </project>
