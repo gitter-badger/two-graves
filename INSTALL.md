@@ -1,6 +1,7 @@
 # Build
 
-The books are written as [Docbook][1] V5.0 XML documents. This project 
+The books are written as [ASCIIDoc][9] documents and processed by [ASCIIDoctor][10] 
+This transformation creates [Docbook][1] V5.0 XML documents. This project 
 includes an Ant build script which you can use to automatically validate 
 the documents and built HTML, PDF and EPUB output. You will need 
 [Apache Ant][3] to take advantage of the automatic build process.
@@ -41,6 +42,8 @@ for HTML output
  - [DocBook XSL Stylesheets][2] for DocBook transformations into PDF and 
 EPUB output
  - [FOP][6] for transforming XSL-FO into PDFs
+ - [AsciidoctorJ][11] for interfacing with [Asciidoctor][10] to transform the
+documents into DocBook documents
 
 [1]: http://www.docbook.org/
 [2]: http://docbook.sourceforge.net/
@@ -50,3 +53,6 @@ EPUB output
 [6]: http://xmlgraphics.apache.org/fop/
 [7]: http://xmlcalabash.com/
 [8]: https://github.com/rwdalpe/xslt20-stylesheets 
+[9]: http://asciidoc.org/
+[10]: http://asciidoctor.org/
+[11]: https://github.com/asciidoctor/asciidoctorj
