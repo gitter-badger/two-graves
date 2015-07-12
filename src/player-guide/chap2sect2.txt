@@ -54,15 +54,15 @@ names in a new land.
 
 As a cultural capital, glossterm::[{nation_name}, {nation_name}]{mdash}and in particular the central cities{mdash}holds 
 performance and entertainment in high esteem and demand. One of the central cities, 
-<<player-guide.nation.cities.arts_city,{arts_city}>>, is completely dedicated to the betterment and enjoyment of the arts, and any
+<<player-guide.arts_city,{arts_city}>>, is completely dedicated to the betterment and enjoyment of the arts, and any
 performer, new or veteran, will find opportunity there. From frenetic street festivals, to
 the studious halls of glossterm::[{arts_college}, {arts_college}], to the crystalline elegance of the glossterm::[{amphitheater}, {amphitheater}] 
-amphitheater, there is no limit to the passions of <<player-guide.nation.cities.arts_city,{arts_city}'s>> citizens. This intensity has 
+amphitheater, there is no limit to the passions of <<player-guide.arts_city,{arts_city}'s>> citizens. This intensity has 
 even produced a saying known throughout the nation: no great performer will forever die so 
-long as there is music in <<player-guide.nation.cities.arts_city,{arts_city}>>. 
+long as there is music in <<player-guide.arts_city,{arts_city}>>. 
 
 
-Even outside of <<player-guide.nation.cities.arts_city,{arts_city}>>, a performer has many opportunities to excel. Politicians, 
+Even outside of <<player-guide.arts_city,{arts_city}>>, a performer has many opportunities to excel. Politicians, 
 storeowners, and merchant guilds are all keenly aware of the impact a charismatic face can
 have on one's audience, and many seek the services of skilled spokesmen. Travelers, far
 from their homes, find comfort in local song and art even in a land so distant. And a rural
@@ -75,7 +75,7 @@ Although outwardly glossterm::[{nation_name}, {nation_name}] may seem thoroughly
 government are steeped in religion, and many faiths have large temples and congregations here.
 The temples of Abadar, Shelyn, and Cayden Cailean hold particularly strong
 political influence, and many of their clerics become officiaries in the grand courts of 
-<<player-guide.nation.cities.law_city,{law_city}>> or the wild streets of <<player-guide.nation.cities.arts_city,{arts_city}>>. But for every cleric who wields the might of 
+<<player-guide.arts_city,{arts_city}>>. But for every cleric who wields the might of 
 cities, there are a thousand others dedicated to more personal endeavors. 
 
 Clerics of many faiths, but especially of Sarenrae, Pharasma, and Erastil, roam the cities and
@@ -122,7 +122,7 @@ equipment. Fighters looking to earn more than the govnerment is willing to pay m
 to take on the role of bodyguard or strongman for a wealthy noble or shop owner. Others still
 may prefer to take a riskier path and bring their feats to the stage as combat performers
 {mdash}masquerading their deadly arts as performance pieces or sport in the glossterm::[{stadium}, {stadium}] in
-<<player-guide.nation.cities.arts_city,{arts_city}>>. Outside of the central cities, those skilled in combat and with good knowledge 
+<<player-guide.arts_city,{arts_city}>>. Outside of the central cities, those skilled in combat and with good knowledge 
 of the land excel as hunters or guards for villages and trade caravans. 
 
 ==== Monks
@@ -176,7 +176,7 @@ patrols protect fledgling villages and secure survival from season to season. An
 heart of the country, those with connections to the wilds can deal in lucrative exotic pelts, 
 trophies, and other goods. For those who do not wish to exploit their talents for profit from 
 slaughter, there are many men, women, and children who will pay handsomly to see talented 
-animals and their trainers perform in <<player-guide.nation.cities.arts_city,{arts_city}>>.
+animals and their trainers perform in <<player-guide.arts_city,{arts_city}>>.
 
 ==== Rogues
 
@@ -199,7 +199,7 @@ undertakings.
 Opportunities of all kinds can appear unexpectedly in glossterm::[{nation_name}, {nation_name}], and a sorcerer's 
 innate ability to instanly access the full wealth of her magical strengths is an invaluable 
 tool for responding to sudden windfalls. In the bustling central cities, sorcerers
-are valued as enchanters in crafting workshops, but they are especially valued in <<player-guide.nation.cities.arts_city,{arts_city}>>. 
+are valued as enchanters in crafting workshops, but they are especially valued in <<player-guide.arts_city,{arts_city}>>. 
 There, the constantly changing environment of festivals and performances often demands
 immediate response to crazy schemes and outlandish requests. A company of sorcerers known as 
 glossterm::[{fireworks_co}, {fireworks_co}] has specialized in this field, and keeps a sizable retinue of magical adepts on
@@ -224,5 +224,5 @@ provides shelter and workspaces.
 Craftsman also value skilled wizards, and many vie to employ the best in their 
 workshops. For those who cannot afford a full time enchanter, supply shops offer the end 
 results of the creative process. glossterm::[{magic_supply}, {magic_supply}] is a particularly well known name in 
-<<player-guide.nation.cities.market_city,{market_city}>>, and they employ skilled enchanters to fulfill bulk and custom requests for 
+<<player-guide.market_city,{market_city}>>, and they employ skilled enchanters to fulfill bulk and custom requests for 
 their clients.

@@ -31,11 +31,11 @@ and its roots are still apparent to this day.
 Although the nation is not strictly aligned with any one deity,
 its senate is composed of eighteen representatives from the most influential temples{mdash}be it influence through number of worshipers, wealth, or other means. Currently the temples of 
 Abadar, Shelyn, Cayden Cailean, Sarenrae, Pharasma, Iomedae, and Erastil hold senate positions.
-The temple of Abadar has maintained major power in the city, and from the gilded halls of <<player-guide.nation.cities.law_city.poi.abadar_temple>>
-in <<player-guide.nation.cities.law_city,{law_city}>> it oversees much of the nation's financial and legal well-being.
-Shelyn and Cayden Cailean both have large followings in <<player-guide.nation.cities.arts_city,{arts_city}>>,
-and their temples{mdash}<<player-guide.nation.cities.arts_city.poi.shelyn_temple>> and
-<<player-guide.nation.cities.arts_city.poi.cc_temple>>{mdash}draw tourists and worshippers from far and wide.
+The temple of Abadar has maintained major power in the city, and from the gilded halls of <<player-guide.abadar_temple>>
+in <<player-guide.law_city,{law_city}>> it oversees much of the nation's financial and legal well-being.
+Shelyn and Cayden Cailean both have large followings in <<player-guide.arts_city,{arts_city}>>,
+and their temples{mdash}<<player-guide.shelyn_temple>> and
+<<player-guide.cc_temple>>{mdash}draw tourists and worshippers from far and wide.
     
 .Mystery of the Shrines
 ***********************
@@ -44,7 +44,7 @@ The shrines wield various potent magics, from healing, to increased strength and
 Although the purpose and origin of these shrines is contested fact, access to them is highly valued, and many groups vie for stewardship of these relics.
 ***********************
 
-Iomedae's temple is the <<player-guide.nation.cities.law_city.poi.police_hq>> in <<player-guide.nation.cities.law_city,{law_city}>>
+Iomedae's temple is the <<player-guide.law_city,{law_city}>>
 and much of the police force are devotees.
 Sarenrae, Pharasma, and Erastil enjoy large popular support from all around the nation for their public services and good works,
 but they do not maintain large shrines or temples in any one location. 

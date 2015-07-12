@@ -53,7 +53,7 @@ from the peaks of glossterm::[{mountains_nation}, {mountains_nation}]
 are more rare, but sometimes come down to the valley for supplies or when they are seeking
 lesser or perhaps even greater solitude than they found among their people in the mountains.
 The exotic glossterm::[{firepeople}, {firepeople}] from neighboring glossterm::[{desert_kingdom}, {desert_kingdom}] are often employed as guides and 
-laborers, although some have left their homes to make a living as performers in <<player-guide.nation.cities.arts_city,{arts_city}>>.
+laborers, although some have left their homes to make a living as performers in <<player-guide.arts_city,{arts_city}>>.
 Humans from glossterm::[{forest_nation}, {forest_nation}] are significantly more rare, but occasionally a prodigy from the 
 mage's academy or a wayward druid will make an appearance.
 
@@ -65,23 +65,23 @@ large network of dwarven homes that have been built under the earth. Although mo
 will be living in the outlying areas of the nation, many certainly do find their way to
 the central cities. 
 
-Most dwarves will find <<player-guide.nation.cities.market_city,{market_city}>> to their liking, as the ever-open markets and vendors 
+Most dwarves will find <<player-guide.market_city,{market_city}>> to their liking, as the ever-open markets and vendors 
 offer a great opportunity to sell their wares and find rare materials. Some dwarves with an 
-eye for government or leadership settle in <<player-guide.nation.cities.law_city,{law_city}>> and take a post in a guild 
+eye for government or leadership settle in <<player-guide.law_city,{law_city}>> and take a post in a guild 
 or legal office. Dwarves in the legal realm tend to put their strong racial loyalties to use
 defending the interests of other dwarves, and as such many find their way into positions as 
 District Representatives. Dwarves rarely tend to have the patience for as wild a city as
-<<player-guide.nation.cities.arts_city,{arts_city}>>.
+<<player-guide.arts_city,{arts_city}>>.
 
 ==== Elves
 
 Elves do come to the central cities in some numbers, but are rarely found elsewhere the nation.
 Drawn by the wealth of craftsmanship and artistic talent, elves come to display their own prowess
 and compare their works to other master artisans'. Because of this, most elves make their home in
-a de-facto elven district in <<player-guide.nation.cities.market_city,{market_city}>>, where they can live in a manner closer to home while still 
+a de-facto elven district in <<player-guide.market_city,{market_city}>>, where they can live in a manner closer to home while still 
 reaping the advantages of the city. Elves almost never bother with the political and mercantile
-business that takes place in <<player-guide.nation.cities.law_city,{law_city}>>, but sometimes are drawn to the lively music and performances
-in <<player-guide.nation.cities.arts_city,{arts_city}>>.
+business that takes place in <<player-guide.law_city,{law_city}>>, but sometimes are drawn to the lively music and performances
+in <<player-guide.arts_city,{arts_city}>>.
 
 Most of the elves living in glossterm::[{nation_name}, {nation_name}] hail from from glossterm::[{forest_nation}, {forest_nation}], and those that are 
 not craftsmen are most often artists or performers, members of the mage's academy, druids, 
@@ -89,12 +89,12 @@ rangers, or clerics of Shelyn.
 
 ==== Gnomes
 
-The constant festivites and general excitement of <<player-guide.nation.cities.arts_city,{arts_city}>> are perfectly suited to the typical
+The constant festivites and general excitement of <<player-guide.arts_city,{arts_city}>> are perfectly suited to the typical
 gnome's demeanor. There they delight in taking part in or simply watching performances. While some
 rise to great heights in official groups, most gnomes find great pleasure in being street performers
 or vendors. Gnomes with an eye for business or a craving for the excitement of mercantile 
-enterprises will sometimes venture into <<player-guide.nation.cities.market_city,{market_city}>> to try their luck there.
-<<player-guide.nation.cities.law_city,{law_city}>> is far too boring and rigid for the majority of Gnomes, and they are rarely seen
+enterprises will sometimes venture into <<player-guide.market_city,{market_city}>> to try their luck there.
+<<player-guide.law_city,{law_city}>> is far too boring and rigid for the majority of Gnomes, and they are rarely seen
 there.
 
 [role=half-image]
@@ -118,7 +118,7 @@ is welcome and omnipresent. Because of this welcoming environment, half-elves ha
 the region and many travel from distant lands to come here. They are the second most populous
 race in glossterm::[{nation_name}, {nation_name}]. Here, their mixed origin plays to their
 advantage, and they are well suited to any role. However, many heed the call of their
-elven side and find themselves as either artisans in <<player-guide.nation.cities.market_city,{market_city}>> or performers in <<player-guide.nation.cities.arts_city,{arts_city}>>.
+elven side and find themselves as either artisans in <<player-guide.arts_city,{arts_city}>>.
 
 ==== Half-Orcs
 
