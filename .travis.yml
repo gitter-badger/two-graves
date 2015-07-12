@@ -1,5 +1,8 @@
 language: java
 before_script: ant validate
+jdk:
+  - openjdk8
+  - oraclejdk8
 script: ant build.all
 notifications:
   email:
