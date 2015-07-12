@@ -98,6 +98,8 @@ THE SOFTWARE.
     <delete file="${lib}/${lib.calabash.zip}" />
     <delete dir="${lib}/${lib.fop}" />
     <delete file="${lib}/${lib.fop.zip}" />
+    <delete dir="${lib}/${lib.asciidoctorj}" />
+    <delete file="${lib}/${lib.asciidoctorj.zip}" />
   </target>
 
   <target name="getlibs" description="Retrieve all necessary lib files for building">
@@ -108,6 +110,8 @@ THE SOFTWARE.
     <unzip dest="${lib}/" src="${lib}/${lib.xslt2stylesheets-extensions.zip}" overwrite="false" />
     <get dest="${lib}/" src="${lib.jing.url}" skipexisting="true" />
     <unzip dest="${lib}/" src="${lib}/${lib.jing.zip}" overwrite="false" />
+    <get dest="${lib}/" src="${lib.asciidoctorj.url}" skipexisting="true" />
+    <unzip dest="${lib}/" src="${lib}/${lib.asciidoctorj.zip}" overwrite="false" />
     <get dest="${lib}/" src="${lib.calabash.url}" skipexisting="true" />
     <unzip dest="${lib}/${lib.tools}" src="${lib}/${lib.calabash.zip}" overwrite="false" />
     <get dest="${lib}/" src="${lib.fop.url}" skipexisting="true" />
@@ -444,6 +448,10 @@ THE SOFTWARE.
   </target>
 
   <!-- PREPARATION -->
+  <target name="-convert.asciidoc">
+  
+  </target>
+  
   <target name="-prepare.catalog">
     <property name="local-catalog-baseurl.absolutepath" location="${src}" />
 
