@@ -130,9 +130,9 @@
       margin-top: -1.83333em;
     }
 
-    .js-on dt.glossentry {
-	padding-top: 3.625em;
-	margin-top: -3.625em;
+    .js-on dt.glossentry, .js-on span.anchor {
+    	padding-top: 3.625em;
+    	margin-top: -3.625em;
     }
   }
   @media screen and (max-width: 40em) {
