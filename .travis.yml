@@ -1,0 +1,6 @@
+language: java
+before_script: ant validate
+script: ant build.all
+notifications:
+  email:
+  - rwdalpe@gmail.com
