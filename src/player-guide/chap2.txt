@@ -28,9 +28,4 @@ THE SOFTWARE.
 
 include::./chap2sect1.txt[]
 include::./chap2sect2.txt[]
-
-////
-  <xi:include href="chap2sect1.xml"/>
-  <xi:include href="chap2sect2.xml"/>
-  <xi:include href="chap2sect3.xml"/>
-////
+include::./chap2sect3.txt[]
