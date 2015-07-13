@@ -36,8 +36,8 @@ include::./seorsus/seorsus.txt[]
 :firepeople: Hariq
 :earthpeople: Aroda
 
-:continent_name: PLACEHOLDER
-:volcano_name: PLACEHOLDER
+:continent_name: Norolba
+:volcano_name: Galt Uul
 
 :beast_tribes: Bestial Tribes
 :mountain_range: Devil's Tail Mountains
