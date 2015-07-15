@@ -16,7 +16,7 @@ deploy:
   file: output/epub/**/*.epub
   on:
     tags: true
-after_deploy: bash ./lib/pages-deploy.sh
+after_deploy: bash lib/deploy-pages.sh
 notifications:
   email:
   - rwdalpe@gmail.com
