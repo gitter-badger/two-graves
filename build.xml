@@ -481,7 +481,7 @@ THE SOFTWARE.
   <!-- TIMESTAMPS -->
   <target name="-get-timestamp">
     <tstamp>
-      <format property="NOW" pattern="yyyy-MM-dd'T'HH:mm:ss.SSSZ" />
+      <format property="NOW" pattern="yyyy-MM-dd'T'HH:mm:ss.SSSZ" timezone="UTC"/>
     </tstamp>
 
     <propertyregex input="${NOW}" property="NOWSUB" regexp=".{2}$" replace=":\0" />
