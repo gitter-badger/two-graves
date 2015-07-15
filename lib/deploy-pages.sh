@@ -2,7 +2,7 @@
 
 set -e
 
-cd ../output/html/single-file/
+cd output/html/single-file/
 git init
 
 git config user.name "Travis CI"
