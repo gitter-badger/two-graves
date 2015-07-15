@@ -24,4 +24,6 @@ INSTALL: details how to build the project and other technical notes
 CONTRIBUTING: instructions and guidelines for contributing to the 
 project
 
+[![Build Status](https://travis-ci.org/rwdalpe/two-graves.svg?branch=master)](https://travis-ci.org/rwdalpe/two-graves)
+
 [1]: http://paizo.com/pathfinder
