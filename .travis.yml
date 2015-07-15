@@ -1,8 +1,22 @@
 language: java
+env:
+  global:
+    - GH_REF: github.com/rwdalpe/two-graves.git
+    - secure: "taCIOMq7P/UQsGF5+zHYcwH5U4HSEjl9+ltg5osRyVvYBa850W2wpH/GVI5bsZudSzGZMc5hfH3LVo0FnzhMjjTFEc8Ured0kiXL6vl0eTEoUNZftJqqFEp9jxbD0EIbxlUXOYJFw3fq3aqhKAokOct1aFhSYXHC7FGUzKSd+JxFk9fT1ANQ14uQWlKzUYOX6cFTDATIT/KQFBYwWZiMtduTT55QXJMHl3+ZiA11b1OM1bNWxS4MfH1XYGp6D+W6RB/uvz+0dUJQEdHDRCqMZYxJzyrnUncEIdjMaM3NrovNqITSxflNp+lpHhjmn8ugKmq2QbfhQab8J7cywJ5lN+3ajscPmd4w5KMA4NmkTrCPQ39xPZrEACKyxI8duCWl3P5Tk2tDhnRBy+sLKpdIfKW7SaW8NmmlKwf/5VatFInmAtPPtlbUbd6gqu1xlRVnBvt5BTXUzKfLBy1Kna1XjOqznPc6Df0kuiYNJJU9GVzsxsrMFkzadrsmYxqbTpyOvA1Tmb1HRf7dM8uVMuznnH2Yp0UGLBjDR0/btbF/16Vxx0k5iI5YxKgh3D1aggLLA2azMLxP7w0+IbNGz2eKXDy4HDzfo+ewTlF7Uj7MGOi0J5fOfUaJfztgvIZho5qQauGeDaB0rGqE8e+lmPpoyyY9PsNH5CRyR1nfvSJ8Zwg="
 before_script: ant validate
 jdk:
   - oraclejdk8
 script: ant build.all
+deploy:
+  provider: releases
+  api_key:
+    secure: "H3eBrJLsq+8JFB9AP8Tsku9QT9pO/zTzgfFUCbg8NghLu4m6o8/QBd2WzvhhauI+K+gWk1/asgDb/q+HQM7JzQKsht9G0BxVbnTHoEjBbZpSm4hGTLk3WSYVnqcNh7ODguadw3lpwIsg6Ve1OmZsOBz250VQM+Qn7TM9M1LLPi6EJnGFBDajfyi6QB6sYqRsFR+eHnpxNzliCZYKRb7i7XSqcYI7L96jvvG7fvSeXQdtHcafcEvSVZpg7RuvFw8mlKqxQZCphBVWmQxzVfohEnRBDc8NsxYEX0BfbKqY6RwmFp7T6nxjN0aSaZ1a1JZbk71sD0SzCAnemcLedfL+2ks1ex1NKkmzjd9ApDzzxwLpehbcZMe9qoe+BhHSpLulFQag1eRR9IjgbsO7wDhG76oE4MDwpkNAcwJKI+EJTaRI2UcHvq20DOGwbH946YXab9X1DLxfkHeN7X1hskC5zVrx7e1RNod3juPGO0waw8oZkZJitM51kLYCmOO0mWVjl43VMBh6bh6umSkDnnzh9LxWQYuiU2QRal2g/gGvSOtjjPncZezb/wKAO0LxgeF8YAa9bYYYCDtBG95vR4UUCZs1sMfqOdNKmZuqPWkwi26yifPes0QUWFDr3dZw7v+eI8wzum5ELNm1kbt+Iqm4QdTKX6NJhv+P5VPiC8VV410="
+  skip_cleanup: true
+  file_glob: true
+  file: output/epub/**/*.epub
+  on:
+    tags: true
+after_deploy: bash ./lib/pages-deploy.sh
 notifications:
   email:
   - rwdalpe@gmail.com
