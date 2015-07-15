@@ -206,6 +206,7 @@ for HTML output
  - [DocBook XSL Stylesheets][2] for DocBook transformations into PDF and 
 EPUB output
  - [FOP][6] for transforming XSL-FO into PDFs
+ - [AsciidoctorJ][9] for transforming asciidoc into DocBook 
 
 [1]: http://www.docbook.org/
 [2]: http://docbook.sourceforge.net/
@@ -214,4 +215,5 @@ EPUB output
 [5]: https://code.google.com/p/jing-trang/
 [6]: http://xmlgraphics.apache.org/fop/
 [7]: http://xmlcalabash.com/
-[8]: https://github.com/rwdalpe/xslt20-stylesheets 
+[8]: https://github.com/rwdalpe/xslt20-stylesheets
+[9]: http://asciidoctor.org/ 
