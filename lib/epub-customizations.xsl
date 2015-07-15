@@ -24,4 +24,12 @@
       <xsl:with-param name="format" select="'Y-m-d H:M:S'" />
     </xsl:call-template>
   </xsl:template>
+  
+  <xsl:template match="db:index">
+    <xsl:copy/>
+  </xsl:template>
+
+  <xsl:template match="db:index" mode="toc"/>  
+  <xsl:template match="db:index" mode="ncx"/>
+  <xsl:template match="db:index" mode="package.manifest"/>
 </xsl:stylesheet>

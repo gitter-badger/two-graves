@@ -4,13 +4,15 @@
   xmlns:m="http://docbook.org/xslt/ns/mode" xmlns="http://www.w3.org/1999/xhtml"
   xmlns:db="http://docbook.org/ns/docbook" xmlns:tmpl="http://docbook.org/xslt/titlepage-templates"
   xmlns:f="http://docbook.org/xslt/ns/extension" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:mp="http://docbook.org/xslt/ns/mode/private"
   xmlns:usrfn="http://docbook.org/xslt/ns/user-extension"
 
-  exclude-result-prefixes="t xsl m db tmpl f xs usrfn">
+  exclude-result-prefixes="t xsl m db tmpl f xs usrfn mp">
 
   <xsl:import href="docbook-xslt2-2.0.9-rwdalpe/xslt/base/html/final-pass.xsl" />
 
   <xsl:param name="section.autolabel.max.depth" select="0" />
+  <xsl:param name="generate.index" select="0"/>
   <xsl:param name="glossterm.auto.link" select="1" />
   <xsl:param name="glossary.sort" select="1" />
   <xsl:param name="autolabel.elements">
@@ -91,6 +93,12 @@
     </div>
   </xsl:template>
 
+  <xsl:template match="db:index">
+    <xsl:copy/>
+  </xsl:template>
+  
+  <xsl:template match="db:index" mode="mp:toc"/>
+  
   <xsl:function name="usrfn:is-acceptable-mediaobject" as="xs:integer">
     <xsl:param name="object" as="element()*" />
 

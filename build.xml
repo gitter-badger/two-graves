@@ -313,6 +313,7 @@ THE SOFTWARE.
       <arg value="glossary.collection=urn:x-twograves:glossary" />
       <arg value="glossterm.auto.link=1" />
       <arg value="glossary.sort=1" />
+      <arg value="generate.index=0" />
     </java>
 
     <if>
