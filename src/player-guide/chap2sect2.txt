@@ -28,201 +28,241 @@ THE SOFTWARE.
 
 ==== Barbarians
 
-The civilized and well-kept lands of glossterm::[{nation_name}, {nation_name}] are inhospitable to barbarian tribes. 
-Barbarism and brutishness are frowned upon universally across the country, and
-many barbarians would find it a challenge to be welcomed or to fit in. As there are no
-naturally occurring tribes in the valley, most barbarians trace their origins elsewhere on the
-continent. In particular, they thrive in the blazing sands of glossterm::[{desert_kingdom}, {desert_kingdom}] and
-in the gladiatorial pits of glossterm::[{cliffs_nation}, {cliffs_nation}]. 
+The civilized and well-kept lands of glossterm::[{nation_name}, {nation_name}]
+are inhospitable to barbarian tribes.  Barbarism and brutishness are frowned
+upon universally across the country, and many barbarians would find it a
+challenge to be welcomed or to fit in. As there are no naturally occurring
+tribes in the valley, most barbarians trace their origins elsewhere on the
+continent. In particular, they thrive in the blazing sands of
+glossterm::[{desert_kingdom}, {desert_kingdom}] and in the gladiatorial pits of
+glossterm::[{cliffs_nation}, {cliffs_nation}].
 
-In glossterm::[{desert_kingdom}, {desert_kingdom}], fire-blooded glossterm::[{firepeople}, {firepeople}] are the warriors of nomadic tribes who roam 
-the desert, never staying in one place for too long as they consider it their duty to 
-safeguard their home and its culture. Though they may feel the bloodlust of battle, many are 
-pragmatists and some fund the efforts of their tribes by working as mercenaries. Others 
-may be outcasts or seekers of gold and glory looking to start a new life in a land different 
-from what they have known.
+In glossterm::[{desert_kingdom}, {desert_kingdom}], fire-blooded
+glossterm::[{firepeople}, {firepeople}] are the warriors of nomadic tribes who
+roam the desert, never staying in one place for too long as they consider it
+their duty to safeguard their home and its culture. Though they may feel the
+bloodlust of battle, many are pragmatists and some fund the efforts of their
+tribes by working as mercenaries. Others may be outcasts or seekers of gold and
+glory looking to start a new life in a land different from what they have known.
 
-glossterm::[{cliffs_nation_person}, {cliffs_nation_person}] barbarians frequently rise to great ranks in the warrior culture of 
-their homeland. There, where power and determination are revered, barbarians can live akin to
-nobility. However, feats of greatness must be constantly proven, and one can only rise so
-high without a worthy tale of one's own. To this end, many leave glossterm::[{cliffs_nation}, {cliffs_nation}] to
-travel the continent in search of fame and honor. But for each glorified warrior, there are 
-many defeated ones in his wake, and some among them are barbarians looking to redeem their 
-names in a new land. 
+glossterm::[{cliffs_nation_person}, {cliffs_nation_person}] barbarians
+frequently rise to great ranks in the warrior culture of their homeland. There,
+where power and determination are revered, barbarians can live akin to
+nobility. However, feats of greatness must be constantly proven, and one can
+only rise so high without a worthy tale of one's own. To this end, many leave
+glossterm::[{cliffs_nation}, {cliffs_nation}] to travel the continent in search
+of fame and honor. But for each glorified warrior, there are many defeated ones
+in his wake, and some among them are barbarians looking to redeem their names in
+a new land.
 
 ==== Bards
 
-As a cultural capital, glossterm::[{nation_name}, {nation_name}]{mdash}and in particular the central cities{mdash}holds 
-performance and entertainment in high esteem and demand. One of the central cities, 
-<<player-guide.arts_city,{arts_city}>>, is completely dedicated to the betterment and enjoyment of the arts, and any
-performer, new or veteran, will find opportunity there. From frenetic street festivals, to
-the studious halls of glossterm::[{arts_college}, {arts_college}], to the crystalline elegance of the glossterm::[{amphitheater}, {amphitheater}] 
-amphitheater, there is no limit to the passions of <<player-guide.arts_city,{arts_city}'s>> citizens. This intensity has 
-even produced a saying known throughout the nation: no great performer will forever die so 
-long as there is music in <<player-guide.arts_city,{arts_city}>>. 
+As a cultural capital, glossterm::[{nation_name}, {nation_name}]{mdash}and in
+particular the central cities{mdash}holds performance and entertainment in high
+esteem and demand. One of the central cities,
+<<player-guide.arts_city,{arts_city}>>, is completely dedicated to the
+betterment and enjoyment of the arts, and any performer, new or veteran, will
+find opportunity there. From frenetic street festivals, to the studious halls of
+glossterm::[{arts_college}, {arts_college}], to the crystalline elegance of the
+glossterm::[{amphitheater}, {amphitheater}] amphitheater, there is no limit to
+the passions of <<player-guide.arts_city,{arts_city}'s>> citizens. This
+intensity has even produced a saying known throughout the nation: no great
+performer will forever die so long as there is music in
+<<player-guide.arts_city,{arts_city}>>.
 
 
-Even outside of <<player-guide.arts_city,{arts_city}>>, a performer has many opportunities to excel. Politicians, 
-storeowners, and merchant guilds are all keenly aware of the impact a charismatic face can
-have on one's audience, and many seek the services of skilled spokesmen. Travelers, far
-from their homes, find comfort in local song and art even in a land so distant. And a rural
-life may become grim indeed without wanderers who tell tales or sing songs of grand 
+Even outside of <<player-guide.arts_city,{arts_city}>>, a performer has many
+opportunities to excel. Politicians, storeowners, and merchant guilds are all
+keenly aware of the impact a charismatic face can have on one's audience, and
+many seek the services of skilled spokesmen. Travelers, far from their homes,
+find comfort in local song and art even in a land so distant. And a rural life
+may become grim indeed without wanderers who tell tales or sing songs of grand
 excitement and adventure.
 
 ==== Clerics
 
-Although outwardly glossterm::[{nation_name}, {nation_name}] may seem thoroughly secular and unaffiliated, its history and
-government are steeped in religion, and many faiths have large temples and congregations here.
-The temples of Abadar, Shelyn, and Cayden Cailean hold particularly strong
-political influence, and many of their clerics become officiaries in the grand courts of 
-<<player-guide.arts_city,{arts_city}>>. But for every cleric who wields the might of 
-cities, there are a thousand others dedicated to more personal endeavors. 
+Although outwardly glossterm::[{nation_name}, {nation_name}] may seem thoroughly
+secular and unaffiliated, its history and government are steeped in religion,
+and many faiths have large temples and congregations here.  The temples of
+Abadar, Shelyn, and Cayden Cailean hold particularly strong political influence,
+and many of their clerics become officiaries in the grand courts of
+<<player-guide.arts_city,{arts_city}>>. But for every cleric who wields the
+might of cities, there are a thousand others dedicated to more personal
+endeavors.
 
-Clerics of many faiths, but especially of Sarenrae, Pharasma, and Erastil, roam the cities and
-countryside performing good works and aiding public services. Some heed a call to protect 
-their loved ones, and join the glossterm::[{police}, {police}]{mdash}a calling often heard by the faithful of 
-Iomedae. Others still seek scholarship in the glossterm::[{library}, {library}] or glossterm::[{arts_college}, {arts_college}], or to study the 
-mysterious and powerful relic shrines that dot the country.
+Clerics of many faiths, but especially of Sarenrae, Pharasma, and Erastil, roam
+the cities and countryside performing good works and aiding public
+services. Some heed a call to protect their loved ones, and join the
+glossterm::[{police}, {police}]{mdash}a calling often heard by the faithful of
+Iomedae. Others still seek scholarship in the glossterm::[{library}, {library}]
+or glossterm::[{arts_college}, {arts_college}], or to study the mysterious and
+powerful relic shrines that dot the country.
 
 ==== Druids
 
-The bounteous lands of the valley of glossterm::[{valley_name}, {valley_name}] are full of marvelous phenonmena and natural
-resources, and there is great need for those who would steward those resources correctly. 
-As a result, the druidic population of glossterm::[{nation_name}, {nation_name}] is not just composed of local druids, but
-also of those who have traveled long distances to experience the wonders of the valley. In
-particular, the nation has a considerable influx of druids from glossterm::[{forest_nation}, {forest_nation}] even those of
-the reclusive glossterm::[{beast_tribes}, {beast_tribes}]. Once in the country, druids tend to pursue their own
-goals as wanderers, members of a druidic micro-community, or even as members of larger 
-organizations for{mdash}or perhaps against{mdash}the government.
+The bounteous lands of the valley of glossterm::[{valley_name}, {valley_name}]
+are full of marvelous phenonmena and natural resources, and there is great need
+for those who would steward those resources correctly.  As a result, the druidic
+population of glossterm::[{nation_name}, {nation_name}] is not just composed of
+local druids, but also of those who have traveled long distances to experience
+the wonders of the valley. In particular, the nation has a considerable influx
+of druids from glossterm::[{forest_nation}, {forest_nation}] even those of the
+reclusive glossterm::[{beast_tribes}, {beast_tribes}]. Once in the country,
+druids tend to pursue their own goals as wanderers, members of a druidic
+micro-community, or even as members of larger organizations for{mdash}or perhaps
+against{mdash}the government.
 
-The druidic micro-communities are groups of druids that tend to gather together at sites of
-particular spiritual significance. There, they tend to flora and fauna of the area and ensure
-that the site is preserved against any who would do it harm. The glossterm::[{falls_druids}, {falls_druids}] are especially 
-well known to locals and tourists for their protection of the glossterm::[{falls}, {falls}] area, and are perhaps 
-more famous than the druids would like.
+The druidic micro-communities are groups of druids that tend to gather together
+at sites of particular spiritual significance. There, they tend to flora and
+fauna of the area and ensure that the site is preserved against any who would do
+it harm. The glossterm::[{falls_druids}, {falls_druids}] are especially well
+known to locals and tourists for their protection of the glossterm::[{falls},
+{falls}] area, and are perhaps more famous than the druids would like.
 
-Druids that are members of larger organizations tend to work with a temple or the government.
-There they perform local functions such as ensuring that the harbors and rivers are 
-maintained, and giving advance warning for weather. They may also act as members of 
-committees that perform environmental advisories and studies for government projects. Not all
-organizations are so friendly towards the smooth operation of local and national government,
-however. One particularly infamous group, known as the glossterm::[{bad_druids}, {bad_druids}], are publicly a pro-nature
-lobbying group, but are widely known to perform anti-civilization acts such as magically
-weakening the foundations of buildings, defacing directories and road signs, and planting 
-trees in non-designated zones.
+Druids that are members of larger organizations tend to work with a temple or
+the government.  There they perform local functions such as ensuring that the
+harbors and rivers are maintained, and giving advance warning for weather. They
+may also act as members of committees that perform environmental advisories and
+studies for government projects. Not all organizations are so friendly towards
+the smooth operation of local and national government, however. One particularly
+infamous group, known as the glossterm::[{bad_druids}, {bad_druids}], are
+publicly a pro-nature lobbying group, but are widely known to perform
+anti-civilization acts such as magically weakening the foundations of buildings,
+defacing directories and road signs, and planting trees in non-designated zones.
 
 ==== Fighters
 
-Martial prowess is a much sought after skill in glossterm::[{nation_name}, {nation_name}] and those who are gifted will
-find many opportunities to display their strengths. Although there is no formal army, the
-glossterm::[{police}, {police}] is always looking for those of sharp mind and strong arm to help keep the 
-peace. Because of their limited manpower, the police have learned to fight smart, and they
-employ a wide range of skilled combat researchers and engineers to develop new tactics and
-equipment. Fighters looking to earn more than the govnerment is willing to pay might prefer
-to take on the role of bodyguard or strongman for a wealthy noble or shop owner. Others still
-may prefer to take a riskier path and bring their feats to the stage as combat performers
-{mdash}masquerading their deadly arts as performance pieces or sport in the glossterm::[{stadium}, {stadium}] in
-<<player-guide.arts_city,{arts_city}>>. Outside of the central cities, those skilled in combat and with good knowledge 
-of the land excel as hunters or guards for villages and trade caravans. 
+Martial prowess is a much sought after skill in glossterm::[{nation_name},
+{nation_name}] and those who are gifted will find many opportunities to display
+their strengths. Although there is no formal army, the glossterm::[{police},
+{police}] is always looking for those of sharp mind and strong arm to help keep
+the peace. Because of their limited manpower, the police have learned to fight
+smart, and they employ a wide range of skilled combat researchers and engineers
+to develop new tactics and equipment. Fighters looking to earn more than the
+govnerment is willing to pay might prefer to take on the role of bodyguard or
+strongman for a wealthy noble or shop owner. Others still may prefer to take a
+riskier path and bring their feats to the stage as combat performers
+{mdash}masquerading their deadly arts as performance pieces or sport in the
+glossterm::[{stadium}, {stadium}] in
+<<player-guide.arts_city,{arts_city}>>. Outside of the central cities, those
+skilled in combat and with good knowledge of the land excel as hunters or guards
+for villages and trade caravans.
 
 ==== Monks
 
-Monks seeking purification and enlightenment through order and community may find themselves 
-at home in the central cities. There they have the opportunity to participate as good 
-samaritans via public works. There is only one official monk sect in the nation, the 
-glossterm::[{monk_sect}, {monk_sect}]. They are a sect sworn to poverty and truth. In addition to the good works they 
-do for the communities around the country, they also act as a counter-lobby to the economic 
-elite of glossterm::[{nation_name}, {nation_name}]. Although there is only one official sect, many of the librarians in
-the glossterm::[{library}, {library}] are monks who worship Irori. Regardless of affiliation, martial skill and spiritual 
-leadership are valued traits all around the nation. Whether as enforcers for the glossterm::[{police}, {police}],
-covert bodyguards, performers, or guides for those who wander from the path to enlightenment,
-a monk will not find herself without a purpose for long.
+Monks seeking purification and enlightenment through order and community may
+find themselves at home in the central cities. There they have the opportunity
+to participate as good samaritans via public works. There is only one official
+monk sect in the nation, the glossterm::[{monk_sect}, {monk_sect}]. They are a
+sect sworn to poverty and truth. In addition to the good works they do for the
+communities around the country, they also act as a counter-lobby to the economic
+elite of glossterm::[{nation_name}, {nation_name}]. Although there is only one
+official sect, many of the librarians in the glossterm::[{library}, {library}]
+are monks who worship Irori. Regardless of affiliation, martial skill and
+spiritual leadership are valued traits all around the nation. Whether as
+enforcers for the glossterm::[{police}, {police}], covert bodyguards,
+performers, or guides for those who wander from the path to enlightenment, a
+monk will not find herself without a purpose for long.
 
 [role=half-image]
 image::https://googledrive.com/host/0B7b9uMyuu5dveGVfNTNqYldJZmc[]
 
 ==== Paladins
 
-Although the nation was founded as the result of a crusade, its economic and political success
-have made the environment less than welcoming for holy knights. Paladins are seen by many
-government and mercantile leaders as unpredictable and potentially disruptive zealots who 
-might damage the smooth functioning of the nation. Even among the temples represented in the
-senate, most choose to call their paladins to other parts of the world. However, there are
-many causes worthy of advancement in glossterm::[{nation_name}, {nation_name}], and those who can adhere to more 
-tolerant or flexible codes will often find their efforts rewarded. In particular, paladins of 
-Sarenrae and Erastil are often welcomed with open arms for their efforts to be understanding
-and mend the sufferings of the people. Some members of the glossterm::[{police}, {police}] are also paladins of
-Iomedae, and they snuff out crime and corruption with zeal{mdash}though always under the 
-careful guidance of their superiors.
+Although the nation was founded as the result of a crusade, its economic and
+political success have made the environment less than welcoming for holy
+knights. Paladins are seen by many government and mercantile leaders as
+unpredictable and potentially disruptive zealots who might damage the smooth
+functioning of the nation. Even among the temples represented in the senate,
+most choose to call their paladins to other parts of the world. However, there
+are many causes worthy of advancement in glossterm::[{nation_name},
+{nation_name}], and those who can adhere to more tolerant or flexible codes will
+often find their efforts rewarded. In particular, paladins of Sarenrae and
+Erastil are often welcomed with open arms for their efforts to be understanding
+and mend the sufferings of the people. Some members of the glossterm::[{police},
+{police}] are also paladins of Iomedae, and they snuff out crime and corruption
+with zeal{mdash}though always under the careful guidance of their superiors.
 
-But despite the best efforts of the nation's leadership to keep the zealots away, they are not
-always so successful. There are occasional instances of activism from both clandestine and 
-public groups of divine warriors who vie for greater recognition and political influence for
-their causes.
+But despite the best efforts of the nation's leadership to keep the zealots
+away, they are not always so successful. There are occasional instances of
+activism from both clandestine and public groups of divine warriors who vie for
+greater recognition and political influence for their causes.
 
 ==== Rangers
 
-Although the valley of glossterm::[{valley_name}, {valley_name}] is relatively small and geographially isolated, much of
-its lands have yet to be tamed and its mines have yet to be fully charted. The wilds can be 
-dangerous, and as the people of glossterm::[{nation_name}, {nation_name}] forge ever outwards and downwards they are in
-need of those who can provide guidance through the unknown perils. Explorers and hunters ply
-the forests and mountains for quarry of bear, wolves, mountain lions, or perhaps an
-Aurumvorax caught feasting on a surface ore vein. The brave or foolhardy willing to 
-delve deep into the caverns below the nation on behalf mining operations may find foes 
-stranger still, but great bounty awaits those who fulfull their duties successfully. 
+Although the valley of glossterm::[{valley_name}, {valley_name}] is relatively
+small and geographially isolated, much of its lands have yet to be tamed and its
+mines have yet to be fully charted. The wilds can be dangerous, and as the
+people of glossterm::[{nation_name}, {nation_name}] forge ever outwards and
+downwards they are in need of those who can provide guidance through the unknown
+perils. Explorers and hunters ply the forests and mountains for quarry of bear,
+wolves, mountain lions, or perhaps an Aurumvorax caught feasting on a surface
+ore vein. The brave or foolhardy willing to delve deep into the caverns below
+the nation on behalf mining operations may find foes stranger still, but great
+bounty awaits those who fulfull their duties successfully.
 
-In the parts of the country fresh with civilization, seasoned woodsmen and outland police 
-patrols protect fledgling villages and secure survival from season to season. And in the 
-heart of the country, those with connections to the wilds can deal in lucrative exotic pelts, 
-trophies, and other goods. For those who do not wish to exploit their talents for profit from 
-slaughter, there are many men, women, and children who will pay handsomly to see talented 
-animals and their trainers perform in <<player-guide.arts_city,{arts_city}>>.
+In the parts of the country fresh with civilization, seasoned woodsmen and
+outland police patrols protect fledgling villages and secure survival from
+season to season. And in the heart of the country, those with connections to the
+wilds can deal in lucrative exotic pelts, trophies, and other goods. For those
+who do not wish to exploit their talents for profit from slaughter, there are
+many men, women, and children who will pay handsomly to see talented animals and
+their trainers perform in <<player-guide.arts_city,{arts_city}>>.
 
 ==== Rogues
 
-Although the central cities are lawful and safe places, a rogue's talents are nonetheless 
-very useful. Merchants and politicians alike can always find a role for someone with
-quick hands and silent feet, and in a land of tourism and commerce pickpockets and con 
-artists have ample choice of targets if they're willing to take the risk. Some reformed
-scoundrels might choose to redeem themselves as bounty hunters or undercover agents for the
-glossterm::[{police}, {police}]. Others instead opt to live as performers{mdash}bringing joy and
-excitement instead of aggravation and ruin. The glossterm::[{knife_throwers}, {knife_throwers}] is particularly well known 
-for taking in those of dubious pasts and repurposing them to more gainful employment as 
-daring, skillful daredevils.
+Although the central cities are lawful and safe places, a rogue's talents are
+nonetheless very useful. Merchants and politicians alike can always find a role
+for someone with quick hands and silent feet, and in a land of tourism and
+commerce pickpockets and con artists have ample choice of targets if they're
+willing to take the risk. Some reformed scoundrels might choose to redeem
+themselves as bounty hunters or undercover agents for the glossterm::[{police},
+{police}]. Others instead opt to live as performers{mdash}bringing joy and
+excitement instead of aggravation and ruin. The glossterm::[{knife_throwers},
+{knife_throwers}] is particularly well known for taking in those of dubious
+pasts and repurposing them to more gainful employment as daring, skillful
+daredevils.
 
-Outside of the central cities, rural life provides fewer opportunities for a rogue, and
-those who cannot or will not make livings as trappers or hunters often turn to criminal
-undertakings.
+Outside of the central cities, rural life provides fewer opportunities for a
+rogue, and those who cannot or will not make livings as trappers or hunters
+often turn to criminal undertakings.
 
 ==== Sorcerers
 
-Opportunities of all kinds can appear unexpectedly in glossterm::[{nation_name}, {nation_name}], and a sorcerer's 
-innate ability to instanly access the full wealth of her magical strengths is an invaluable 
-tool for responding to sudden windfalls. In the bustling central cities, sorcerers
-are valued as enchanters in crafting workshops, but they are especially valued in <<player-guide.arts_city,{arts_city}>>. 
-There, the constantly changing environment of festivals and performances often demands
-immediate response to crazy schemes and outlandish requests. A company of sorcerers known as 
-glossterm::[{fireworks_co}, {fireworks_co}] has specialized in this field, and keeps a sizable retinue of magical adepts on
-retainer for hire by performers in need. 
+Opportunities of all kinds can appear unexpectedly in glossterm::[{nation_name},
+{nation_name}], and a sorcerer's innate ability to instanly access the full
+wealth of her magical strengths is an invaluable tool for responding to sudden
+windfalls. In the bustling central cities, sorcerers are valued as enchanters in
+crafting workshops, but they are especially valued in
+<<player-guide.arts_city,{arts_city}>>.  There, the constantly changing
+environment of festivals and performances often demands immediate response to
+crazy schemes and outlandish requests. A company of sorcerers known as
+glossterm::[{fireworks_co}, {fireworks_co}] has specialized in this field, and
+keeps a sizable retinue of magical adepts on retainer for hire by performers in
+need.
 
-A sorcerer's natural force of personality also benefits those who choose to employ their 
-powers to further some goal beyond wealth and entertainment. Many sorcerers of celestial and
-infernal bloodlines take leadership positions both in local government and mercantile 
-operations, where they excel in bringing allies and adversaries under their sway. Others still
-choose to unleash the full extent of their potential as members of the glossterm::[{police}, {police}].
+A sorcerer's natural force of personality also benefits those who choose to
+employ their powers to further some goal beyond wealth and entertainment. Many
+sorcerers of celestial and infernal bloodlines take leadership positions both in
+local government and mercantile operations, where they excel in bringing allies
+and adversaries under their sway. Others still choose to unleash the full extent
+of their potential as members of the glossterm::[{police}, {police}].
 
 ==== Wizards
 
-The vast libraries and combined cultural knowledge of the central cities are a great resource to
-many wizards, and none will struggle to find employment here. The government of glossterm::[{nation_name}, {nation_name}]
-employs a huge number of wizards in the glossterm::[{customs_dept}, {customs_dept}], where they research and approve requests for 
-transit using the country's magical gates. This approval process also involves the charging of 
-keys for the gates and their tranmission to the proper recipients. In exchange for their
-services and loyalties, the glossterm::[{customs_dept}, {customs_dept}] funds research grants for these wizards and also 
-provides shelter and workspaces.
+The vast libraries and combined cultural knowledge of the central cities are a
+great resource to many wizards, and none will struggle to find employment
+here. The government of glossterm::[{nation_name}, {nation_name}] employs a huge
+number of wizards in the glossterm::[{customs_dept}, {customs_dept}], where they
+research and approve requests for transit using the country's magical
+gates. This approval process also involves the charging of keys for the gates
+and their tranmission to the proper recipients. In exchange for their services
+and loyalties, the glossterm::[{customs_dept}, {customs_dept}] funds research
+grants for these wizards and also provides shelter and workspaces.
 
-Craftsman also value skilled wizards, and many vie to employ the best in their 
-workshops. For those who cannot afford a full time enchanter, supply shops offer the end 
-results of the creative process. glossterm::[{magic_supply}, {magic_supply}] is a particularly well known name in 
-<<player-guide.market_city,{market_city}>>, and they employ skilled enchanters to fulfill bulk and custom requests for 
-their clients.
+Craftsman also value skilled wizards, and many vie to employ the best in their
+workshops. For those who cannot afford a full time enchanter, supply shops offer
+the end results of the creative process. glossterm::[{magic_supply},
+{magic_supply}] is a particularly well known name in
+<<player-guide.market_city,{market_city}>>, and they employ skilled enchanters
+to fulfill bulk and custom requests for their clients.

@@ -33,23 +33,26 @@ THE SOFTWARE.
   A thriving nation in the valley of glossterm::[{valley_name}, {valley_name}].
   
 {valley_name}::
-  A lush valley that lies between the glossterm::[{rift}, {rift}]
-  and the glossterm::[{mountain_range}, {mountain_range}].
+  A lush valley that lies between the glossterm::[{rift}, {rift}] and the
+  glossterm::[{mountain_range}, {mountain_range}].
   
 {crusade_org}::
-  The original founders of glossterm::[{nation_name}, {nation_name}]. 
-  Now a sect of Abadarians dedicated to spreading the glory of the nation.
+  The original founders of glossterm::[{nation_name}, {nation_name}].  Now a
+  sect of Abadarians dedicated to spreading the glory of the nation.
   
 {portals}::
-  Magical gates that can take travelers to and from glossterm::[{nation_name}, {nation_name}].
+  Magical gates that can take travelers to and from glossterm::[{nation_name},
+  {nation_name}].
   
 {rift}::
-  A massive fissure that splits the continent of glossterm::[{continent_name}, {continent_name}].
-  It is of unknown depth and surrounded by a large cliff wall.
+  A massive fissure that splits the continent of glossterm::[{continent_name},
+  {continent_name}].  It is of unknown depth and surrounded by a large cliff
+  wall.
   
 {mountain_range}::
-  The mountain range extending out from glossterm::[{volcano_name}, {volcano_name}]
-  to the eastern shore of glossterm::[{continent_name}, {continent_name}].
+  The mountain range extending out from glossterm::[{volcano_name},
+  {volcano_name}] to the eastern shore of glossterm::[{continent_name},
+  {continent_name}].
 
 {valley_lake}::
   The largest lake in the valley of glossterm::[{valley_name}, {valley_name}].
@@ -57,44 +60,47 @@ THE SOFTWARE.
   and drains underground into the glossterm::[{rift}, {rift}].
 
 {abadar_temple}::
-  glossterm::[{nation_name}, {nation_name}'s] premier temple to Abadar, located in
-  glossterm::[{law_city}, {law_city}].
+  glossterm::[{nation_name}, {nation_name}'s] premier temple to Abadar, located
+  in glossterm::[{law_city}, {law_city}].
 
 {law_city}::
-  The capital of glossterm::[{nation_name}, {nation_name}], best known for its legal enterprises.
+  The capital of glossterm::[{nation_name}, {nation_name}], best known for its
+  legal enterprises.
 
 {arts_city}::
-  One of the largest cities in glossterm::[{nation_name}, {nation_name}]. 
-  It's residents and industries specialize in the arts and entertainment.
+  One of the largest cities in glossterm::[{nation_name}, {nation_name}].  It's
+  residents and industries specialize in the arts and entertainment.
 
 {shelyn_temple}::
-  glossterm::[{nation_name}, {nation_name}'s] premier temple to Shelyn, located in
-  glossterm::[{arts_city}, {arts_city}].
+  glossterm::[{nation_name}, {nation_name}'s] premier temple to Shelyn, located
+  in glossterm::[{arts_city}, {arts_city}].
 
 {cc_temple}}::
-  glossterm::[{nation_name}, {nation_name}'s] premier temple to Cayden Cailean, located in
-  glossterm::[{arts_city}, {arts_city}].
+  glossterm::[{nation_name}, {nation_name}'s] premier temple to Cayden Cailean,
+  located in glossterm::[{arts_city}, {arts_city}].
 
 {police_hq}::
-  The headquarters of glossterm::[{nation_name}, {nation_name}'s] glossterm::[{police}, {police}],
-  located in glossterm::[{law_city}, {law_city}].
+  The headquarters of glossterm::[{nation_name}, {nation_name}'s]
+  glossterm::[{police}, {police}], located in glossterm::[{law_city},
+  {law_city}].
 
 {HoRs}::
-  glossterm::[{nation_name}, {nation_name}] government officials that represent a particular district
-  or region in the nation.
-  They are democratically elected by the citizens of their districts.
+  glossterm::[{nation_name}, {nation_name}] government officials that represent
+  a particular district or region in the nation.  They are democratically
+  elected by the citizens of their districts.
 
 {police}::
-  A government-controlled peacekeeping force in glossterm::[{nation_name}, {nation_name}].
+  A government-controlled peacekeeping force in glossterm::[{nation_name},
+  {nation_name}].
 
 {customs_dept}::
-  The government agency responsible for glossterm::[{nation_name}, {nation_name}'s]
-  commercial export and immigration policies. 
+  The government agency responsible for glossterm::[{nation_name},
+  {nation_name}'s] commercial export and immigration policies.
 
 {public_works}::
-  The government agency responsible for managing infrastructure and other public resources in
-  glossterm::[{nation_name}, {nation_name}].
+  The government agency responsible for managing infrastructure and other public
+  resources in glossterm::[{nation_name}, {nation_name}].
 
 {festival_agency}::
-  The government agency responsible for approving and planning public celebrations in
-  glossterm::[{arts_city}, {arts_city}].
+  The government agency responsible for approving and planning public
+  celebrations in glossterm::[{arts_city}, {arts_city}].

@@ -26,26 +26,32 @@ THE SOFTWARE.
 
 == The Nation of {nation_name}
 
-Here you will find information about glossterm::[{nation_name}] and its major settlments that any individual who lives in or has briefly researched the nation would know. 
-Feel free to use these sections to help build your characters and integrate them into the world. 
+Here you will find information about glossterm::[{nation_name}] and its major
+settlments that any individual who lives in or has briefly researched the nation
+would know.  Feel free to use these sections to help build your characters and
+integrate them into the world.
 
 [role=full-image]
 image::https://googledrive.com/host/0B7b9uMyuu5dvVzRwUEhMSEo4NWs[]
 
-According to national history, centuries ago the valley of glossterm::[{valley_name}] was long uninhabited and widely thought to be a cursed land.
-Determined to break ground for civilization where all others had failed, Abadaran crusaders embarked on a mission to colonize the valley. 
-They swore a holy oath to build a shining metropolis that would last for centuries to come.
-From their effort and toil the nation of glossterm::[{nation_name}] was born. 
-Spurred on by their success, they created the organization known as the glossterm::[{crusade_org}]
-and dedicated it to sharing glossterm::[{nation_name},{nation_name}'s] glory with the world. 
-To that end, they established a means of constructing
-glossterm::[{portals}, {portals}]{mdash}magical gates used to travel to and from 
-glossterm::[{nation_name}, {nation_name}].
-Immigrants to the new nation were slow to come at first, but they did arrive. 
-And as they arrived, they started successful new lives in the bountiful valley. 
-Word spread, and the population of glossterm::[{nation_name}, {nation_name}] 
-grew exponentially as people from all over the continent came to investigate this new wonder and found their expectations exceeded. 
-It was not long before the fledgling nation became the hub of luxury, trade, and travel that it is today.
+According to national history, centuries ago the valley of
+glossterm::[{valley_name}] was long uninhabited and widely thought to be a
+cursed land.  Determined to break ground for civilization where all others had
+failed, Abadaran crusaders embarked on a mission to colonize the valley.  They
+swore a holy oath to build a shining metropolis that would last for centuries to
+come.  From their effort and toil the nation of glossterm::[{nation_name}] was
+born.  Spurred on by their success, they created the organization known as the
+glossterm::[{crusade_org}] and dedicated it to sharing
+glossterm::[{nation_name},{nation_name}'s] glory with the world.  To that end,
+they established a means of constructing glossterm::[{portals},
+{portals}]{mdash}magical gates used to travel to and from
+glossterm::[{nation_name}, {nation_name}].  Immigrants to the new nation were
+slow to come at first, but they did arrive.  And as they arrived, they started
+successful new lives in the bountiful valley.  Word spread, and the population
+of glossterm::[{nation_name}, {nation_name}] grew exponentially as people from
+all over the continent came to investigate this new wonder and found their
+expectations exceeded.  It was not long before the fledgling nation became the
+hub of luxury, trade, and travel that it is today.
 
 include::./chap1sect1.txt[]
 include::./chap1sect2.txt[]
