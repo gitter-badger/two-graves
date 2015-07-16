@@ -41,6 +41,7 @@ include::./seorsus/seorsus.txt[]
 
 :beast_tribes: Bestial Tribes
 :mountain_range: Devil's Tail Mountains
+:west_norolba_mountains: Dragon's Neck Mountains
 :rift: Great Rift
 :portals: Thresholds
 :mdash: &#x2014;

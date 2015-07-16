@@ -104,3 +104,16 @@ THE SOFTWARE.
 {festival_agency}::
   The government agency responsible for approving and planning public
   celebrations in glossterm::[{arts_city}, {arts_city}].
+
+{continent_name}::
+  A large landmass torn asunder into two subcontinents by the
+  glossterm::[{rift}].
+
+{volcano_name}::
+  A dormant mega-volcano situated at the intersection of the
+  glossterm::[{mountain_range}] and the glossterm::[{west_norolba_mountains}]
+
+{west_norolba_mountains}::
+  The mountain range which begins at glossterm::[{volcano_name}] and extends
+  along the western coast of glossterm::[{continent_name}], through
+  glossterm::[{mountains_nation}].
