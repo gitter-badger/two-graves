@@ -118,7 +118,7 @@ ready for the festivities to continue.
   {stadium} is sure to be lively and draw a large crowd.
 
 {bridge}::
-  Spanning the glossterm::[{arts_city_river}, {arts_city_river}] River and
+  Spanning the glossterm::[{arts_city_river}, {arts_city_river} River] and
   joining the east and west of <<player-guide.arts_city,{arts_city}>> together,
   the {bridge} is more than just an important piece of infrastructure.  Many
   bits of <<player-guide.arts_city,{arts_city}>> culture have incoporated the
@@ -269,10 +269,10 @@ hour markets.
   this harbor, and deckhands work feverishly to keep the flow of goods moving.
   
 {arts_city_river} River Customs::
-  Owned by the glossterm::[{customs_dept}, {customs_dept}], this customs house
-  sits on an island in the glossterm::[{arts_city_river}, {arts_city_river}]
-  River just before it passes through the city. Ships queue up to have their
-  cargo inspected and their paperwork approved by the grim-faced and serious
+  Owned by the glossterm::[{customs_dept}, {customs_dept}], this customs house 
+  sits on an island in the glossterm::[{arts_city_river}, {arts_city_river} 
+  River] just before it passes through the city. Ships queue up to have their 
+  cargo inspected and their paperwork approved by the grim-faced and serious 
   officials who work here.
   
 [[player-guide.market_city_rich_district,{market_city_rich_district}]]{market_city_rich_district}::

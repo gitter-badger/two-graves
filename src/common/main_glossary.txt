@@ -117,3 +117,13 @@ THE SOFTWARE.
   The mountain range which begins at glossterm::[{volcano_name}] and extends
   along the western coast of glossterm::[{continent_name}], through
   glossterm::[{mountains_nation}].
+
+{auditioners}::
+  A select group of judges who hold auditions and act as gatekeepers for 
+  performances at the glossterm::[{amphitheater}].
+
+{arts_city_river} River::
+{arts_city_river}::
+  A large river which descends from the glossterm::[{mountain_range}] and flows 
+  southward into the glossterm::[{valley_lake}].
+  
