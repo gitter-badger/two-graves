@@ -1,6 +1,6 @@
 .*lock*
 .idea
-.project
+.*project
 output
 docbook.xsd
 lib/*.zip
