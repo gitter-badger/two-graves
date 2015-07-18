@@ -9,7 +9,8 @@
 
   exclude-result-prefixes="t xsl m db tmpl f xs usrfn mp">
 
-  <xsl:import href="docbook-xslt2-2.0.9-rwdalpe/xslt/base/html/final-pass.xsl" />
+  <xsl:import href="docbook-xslt2-2.0.10-rwdalpe/xslt/base/html/final-pass.xsl" 
+/>
 
   <xsl:param name="section.autolabel.max.depth" select="0" />
   <xsl:param name="generate.index" select="0"/>
