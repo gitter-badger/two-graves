@@ -30,7 +30,8 @@ THE SOFTWARE.
 [glossary]
 
 {nation_name}::
-  A thriving nation in the valley of glossterm::[{valley_name}, {valley_name}].
+  A thriving nation in the valley of glossterm::[{valley_name}, {valley_name}]. 
+  The nation is a cultural melting pot and industrial powerhouse.
   
 {valley_name}::
   A lush valley that lies between the glossterm::[{rift}, {rift}] and the
@@ -126,4 +127,21 @@ THE SOFTWARE.
 {arts_city_river}::
   A large river which descends from the glossterm::[{mountain_range}] and flows 
   southward into the glossterm::[{valley_lake}].
+
+{labor_dept}::
+  The government agency responsible for managing the interests and concerns of 
+  employers and their employees in glossterm::[{nation_name}].
+
+{library_staff}::
+  Custodians, administrators, and advocates of the glossterm::[{library}] in 
+  glossterm::[{law_city}].
+
+{cliffs_nation}::
+  A craggy, barren nation in the northeast of glossterm::[{continent_name}] 
+  known for its intensely militaristic population.
+
+{meadows_nation}::
+  The northernmost nation in glossterm::[{continent_name}], and the second 
+  largest nation behind glossterm::[{desert_nation}]. It specializes in 
+  pastoral enterprises and colonial expansion.
   

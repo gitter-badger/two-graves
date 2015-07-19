@@ -35,7 +35,7 @@ race can be represented as either a craftsman or a tourist.
 
 Futhermore, the nation of glossterm::[{cliffs_nation}, {cliffs_nation}] has no
 discrimination against any race so long as they can carry their weight in
-war. glossterm::[{cliffs_nation_person}, {cliffs_nation_person}] bodyguards,
+war. glossterm::[{cliffs_nation}, {cliffs_nation_person}] bodyguards,
 hunters, policemen, and members of any other profession that involves martial
 prowess can easily find employment in glossterm::[{nation_name}, {nation_name}]
 regardless of their racial background.

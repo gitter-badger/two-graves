@@ -28,7 +28,7 @@ THE SOFTWARE.
 :library: Knight Library
 :law_city_capitol: Capitol Building
 :merchant_guild_hq: Mercantile Guildhall
-:law_uni: &nation_name; University of Law and Business
+:law_uni: {nation_name} University of Law and Business
 :emperor_home: Imperial Residence
 :main_portal: Grand Threshold
 :law_city_residential_district: Commuter's District
