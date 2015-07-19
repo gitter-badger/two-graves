@@ -68,9 +68,11 @@
   </xsl:template>
 
   <xsl:template match="db:informalfigure/db:mediaobject" mode="m:mediafixer">
+    <xsl:variable name="id" select="../@xml:id"/>
     <xsl:variable name="role" select="../@role" />
     <xsl:variable name="thisobj" as="element()+">
       <xsl:copy>
+        <xsl:attribute name="xml:id" select="$id" />
         <xsl:attribute name="role" select="$role" />
         <xsl:apply-templates select="@*|node()" mode="m:identity" />
       </xsl:copy>
