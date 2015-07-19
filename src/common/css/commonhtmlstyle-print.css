@@ -147,7 +147,8 @@
    * might be more specific, but we want this one to
    * apply
    */
-  header+*, header+div.toc+*, header+div.sidebar {
+  header+*, header+div.toc+*, header+div.sidebar, header+div.mediaobject+*,
+  header+div.toc+div.mediaobject+* {
     text-indent: 0px;
     margin-top: .25em;
   }
@@ -165,13 +166,26 @@
     border-left: 1em solid #7A9EFE;
     page-break-inside: avoid;
   }
+  
+  div.mediaobject.full-image {
+    -moz-column-span: all;
+    -webkit-column-span: all;
+    column-span: all;
+  }
 
   ul {
-    margin: .5em 0px;
-    padding: 0px 0px 0px 1em;
+    margin: .5em 0px .5em 1em;
+    padding: 0px 0px 0px 0px;
+  }
+  ol {
+    margin: .5em 0px .5em 2em;
+    padding: 0px 0px 0px 0px;
   }
   li {
     text-align: justify;
+  }
+  li p {
+    text-indent: 0px;
   }
 
   dl {
@@ -203,8 +217,17 @@
   div.toc {
     display: none;
   }
-  article.appendix p {
+  article.appendix {
     font-size: .8em;
+  }
+  article.appendix > header.appendix-titlepage {
+    font-size: 1.2em;
+  }
+  article.glossary * {
+    text-indent: 0px;
+  }
+  article.glossary dl dd {
+    margin-bottom: 1em;
   }
   article.book>div.toc {
     display: none;
@@ -237,5 +260,11 @@
   article.chapter>section.section>section.section>section.section>header>h5 {
     bookmark-level: 5;
     bookmark-state: closed;
+  }
+  
+  div#regunt-image {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }

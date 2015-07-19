@@ -26,13 +26,13 @@ THE SOFTWARE.
 
 == The Nation of {nation_name}
 
+[role=full-image]
+image::https://googledrive.com/host/0B7b9uMyuu5dvVzRwUEhMSEo4NWs[]
+
 Here you will find information about glossterm::[{nation_name}] and its major
 settlments that any individual who lives in or has briefly researched the nation
 would know.  Feel free to use these sections to help build your characters and
 integrate them into the world.
-
-[role=full-image]
-image::https://googledrive.com/host/0B7b9uMyuu5dvVzRwUEhMSEo4NWs[]
 
 According to national history, centuries ago the valley of
 glossterm::[{valley_name}] was long uninhabited and widely thought to be a

@@ -454,5 +454,6 @@ its citizens.
   <<player-guide.merchant_guild_hq>>. Busy at all times of day and night, goods
   endlessly flow through wide streets for sale, storage, and evaluation.
 
+[[regunt-image]]
 [role=full-image]
 image::https://googledrive.com/host/0B7b9uMyuu5dvM3o3aElWdTJTaGc[]
