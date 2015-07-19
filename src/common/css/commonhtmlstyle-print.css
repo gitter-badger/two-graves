@@ -23,6 +23,12 @@
       content: "";
       background: #3D4F7E;
     }
+    @top-left {
+      padding-left: 2em;
+      font-size: 10pt;
+      font-family: "Garamond", "Palladio URW", "Times New Roman", "Liberation Serif", serif;
+      content: string(Chaptertitle)" - "string(Sectiontitle);
+    }
     @left-middle {
       content: "";
       background: #3D4F7E;
@@ -42,6 +48,12 @@
     @top-right-corner {
       content: "";
       background: #3D4F7E;
+    }
+    @top-right {
+      padding-right: 2em;
+      font-size: 10pt;
+      font-family: "Garamond", "Palladio URW", "Times New Roman", "Liberation Serif", serif;
+      content: string(Chaptertitle)" - "string(Sectiontitle);
     }
     @right-middle {
       content: "";
@@ -248,10 +260,12 @@
   article.chapter>header>h2, article.glossary>header>h2, article.appendix>header>h2 {
     bookmark-level: 2;
     bookmark-state: closed;
+    string-set: Chaptertitle content();
   }
   article.chapter>section.section>header>h3 {
     bookmark-level: 3;
     bookmark-state: closed;
+    string-set: Sectiontitle content();
   }
   article.chapter>section.section>section.section>header>h4 {
     bookmark-level: 4;
