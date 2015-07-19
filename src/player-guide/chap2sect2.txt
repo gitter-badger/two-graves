@@ -45,7 +45,7 @@ bloodlust of battle, many are pragmatists and some fund the efforts of their
 tribes by working as mercenaries. Others may be outcasts or seekers of gold and
 glory looking to start a new life in a land different from what they have known.
 
-glossterm::[{cliffs_nation_person}, {cliffs_nation_person}] barbarians
+glossterm::[{cliffs_nation}, {cliffs_nation_person}] barbarians
 frequently rise to great ranks in the warrior culture of their homeland. There,
 where power and determination are revered, barbarians can live akin to
 nobility. However, feats of greatness must be constantly proven, and one can
@@ -63,8 +63,8 @@ esteem and demand. One of the central cities,
 <<player-guide.arts_city,{arts_city}>>, is completely dedicated to the
 betterment and enjoyment of the arts, and any performer, new or veteran, will
 find opportunity there. From frenetic street festivals, to the studious halls of
-glossterm::[{arts_college}, {arts_college}], to the crystalline elegance of the
-glossterm::[{amphitheater}, {amphitheater}] amphitheater, there is no limit to
+<<player-guide.arts_college>>, to the crystalline elegance of the
+<<player-guide.amphitheater>> amphitheater, there is no limit to
 the passions of <<player-guide.arts_city,{arts_city}'s>> citizens. This
 intensity has even produced a saying known throughout the nation: no great
 performer will forever die so long as there is music in
@@ -94,8 +94,8 @@ Clerics of many faiths, but especially of Sarenrae, Pharasma, and Erastil, roam
 the cities and countryside performing good works and aiding public
 services. Some heed a call to protect their loved ones, and join the
 glossterm::[{police}, {police}]{mdash}a calling often heard by the faithful of
-Iomedae. Others still seek scholarship in the glossterm::[{library}, {library}]
-or glossterm::[{arts_college}, {arts_college}], or to study the mysterious and
+Iomedae. Others still seek scholarship in the <<player-guide.library>>
+or <<player-guide.arts_college>>, or to study the mysterious and
 powerful relic shrines that dot the country.
 
 ==== Druids

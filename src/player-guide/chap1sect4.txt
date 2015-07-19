@@ -390,8 +390,8 @@ its citizens.
   does not just comprise promising, untested politicians and merchants, but also
   veterans and experts from other parts of the country looking to advance their
   positions.
-  
-{library}::
+
+[[player-guide.library,{library}]]{library}::
   Adjacent to the <<player-guide.law_uni>> rises the nation's premier repository
   of knowledge. From modern research journals to ancient folklore, the {library}
   provides access to an enormous wealth of information at no cost. The

@@ -37,6 +37,7 @@ include::./seorsus/seorsus.txt[]
 :earthpeople: Aroda
 
 :continent_name: Norolba
+:south_continent_name: Mitasur
 :volcano_name: Galt Uul
 
 :beast_tribes: Bestial Tribes

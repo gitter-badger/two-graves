@@ -46,9 +46,9 @@ THE SOFTWARE.
   {nation_name}].
   
 {rift}::
-  A massive fissure that splits the continent of glossterm::[{continent_name},
-  {continent_name}].  It is of unknown depth and surrounded by a large cliff
-  wall.
+  A massive fissure that separating glossterm::[{continent_name},
+  {continent_name}] and glossterm::[{south_continent_name}]. It is of unknown 
+  depth and surrounded by a large cliff wall.
   
 {mountain_range}::
   The mountain range extending out from glossterm::[{volcano_name},
@@ -107,7 +107,11 @@ THE SOFTWARE.
   celebrations in glossterm::[{arts_city}, {arts_city}].
 
 {continent_name}::
-  A large landmass torn asunder into two subcontinents by the
+  The northern subcontinent of the landmass torn asunder into by the
+  glossterm::[{rift}].
+  
+{south_continent_name}::
+  The southern subcontinent of the landmass torn asunder into by the
   glossterm::[{rift}].
 
 {volcano_name}::
@@ -144,4 +148,24 @@ THE SOFTWARE.
   The northernmost nation in glossterm::[{continent_name}], and the second 
   largest nation behind glossterm::[{desert_nation}]. It specializes in 
   pastoral enterprises and colonial expansion.
+
+{mountainmen}::
+  Tribal humans who live in the highest altitudes of the 
+  glossterm::[{mountain_range}] and the 
+  glossterm::[{west_norolba_mountains}].
+
+{mountains_nation}::
+  A primarily dwarven nation which encompasses the majority of the 
+  glossterm::[{west_norolba_mountains}] and the surrounding foothills.
   
+{firepeople}::
+  Humans from glossterm::[{desert_kingdom}] who form the majority of the 
+  kingdom's native population. Their ancient lineage is said to be touched by 
+  fire. 
+  
+{desert_kingdom}::
+  A massive desert kingdom centered in glossterm::[{continent_name}].
+  
+{forest_nation}::
+  A dense forest nation in southeastern glossterm::[{continent_name}]. Its 
+  native population is primarily elven.
