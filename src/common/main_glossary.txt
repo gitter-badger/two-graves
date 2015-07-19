@@ -146,7 +146,7 @@ THE SOFTWARE.
 
 {meadows_nation}::
   The northernmost nation in glossterm::[{continent_name}], and the second 
-  largest nation behind glossterm::[{desert_nation}]. It specializes in 
+  largest nation behind glossterm::[{desert_kingdom}]. It specializes in 
   pastoral enterprises and colonial expansion.
 
 {mountainmen}::
