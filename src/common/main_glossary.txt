@@ -157,34 +157,56 @@ THE SOFTWARE.
 {mountains_nation}::
   A primarily dwarven nation which encompasses the majority of the 
   glossterm::[{west_norolba_mountains}] and the surrounding foothills.
-  
+
 {firepeople}::
   Humans from glossterm::[{desert_kingdom}] who form the majority of the 
   kingdom's native population. Their ancient lineage is said to be touched by 
   fire. 
-  
+
 {desert_kingdom}::
   A massive desert kingdom centered in glossterm::[{continent_name}].
-  
+
 {forest_nation}::
   A dense forest nation in southeastern glossterm::[{continent_name}]. Its 
   native population is primarily elven.
-  
+
 {beast_tribes}::
   A collection of animalistic druids groves hailing from 
   glossterm::[{forest_nation}].
-  
+
 {falls_druids}::
   A grove of druids who have taken up a mantle of protecting
   glossterm::[{falls}].
-  
+
 {falls}::
   An impressive waterfall and its surrounding landscape in
   glossterm::[{nation_name}].
-  
+
 {bad_druids}::
   A pro-nature lobbying group which operates in glossterm::[{nation_name}].
-  
+
 {monk_sect}::
   A monastic sect in glossterm::[{nation_name}] sworn to poverty, truth, and
   charitable work.
+
+{knife_throwers}::
+  A famous band of daredevil performers in glossterm::[{arts_city}].
+
+{fireworks_co}::
+  A company of magicians in glossterm::[{arts_city}] specializing in fantastic
+  visual performances and props.
+
+{magic_supply}::
+  The largest and most well-known magic supply shop in 
+  glossterm::[{market_city}].
+
+{amphitheater}::
+  A grand amethyst amphitheater in glossterm::[{arts_city}], and the city's most
+  prestigious venue.
+
+{library}::
+  The largest, most complete library in glossterm::[{nation_name}], located in
+  the nation's capital, glossterm::[{law_city}].
+
+{market_city}::
+  glossterm::[{nation_name}, {nation_name}'s] largest trade city.

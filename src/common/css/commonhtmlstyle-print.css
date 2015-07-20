@@ -254,7 +254,7 @@
     text-indent: 0px;
   }
   article.glossary dl dd {
-    margin-bottom: 1em;
+    margin-bottom: .5em;
   }
   article.book>div.toc {
     display: none;
