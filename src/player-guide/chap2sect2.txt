@@ -143,7 +143,7 @@ govnerment is willing to pay might prefer to take on the role of bodyguard or
 strongman for a wealthy noble or shop owner. Others still may prefer to take a
 riskier path and bring their feats to the stage as combat performers
 {mdash}masquerading their deadly arts as performance pieces or sport in the
-glossterm::[{stadium}, {stadium}] in
+<<player-guide.stadium>> in
 <<player-guide.arts_city,{arts_city}>>. Outside of the central cities, those
 skilled in combat and with good knowledge of the land excel as hunters or guards
 for villages and trade caravans.
@@ -157,7 +157,7 @@ monk sect in the nation, the glossterm::[{monk_sect}, {monk_sect}]. They are a
 sect sworn to poverty and truth. In addition to the good works they do for the
 communities around the country, they also act as a counter-lobby to the economic
 elite of glossterm::[{nation_name}, {nation_name}]. Although there is only one
-official sect, many of the librarians in the glossterm::[{library}, {library}]
+official sect, many of the librarians in the <<player-guide.library>>
 are monks who worship Irori. Regardless of affiliation, martial skill and
 spiritual leadership are valued traits all around the nation. Whether as
 enforcers for the glossterm::[{police}, {police}], covert bodyguards,

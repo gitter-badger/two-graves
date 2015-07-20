@@ -169,3 +169,22 @@ THE SOFTWARE.
 {forest_nation}::
   A dense forest nation in southeastern glossterm::[{continent_name}]. Its 
   native population is primarily elven.
+  
+{beast_tribes}::
+  A collection of animalistic druids groves hailing from 
+  glossterm::[{forest_nation}].
+  
+{falls_druids}::
+  A grove of druids who have taken up a mantle of protecting
+  glossterm::[{falls}].
+  
+{falls}::
+  An impressive waterfall and its surrounding landscape in
+  glossterm::[{nation_name}].
+  
+{bad_druids}::
+  A pro-nature lobbying group which operates in glossterm::[{nation_name}].
+  
+{monk_sect}::
+  A monastic sect in glossterm::[{nation_name}] sworn to poverty, truth, and
+  charitable work.

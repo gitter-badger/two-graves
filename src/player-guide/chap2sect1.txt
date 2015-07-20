@@ -122,7 +122,7 @@ image::https://googledrive.com/host/0B7b9uMyuu5dvS3Y5ZG1ZTHo3ZFU[]
 Halflings dovetail with ease into the hubbub and excitement of the central
 cities, and they can be found in great numbers all over the country.  Artisans,
 shopkeepers, performers, and even occasionally politicians, a
-glossterm::[{nation_person}, {nation_person}] halfling's upbeat and amiable
+glossterm::[{nation_name}, {nation_person}] halfling's upbeat and amiable
 attitude is a formidable asset.
 
 Halflings coming from glossterm::[{meadows_nation}, {meadows_nation}] are often
