@@ -24,10 +24,11 @@
       background: #3D4F7E;
     }
     @top-left {
-      padding-left: 2em;
+      padding-left: .5in;
       font-size: 10pt;
       font-family: "Garamond", "Palladio URW", "Times New Roman", "Liberation Serif", serif;
       content: string(Chaptertitle)" - "string(Sectiontitle);
+      font-variant: small-caps;
     }
     @left-middle {
       content: "";
@@ -50,10 +51,11 @@
       background: #3D4F7E;
     }
     @top-right {
-      padding-right: 2em;
+      padding-right: .5in;
       font-size: 10pt;
       font-family: "Garamond", "Palladio URW", "Times New Roman", "Liberation Serif", serif;
       content: string(Chaptertitle)" - "string(Sectiontitle);
+      font-variant: small-caps;
     }
     @right-middle {
       content: "";
@@ -78,6 +80,14 @@
       content: none;
     }
   }
+  @page noheader {
+    @top-right {
+      content: none;
+    }
+    @top-left {
+      content: none;
+    }
+  }
   html {
     margin: 0px;
     padding: 0px;
@@ -93,6 +103,7 @@
   }
   article.book>header.book-titlepage {
     height: 100%;
+    page: noheader;
   }
   article.book>header>h1 {
     font-size: 3em;
@@ -230,10 +241,14 @@
     display: none;
   }
   article.appendix {
+    page: noheader;
     font-size: .8em;
   }
   article.appendix > header.appendix-titlepage {
     font-size: 1.2em;
+  }
+  article.glossary {
+    page: noheader;
   }
   article.glossary * {
     text-indent: 0px;
