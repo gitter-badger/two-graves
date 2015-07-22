@@ -1,0 +1,459 @@
+include::../common/substitutions/global.txt[]
+
+////
+The MIT License (MIT)
+
+Copyright (c) 2014 Robert Winslow Dalpe
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+////
+
+=== The Central Cities
+
+The Central Cities are the largest urban centers in glossterm::[{nation_name},
+{nation_name}]. They represent the peak of culture and progress in the nation,
+and each of them has developed their own unique culture and specialties over
+time.
+
+.Common Government Resources
+****************************
+Although they may not be specifically called out in these sections, you can
+expect most government agencies that deal with infrastructure to have
+representation in all large settlements. This includes, but is not limited to,
+divisions such as the glossterm::[{police}, {police}],
+glossterm::[{public_works}, {public_works}], and other servants of the common
+good.
+****************************
+
+[[player-guide.arts_city]]
+==== {arts_city}, City of Arts
+
+Brimming with life and activity, the city of
+<<player-guide.arts_city,{arts_city}>> is the veritable pulse of
+glossterm::[{nation_name}, {nation_name}]. Artists and entertainers from all
+walks of life flock to the city to join in the cultural melting pot and
+experience the wealth <<player-guide.arts_city,{arts_city}>> has to
+offer. Anywhere is a stage, and revelry spills out into the streets, infusing
+the city with a constant state of festivity. Each day could bring new
+celebrations replete with performances and displays unlike any seen before
+it. As a result, <<player-guide.arts_city,{arts_city}>> is a hot spot for
+tourists from around the world, and their presence ensures that there is plenty
+of gold to keep the entertainers at their antics.
+
+[role=half-image]
+image::https://googledrive.com/host/0B7b9uMyuu5dvNDZRUk5fSk1ZaGM[]
+
+Officials long gave up on imposing bureaucracy upon the citizens, and now simply
+seek to ensure that the city runs smoothly from one performance to the next. The
+last vestige of control the government maintains over the celebrations is the
+glossterm::[{festival_agency}, {festival_agency}], which stages city-wide
+festivals, schedules access to large venues such as <<player-guide.stadium>>,
+and provides publicity for ambitious performers. The glossterm::[{police},
+{police}] patrols the streets, keeping the city safe for residents and tourists
+alike, but their presence is understated and does not impinge on the city's
+carefree atmosphere. Petty crime is uncommon, and offenders are swiftly swept to
+the nearest police station or courthouse for judgement.
+
+Despite the apparent laissez-faire attitude of the government,
+<<player-guide.arts_city,{arts_city}>> is extremely well-maintained. Buildings
+of sturdy wood and cut stone stand strong against the neverending flow of
+residents, and paved streets make for easy transport around the city. Lights
+both magical and mundane line the streets and buildings, vying for the attention
+of passersby. Even with messy tourists who care not for the city's cleanliness,
+strong sewers and trash removal systems sweep away the filth and leave the city
+ready for the festivities to continue.
+
+===== Places of Interest
+
+[[player-guide.amphitheater,{amphitheater}]]{amphitheater}::
+  Rows of enormous amethyst crystals jutting from the entrance give
+  <<player-guide.arts_city,{arts_city}'s>> premier amphitheater it's
+  name. Although its appearance and sublime acoustics would suggest a man-made
+  structure, {amphitheater} is actually a naturally occurring geode
+  phenomenon. Performing even once in the {amphitheater} is the goal of many
+  artists, and competition is fierce. The revered glossterm::[{auditioners},
+  {auditioners}] are the final elite arbiters of who will be graced by the
+  stage.
+
+[[player-guide.shelyn_temple,{shelyn_temple}]]{shelyn_temple}::
+  Vivid botanical gardens and serene marble galleries compose the nation's
+  premier temple of Shelyn. The temple is built on the edge of the city and
+  situated near the <<player-guide.amphitheater>> so that the clergy may more
+  easily tend to the amphitheater. Compared to the intensity of the city,
+  {shelyn_temple} is truly a sanctuary for those who wish to reflect upon the
+  spiritual impact of the arts.
+
+
+[[player-guide.arts_college,{arts_college}]]{arts_college}::
+  {arts_college} is one of the world's most prestigious schools for the fine
+  arts, and a central location for both prospective students and tourists
+  alike. Although its intimidating spires, sharply slanted rooftops, and aged
+  stone walls cast an imposing shadow, they belie the energy within. Its campus
+  buzzes jovially at all hours of the day as some of the greatest creative
+  geniuses from around the globe hone their skills.
+
+[[player-guide.stadium,{stadium}]]{stadium}::
+  Named for the carpet of small purple flowers that blooms in the 
+  spring, the {stadium} is an expansive, open-air park and a prime
+  location for many public events. Complete with several small 
+  venues for performances as well as a large stadium, the 
+  {stadium} boasts ample space and seating for tourists and citizens
+  alike. Whether it be music, sports, or festivals, an event in the
+  {stadium} is sure to be lively and draw a large crowd.
+
+{bridge}::
+  Spanning the glossterm::[{arts_city_river}, {arts_city_river} River] and
+  joining the east and west of <<player-guide.arts_city,{arts_city}>> together,
+  the {bridge} is more than just an important piece of infrastructure.  Many
+  bits of <<player-guide.arts_city,{arts_city}>> culture have incoporated the
+  {bridge}, from tossing flowers into the river below for good luck to being a
+  hotspot for watching fireworks.  More practically, it's also a natural
+  chokepoint for traffic through the city and its wide stone path is filled with
+  street performers, each trying to take advantage of their captive audiences.
+
+[[player-guide.cc_temple,{cc_temple}]]{cc_temple}::
+  A large stone carving of a frothing mug adorns the facade of
+  <<player-guide.arts_city,{arts_city}'s>> favorite temple to the god of
+  drinking and merriment. This multi-story wood and stone building radiates a
+  warmth and festivity that can be felt from blocks away. The temple hosts a
+  stage and doubles as both a comedy house and theater for celebrations of
+  bravey, and its walls reverberate with laughter and cheers. To the confusion
+  of tourists and the amusement of locals, the interior of the temple is themed
+  as a bank.
+
+{arts_city_tourist_district}::
+  Surrounding <<player-guide.arts_city,{arts_city}'s>> central plazas, this
+  bustling district is a hotspot for tourism and revelry. Although most come to
+  the district to be at the center of the city's constant festivals, the
+  competition between enterprises to garner attention has changed the district
+  into a spectacle in its own right. Themed businesses, wild street performers,
+  and garish decorations all lend a hand in creating the district's unique
+  atmosphere.
+
+{arts_city_college_district}::
+  Fed by the youthful, creative energies of the <<player-guide.arts_college>>,
+  the {arts_city_college_district} is the premiere place to scout rising talent
+  and share ideas in the city. Although not as upscale as some parts of
+  <<player-guide.arts_city,{arts_city}>>, the inhabitants of the district are
+  jovial and create a welcoming atmosphere. Collaboration and competition go
+  hand-in-hand here, and it's very likely to see spontaneous performances erupt
+  in the persuit of great art.
+
+{arts_city_rich_district}::
+  Mostly separated from the hustle and bustle of the city, the
+  {arts_city_rich_district} provides a serene place for those who can afford
+  it. Residents and visitors enjoy beautiful courtyards, spotless streets, and
+  exclusively close access to iconic locations such as
+  <<player-guide.amphitheater>> and <<player-guide.shelyn_temple>>.
+
+{arts_city_poor_district}::
+  To call {arts_city_poor_district} a slum would be disingenuous, but compared
+  to the rest of <<player-guide.arts_city,{arts_city}>> this district falls
+  behind in upkeep and cleanliness.  Tenement housing is plentiful, and in lieu
+  of access to more fanciful pursuits, the residents of
+  {arts_city_poor_district} excel in vice entertainment.  Seedy bars and
+  brothels adorn the streets, and the venues host bawdy and burlesque
+  performances too vulgar for popular taste.
+
+{arts_city_govt_district}::
+  Tucked away in a less-noticeable portion of the city,
+  {arts_city_govt_district} houses offices and storage for government agencies
+  such as the glossterm::[{police}, {police}] and glossterm::[{festival_agency},
+  {festival_agency}].
+
+{arts_city_quality_district}::
+  Many master craftsmen who outfit <<player-guide.arts_city,{arts_city}>> with
+  superior quality instruments and supplies base their workshops in
+  {arts_city_quality_district}. These great makers demand a particular
+  environment for their work, and the district has molded to reflect their
+  tastes. Simple, refined architecture and narrow cobbled streets give the
+  district a historic atmosphere, and even the wildest of locals calm themselves
+  out of respect when in the area.
+
+[[player-guide.market_city]]
+==== {market_city}, City of Markets
+
+Words and noise blend with the clink of coins in the vibrant market city of
+<<player-guide.market_city,{market_city}>>. Known for its unparalleled selection
+of exotic goods, which harken both to cultures from around the world and at the
+same time something completely original,
+<<player-guide.market_city,{market_city}>> is a haven for craftsmen.  The best
+of the best travel here to study with other masters from all around. The result
+is a forge of rivalries and collaborations which drive the innovations of these
+ambitious creators ever foward. Their work and success have brought incredibly
+reknown to both <<player-guide.market_city,{market_city}>> and the nation as a
+whole, and wealth naturally flows to the city in the form of hardened merchants
+and more casual buyers.
+
+The siren call of wealth and skill brings along with it much more strict
+government oversight. Left to their own devices, foreign merchants would surely
+bleed the country dry. In response, agencies such as the
+glossterm::[{customs_dept}, {customs_dept}] and the glossterm::[{labor_dept},
+{labor_dept}] keep close watch on the conditions of the city. Given the amount
+of coin that flows through the streets, the glossterm::[{police}, {police}] are
+omnipresent in <<player-guide.market_city,{market_city}>>, ensuring that the
+city retains its name as a safe and reputable haven for trade.
+
+[role="half-image"]
+image::https://googledrive.com/host/0B7b9uMyuu5dvR3FwWEt6bW5UNmc[]
+
+The master craftsmen themselves are no pushovers either. Crafting guilds are
+strictly forbidden both in a legal sense and a communal one, as each individual
+crafter vies for the reputation of her own name. Consequently, mutual
+respect{mdash}even among the most obvious of rivals{mdash}is paramount and
+palpable in the transactions that take place here.
+
+To feed the high demand of buyers, <<player-guide.market_city,{market_city}>>
+has built itself up around a system of attractive and efficient roads and
+neighborhoods.  No space is wasted in thoroughfares large or small, as every bit
+of available wall space is transformed into a storefront or workshop. Sturdy
+stone buildings resist wear from unending shoppers, but also from nature's
+harshness and the occasional workshop fire. Goods transit smoothly through the
+city's wide, paved streets, their navigation made easy by numerous road
+markers. At night, hanging iron lamps illuminate the city's famous twenty-four
+hour markets.
+
+===== Places of Interest
+
+[[player-guide.grand_bazaar,{grand_bazaar}]]{grand_bazaar}::
+  Thousands of shoppers browse the rows of tents that fill this enormous
+  open-air market. As one of <<player-guide.market_city,{market_city}'s>>
+  internationally iconic features, the {grand_bazaar} is home to all sorts of
+  novelties and unique items. Although locally regarded as more for show than
+  function, it is not unheard of to find true treasures nestled in the wares
+  here.
+  
+{market_house}::
+  Dozens of imposing wooden boards line the walls of this large forum, each
+  filled with statistics and predictions for various market goods. Harried
+  merchant apprentices hustle along the walls with tablets and chalk in an
+  unending effort to keep the boards up to date.  Meanwhile, cold-faced
+  merchants and crafters eye the ever changing boards like vipers ready to
+  strike.
+  
+[[player-guide.elven_enclave,{elven_enclave}]]{elven_enclave}::
+  {elven_enclave} is glossterm::[{nation_name}, {nation_name}'s] largest single
+  home of elves. Here they have fostered a small forest grove and made their
+  homes in its trunks and boughs. Elves, Half-Elves, and fey races are openly
+  welcomed, but most others find themselves loosely tolerated as permanent
+  residents.
+  
+{dwarven_enclave}::
+  Not to be outdone by the forest of <<player-guide.elven_enclave>> or the cut
+  stone of <<player-guide.market_city,{market_city}>> itself, the Dwarves
+  constructed a miniature mountainscape out of boulders from the nation's
+  mines. Now complete with carved homes and bold designs, {dwarven_enclave} is a
+  colony in its own right. Although legally no citizen may be forbidden
+  residence here, most non-Dwarves find the stony, cramped interior unwelcoming.
+  
+[[player-guide.market_city_harbor,{market_city_harbor}]]{market_city_harbor}::
+  Cargo boats fill the numerous docks of this large harbor on the
+  glossterm::[{valley_lake}, {valley_lake}]. Much of
+  <<player-guide.market_city,{market_city}'s>> imports and exports pass through
+  this harbor, and deckhands work feverishly to keep the flow of goods moving.
+  
+{arts_city_river} River Customs::
+  Owned by the glossterm::[{customs_dept}, {customs_dept}], this customs house 
+  sits on an island in the glossterm::[{arts_city_river}, {arts_city_river} 
+  River] just before it passes through the city. Ships queue up to have their 
+  cargo inspected and their paperwork approved by the grim-faced and serious 
+  officials who work here.
+  
+[[player-guide.market_city_rich_district,{market_city_rich_district}]]{market_city_rich_district}::
+  Perched atop the highest hill of <<player-guide.market_city,{market_city}'s>>
+  lakeshore, {market_city_rich_district} houses the wealthiest citizens and
+  dignitaries of the city.  A stunning lakeside vista complements the opulent
+  estates here, and the city's most reputable envoys traverse the boulevards on
+  business for their employers.
+  
+[[player-guide.market_city_shopping_district,{market_city_shopping_district}]]{market_city_shopping_district}::
+  The {market_city_shopping_district} is home to the majority of
+  <<player-guide.market_city,{market_city}'s>> storefronts and markets, and is
+  the city's largest and most famous district. From small one-man storefronts to
+  the <<player-guide.grand_bazaar>> itself, the {market_city_shopping_district}
+  encompasses trade of all sizes and types.
+  
+{market_city_workshop_district}::
+  Strategically located between the <<player-guide.market_city_harbor>> and the
+  storefronts of <<player-guide.market_city_shopping_district>>, the
+  {market_city_workshop_district} provides for makers who require larger, more
+  complex facilities. The sounds of creation clamour forth from the district's
+  workshops and forges as each crafter develops his next masterpiece.
+  
+{market_city_residential_district}::
+  {market_city_residential_district} provides accommodation for those residents
+  who do not live in their stores or workshops, and those visitors who choose
+  not to pay the premiums of inns in the
+  <<player-guide.market_city_shopping_district>>.  Although they are not the
+  gilded estates of <<player-guide.market_city_rich_district>>, the homes and
+  buildings in this district are by no means in shambles. Even the simplest
+  housing in <<player-guide.market_city,{market_city}>> reflects the city's
+  wealth and high standards of living.
+  
+{market_city_govt_district}::
+  Home to the offices of information brokers, merchant guild members, and
+  government officials, the {market_city_govt_district} hosts the unseen web of
+  data and law that keeps the city running. Through word of mouth and fleet
+  couriers, information and orders rush from this district to recipients within
+  and beyond <<player-guide.market_city,{market_city}'s>> borders.
+  
+[[player-guide.law_city]]
+==== {law_city}, City of Laws
+
+At the heart of glossterm::[{nation_name}, {nation_name}] is the nation's crown
+jewel: the capital city of <<player-guide.law_city,{law_city}>>. Towering,
+gleaming buildings of marble and polished stone strike a grand vista for those
+who first lay eyes upon the city. Impressive grids of streets and avenues bustle
+with activity, feeding the machine that runs the nation.  At night, although the
+streets die down to dim illumination by heavy iron lamps, the work of the city
+does not cease. Buildings big and small come to life as interior lights shine
+through their windows, offering tantalizing hints at the ongoings within.
+
+From first sight to last, <<player-guide.law_city,{law_city}>> whisks away
+newcomers and locals alike into an embrace of structure and control that seems
+almost caring. The city runs like clockwork, with each inhabitant and agency
+fulfilling a purpose in a timely and efficient manner.  From the lowliest
+courier to the highest seats of government, every citizen of
+<<player-guide.law_city,{law_city}>> is devoted fully to their cause. To do
+otherwise would be to invite certain scorn and disdain from one's peers.
+
+Just as each citizen is devoted to their tasks, so is the city itself devoted to
+the law. Law is born and dies in <<player-guide.law_city,{law_city}>>. Every
+agency houses its highest offices here in this locus of government power.  Yet
+despite the proximity of government control, the city does not quake under the
+tyranny of authoritarianism. That the government serves its people is a well
+respected fact, and it is commonly understood that
+<<player-guide.law_city,{law_city}>> only functions at the willing compliance of
+its citizens.
+
+===== Places of Interest
+
+[[player-guide.law_city_capitol,{law_city_capitol}]]{law_city_capitol}::
+  A quartet of obelisks surround this domed building which towers above the
+  inner city. With architectural adornments and intricacies that border on
+  ostentatiousness, the seat of glossterm::[{nation_name}, {nation_name}'s]
+  governmental power serves as a constant reminder of the nation's political and
+  economic mastery. Here the Senate holds council with the Emperor, and the
+  majority of government agencies also keep their headquarters within.
+  
+{main_portal}::
+  A gilded quarter-sphere in the north of the city contains the divine
+  masterpiece through which travel using the glossterm::[{portals}, {portals}]
+  is made possible. Heavily staffed by the glossterm::[{police}, {police}] and
+  the glossterm::[{customs_dept}, {customs_dept}], hundreds of travelers are
+  processed daily here.  The quarter-sphere opens to a dazzling view of the
+  <<player-guide.law_city_capitol>>, imposing the nation's crown jewel as the
+  first and last thing journeyers see during their time in
+  glossterm::[{nation_name}, {nation_name}].
+  
+[[player-guide.abadar_temple,{abadar_temple}]]{abadar_temple}::
+  Originally the capitol building during the nation's infancy, Abadar's temple
+  has since returned to its primary function.  Although it may not have the same
+  prestige it once did, the temple has certainly not degraded in splendor. From
+  within the church's golden halls the clergy works tirelessly to bring the
+  vision of their forebears, the glossterm::[{crusade_org}, {crusade_org}], to
+  life.
+  
+[[player-guide.merchant_guild_hq,{merchant_guild_hq}]]{merchant_guild_hq}::
+  Just to the north of the docks and warehouses on the
+  glossterm::[{valley_lake}, {valley_lake}] are a series of large but
+  utilitarian guildhalls. Collected within are offices of the various merchant
+  guilds that do business in glossterm::[{nation_name}, {nation_name}]. Although
+  the guilds would almost certainly prefer to be headquartered in
+  <<player-guide.market_city,{market_city}>>, the law requires that they be
+  located here in <<player-guide.law_city,{law_city}>>. The cunning merchants
+  have made the best of their situation, though, taking every opportunity to
+  endlessly lobby in the interest of their guilds.
+  
+[[player-guide.law_uni,{law_uni}]]{law_uni}::
+  In the west of the city is the {law_uni}.  It is the incubator of
+  <<player-guide.law_city,{law_city}'s>> commercial and political genius and
+  also the prime entry point to the upper echelons of glossterm::[{nation_name},
+  {nation_name}'s] political economy. It is neigh unheard of that prominent
+  figures do not have some tie to the university.  As a result, its student body
+  does not just comprise promising, untested politicians and merchants, but also
+  veterans and experts from other parts of the country looking to advance their
+  positions.
+
+[[player-guide.library,{library}]]{library}::
+  Adjacent to the <<player-guide.law_uni>> rises the nation's premier repository
+  of knowledge. From modern research journals to ancient folklore, the {library}
+  provides access to an enormous wealth of information at no cost. The
+  glossterm::[{library_staff}, {library_staff}] of the library work tirelessly
+  to expand and preserve the collection, and are often seen moving like ghosts
+  through the book stacks.
+  
+[[player-guide.police_hq,{police_hq}]]{police_hq}::
+  The headquarters of the glossterm::[{police}, {police}] is a sharp building
+  supported by thick columns of polished stone which stand vigil along its
+  perimeter. The majority of citizens will only ever enter the public offices
+  and temple of Iomedae within the structure. It is well known, however, that
+  the {police_hq} also conceals a well-guarded network of armories, archives,
+  and barracks.
+  
+{emperor_home}::
+  Lush, tall gardens and a host of guards keep this gleaming marble estate
+  private and safe. Despite its seclusion from the public eye, even here the
+  Emperor cannot escape the responsibilites of his position. A direct view to
+  the <<player-guide.law_city_capitol>> cuts through the manor's grounds, in
+  keeping with a law that decrees the Emperor's bed must always face the
+  capitol, such that his duties will be his last sight before retiring and his
+  first upon waking.
+  
+{law_city_residential_district}::
+  {law_city_residential_district} caters to citizens who need or choose to spend
+  their time between <<player-guide.law_city,{law_city}>> and other
+  settlements. The area features modest, efficient housing and a large number of
+  inns with convenient access to the major roads between
+  <<player-guide.law_city,{law_city}>> and
+  <<player-guide.market_city,{market_city}>> and
+  <<player-guide.arts_city,{arts_city}>>.
+  
+{law_city_politician_district}::
+  Home to many of <<player-guide.law_city,{law_city}'s>> powerful mercantile and
+  political elite, the {law_city_politician_district} features lavish estates
+  with secluded vistas onto the glossterm::[{valley_lake}, {valley_lake}].
+  Tactically located near hotbeds of influence such as the
+  <<player-guide.law_city_government_district>>, <<player-guide.law_uni>>, and
+  <<player-guide.law_city_market_district>>, soirees and galas featuring the
+  nation's most renowed often take place here.
+  
+[[player-guide.law_city_government_district,{law_city_government_district}]]{law_city_government_district}::
+  The largest district in the city, the {law_city_government_district} contains
+  the majority of <<player-guide.law_city,{law_city}'s>> government buildings
+  and centers of religious worship. Neat and orderly even under the weight of
+  the thousands working here, this district could almost be considered a
+  settlement of its own within the city. Businesses of all types have been built
+  to support the district's employees, ensuring they are well provided for as
+  they toil for the good of the nation.
+  
+{law_city_plaza_district}::
+  The {law_city_plaza_district} is filled with open gardens and other areas for
+  public gatherings. This district lies in contrast with the purposeful feeling
+  that pervades the rest of <<player-guide.law_city,{law_city}>>, providing
+  residents and visitors with an escape from unending the rush of the city.
+  
+[[player-guide.law_city_market_district,{law_city_market_district}]]{law_city_market_district}::
+  This district houses the city's harbors, markets, and enterprises like the
+  <<player-guide.merchant_guild_hq>>. Busy at all times of day and night, goods
+  endlessly flow through wide streets for sale, storage, and evaluation.
+
+[[regunt-image]]
+[role=full-image]
+image::https://googledrive.com/host/0B7b9uMyuu5dvM3o3aElWdTJTaGc[]
