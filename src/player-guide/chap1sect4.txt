@@ -26,28 +26,31 @@ THE SOFTWARE.
 
 === The Government of {nation_name}
 
-Outwardly, the government of glossterm::[{nation_name}, {nation_name}] is
-composed of three parts: an Emperor, a Senate, and glossterm::[{HoRs}, {HoRs}].
-The Emperor is an elected official rather than a supreme ruler.  There is no
-term limit for an Emperor, but most choose to rule for twenty to twenty five
-years before stepping down.  The Emperor holds the power to veto laws, act as
-the commander of the glossterm::[{police}, {police}], and resolve tie votes in
-the Senate.  The current Emperor is person::[{emperor}].
+Outwardly, the government of glossterm::[{nation_name}, {nation_name}] is 
+composed of three parts: a Senate, an Emperor and glossterm::[{HoRs}, {HoRs}]. 
+Every four years, citizens elect glossterm::[{HoRs}] to represent their 
+districts' interests in governmental affairs. While they lack individual power, 
+as a collective they command great strength, and most take great pride in their 
+role. glossterm::[{HoRs}] elect the Emperor from their ranks and may even vote 
+to forcibly remove Senators from office for life. Consequently, even the most 
+powerful officials respect glossterm::[{HoRs}] as the will of the people.
+
+The current Emperor, person::[{emperor}], was elected five years ago. In what 
+has been a mostly uneventful term so far, he has not needed to wield his power 
+to veto any major laws, resolve clutch ties in the Senate, or directly command 
+the glossterm::[{police}]. Popular opinion is that he will choose to hold a 
+twenty year term like most of his predecessors, though no law requires him to do 
+so.
 
 The Senate comprises eighteen leaders chosen from and by the nation's eminent
 temples, with each temple holding a number of positions corresponding to their
 influence.  Senators are solely responsible for ratifying laws, and they also
 have the power to call for an immediate re-election of the Emperor.
-glossterm::[{HoRs}, {HoRs}] are officials elected every four years by the
-citizens of their districts.  Legally, the glossterm::[{HoRs}, {HoRs}] have only
-three powers: they elect the Emperor from one of their own; they are the only
-citizens, besides the Emperor, permitted to directly address a meeting of the
-Senate; and they may vote to forcibly remove Senators from office for life.
 
 .Who's in the Senate?
 *********************
-Currently, the temple of Abadar is allocated eight senate seats.  Shelyn holds
-three, and Sarenrae and Cayden Cailean each hold two.  Pharasma, Iomedae, and
+Currently, the temple of Abadar is allocated eight senate seats. Shelyn holds
+three, and Sarenrae and Cayden Cailean each hold two. Pharasma, Iomedae, and
 Erastil are all represented, but each holds only one seat.
 *********************
 

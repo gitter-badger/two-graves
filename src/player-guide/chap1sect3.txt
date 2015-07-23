@@ -26,21 +26,21 @@ THE SOFTWARE.
 
 === Religion in {nation_name}
 
-glossterm::[{nation_name}, {nation_name}] was founded as part of an Abadarian
-religious crusade, and its roots are still apparent to this day.  Although the
-nation is not strictly aligned with any one deity, its senate is composed of
-eighteen representatives from the most influential temples{mdash}be it influence
-through number of worshipers, wealth, or other means. Currently the temples of
-Abadar, Shelyn, Cayden Cailean, Sarenrae, Pharasma, Iomedae, and Erastil hold
-senate positions.  The temple of Abadar has maintained major power in the city,
-and from the gilded halls of <<player-guide.abadar_temple>> in
-<<player-guide.law_city,{law_city}>> it oversees much of the nation's financial
-and legal well-being.  Shelyn and Cayden Cailean both have large followings in
-<<player-guide.arts_city,{arts_city}>>, and their
-temples{mdash}<<player-guide.shelyn_temple>> and
-<<player-guide.cc_temple>>{mdash}draw tourists and worshippers from far and
+glossterm::[{nation_name}, {nation_name}] was founded as part of an Abadarian 
+religious crusade, and its roots are still apparent to this day.  Although the 
+nation is not strictly aligned with any one deity, its Senate is composed of 
+eighteen representatives from the most influential temples{mdash}be it influence 
+through number of worshipers, wealth, or other means. Currently the temples of 
+Abadar, Shelyn, Cayden Cailean, Sarenrae, Pharasma, Iomedae, and Erastil hold 
+senate positions.  The temple of Abadar has maintained major power in the city, 
+and from the gilded halls of <<player-guide.abadar_temple>> in 
+<<player-guide.law_city,{law_city}>> it oversees much of the nation's financial 
+and legal well-being.  Shelyn and Cayden Cailean both have large followings in 
+<<player-guide.arts_city,{arts_city}>>, and their 
+temples{mdash}<<player-guide.shelyn_temple>> and 
+<<player-guide.cc_temple>>{mdash}draw tourists and worshippers from far and 
 wide.
-    
+
 .Mystery of the Shrines
 ***********************
 Scattered around the landscape of glossterm::[{nation_name}, {nation_name}] are
@@ -56,4 +56,4 @@ support from all around the nation for their public services and good works, but
 they do not maintain large shrines or temples in any one location.  Many other
 faiths have worshippers in glossterm::[{nation_name}, {nation_name}], and
 although they do not hold prominent political power, Desna, Gozreh, Calistria,
-and Irori all have noteworthy followings in various places around the country.
+and Irori all have noteworthy followings around the country.
