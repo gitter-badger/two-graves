@@ -26,10 +26,26 @@ class PersonInlineMacro < Extensions::InlineMacroProcessor
   use_dsl
 
   named :person
-  name_positional_attributes 'personname'
+  name_positional_attributes 'personname', 'format_str'
 
   def process parent, target, attrs
-    %(<person><personname>#{attrs['personname']}</personname></person>)
+    if attrs.key? 'format_str'
+      format_str = attrs['format_str']
+      name_parts = attrs['personname'].split(' ')
+      
+      format_str = format_str.sub('{f}', '{0}')
+      format_str = format_str.sub('{l}', "{%d}" % [name_parts.length-1])
+      name_string = format_str
+      
+      for i in 0..name_parts.length-1
+        name_string = name_string.sub("{%d}" % [i], name_parts[i])
+      end
+      
+      name_string = name_string.sub('({[a-z]+}|{[0-9]+})', '')
+    else
+      name_string = attrs['personname']
+    end
+    %(<person><personname>#{name_string}</personname></person>)
   end
 end
 
