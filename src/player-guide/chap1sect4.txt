@@ -28,19 +28,19 @@ THE SOFTWARE.
 
 Outwardly, the government of glossterm::[{nation_name}, {nation_name}] is 
 composed of three parts: a Senate, an Emperor and glossterm::[{HoRs}, {HoRs}]. 
-Every four years, citizens elect glossterm::[{HoRs}] to represent their 
-districts' interests in governmental affairs. While they lack individual power, 
-as a collective they command great strength, and most take great pride in their 
-role. glossterm::[{HoRs}] elect the Emperor from their ranks and may even vote 
-to forcibly remove Senators from office for life. Consequently, even the most 
-powerful officials respect glossterm::[{HoRs}] as the will of the people.
+Every four years, citizens elect glossterm::[{HoRs}] to speak for their regions' 
+interests in government affairs. While they lack individual power, as a 
+collective the glossterm::[{HoRs}] great strength, and most take immense pride 
+in their role. They elect the Emperor from their ranks and may even vote to 
+forcibly remove Senators from office for life. Consequently, even the most 
+powerful officials respect glossterm::[{HoRs}] as the voice of the people.
 
-The current Emperor, person::[{emperor}], was elected five years ago. In what 
-has been a mostly uneventful term so far, he has not needed to wield his power 
-to veto any major laws, resolve clutch ties in the Senate, or directly command 
-the glossterm::[{police}]. Popular opinion is that he will choose to hold a 
-twenty year term like most of his predecessors, though no law requires him to do 
-so.
+The current Emperor, person::[{emperor}], was elected five years ago. Thus far, 
+his term has been mostly uneventful. person::[{emperor},'Emperor {l}'] has not 
+needed to wield his power to veto any major proposals, resolve clutch ties in 
+the Senate, or directly command the glossterm::[{police}]. Popular opinion is 
+that he will choose to hold a twenty year term like most of his predecessors, 
+though no law requires him to do so.
 
 The Senate comprises eighteen leaders chosen from and by the nation's eminent
 temples, with each temple holding a number of positions corresponding to their
