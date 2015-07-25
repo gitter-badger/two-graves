@@ -26,8 +26,8 @@ THE SOFTWARE.
 
 === The Government of {nation_name}
 
-Outwardly, the government of glossterm::[{nation_name}, {nation_name}] is 
-composed of three parts: a Senate, an Emperor and glossterm::[{HoRs}, {HoRs}]. 
+Outwardly, the government of glossterm::[{nation_name}] is 
+composed of three parts: a Senate, an Emperor and glossterm::[{HoRs}]. 
 Every four years, citizens elect glossterm::[{HoRs}] to speak for their regions' 
 interests in government affairs. While they lack individual power, as a 
 collective the glossterm::[{HoRs}] possess great strength, and most take immense 
@@ -59,20 +59,18 @@ three, and Sarenrae and Cayden Cailean each hold two. Pharasma, Iomedae, and
 Erastil are all represented, but each holds only one seat.
 *********************
 
-In practice, of course, the government is much more than just the sum of its
-leadership.  Of the various agencies and divisions that constitute the
-government, the largest and most publicly visible are the glossterm::[{police},
-{police}], the glossterm::[{customs_dept}, {customs_dept}], and the
-glossterm::[{public_works}, {public_works}].  The glossterm::[{police},
-{police}] is charged with maintaining peace and safety throughout the nation,
-and is the closest thing glossterm::[{nation_name}, {nation_name}] has to a
-military force.  The current head of police, person::[{police_head}], continues
-to uphold the organization's excellent reputation.  Although he may claim that
-they are chronicly understaffed and underfunded, glossterm::[{nation_name},
-{nation_name}] is an incredibly safe country.  The glossterm::[{customs_dept},
-{customs_dept}] controls and maintains the magical gates that lead to
-glossterm::[{nation_name}, {nation_name}], and are also responsible for levying
-taxes on exported goods.  The glossterm::[{public_works}, {public_works}] builds
-and maintains infrastructure such as roads, bridges, and waterways, and also
-settles disputes over public lands, most frequently regarding the ancient relics
-scattered about the country.
+In practice, of course, the government is much more than just the sum of its 
+leadership.  Of the various government agencies and divisions, the largest and 
+most publicly visible are the glossterm::[{police}], the 
+glossterm::[{customs_dept}], and the glossterm::[{public_works}].  The 
+glossterm::[{police}] is charged with maintaining peace and safety throughout 
+the nation, and is the closest thing glossterm::[{nation_name}] has to a 
+military force. The current head of police, person::[{police_head}], continues 
+to uphold the organization's excellent reputation.  Although he may claim that 
+they are chronicly understaffed and underfunded, glossterm::[{nation_name}] is 
+an incredibly safe country.  The glossterm::[{customs_dept}] levying taxes on 
+exported goods, and also control and maintain the glossterm::[{portals}, magical 
+gates] that lead to glossterm::[{nation_name}]. The glossterm::[{public_works}] 
+builds and maintains infrastructure such as roads, bridges, and waterways. It 
+also settles disputes over public lands, most frequently regarding the ancient 
+relics scattered about the country.
