@@ -24,50 +24,37 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ////
 
-=== The Government of {nation_name}
+=== Religion in {nation_name}
 
-Outwardly, the government of glossterm::[{nation_name}, {nation_name}] is 
-composed of three parts: a Senate, an Emperor and glossterm::[{HoRs}, {HoRs}]. 
-Every four years, citizens elect glossterm::[{HoRs}] to speak for their regions' 
-interests in government affairs. While they lack individual power, as a 
-collective the glossterm::[{HoRs}] great strength, and most take immense pride 
-in their role. They elect the Emperor from their ranks and may even vote to 
-forcibly remove Senators from office for life. Consequently, even the most 
-powerful officials respect glossterm::[{HoRs}] as the voice of the people.
+glossterm::[{nation_name}, {nation_name}] was founded as part of an Abadarian 
+religious crusade, and its roots are still apparent to this day.  Although the 
+nation is not strictly aligned with any one deity, its Senate is composed of 
+eighteen representatives from the most influential temples{mdash}be it influence 
+through number of worshipers, wealth, or other means. Currently the temples of 
+Abadar, Shelyn, Cayden Cailean, Sarenrae, Pharasma, Iomedae, and Erastil hold 
+Senate positions. The temple of Abadar has maintained major power in the 
+nation, and from the gilded halls of <<player-guide.abadar_temple>> in 
+<<player-guide.law_city,{law_city}>> it oversees much of the nation's financial 
+and legal well-being.  Shelyn and Cayden Cailean both have large followings in 
+<<player-guide.arts_city,{arts_city}>>, and their 
+temples{mdash}<<player-guide.shelyn_temple>> and 
+<<player-guide.cc_temple>>{mdash}draw tourists and worshippers from far and 
+wide.
 
-The current Emperor, person::[{emperor}], was elected five years ago. Thus far, 
-his term has been mostly uneventful. person::[{emperor},'Emperor {l}'] has not 
-needed to wield his power to veto any major proposals, resolve clutch ties in 
-the Senate, or directly command the glossterm::[{police}]. Popular opinion is 
-that he will choose to hold a twenty year term like most of his predecessors, 
-though no law requires him to do so.
+.Mystery of the Shrines
+***********************
+Scattered around the landscape of glossterm::[{nation_name}, {nation_name}] are
+mysterious shrines.  The shrines wield various potent magics, from healing, to
+increased strength and speed, to the ability to breath underwater for a time.
+Although the purpose and origin of these shrines is contested fact, access to
+them is highly valued, and many groups vie for stewardship of these relics.
+***********************
 
-The Senate comprises eighteen leaders chosen from and by the nation's eminent
-temples, with each temple holding a number of positions corresponding to their
-influence.  Senators are solely responsible for ratifying laws, and they also
-have the power to call for an immediate re-election of the Emperor.
-
-.Who's in the Senate?
-*********************
-Currently, the temple of Abadar is allocated eight senate seats. Shelyn holds
-three, and Sarenrae and Cayden Cailean each hold two. Pharasma, Iomedae, and
-Erastil are all represented, but each holds only one seat.
-*********************
-
-In practice, of course, the government is much more than just the sum of its
-leadership.  Of the various agencies and divisions that constitute the
-government, the largest and most publicly visible are the glossterm::[{police},
-{police}], the glossterm::[{customs_dept}, {customs_dept}], and the
-glossterm::[{public_works}, {public_works}].  The glossterm::[{police},
-{police}] is charged with maintaining peace and safety throughout the nation,
-and is the closest thing glossterm::[{nation_name}, {nation_name}] has to a
-military force.  The current head of police, person::[{police_head}], continues
-to uphold the organization's excellent reputation.  Although he may claim that
-they are chronicly understaffed and underfunded, glossterm::[{nation_name},
-{nation_name}] is an incredibly safe country.  The glossterm::[{customs_dept},
-{customs_dept}] controls and maintains the magical gates that lead to
-glossterm::[{nation_name}, {nation_name}], and are also responsible for levying
-taxes on exported goods.  The glossterm::[{public_works}, {public_works}] builds
-and maintains infrastructure such as roads, bridges, and waterways, and also
-settles disputes over public lands, most frequently regarding the ancient relics
-scattered about the country.
+Iomedae's temple is the <<player-guide.police_hq,{police_hq}>> in 
+<<player-guide.law_city,{law_city}>> and much of the police force are devotees. 
+Sarenrae, Pharasma, and Erastil enjoy large popular support from all around the 
+nation for their public services and good works, but they do not maintain large 
+shrines or temples in any one location.  Many other faiths have worshippers in 
+glossterm::[{nation_name}, {nation_name}], and although they do not hold 
+prominent political power, Desna, Gozreh, Calistria, and Irori all have 
+noteworthy followings around the country.
