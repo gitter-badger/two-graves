@@ -247,6 +247,9 @@
   article.appendix > header.appendix-titlepage {
     font-size: 1.2em;
   }
+  article.appendix pre {
+    font-size: .5em;
+  }
   article.glossary {
     page: noheader;
   }
@@ -292,7 +295,7 @@
   }
   
   div#regunt-image {
-    width: 90%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
   }

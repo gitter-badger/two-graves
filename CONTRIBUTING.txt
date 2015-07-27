@@ -1,9 +1,11 @@
 # Contributor Licensing Agreement
 
-By submitting code for official inclusion into this project, you agree
-that your submitted work, including modifications or derivatives of existing
-work, is licensed under the MIT License and that you have the authority
-to offer this licensing to the project.
+By submitting code for official inclusion into this project, you agree that your 
+submitted work, including modifications or derivatives of existing work, is 
+licensed under the GNU Affero General Public License as published by the Free 
+Software Foundation, either version 3 of the License, or (at your option) any 
+later version and that you have the authority to offer this licensing to the 
+project.
 
 By submitting textual content for official inclusion into this project,
 you agree that your submitted work, including modifications or
@@ -73,7 +75,7 @@ the line may be broken at significant punctuation or directives.
 3. In 99% of cases, substitutions should be declared externally and included in a
 document using an `include` declaration at the start of the file.
 4. Each content file should contain a comment after its inclusions with the
-MIT license notice. 
+AGPL license notice. 
 
 ### Document Structure Style Guide
 
