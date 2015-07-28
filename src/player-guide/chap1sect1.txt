@@ -19,16 +19,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 === Modern Life in {nation_name}
 
-In the heart of the valley of glossterm::[{valley_name}, {valley_name}],
-protected by the forboding glossterm::[{mountain_range}, {mountain_range}] to
-the north and the unfathomable glossterm::[{rift}, {rift}] to the south,
-glossterm::[{nation_name}, {nation_name}] echoes with a clarion call of
-opportunity.  Low, rolling hills stretch across the landscape, and lush green
-forests intermingle with networks of towns and villages.  Occasionally, gleaming
-cities sit at the center of these networks, marking the terrain with intricate
-webs of road that connect settlements for miles around.  Along the foothills,
-frontier towns dot lands carved with snow-melt rivers that flow from the peaks
-above down into the glossterm::[{valley_lake}, {valley_lake}].
+In the heart of the valley of glossterm::[{valley_name}]{mdash} protected by the 
+forboding glossterm::[{mountain_range}] to the north and the unfathomable 
+glossterm::[{rift}] to the south{mdash} glossterm::[{nation_name}] echoes with a 
+clarion call of opportunity.  Low, rolling hills stretch across the landscape, 
+and lush green forests intermingle with networks of towns and villages.  
+Occasionally, gleaming cities sit at the center of these networks, marking the 
+terrain with intricate webs of road that connect settlements for miles around.  
+Along the foothills, frontier towns dot lands carved with snow-melt rivers that 
+flow from the peaks above down into the glossterm::[{valley_lake}].
 
 The abundance of the valley may provide, but ultimately the people of 
 glossterm::[{nation_name}, {nation_name}] are its lifeblood.  Most citizens live 
