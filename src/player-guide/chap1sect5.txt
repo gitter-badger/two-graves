@@ -181,44 +181,43 @@ continue.
 [[player-guide.market_city]]
 ==== {market_city}, City of Markets
 
-Words and noise blend with the clink of coins in the vibrant market city of
-<<player-guide.market_city,{market_city}>>. Known for its unparalleled selection
-of exotic goods, which harken both to cultures from around the world and at the
-same time something completely original,
-<<player-guide.market_city,{market_city}>> is a haven for craftsmen.  The best
-of the best travel here to study with other masters from all around. The result
-is a forge of rivalries and collaborations which drive the innovations of these
-ambitious creators ever foward. Their work and success have brought incredibly
-reknown to both <<player-guide.market_city,{market_city}>> and the nation as a
-whole, and wealth naturally flows to the city in the form of hardened merchants
-and more casual buyers.
+The sound of roaring forges and workshops blends with the clink of coins in the 
+vibrant market city of <<player-guide.market_city,{market_city}>>. Known for its 
+unparalleled selection of masterwork and exotic goods, 
+<<player-guide.market_city,{market_city}>> is a haven for craftsmen.  The best 
+of the best travel here to study with other masters from all around. The result 
+is a crucible of rivalries and collaborations which drive the innovations of 
+these ambitious creators ever forward. This work and success have brought 
+incredible reknown to both <<player-guide.market_city,{market_city}>> and the 
+nation as a whole, and wealth naturally flows to the city in the form of 
+hardened merchants and more casual buyers.
 
-The siren call of wealth and skill brings along with it much more strict
-government oversight. Left to their own devices, foreign merchants would surely
-bleed the country dry. In response, agencies such as the
-glossterm::[{customs_dept}, {customs_dept}] and the glossterm::[{labor_dept},
-{labor_dept}] keep close watch on the conditions of the city. Given the amount
-of coin that flows through the streets, the glossterm::[{police}, {police}] are
-omnipresent in <<player-guide.market_city,{market_city}>>, ensuring that the
-city retains its name as a safe and reputable haven for trade.
+The siren call of riches and skill brings along with it much more strict 
+government oversight. Left to their own devices, foreign merchants would surely 
+bleed the country dry. In response, agencies such as the 
+glossterm::[{customs_dept}] and the glossterm::[{labor_dept}] keep close watch 
+on the conditions of the city. Given the amount of coin that flows through the 
+streets, the glossterm::[{police}] are omnipresent in 
+<<player-guide.market_city,{market_city}>>, ensuring that the city retains its 
+name as a safe and reputable haven for trade.
 
 [role="half-image"]
 image::https://googledrive.com/host/0B7b9uMyuu5dvR3FwWEt6bW5UNmc[]
 
-The master craftsmen themselves are no pushovers either. Crafting guilds are
-strictly forbidden both in a legal sense and a communal one, as each individual
-crafter vies for the reputation of her own name. Consequently, mutual
-respect{mdash}even among the most obvious of rivals{mdash}is paramount and
+The master craftsmen themselves are no pushovers either. Crafting guilds are 
+strictly forbidden both in a legal sense and a communal one. Here, each 
+individual crafter vies for the reputation of her own name. Consequently, mutual 
+respect{mdash}even among the most obvious of rivals{mdash}is paramount and 
 palpable in the transactions that take place here.
 
-To feed the high demand of buyers, <<player-guide.market_city,{market_city}>>
-has built itself up around a system of attractive and efficient roads and
-neighborhoods.  No space is wasted in thoroughfares large or small, as every bit
-of available wall space is transformed into a storefront or workshop. Sturdy
-stone buildings resist wear from unending shoppers, but also from nature's
-harshness and the occasional workshop fire. Goods transit smoothly through the
-city's wide, paved streets, their navigation made easy by numerous road
-markers. At night, hanging iron lamps illuminate the city's famous twenty-four
+To feed the high demand of buyers, <<player-guide.market_city,{market_city}>> 
+has built itself up around a system of attractive and efficient roads and 
+neighborhoods. No space is wasted in thoroughfares large or small, as every bit 
+of available wall space is transformed into a storefront or workshop. Sturdy 
+stone buildings resist wear from unending shoppers, but also from nature's 
+harshness and the occasional workshop fire. Goods transit smoothly through the 
+city's wide, paved streets{mdash}their navigation made easy by numerous road 
+markers. At night, hanging iron lamps illuminate the city's famous twenty-four 
 hour markets.
 
 ===== Places of Interest

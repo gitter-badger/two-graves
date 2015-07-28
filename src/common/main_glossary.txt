@@ -89,7 +89,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 {customs_dept}::
   The government agency responsible for glossterm::[{nation_name},
-  {nation_name}'s] commercial export and immigration policies.
+  {nation_name}'s] commerce and immigration policies.
 
 {public_works}::
   The government agency responsible for managing infrastructure and other public
