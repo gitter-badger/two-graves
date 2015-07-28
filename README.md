@@ -10,6 +10,14 @@ itself can of course be lifted to fit any fantasy system.
 
 READ AT YOUR OWN RISK FOR SPOILERS!
 
+## Reading and Downloading
+
+You can read the books online at:
+
+- Player's Guide: <http://rwdalpe.github.io/two-graves/player-guide/>
+
+You can also download PDFs and EPUBs from the [releases page][2].
+
 ## Summary
 
 Players embark on a tale of vengeance and mystery in a pseudo-utopian 
@@ -27,3 +35,4 @@ project
 [![Build Status](https://travis-ci.org/rwdalpe/two-graves.svg?branch=master)](https://travis-ci.org/rwdalpe/two-graves)
 
 [1]: http://paizo.com/pathfinder
+[2]: https://github.com/rwdalpe/two-graves/releases
