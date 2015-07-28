@@ -21,61 +21,61 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 .Commonalities Across Races
 ***************************
-Due to the high economic and entertainment specialties of
-glossterm::[{nation_name}, {nation_name}], it draws craftsman and tourists from
-all over the world. Unless described otherwise, you can assume that almost any
-race can be represented as either a craftsman or a tourist.
+Due to the high commercial and entertainment specialties of 
+glossterm::[{nation_name}], it draws craftsman and tourists from all over the 
+world. Unless described otherwise, you can assume that almost any race can be 
+represented as either a craftsman or a tourist.
 
-Futhermore, the nation of glossterm::[{cliffs_nation}, {cliffs_nation}] has no
-discrimination against any race so long as they can carry their weight in
-war. glossterm::[{cliffs_nation}, {cliffs_nation_person}] bodyguards,
-hunters, policemen, and members of any other profession that involves martial
-prowess can easily find employment in glossterm::[{nation_name}, {nation_name}]
-regardless of their racial background.
+Futhermore, the nation of glossterm::[{cliffs_nation}] does not discriminate 
+against any individual so long as she can carry her weight in war. 
+glossterm::[{cliffs_nation}, {cliffs_nation_person}] bodyguards, hunters, 
+policemen, and members of any other profession involving martial prowess can 
+easily find employment in glossterm::[{nation_name}] regardless of their racial 
+background.
 ***************************
 
 ==== Humans 
 
-Humans are the dominant race in the central cities and in the nation at large,
-despite the generally high levels of diversity in the country. Humans native to
-glossterm::[{nation_name}, {nation_name}] are represented in all professions,
-and tend to hold the majority of influential positions both in the economic and
-political spheres. They can be found in every major city and in the outlying
-areas of the country.
+Despite the generally high levels of diversity in the country, humans are the 
+dominant race in the <<player-guide.central_cities, Central Cities>> and in the 
+nation at large. Humans native to glossterm::[{nation_name}] are represented in 
+all professions, and tend to hold the majority of influential positions in both 
+the economic and political spheres. They can be found in every major city and in 
+almost every outlying area of the country.
 
-Humans hailing from other parts of the continent tend to come to
-glossterm::[{nation_name}, {nation_name}] for more specialized reasons. Farmers,
-clerics on pilgrimage, and visiting aristocrats from
-glossterm::[{meadows_nation}, {meadows_nation}] are all common sights. The
-goat-riding glossterm::[{mountainmen}, {mountainmen}] from the peaks of
-glossterm::[{mountains_nation}, {mountains_nation}] are more rare, but sometimes
-come down to the valley for supplies or when they are seeking lesser or perhaps
-even greater solitude than they found among their people in the mountains.  The
-exotic glossterm::[{firepeople}, {firepeople}] from neighboring
-glossterm::[{desert_kingdom}, {desert_kingdom}] are often employed as guides and
-laborers, although some have left their homes to make a living as performers in
-<<player-guide.arts_city,{arts_city}>>.  Humans from
-glossterm::[{forest_nation}, {forest_nation}] are significantly more rare, but
-occasionally a prodigy from the mage's academy or a wayward druid will make an
-appearance.
+Humans hailing from other parts of glossterm::[{continent_name}] tend to come to 
+glossterm::[{nation_name}] for more specialized reasons. Farmers, clerics on 
+pilgrimage, and visiting aristocrats from glossterm::[{meadows_nation}] are all 
+common sights. The goat-riding glossterm::[{mountainmen}] from the peaks of 
+glossterm::[{mountains_nation}] are more rare, but sometimes come down to the 
+valley for supplies or to seek lesser, or perhaps even greater, solitude than 
+they find among their people in the mountains. The exotic 
+glossterm::[{firepeople}] from neighboring glossterm::[{desert_kingdom}, 
+{desert_kingdom}] are often employed as guides and laborers, although some leave 
+their homes to make a living as performers in 
+<<player-guide.arts_city,{arts_city}>>. Humans from glossterm::[{forest_nation}] 
+are significantly more rare, but occasionally a prodigy from the forest's mage 
+academy or a wayward druid will make an appearance.
 
 ==== Dwarves
 
-Because of the rich underground resources in the country, dwarves are frequently
-drawn here.  Most dwarves hail from the mountains in
-glossterm::[{mountains_nation}, {mountains_nation}] to live with their bretheren
-in the large network of dwarven homes that have been built under the
-earth. Although most dwarves will be living in the outlying areas of the nation,
-many certainly do find their way to the central cities.
+glossterm::[{nation_name}] is ripe with rich underground resources, and as a 
+result dwarves are frequently drawn here. Most dwarves hail from the mountains 
+in glossterm::[{mountains_nation}] where they onced lived with their fellow 
+bretheren of the glossterm::[{dwarf_queen}]. Once here, they tend to prefer life 
+in the large network of dwarven homes that have been built under the earth. 
+Although most dwarves will be living in the outlying areas of the nation, many 
+certainly do find their way to the 
+<<player-guide.central_cities, Central Cities>>.
 
-Most dwarves will find <<player-guide.market_city,{market_city}>> to their
-liking, as the ever-open markets and vendors offer a great opportunity to sell
-their wares and find rare materials. Some dwarves with an eye for government or
-leadership settle in <<player-guide.law_city,{law_city}>> and take a post in a
-guild or legal office. Dwarves in the legal realm tend to put their strong
-racial loyalties to use defending the interests of other dwarves, and as such
-many find their way into positions as District Representatives. Dwarves rarely
-tend to have the patience for as wild a city as
+Many dwarves will find <<player-guide.market_city,{market_city}>> to their 
+liking, as the ever-open markets and vendors offer a great opportunity to sell 
+wares and find rare materials. Some dwarves with an eye for government or 
+leadership settle in <<player-guide.law_city,{law_city}>> and take a post in a 
+guild or legal office. Dwarves in the legal realm tend to put their strong 
+racial loyalties to use by defending the interests of other dwarves. 
+Consequently, many find their way into positions as glossterm::[{HoRs}]. Dwarves 
+rarely tend to have the patience for as wild a city as 
 <<player-guide.arts_city,{arts_city}>>.
 
 ==== Elves

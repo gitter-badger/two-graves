@@ -39,7 +39,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   {nation_name}].
   
 {rift}::
-  A massive fissure that separating glossterm::[{continent_name},
+  A massive fissure that separates glossterm::[{continent_name},
   {continent_name}] and glossterm::[{south_continent_name}]. It is of unknown 
   depth and surrounded by a large cliff wall.
   
@@ -203,3 +203,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 {market_city}::
   glossterm::[{nation_name}, {nation_name}'s] largest trade city.
+
+{dwarf_queen}::
+  The ancient and powerful queen and root ancestral mother of the dwarves in 
+  glossterm::[{mountains_nation}].

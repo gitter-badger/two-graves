@@ -17,6 +17,7 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ////
 
+[[player-guide.central_cities]]
 === The Central Cities
 
 The Central Cities are the largest urban centers in glossterm::[{nation_name}]. 

@@ -21,6 +21,7 @@ include::./seorsus/seorsus.txt[]
 :meadows_nation: Folda
 :desert_kingdom: Mughim
 :mountains_nation: Orgiluud
+:dwarf_queen: Dwarfmother
 :cliffs_nation: Krig
 :cliffs_nation_person: Krigerian
 :cliffs_nation_people: Krigeri
