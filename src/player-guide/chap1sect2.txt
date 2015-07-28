@@ -17,6 +17,7 @@ You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ////
 
+[[player-guide.nat_history]]
 === A Brief History of the Nation
 
 According to national history, centuries ago the valley of

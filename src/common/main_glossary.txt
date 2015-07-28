@@ -31,8 +31,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   glossterm::[{mountain_range}, {mountain_range}].
   
 {crusade_org}::
-  The original founders of glossterm::[{nation_name}, {nation_name}].  Now a
-  sect of Abadarians dedicated to spreading the glory of the nation.
+  A sect of Abadarans and the original founders of glossterm::[{nation_name}]. 
+  They are now dedicated to spreading the glory of the nation.
   
 {portals}::
   Magical gates that can take travelers to and from glossterm::[{nation_name},

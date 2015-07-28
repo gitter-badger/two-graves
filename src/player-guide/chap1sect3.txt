@@ -47,9 +47,11 @@ nation at large.
 
 .Who's in the Senate?
 *********************
-Currently, the temple of Abadar is allocated eight senate seats. Shelyn holds
-three, and Sarenrae and Cayden Cailean each hold two. Pharasma, Iomedae, and
-Erastil are all represented, but each holds only one seat.
+A temple receives a number of Senate positions corresponding with its influence 
+in the nation, be it influence through size of congregation, wealth, or other 
+means. Currently, the temple of Abadar is allocated eight senate seats. Shelyn 
+holds three, and Sarenrae and Cayden Cailean each hold two. Pharasma, Iomedae, 
+and Erastil are all represented, but each holds only one seat.
 *********************
 
 In practice, of course, the government is much more than just the sum of its 
