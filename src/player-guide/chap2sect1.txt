@@ -95,6 +95,9 @@ from glossterm::[{forest_nation}, {forest_nation}], and those that are not
 craftsmen are most often artists or performers, members of the mage's academy,
 druids, rangers, or clerics of Shelyn.
 
+[role=half-image]
+image::https://googledrive.com/host/0B7b9uMyuu5dvS3Y5ZG1ZTHo3ZFU[]
+
 ==== Gnomes
 
 The constant festivites and general excitement of
@@ -106,9 +109,6 @@ for business or a craving for the excitement of mercantile enterprises will
 sometimes venture into <<player-guide.market_city,{market_city}>> to try their
 luck there.  <<player-guide.law_city,{law_city}>> is far too boring and rigid
 for the majority of Gnomes, and they are rarely seen there.
-
-[role=half-image]
-image::https://googledrive.com/host/0B7b9uMyuu5dvS3Y5ZG1ZTHo3ZFU[]
 
 ==== Halflings
 

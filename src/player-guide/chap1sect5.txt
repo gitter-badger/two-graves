@@ -304,7 +304,7 @@ hour markets.
   data and law that keeps the city running. Through word of mouth and fleet
   couriers, information and orders rush from this district to recipients within
   and beyond <<player-guide.market_city,{market_city}'s>> borders.
-  
+
 [[player-guide.law_city]]
 ==== {law_city}, City of Laws
 
@@ -334,6 +334,10 @@ tyranny of authoritarianism. That the government serves its people is a well
 respected fact, and it is commonly understood that
 <<player-guide.law_city,{law_city}>> only functions at the willing compliance of
 its citizens.
+
+[[regunt-image]]
+[role=full-image]
+image::https://googledrive.com/host/0B7b9uMyuu5dvM3o3aElWdTJTaGc[]
 
 ===== Places of Interest
 
@@ -446,7 +450,3 @@ its citizens.
   This district houses the city's harbors, markets, and enterprises like the
   <<player-guide.merchant_guild_hq>>. Busy at all times of day and night, goods
   endlessly flow through wide streets for sale, storage, and evaluation.
-
-[[regunt-image]]
-[role=full-image]
-image::https://googledrive.com/host/0B7b9uMyuu5dvM3o3aElWdTJTaGc[]
