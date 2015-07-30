@@ -20,10 +20,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   xmlns:m="http://docbook.org/xslt/ns/mode" xmlns="http://www.w3.org/1999/xhtml"
   xmlns:db="http://docbook.org/ns/docbook" xmlns:tmpl="http://docbook.org/xslt/titlepage-templates"
   xmlns:f="http://docbook.org/xslt/ns/extension" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:xlink='http://www.w3.org/1999/xlink'
   xmlns:mp="http://docbook.org/xslt/ns/mode/private"
   xmlns:usrfn="http://docbook.org/xslt/ns/user-extension"
 
-  exclude-result-prefixes="t xsl m db tmpl f xs usrfn mp">
+  exclude-result-prefixes="t xsl m db tmpl f xs usrfn mp xlink">
 
   <xsl:import href="docbook-xslt2-2.0.10-rwdalpe/xslt/base/html/final-pass.xsl" 
 />
@@ -104,6 +105,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     </xsl:copy>
   </xsl:template>
   <!--  END TEMPORARY WORKAROUND FOR ISSUE https://github.com/rwdalpe/two-graves/issues/6 -->
+
+  <xsl:template match="db:mediaobject[@role='rotated-image' and @xlink:href]">
+    <a href="{@xlink:href}">
+      <xsl:apply-imports/>
+    </a>
+  </xsl:template>
 
   <xsl:template match="db:printhistory" mode="m:titlepage-mode">
     <div>

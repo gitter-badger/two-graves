@@ -196,6 +196,13 @@
     column-span: all;
   }
 
+  div.mediaobject.rotated-image {
+    -moz-column-span: all;
+    -webkit-column-span: all;
+    column-span: all;
+    height: 100%;
+  }
+
   ul {
     margin: .5em 0px .5em 1em;
     padding: 0px 0px 0px 0px;

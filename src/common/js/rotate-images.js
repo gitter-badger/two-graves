@@ -1,8 +1,5 @@
-include::../common/substitutions/global.txt[]
+/*
 
-:changelog_link: https://github.com/rwdalpe/two-graves/blob/master/src/player-guide/CHANGELOG.md
-
-////
 Copyright (C) 2014 Robert Winslow Dalpe
 
 This program is free software: you can redistribute it and/or modify
@@ -17,16 +14,12 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-////
 
-= {product_title} Player's Guide
-:doctype: book
-:docinfo:
+*/
 
-include::chap1.txt[]
-include::chap2.txt[]
-include::glossary.txt[]
-include::appendix1.txt[]
-include::../common/ogl.txt[]
-include::../common/agpl.txt[]
-include::../common/index.txt[]
+$(document).ready(function() {
+  $("div.mediaobject.rotated-image img").each(function(index, element) {
+    var img = $(element);
+    img.attr('src', img.parents("a").attr('href'));
+  });
+});
