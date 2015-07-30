@@ -134,10 +134,46 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     </xsl:choose>
   </xsl:function>
 
+  <xsl:template match="db:cover[@role]" mode="m:titlepage-mode">
+    <div class="{@role}">
+      <xsl:apply-templates select="node()" />
+    </div>
+  </xsl:template>
+
+  <xsl:template match="db:cover[@role]" mode="m:titlepage-template">
+    <xsl:param name="context" as="element()" required="yes" />
+    <xsl:param name="content" as="element()*" required="yes" />
+    <xsl:param name="mode" as="xs:string" required="yes" />
+
+    <xsl:apply-templates
+      select="$content[node-name(.) = node-name(current()) and ./@role = current()/@role]"
+      mode="m:titlepage-content">
+      <xsl:with-param name="context" select="$context" />
+      <xsl:with-param name="template" select="." />
+      <xsl:with-param name="mode" select="$mode" />
+    </xsl:apply-templates>
+  </xsl:template>
+  
+  <xsl:template match="db:set|db:book|db:part|db:reference">
+    <article>
+      <xsl:sequence select="f:html-attributes(.,f:node-id(.))" />
+      <xsl:call-template name="t:titlepage" />
+  
+      <xsl:if test="not(db:toc)">
+        <!-- only generate a toc automatically if there's no explicit toc -->
+        <xsl:apply-templates select="." mode="m:toc" />
+      </xsl:if>
+  
+      <xsl:apply-templates />
+      <xsl:apply-templates select="..//db:cover[@role = 'back-cover']" mode="m:titlepage-mode" />
+    </article>
+  </xsl:template>
+
   <xsl:template name="t:user-titlepage-templates" as="element(tmpl:templates-list)?">
     <tmpl:templates-list>
       <tmpl:templates name="book">
         <tmpl:recto>
+          <db:cover role="front-cover"/>
           <header tmpl:class="titlepage">
             <db:title />
             <db:subtitle />

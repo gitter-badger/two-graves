@@ -81,6 +81,9 @@ a:visited {
 p {
   line-height: 1.6em;
 }
+div.front-cover, div.back-cover {
+  display: none;
+}
 @viewport {
   zoom: 1.0;
   width: device-width;

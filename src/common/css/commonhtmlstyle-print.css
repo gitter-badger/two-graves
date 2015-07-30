@@ -3,19 +3,6 @@
     size: 8.5in 11.0in;
     margin: .5in .5in;
   }
-  @page:first {
-    padding-right: .5in;
-    padding-left: .5in;
-    @top-right-corner {
-      content: none;
-    }
-    @right-middle {
-      content: none;
-    }
-    @bottom-right-corner {
-      content: none;
-    }
-  }
   @page:left {
     padding-right: .5in;
     padding-left: .5in;
@@ -71,6 +58,77 @@
       padding-right: .15in;
     }
   }
+  
+  @page covers {
+    margin: 0in;
+    padding: 0in;
+    @top-right-corner {
+      content: none;
+    }
+    @top-left-corner {
+      content: none;
+    }
+    @top-right {
+      content: none;
+    }
+    @top-left {
+      content: none;
+    }
+    @left-middle {
+      content: none;
+    }
+    @right-middle {
+      content: none;
+    }
+    @bottom-right {
+      content: none;
+    }
+    @bottom-left {
+      content: none;
+    }
+    @bottom-right-corner {
+      content: none;
+    }
+    @bottom-left-corner {
+      content: none;
+    }
+  }
+  
+  @page title-page {
+    padding-right: .5in;
+    padding-left: .5in;
+    @top-right-corner {
+      content: none;
+    }
+    @top-left-corner {
+      content: none;
+    }
+    @top-right {
+      content: none;
+    }
+    @top-left {
+      content: none;
+    }
+    @left-middle {
+      content: none;
+    }
+    @right-middle {
+      content: none;
+    }
+    @bottom-right {
+      content: none;
+    }
+    @bottom-left {
+      content: none;
+    }
+    @bottom-right-corner {
+      content: none;
+    }
+    @bottom-left-corner {
+      content: none;
+    }
+  }
+  
   @page toc {
     @bottom-left {
       content: none;
@@ -80,6 +138,7 @@
       content: none;
     }
   }
+
   @page noheader {
     @top-right {
       content: none;
@@ -88,6 +147,7 @@
       content: none;
     }
   }
+
   html {
     margin: 0px;
     padding: 0px;
@@ -101,9 +161,19 @@
   article.book p {
     hyphens: auto;
   }
+  article.book>div.front-cover {
+    display:block;
+    page: covers;
+    page-break-after: always;
+  }
+  article.book>div.back-cover {
+    display:block;
+    page: covers;
+    page-break-before: always;
+  }
   article.book>header.book-titlepage {
     height: 100%;
-    page: noheader;
+    page: title-page;
   }
   article.book>header>h1 {
     font-size: 3em;
