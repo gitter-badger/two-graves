@@ -93,6 +93,26 @@
     width: 50%;
     float: right;
   }
+
+  article#glossary dt {
+    font-weight: bold;
+  }
+  
+  article#glossary dd p {
+    margin: .5em;
+    line-height: 1em;
+  }
+  
+  article#ogl, article#agpl {
+    font-size: 0.8em;
+  }
+  
+  article#ogl header.appendix-titlepage, 
+  article#agpl header.appendix-titlepage {
+    font-size: 1.25em;
+  }
+  
+  pre { overflow-x: scroll; }
 }
 
 @media screen and (min-width: 50em) {
