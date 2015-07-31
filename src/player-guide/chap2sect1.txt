@@ -80,49 +80,48 @@ rarely tend to have the patience for as wild a city as
 
 ==== Elves
 
-Elves do come to the central cities in some numbers, but are rarely found
-elsewhere the nation.  Drawn by the wealth of craftsmanship and artistic talent,
-elves come to display their own prowess and compare their works to other master
-artisans'. Because of this, most elves make their home in a de-facto elven
-district in <<player-guide.market_city,{market_city}>>, where they can live in a
-manner closer to home while still reaping the advantages of the city. Elves
-almost never bother with the political and mercantile business that takes place
-in <<player-guide.law_city,{law_city}>>, but sometimes are drawn to the lively
+Elves are rarely found in glossterm::[{nation_name}] outside of the 
+<<player-guide.central_cities, Central Cities>>.  Drawn by the wealth of 
+craftsmanship and artistic talent, elves come to display their own prowess and 
+compare their works to other master artisans'. Because of this, most elves make 
+their home in the <<player-guide.elven_enclave,de-facto elven district>> in 
+<<player-guide.market_city,{market_city}>>. There they can live in a familiar 
+manner while still reaping the advantages of the city. Elves almost never bother 
+with the political and mercantile business that takes place in 
+<<player-guide.law_city,{law_city}>>, but sometimes are drawn to the lively 
 music and performances in <<player-guide.arts_city,{arts_city}>>.
 
-Most of the elves living in glossterm::[{nation_name}, {nation_name}] hail from
-from glossterm::[{forest_nation}, {forest_nation}], and those that are not
-craftsmen are most often artists or performers, members of the mage's academy,
-druids, rangers, or clerics of Shelyn.
+Most of the elves living in glossterm::[{nation_name}] hail from from 
+glossterm::[{forest_nation}], and those that are not craftsmen are most often 
+artists, performers, members of the mage's academy, druids, rangers, or clerics 
+of Shelyn.
 
 [role=half-image]
 image::https://googledrive.com/host/0B7b9uMyuu5dvS3Y5ZG1ZTHo3ZFU[]
 
 ==== Gnomes
 
-The constant festivites and general excitement of
-<<player-guide.arts_city,{arts_city}>> are perfectly suited to the typical
-gnome's demeanor. There they delight in taking part in or simply watching
-performances. While some rise to great heights in official groups, most gnomes
-find great pleasure in being street performers or vendors. Gnomes with an eye
-for business or a craving for the excitement of mercantile enterprises will
-sometimes venture into <<player-guide.market_city,{market_city}>> to try their
-luck there.  <<player-guide.law_city,{law_city}>> is far too boring and rigid
-for the majority of Gnomes, and they are rarely seen there.
+The constant festivites and general excitement of 
+<<player-guide.arts_city,{arts_city}>> are perfectly suited to the typical 
+gnome's demeanor. While some rise to great heights in famous troupes, most 
+gnomes find great pleasure in being street performers and vendors. Gnomes with 
+an eye for business or a craving for the excitement of commercial enterprises 
+will sometimes venture into <<player-guide.market_city,{market_city}>> to try 
+their luck. <<player-guide.law_city,{law_city}>> is far too boring and rigid for 
+the majority of gnomes, and they are rarely seen there.
 
 ==== Halflings
 
-Halflings dovetail with ease into the hubbub and excitement of the central
-cities, and they can be found in great numbers all over the country.  Artisans,
-shopkeepers, performers, and even occasionally politicians, a
-glossterm::[{nation_name}, {nation_person}] halfling's upbeat and amiable
-attitude is a formidable asset.
+Halflings can be found in great numbers all over the country, but they dovetail 
+with particular ease into the hubbub and excitement of the 
+<<player-guide.central_cities, Central Cities>>.  Artisans, shopkeepers, 
+performers, and even occasionally politicians, a glossterm::[{nation_name}] 
+halfling's upbeat and amiable attitude is a formidable asset.
 
-Halflings coming from glossterm::[{meadows_nation}, {meadows_nation}] are often
-members of the merchant class, seeking potential business partners. The rural,
-hill-giant loving halflings from glossterm::[{mountains_nation},
-{mountains_nation}] are more likely to become farmers in the outskirts of the
-nation.
+Halflings coming from glossterm::[{meadows_nation}] are often members of the 
+merchant class seeking potential business partners. The rural, hill-giant loving 
+halflings from glossterm::[{mountains_nation}] are more likely to become farmers 
+in the outskirts of the nation.
 
 ==== Half-Elves
 
