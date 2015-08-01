@@ -61,7 +61,7 @@ academy or a wayward druid will make an appearance.
 
 glossterm::[{nation_name}] is ripe with rich underground resources, and as a 
 result dwarves are frequently drawn here. Most dwarves hail from the mountains 
-in glossterm::[{mountains_nation}] where they onced lived with their fellow 
+in glossterm::[{mountains_nation}] where they once lived with their fellow 
 bretheren of the glossterm::[{dwarf_queen}]. Once here, they tend to prefer life 
 in the large network of dwarven homes that have been built under the earth. 
 Although most dwarves will be living in the outlying areas of the nation, many 
@@ -88,13 +88,13 @@ their home in the <<player-guide.elven_enclave,de-facto elven district>> in
 <<player-guide.market_city,{market_city}>>. There they can live in a familiar 
 manner while still reaping the advantages of the city. Elves almost never bother 
 with the political and mercantile business that takes place in 
-<<player-guide.law_city,{law_city}>>, but sometimes are drawn to the lively 
+<<player-guide.law_city,{law_city}>>, but are frequently drawn to the lively 
 music and performances in <<player-guide.arts_city,{arts_city}>>.
 
 Most of the elves living in glossterm::[{nation_name}] hail from from 
 glossterm::[{forest_nation}], and those that are not craftsmen are most often 
-artists, performers, members of the mage's academy, druids, rangers, or clerics 
-of Shelyn.
+artists, performers, members of glossterm::[{forest_nation}]'s mage's academy, 
+druids, rangers, or clerics of Shelyn.
 
 [role=half-image]
 image::https://googledrive.com/host/0B7b9uMyuu5dvS3Y5ZG1ZTHo3ZFU[]
@@ -125,20 +125,21 @@ in the outskirts of the nation.
 
 ==== Half-Elves
 
-Half-elves face no discrimination for their mixed origin in any of the central
-cities, where diversity is welcome and omnipresent. Because of this welcoming
-environment, half-elves have flourished in the region and many travel from
-distant lands to come here. They are the second most populous race in
-glossterm::[{nation_name}, {nation_name}]. Here, their mixed origin plays to
-their advantage, and they are well suited to any role. However, many heed the
-call of their elven side and find themselves as either artisans in
+Half-elves have flourished in glossterm::[{nation_name}], especially in the 
+<<player-guide.central_cities,Central Cities>> where diversity is practically 
+omnipresent. They face next to no discrimination for their mixed origin, and 
+many travel from distant lands to come here. Their integration has been so 
+successful, in fact, that half-elves are now the second most populous race in 
+glossterm::[{nation_name}]. Here, their dual cultures play to their advantage, 
+and they are well suited to any role. However, many heed the call of their elven 
+side and find themselves as either artisans or performers in 
 <<player-guide.arts_city,{arts_city}>>.
 
 ==== Half-Orcs
 
-Although diversity is welcomed in the central cities, brutishness and crassness
-are not. Although not hated or feared by any means, most half-orcs simply do not
-fit into the lifestyle of these cities, and so choose instead to live in the
-outlying towns and villages of the nation. Those who do choose to live the
-cities tend to make their living as bodyguards for wealthy politicians or
-merchants, or as a part of the police force.
+Although diversity is welcomed in the <<player-guide.central_cities,Central 
+Cities>>, brutishness and crassness are not. Although not hated or feared by any 
+means, most half-orcs simply do not fit into a metropolitan lifestyle, and so 
+choose instead to live in the outlying towns and villages of the nation. Those 
+who do choose to live in the cities tend to make their living as bodyguards for 
+wealthy politicians or merchants, or as a part of the glossterm::[{police}].
