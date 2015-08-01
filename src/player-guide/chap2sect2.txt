@@ -213,40 +213,40 @@ livings as trappers or hunters often turn to criminal undertakings.
 
 ==== Sorcerers
 
-Opportunities of all kinds can appear unexpectedly in glossterm::[{nation_name},
-{nation_name}], and a sorcerer's innate ability to instanly access the full
-wealth of her magical strengths is an invaluable tool for responding to sudden
-windfalls. In the bustling central cities, sorcerers are valued as enchanters in
-crafting workshops, but they are especially valued in
-<<player-guide.arts_city,{arts_city}>>.  There, the constantly changing
-environment of festivals and performances often demands immediate response to
-crazy schemes and outlandish requests. A company of sorcerers known as
-glossterm::[{fireworks_co}, {fireworks_co}] has specialized in this field, and
-keeps a sizable retinue of magical adepts on retainer for hire by performers in
-need.
+Opportunities of all kinds can appear unexpectedly in 
+glossterm::[{nation_name}], and a sorcerer's ability to instanly access the full 
+wealth of her magical strengths is an invaluable tool for responding to sudden 
+windfalls. In the bustling <<player-guide.central_cities, Central Cities>>, 
+sorcerers are valued as enchanters in crafting workshops, but they are 
+especially valued in <<player-guide.arts_city,{arts_city}>>. There, the 
+constantly changing festivals and performances often demand immediate response 
+to crazy schemes and outlandish requests. A company of sorcerers known as 
+glossterm::[{fireworks_co}] has specialized in this field, and keeps a sizable 
+retinue of magical adepts on retainer for hire by performers in need.
 
 A sorcerer's natural force of personality also benefits those who choose to
 employ their powers to further some goal beyond wealth and entertainment. Many
-sorcerers of celestial and infernal bloodlines take leadership positions both in
+sorcerers of celestial and infernal bloodlines take leadership positions in
 local government and mercantile operations, where they excel in bringing allies
 and adversaries under their sway. Others still choose to unleash the full extent
-of their potential as members of the glossterm::[{police}, {police}].
+of their potential as members of the glossterm::[{police}].
 
 ==== Wizards
 
-The vast libraries and combined cultural knowledge of the central cities are a
-great resource to many wizards, and none will struggle to find employment
-here. The government of glossterm::[{nation_name}, {nation_name}] employs a huge
-number of wizards in the glossterm::[{customs_dept}, {customs_dept}], where they
-research and approve requests for transit using the country's magical
-gates. This approval process also involves the charging of keys for the gates
-and their tranmission to the proper recipients. In exchange for their services
-and loyalties, the glossterm::[{customs_dept}, {customs_dept}] funds research
-grants for these wizards and also provides shelter and workspaces.
+The vast libraries and combined cultural knowledge of the 
+<<player-guide.central_cities, Central Cities>> are a great resource to many 
+wizards, and none will struggle to find employment here. The government of 
+glossterm::[{nation_name}] employs a huge number of wizards in the 
+glossterm::[{customs_dept}], where they research and approve requests for 
+transit using the country's glossterm::[{portals},magical gates]. This approval 
+process also involves the charging of keys for the gates and their tranmission 
+to the proper recipients. In exchange for their services and loyalties, the 
+glossterm::[{customs_dept}] funds research grants for these wizards and also 
+provides shelter and workspaces.
 
-Craftsman also value skilled wizards, and many vie to employ the best in their
-workshops. For those who cannot afford a full time enchanter, supply shops offer
-the end results of the creative process. glossterm::[{magic_supply},
-{magic_supply}] is a particularly well known name in
-<<player-guide.market_city,{market_city}>>, and they employ skilled enchanters
-to fulfill bulk and custom requests for their clients.
+Craftsman also value skilled wizards, and many vie to employ the best in their 
+workshops. For those who cannot afford a full time enchanter, supply shops offer 
+the end results of the creative process. glossterm::[{magic_supply}] is a 
+particularly well known name in <<player-guide.market_city,{market_city}>>, and 
+it employs skilled enchanters to fulfill bulk and custom requests for their 
+clients.
