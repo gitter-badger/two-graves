@@ -21,75 +21,71 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ==== Barbarians
 
-The civilized and well-kept lands of glossterm::[{nation_name}, {nation_name}]
-are inhospitable to barbarian tribes.  Barbarism and brutishness are frowned
-upon universally across the country, and many barbarians would find it a
-challenge to be welcomed or to fit in. As there are no naturally occurring
-tribes in the valley, most barbarians trace their origins elsewhere on the
-continent. In particular, they thrive in the blazing sands of
-glossterm::[{desert_kingdom}, {desert_kingdom}] and in the gladiatorial pits of
-glossterm::[{cliffs_nation}, {cliffs_nation}].
+The civilized and well-kept lands of glossterm::[{nation_name}] are inhospitable 
+to barbarian tribes. Barbarism and brutishness are frowned upon universally 
+across the country, and many barbarians would find it a challenge to be welcomed 
+or to fit in. As there are no naturally occurring tribes in the valley, most 
+barbarians trace their origins elsewhere in glossterm::[{continent_name}]. In 
+particular, barbarians thrive in the blazing sands of 
+glossterm::[{desert_kingdom}] and in the gladiatorial pits of 
+glossterm::[{cliffs_nation}].
 
-In glossterm::[{desert_kingdom}, {desert_kingdom}], fire-blooded
-glossterm::[{firepeople}, {firepeople}] are the warriors of nomadic tribes who
-roam the desert, never staying in one place for too long as they consider it
-their duty to safeguard their home and its culture. Though they may feel the
-bloodlust of battle, many are pragmatists and some fund the efforts of their
-tribes by working as mercenaries. Others may be outcasts or seekers of gold and
-glory looking to start a new life in a land different from what they have known.
+In glossterm::[{desert_kingdom}], fire-blooded glossterm::[{firepeople}] are the 
+warriors of nomadic tribes who roam the desert, never staying in one place for 
+too long. The glossterm::[{firepeople}, {firepeople}'s] nomadism is driven by 
+their perceived duty to safeguard their home and its culture. Despite their 
+traditionalism and battlelust, many glossterm::[{firepeople}] are pragmatists 
+and some fund their tribe's goals by working as mercenaries. Others may be 
+outcasts or glory seekers looking to start a new life in a land different from 
+what they have known.
 
-glossterm::[{cliffs_nation}, {cliffs_nation_person}] barbarians
-frequently rise to great ranks in the warrior culture of their homeland. There,
-where power and determination are revered, barbarians can live akin to
-nobility. However, feats of greatness must be constantly proven, and one can
-only rise so high without a worthy tale of one's own. To this end, many leave
-glossterm::[{cliffs_nation}, {cliffs_nation}] to travel the continent in search
-of fame and honor. But for each glorified warrior, there are many defeated ones
-in his wake, and some among them are barbarians looking to redeem their names in
-a new land.
+glossterm::[{cliffs_nation}, {cliffs_nation_person}] barbarians frequently rise 
+to great ranks in the warrior culture of their homeland. There, where power and 
+determination are revered, barbarians can live akin to nobility. However, feats 
+of greatness must be constantly proven, and one can only rise so high without a 
+worthy tale of one's own. To this end, many leave glossterm::[{cliffs_nation}] 
+to travel the continent in search of fame and honor. But for each glorified 
+warrior, there are many defeated ones in his wake, and some among them are 
+barbarians looking to redeem their names in a new land.
 
 ==== Bards
 
-As a cultural capital, glossterm::[{nation_name}, {nation_name}]{mdash}and in
-particular the central cities{mdash}holds performance and entertainment in high
-esteem and demand. One of the central cities,
-<<player-guide.arts_city,{arts_city}>>, is completely dedicated to the
-betterment and enjoyment of the arts, and any performer, new or veteran, will
-find opportunity there. From frenetic street festivals, to the studious halls of
-<<player-guide.arts_college>>, to the crystalline elegance of the
-<<player-guide.amphitheater>> amphitheater, there is no limit to
-the passions of <<player-guide.arts_city,{arts_city}'s>> citizens. This
-intensity has even produced a saying known throughout the nation: no great
-performer will forever die so long as there is music in
-<<player-guide.arts_city,{arts_city}>>.
+As a cultural wellspring, glossterm::[{nation_name}]{mdash}and in particular the 
+<<player-guide.central_cities,Central Cities>>{mdash}holds performance and 
+entertainment in high esteem and demand. One of the central cities, 
+<<player-guide.arts_city,{arts_city}>>, is completely dedicated to the 
+betterment and enjoyment of the arts, and any performer can find opportunity 
+there. Manifesting from frenetic street festivals, to the studious halls of 
+<<player-guide.arts_college>>, to the crystalline elegance of the 
+<<player-guide.amphitheater>> amphitheater, the passions of 
+<<player-guide.arts_city,{arts_city}'s>> citizens know no limits. This intensity has even 
+produced a saying known throughout the nation: no great performer will forever 
+die so long as there is music in <<player-guide.arts_city,{arts_city}>>.
 
-
-Even outside of <<player-guide.arts_city,{arts_city}>>, a performer has many
-opportunities to excel. Politicians, storeowners, and merchant guilds are all
-keenly aware of the impact a charismatic face can have on one's audience, and
-many seek the services of skilled spokesmen. Travelers, far from their homes,
-find comfort in local song and art even in a land so distant. And a rural life
-may become grim indeed without wanderers who tell tales or sing songs of grand
-excitement and adventure.
+Even outside of <<player-guide.arts_city,{arts_city}>>, a performer has many 
+opportunities to excel. Politicians, storeowners, and merchant guilds are all 
+keenly aware of the impact a charismatic face can have, and many seek the 
+services of skilled spokesmen. Travelers, far from their homes, find comfort in 
+local song and art even in a land so distant. And a rural life may become grim 
+indeed without wanderers who tell tales or sing songs of grand excitement and 
+adventure.
 
 ==== Clerics
 
-Although outwardly glossterm::[{nation_name}, {nation_name}] may seem thoroughly
-secular and unaffiliated, its history and government are steeped in religion,
-and many faiths have large temples and congregations here.  The temples of
-Abadar, Shelyn, and Cayden Cailean hold particularly strong political influence,
-and many of their clerics become officiaries in the grand courts of
-<<player-guide.arts_city,{arts_city}>>. But for every cleric who wields the
-might of cities, there are a thousand others dedicated to more personal
-endeavors.
+Although outwardly glossterm::[{nation_name}] may seem thoroughly secular and 
+unaffiliated, its history and government are steeped in religion. The temples of 
+Abadar, Shelyn, and Cayden Cailean hold particularly strong political influence, 
+and many of their clerics become officiaries in the grand courts of 
+<<player-guide.law_city,{law_city}>>. But for every cleric who wields the might 
+of cities, there are a thousand others dedicated to more personal endeavors.
 
-Clerics of many faiths, but especially of Sarenrae, Pharasma, and Erastil, roam
-the cities and countryside performing good works and aiding public
-services. Some heed a call to protect their loved ones, and join the
-glossterm::[{police}, {police}]{mdash}a calling often heard by the faithful of
-Iomedae. Others still seek scholarship in the <<player-guide.library>>
-or <<player-guide.arts_college>>, or to study the mysterious and
-powerful relic shrines that dot the country.
+Clerics of many faiths, but especially of Sarenrae, Pharasma, and Erastil, roam 
+the cities and countryside performing good works and aiding public services. 
+Some heed a call to protect their loved ones, and join the 
+glossterm::[{police}]{mdash}a calling often heard by the faithful of Iomedae. 
+Others still seek scholarship in the <<player-guide.library>> or 
+<<player-guide.arts_college>>, or to study the mysterious and powerful relic 
+shrines that dot the country.
 
 ==== Druids
 
