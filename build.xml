@@ -280,6 +280,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   </target>
   <target name="-build-one.epub">
     <mkdir dir="${outputdir}/${outputdir.epub}/${toplevelBookName}" />
+    <mkdir dir="${outputdir}/${outputdir.epub}/tmp/${toplevelBookName}" />
 
     <java classpathref="xslt1.classpath"
           fork="true"
@@ -322,6 +323,19 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <copy file="${src}/${src.epub.cssfiledir}/${src.epub.cssfile}"
           todir="${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS" />
 
+    <xslt style="${lib}/epub-get-assets.xsl"
+          in="${outputdir}/${outputdir.docbook}/${toplevelBookName}/${toplevelBookName}.xml"
+          out="${outputdir}/${outputdir.epub}/tmp/${toplevelBookName}/assets.txt"
+          force="true" />
+
+    <loadfile property="assetsfile"
+              srcfile="${outputdir}/${outputdir.epub}/tmp/${toplevelBookName}/assets.txt" />
+
+    <for param="line" list="${assetsfile}" delimiter="${line.separator}">
+      <sequential>
+        <get src="@{line}" dest="${outputdir}/${outputdir.epub}/${toplevelBookName}/OEBPS/" />
+      </sequential>
+    </for>
 
     <zip basedir="${outputdir}/${outputdir.epub}/${toplevelBookName}/"
          destfile="${outputdir}/${outputdir.epub}/${toplevelBookName}/${toplevelBookName}.epub"
@@ -476,7 +490,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <!-- TIMESTAMPS -->
   <target name="-get-timestamp">
     <tstamp>
-      <format property="NOW" pattern="yyyy-MM-dd'T'HH:mm:ss.SSSZ" timezone="UTC"/>
+      <format property="NOW" pattern="yyyy-MM-dd'T'HH:mm:ss.SSSZ" timezone="UTC" />
     </tstamp>
 
     <propertyregex input="${NOW}" property="NOWSUB" regexp=".{2}$" replace=":\0" />
