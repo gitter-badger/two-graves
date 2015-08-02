@@ -91,6 +91,14 @@ div.sidebar p:last-child {
   margin-bottom: 0px;
 }
 
+div.mediaobject {
+  border: 1px solid black;
+  text-align: center;
+  text-indent: 0px;
+  margin: 2em;
+  padding: 1em;
+}
+
 a {
   color: #2E64FE;
 }
