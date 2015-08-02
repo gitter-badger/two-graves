@@ -97,7 +97,7 @@ artists, performers, members of glossterm::[{forest_nation}]'s mage's academy,
 druids, rangers, or clerics of Shelyn.
 
 [role=half-image]
-image::https://googledrive.com/host/0B7b9uMyuu5dvS3Y5ZG1ZTHo3ZFU[]
+image::https://res.cloudinary.com/rwdalpe/image/upload/v1438498757/ellamere_and_cormin-opt_thp5hk.svg[]
 
 ==== Gnomes
 

@@ -20,7 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 == The Nation of {nation_name}
 
 [role=full-image]
-image::https://googledrive.com/host/0B7b9uMyuu5dvVzRwUEhMSEo4NWs[]
+image::https://res.cloudinary.com/rwdalpe/image/upload/v1438498433/seorsus-opt_v01daf.svg[]
 
 Here you will find information about glossterm::[{nation_name}] and its major
 settlments that any individual who lives in or has briefly researched the nation

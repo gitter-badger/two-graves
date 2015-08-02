@@ -23,9 +23,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ++++
 <informalfigure role="rotated-image" xml:id="player-guide.norolba_map_image">
-<mediaobject xlink:href="https://googledrive.com/host/0B7b9uMyuu5dvNHdITDkxTncwVXc">
+<mediaobject xlink:href="https://res.cloudinary.com/rwdalpe/image/upload/v1438498757/continentmap-opt_qa67ir.svg">
 <imageobject>
-<imagedata fileref="https://googledrive.com/host/0B7b9uMyuu5dvMFVlRmFyNWNoWlE"/>
+<imagedata fileref="https://res.cloudinary.com/rwdalpe/image/upload/v1438498794/continentmap-opt.rotated_a9jfy0.svg"/>
 </imageobject>
 </mediaobject>
 </informalfigure>

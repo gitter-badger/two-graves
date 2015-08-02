@@ -49,7 +49,7 @@ the world, and their presence ensures that there is plenty of gold to keep the
 entertainers at their antics.
 
 [role=half-image]
-image::https://googledrive.com/host/0B7b9uMyuu5dvNDZRUk5fSk1ZaGM[]
+image::https://res.cloudinary.com/rwdalpe/image/upload/v1438498756/oblectant-opt_urd8xq.svg[]
 
 Officials long gave up on imposing bureaucracy upon the citizens, and now simply 
 seek to ensure that the city runs smoothly from one performance to the next. The 
@@ -203,7 +203,7 @@ streets, the glossterm::[{police}] are omnipresent in
 name as a safe and reputable haven for trade.
 
 [role="half-image"]
-image::https://googledrive.com/host/0B7b9uMyuu5dvR3FwWEt6bW5UNmc[]
+image::https://res.cloudinary.com/rwdalpe/image/upload/v1438498755/crent-opt_cawyxk.svg[]
 
 The master craftsmen themselves are no pushovers either. Crafting guilds are 
 strictly forbidden both in a legal sense and a communal one. Here, each 
@@ -337,7 +337,7 @@ its citizens.
 
 [[regunt-image]]
 [role=full-image]
-image::https://googledrive.com/host/0B7b9uMyuu5dvM3o3aElWdTJTaGc[]
+image::https://res.cloudinary.com/rwdalpe/image/upload/v1438498756/regunt-opt_jw3rg4.svg[]
 
 ===== Places of Interest
 
