@@ -1,172 +1,152 @@
-## 2015-07-27 22:34 PDT
+## 2015-08-02 00:52 PDT
 
-### Editing some of the PG central cities section
+### Switching image resource providers
 
-[335980799855761996f5a2bc69b479c173d6d258](https://github.com/rwdalpe/two-graves/commit/335980799855761996f5a2bc69b479c173d6d258)
-
-Winslow Dalpe <rwdalpe@gmail.com>
-
-2015-07-27T22:33:29-07:00
-
-
-### Editing some of the PG central cities section
-
-[e2db6d5ebfe14aa4e5594f80cadc08fa80320cee](https://github.com/rwdalpe/two-graves/commit/e2db6d5ebfe14aa4e5594f80cadc08fa80320cee)
+[b1117fac532d1f3eb13aa638b2eba1b6b99a7857](https://github.com/rwdalpe/two-graves/commit/b1117fac532d1f3eb13aa638b2eba1b6b99a7857)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-27T22:23:38-07:00
+2015-08-02T00:28:42-07:00
 
 
-### Editing some of the PG religion section and central cities
+### replacing all images in epub output with boxes with links to the images
 
-[355b0be721d4c1489cdd306ab2046e4d2aee26eb](https://github.com/rwdalpe/two-graves/commit/355b0be721d4c1489cdd306ab2046e4d2aee26eb)
-
-Winslow Dalpe <rwdalpe@gmail.com>
-
-2015-07-27T22:03:03-07:00
-
-
-### Editing some of the PG religion section
-
-[9120480265abd2a422a96577bf572721ef87a4bb](https://github.com/rwdalpe/two-graves/commit/9120480265abd2a422a96577bf572721ef87a4bb)
+[ec9d3c70e62d8489766afebd5fde484864e6c78b](https://github.com/rwdalpe/two-graves/commit/ec9d3c70e62d8489766afebd5fde484864e6c78b)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-27T21:29:57-07:00
+2015-08-01T20:15:45-07:00
 
 
-### Relicensing the project under the AGPL version 3
+### Editing PG campaign trait section
 
-[99e20e173586c8e1d73c2e94e4df91bfde67542b](https://github.com/rwdalpe/two-graves/commit/99e20e173586c8e1d73c2e94e4df91bfde67542b)
-
-Winslow Dalpe <rwdalpe@gmail.com>
-
-2015-07-27T00:07:46-07:00
-
-This may eventually become a controversial decision, for which I will
-elaborate if there are questions.
-
-### Additional editing of the PG government section
-
-[dfc7339be76ed6a5ff2b7327865489f9734ed067](https://github.com/rwdalpe/two-graves/commit/dfc7339be76ed6a5ff2b7327865489f9734ed067)
+[828e7a3bf44b87d2b36f52e5535fa67826e77669](https://github.com/rwdalpe/two-graves/commit/828e7a3bf44b87d2b36f52e5535fa67826e77669)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-24T19:54:55-07:00
+2015-08-01T17:25:06-07:00
 
 
-### Editing PG government section
+### Editing the PG classes section
 
-[a9a9d46e03795819a35f0d0bfc5343245b69b3da](https://github.com/rwdalpe/two-graves/commit/a9a9d46e03795819a35f0d0bfc5343245b69b3da)
-
-Winslow Dalpe <rwdalpe@gmail.com>
-
-2015-07-24T19:25:14-07:00
-
-Moving the governmental section before religion as it will make more sense
-first. Making some sentence edits as well.
-
-### More restructuring of PG government section
-
-[113fd30c8bcfa1b370ecf5819f7e7af4540cff5f](https://github.com/rwdalpe/two-graves/commit/113fd30c8bcfa1b370ecf5819f7e7af4540cff5f)
+[efb273a42a86436b22e5875bc0d4453e2d6427de](https://github.com/rwdalpe/two-graves/commit/efb273a42a86436b22e5875bc0d4453e2d6427de)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-23T21:56:16-07:00
+2015-08-01T15:48:22-07:00
 
 
-### Minor typo fixes
+### Editing the PG classes section
 
-[4571512c8dc90faae06ade6b3b9f6555e0867133](https://github.com/rwdalpe/two-graves/commit/4571512c8dc90faae06ade6b3b9f6555e0867133)
-
-Winslow Dalpe <rwdalpe@gmail.com>
-
-2015-07-23T20:48:31-07:00
-
-
-### Editing the government section of the players guide
-
-[13b6b5fa49310b42f54e04901c52d950584f48ae](https://github.com/rwdalpe/two-graves/commit/13b6b5fa49310b42f54e04901c52d950584f48ae)
+[e2245e71378e45f8321d38e9860b5832d675e6f9](https://github.com/rwdalpe/two-graves/commit/e2245e71378e45f8321d38e9860b5832d675e6f9)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-23T00:04:48-07:00
+2015-08-01T15:40:22-07:00
 
-Doing some restructuring and rewording of the government section of
-the player's guide. It's still in progress.
 
-### Reorganizing some of the PG first chapter
+### Editing the PG classes section
 
-[4c6081c3ce5791719aba6f5f7f088d91b0e55dee](https://github.com/rwdalpe/two-graves/commit/4c6081c3ce5791719aba6f5f7f088d91b0e55dee)
+[798a12d4be8334888b58c0b38745d581f18234d3](https://github.com/rwdalpe/two-graves/commit/798a12d4be8334888b58c0b38745d581f18234d3)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-21T23:14:09-07:00
+2015-08-01T14:38:13-07:00
 
-Moving the brief history of the nation to the second section slot
-and the modern life section to the first. Changing other section
-names accordingly.
 
-### Additional glossary descriptions
+### Editing PG races section
 
-[3f8368cfdceb26f0166937a859243507f25fd7f8](https://github.com/rwdalpe/two-graves/commit/3f8368cfdceb26f0166937a859243507f25fd7f8)
+[8e3552c53e797f5109f70b9ba1c72c2e20cfe9fe](https://github.com/rwdalpe/two-graves/commit/8e3552c53e797f5109f70b9ba1c72c2e20cfe9fe)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-19T21:58:51-07:00
+2015-08-01T13:33:37-07:00
 
-Completing the current glossary descriptions required by the player's
-guide.
 
-### Adding additional glossary entries
+### Editing the PG races sections
 
-[04beb49381181d88f0a7a2c31c9e5a070b3aa99b](https://github.com/rwdalpe/two-graves/commit/04beb49381181d88f0a7a2c31c9e5a070b3aa99b)
+[0c90cdd58501ad21bea881f40dbed9284953e23c](https://github.com/rwdalpe/two-graves/commit/0c90cdd58501ad21bea881f40dbed9284953e23c)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-19T21:44:38-07:00
+2015-07-30T22:27:16-07:00
 
-Adding glossary descriptions for the bestial tribes, three-bridge
-falls (and druids), balancers, and monks of the empty cup.
 
-### More HTML print style modifications
+### Bold looks good on all dt elements, it seems
 
-[4de123bf8fdfeeb321c4a2749365ac21e62c0607](https://github.com/rwdalpe/two-graves/commit/4de123bf8fdfeeb321c4a2749365ac21e62c0607)
+[f466b3cddfb66ccfa76bef9e0f15f208ae1b46bc](https://github.com/rwdalpe/two-graves/commit/f466b3cddfb66ccfa76bef9e0f15f208ae1b46bc)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-19T21:30:28-07:00
+2015-07-30T20:29:51-07:00
 
-Changing some styling on the running headers and removing it from
-glossary, appendix, and title pages.
 
-### Adding running headers and footers to html print output
+### Changing up the web styling to be less bland/big
 
-[82f09d221996000408789b214e24492422136830](https://github.com/rwdalpe/two-graves/commit/82f09d221996000408789b214e24492422136830)
+[8570a9155aaf052727ae9d30d569485480c55658](https://github.com/rwdalpe/two-graves/commit/8570a9155aaf052727ae9d30d569485480c55658)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-19T15:10:49-07:00
+2015-07-30T18:45:46-07:00
 
-Adding a running header containing
 
-"chapter name - first section name on page"
+### Reorganizing for print layout purposes
 
-### Correcting minor substitution error in glossary
-
-[d5aaf0eae348c68c0fb51a989352b07d4629e021](https://github.com/rwdalpe/two-graves/commit/d5aaf0eae348c68c0fb51a989352b07d4629e021)
+[683f578735bb7827e483287bf00ef8c54d40185a](https://github.com/rwdalpe/two-graves/commit/683f578735bb7827e483287bf00ef8c54d40185a)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-19T13:10:18-07:00
+2015-07-30T09:52:43-07:00
 
 
-### Updating CHANGELOG for release on 2015-07-19
+### Preparing transforms and css for cover additions
 
-[47d9f0c006647313ba92fd66781d8eedc2b4fb47](https://github.com/rwdalpe/two-graves/commit/47d9f0c006647313ba92fd66781d8eedc2b4fb47)
+[d4c2801c0ed437710a0798c284f3a4e079ed40bc](https://github.com/rwdalpe/two-graves/commit/d4c2801c0ed437710a0798c284f3a4e079ed40bc)
 
 Winslow Dalpe <rwdalpe@gmail.com>
 
-2015-07-19T13:03:50-07:00
+2015-07-30T01:46:14-07:00
+
+Adding some transformations and CSS for handling the addition of
+front and back covers.
+
+A couple of the transforms are pretty ugly right now. They'll need
+to be cleaned up later with everything else, but tests show they
+work for now.
+
+### Adding the overland Norolba map to PG appendix
+
+[7172e9c361cd7ebf06731ade01882b79012eb66d](https://github.com/rwdalpe/two-graves/commit/7172e9c361cd7ebf06731ade01882b79012eb66d)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-07-29T20:35:12-07:00
+
+Included the overland Norolba map. This is significant for two reasons:
+
+1. More images, yay!
+2. It represents a first attempt at dynamic image rotation.
+
+Full page images in print may need to be rotated for full effect. On the
+web, though, they should not be rotated. This javascript/css/xslt will
+display a particular image in print/non-js web, but when js is enabled
+the image will be changed to the linked image. The linked image is
+typically the non-rotated version.
+
+### Editing the races section of the PG
+
+[4b938c604cf9e0984cc5da0686998ef0f2979fec](https://github.com/rwdalpe/two-graves/commit/4b938c604cf9e0984cc5da0686998ef0f2979fec)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-07-27T23:23:21-07:00
+
+
+### Updating CHANGELOG for 2015-07-27 release
+
+[3c750b422b1c94f831dde0e5282fcc88ba14725d](https://github.com/rwdalpe/two-graves/commit/3c750b422b1c94f831dde0e5282fcc88ba14725d)
+
+Winslow Dalpe <rwdalpe@gmail.com>
+
+2015-07-27T22:35:28-07:00
 
