@@ -159,12 +159,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   
   <xsl:template match="db:book/db:info/db:releaseinfo" mode="m:titlepage-mode">
     <p>
-      <xsl:sequence select="f:html-attributes(.,('releaseinfo-web'))" />
+      <xsl:sequence select="f:html-attributes-with-classes(.,('releaseinfo-web'))" />
       You may also read this book in PDF and EPUB format from the 
       <a href="https://github.com/rwdalpe/{$project-name}/releases">releases page</a>.
     </p>
     <p>
-      <xsl:sequence select="f:html-attributes(.,('releaseinfo-print'))" />
+      <xsl:sequence select="f:html-attributes-with-classes(.,('releaseinfo-print'))" />
         You may also read this book online at 
         <a href="https://rwdalpe.github.io/{$project-name}/{$book-name}">https://rwdalpe.github.io/<xsl:value-of select="$project-name"/>/<xsl:value-of select="$book-name"/></a> and in EPUB format from the 
         <a href="https://github.com/rwdalpe/{$project-name}/releases">releases page</a>.
@@ -186,7 +186,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     </article>
   </xsl:template>
 
-  <xsl:function name="f:html-attributes" as="attribute()*">
+  <xsl:function name="f:html-attributes-with-classes" as="attribute()*">
     <xsl:param name="node" as="element()" />
     <xsl:param name="special-classes" as="xs:string*"/>
 
