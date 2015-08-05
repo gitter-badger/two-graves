@@ -113,6 +113,8 @@
   }
   
   pre { overflow-x: scroll; }
+  
+  p.releaseinfo.releaseinfo-print { display: none; }
 }
 
 @media screen and (min-width: 50em) {

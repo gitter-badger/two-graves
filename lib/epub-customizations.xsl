@@ -28,6 +28,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <xsl:import href="epub-titlepage.xsl" />
 
   <xsl:param name="NOW" select="date:date-time()" />
+  <xsl:param name="project-name" select="''"/>
+  <xsl:param name="book-name" select="''"/>
 
   <!-- BEGIN TEMPORARY WORKAROUND FOR ISSUE https://github.com/rwdalpe/two-graves/issues/6 -->
   <xsl:template match="db:informalfigure">
@@ -82,6 +84,18 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     </p>
     <xsl:apply-templates select="." mode="titlepage.mode" />
   </xsl:template>
+  
+  <xsl:template match="db:book/db:info/db:releaseinfo" mode="book.titlepage.recto.mode">
+    <xsl:variable name="populatedinfo">
+      <xsl:copy>
+        You may also read this book online at 
+        <db:link xlink:href="https://rwdalpe.github.io/{$project-name}/{$book-name}"/> and in PDF format from the 
+        <db:link xlink:href="https://github.com/rwdalpe/{$project-name}/releases">releases page</db:link>.
+      </xsl:copy>
+    </xsl:variable>
+    <xsl:apply-templates select="exslt:node-set($populatedinfo)" mode="book.titlepage.recto.mode"/>
+  </xsl:template>
+  
 
   <xsl:template name="pi.dbtimestamp">
     <xsl:call-template name="datetime.format">

@@ -22,6 +22,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   xmlns:f="http://docbook.org/xslt/ns/extension" xmlns:xs="http://www.w3.org/2001/XMLSchema"
   xmlns:xlink='http://www.w3.org/1999/xlink'
   xmlns:mp="http://docbook.org/xslt/ns/mode/private"
+  xmlns:h="http://www.w3.org/1999/xhtml"
   xmlns:usrfn="http://docbook.org/xslt/ns/user-extension"
 
   exclude-result-prefixes="t xsl m db tmpl f xs usrfn mp xlink">
@@ -46,6 +47,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <db:refsection />
   </xsl:param>
   <xsl:param name="NOW" select="current-dateTime()" />
+  <xsl:param name="project-name" select="''"/>
+  <xsl:param name="book-name" select="''"/>
 
   <xsl:template name="t:user-head-content">
     <xsl:param name="node" select="." />
@@ -154,6 +157,20 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     </xsl:apply-templates>
   </xsl:template>
   
+  <xsl:template match="db:book/db:info/db:releaseinfo" mode="m:titlepage-mode">
+    <p>
+      <xsl:sequence select="f:html-attributes(.,('releaseinfo-web'))" />
+      You may also read this book in PDF and EPUB format from the 
+      <a href="https://github.com/rwdalpe/{$project-name}/releases">releases page</a>.
+    </p>
+    <p>
+      <xsl:sequence select="f:html-attributes(.,('releaseinfo-print'))" />
+        You may also read this book online at 
+        <a href="https://rwdalpe.github.io/{$project-name}/{$book-name}">https://rwdalpe.github.io/<xsl:value-of select="$project-name"/>/<xsl:value-of select="$book-name"/></a> and in EPUB format from the 
+        <a href="https://github.com/rwdalpe/{$project-name}/releases">releases page</a>.
+    </p>
+  </xsl:template>
+  
   <xsl:template match="db:set|db:book|db:part|db:reference">
     <article>
       <xsl:sequence select="f:html-attributes(.,f:node-id(.))" />
@@ -168,6 +185,30 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
       <xsl:apply-templates select="..//db:cover[@role = 'back-cover']" mode="m:titlepage-mode" />
     </article>
   </xsl:template>
+
+  <xsl:function name="f:html-attributes" as="attribute()*">
+    <xsl:param name="node" as="element()" />
+    <xsl:param name="special-classes" as="xs:string*"/>
+
+    <xsl:variable name="class"
+      select="if (local-name($node) = $omit-names-from-class)
+                                     then ()
+                                     else local-name($node)" />
+
+    <xsl:variable name="extra-classes"
+      select="(if ($node/@role)
+                         then string($node/@role)
+                         else (),
+                         if ($node/@revision)
+                         then concat('rf-', $node/@revision)
+                         else (),
+                         if ($special-classes)
+                         then ($special-classes)
+                         else ())" />
+
+    <xsl:sequence
+      select="f:html-attributes($node, $node/@xml:id, $class, $extra-classes, $node/@h:*)" />
+  </xsl:function>
 
   <xsl:template name="t:user-titlepage-templates" as="element(tmpl:templates-list)?">
     <tmpl:templates-list>

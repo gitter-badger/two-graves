@@ -158,6 +158,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
       <arg value="-poutput.dir=${basedir}/${outputdir}/${outputdir.html}/${outputdir.html.single}/${toplevelBookName}/" />
       <arg value="-pNOW=${NOWSUB}" />
       <arg value="-pglossary.collection=urn:x-twograves:glossary" />
+      <arg value="-pproject-name=${project-name}"/>
+      <arg value="-pbook-name=${toplevelBookName}"/>
       <arg value="${lib}/${lib.xslt2stylesheets}/xslt/base/pipelines/docbook.xpl" />
       <arg value="syntax-highlighter=0" />
       <arg value="html-initial-stylesheet=${basedir}/${lib}/html-single-customizations.xsl" />
@@ -312,6 +314,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
       <arg value="glossterm.auto.link=1" />
       <arg value="glossary.sort=1" />
       <arg value="generate.index=0" />
+      <arg value="project-name=${project-name}"/>
+      <arg value="book-name=${toplevelBookName}"/>
     </java>
 
     <if>
