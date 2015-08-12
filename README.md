@@ -1,5 +1,7 @@
 # Two Graves Scenario
 
+[![Join the chat at https://gitter.im/rwdalpe/two-graves](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rwdalpe/two-graves?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a module for a variety of tabletop roleplaying game systems. At 
 this time the module has specific support for the following systems:
 
