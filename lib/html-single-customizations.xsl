@@ -25,7 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   xmlns:h="http://www.w3.org/1999/xhtml"
   xmlns:usrfn="http://docbook.org/xslt/ns/user-extension"
 
-  exclude-result-prefixes="t xsl m db tmpl f xs usrfn mp xlink">
+  exclude-result-prefixes="t xsl m db tmpl f xs usrfn mp xlink h">
 
   <xsl:import href="docbook-xslt2-2.0.10-rwdalpe/xslt/base/html/final-pass.xsl" 
 />
@@ -53,6 +53,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <xsl:template name="t:user-head-content">
     <xsl:param name="node" select="." />
     <meta xmlns="http://www.w3.org/1999/xhtml" name="viewport" content="initial-scale=1" />
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-66235339-1', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
   </xsl:template>
 
   <xsl:template name="pi.dbtimestamp">
@@ -213,7 +223,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <xsl:sequence
       select="f:html-attributes($node, $node/@xml:id, $class, $extra-classes, $node/@h:*)" />
   </xsl:function>
-
+  
   <xsl:template name="t:user-titlepage-templates" as="element(tmpl:templates-list)?">
     <tmpl:templates-list>
       <tmpl:templates name="book">
