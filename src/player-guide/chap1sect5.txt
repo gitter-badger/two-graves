@@ -64,7 +64,7 @@ swiftly swept to the nearest police station or courthouse for judgment.
 
 Despite the apparent laissez-faire attitude of the government, 
 <<player-guide.arts_city,{arts_city}>> is extremely well-maintained. Buildings 
-of sturdy wood and cut stone stand strong against the neverending flow of 
+of sturdy wood and cut stone stand strong against the never-ending flow of 
 residents, and paved streets make for easy transport around the city. Lights 
 both magical and mundane line the streets and buildings, vying for the attention 
 of passersby. Even with messy tourists who care not for the city's cleanliness, 
@@ -75,30 +75,28 @@ continue.
 ===== Places of Interest
 
 [[player-guide.amphitheater,{amphitheater}]]{amphitheater}::
-  Rows of enormous amethyst crystals jutting from the entrance give
-  <<player-guide.arts_city,{arts_city}'s>> premier amphitheater it's
-  name. Although its appearance and sublime acoustics would suggest a man-made
-  structure, {amphitheater} is actually a naturally occurring geode
-  phenomenon. Performing even once in the {amphitheater} is the goal of many
-  artists, and competition is fierce. The revered glossterm::[{auditioners},
-  {auditioners}] are the final elite arbiters of who will be graced by the
-  stage.
+  Rows of enormous amethyst crystals jutting from the entrance give 
+  <<player-guide.arts_city,{arts_city}'s>> premier amphitheater it's name. 
+  Although its appearance and sublime acoustics would suggest a man-made 
+  structure, {amphitheater} is a naturally occurring geode phenomenon. 
+  Performing even once in the {amphitheater} is the goal of many artists, and 
+  competition is fierce. The revered glossterm::[{auditioners}, {auditioners}]  
+  are the final elite arbiters of who will be graced by the stage.
 
 [[player-guide.shelyn_temple,{shelyn_temple}]]{shelyn_temple}::
   Vivid botanical gardens and serene marble galleries compose the nation's
   premier temple of Shelyn. The temple is built on the edge of the city and
   situated near the <<player-guide.amphitheater>> so that the clergy may more
   easily tend to the amphitheater. Compared to the intensity of the city,
-  {shelyn_temple} is truly a sanctuary for those who wish to reflect upon the
+  {shelyn_temple} is a sanctuary for those who wish to reflect upon the
   spiritual impact of the arts.
 
-
 [[player-guide.arts_college,{arts_college}]]{arts_college}::
-  {arts_college} is one of the world's most prestigious schools for the fine
-  arts, and a central location for both prospective students and tourists
-  alike. Although its intimidating spires, sharply slanted rooftops, and aged
-  stone walls cast an imposing shadow, they belie the energy within. Its campus
-  buzzes jovially at all hours of the day as some of the greatest creative
+  As one of the world's most prestigious schools for the fine arts, 
+  {arts_college} is a central location for both prospective students and 
+  tourists alike. Although its intimidating spires, sharply slanted rooftops, 
+  and aged stone walls cast an imposing shadow, they belie the mood within. 
+  Its campus buzzes jovially at all hours as some of the greatest creative 
   geniuses from around the globe hone their skills.
 
 [[player-guide.stadium,{stadium}]]{stadium}::
@@ -106,73 +104,70 @@ continue.
   spring, the {stadium} is an expansive, open-air park and a prime
   location for many public events. Complete with several small 
   venues for performances as well as a large stadium, the 
-  {stadium} boasts ample space and seating for tourists and citizens
-  alike. Whether it be music, sports, or festivals, an event in the
+  {stadium} boast ample space and seating for all visitors. 
+  Whether it be music, sports, or festivals, an event in the
   {stadium} is sure to be lively and draw a large crowd.
 
 {bridge}::
-  Spanning the glossterm::[{arts_city_river}, {arts_city_river} River] and
-  joining the east and west of <<player-guide.arts_city,{arts_city}>> together,
-  the {bridge} is more than just an important piece of infrastructure.  Many
-  bits of <<player-guide.arts_city,{arts_city}>> culture have incoporated the
-  {bridge}, from tossing flowers into the river below for good luck to being a
-  hotspot for watching fireworks.  More practically, it's also a natural
-  chokepoint for traffic through the city and its wide stone path is filled with
+  Spanning the glossterm::[{arts_city_river}, {arts_city_river} River] and 
+  joining the east and west of <<player-guide.arts_city,{arts_city}>> together, 
+  the {bridge} is more than just an important piece of infrastructure. Many bits 
+  of <<player-guide.arts_city,{arts_city}>> culture have incorporated the 
+  {bridge}. Long now has it been tradition to toss flowers into the river below 
+  for good luck, and locals swear that lovers who watch fireworks from the 
+  bridge will be blessed with happiness. More practically, it's also a natural 
+  choke point for traffic through the city. Its wide stone path is filled with 
   street performers, each trying to take advantage of their captive audiences.
-
+  
 [[player-guide.cc_temple,{cc_temple}]]{cc_temple}::
-  A large stone carving of a frothing mug adorns the facade of
-  <<player-guide.arts_city,{arts_city}'s>> favorite temple to the god of
-  drinking and merriment. This multi-story wood and stone building radiates a
-  warmth and festivity that can be felt from blocks away. The temple hosts a
-  stage and doubles as both a comedy house and theater for celebrations of
-  bravey, and its walls reverberate with laughter and cheers. To the confusion
-  of tourists and the amusement of locals, the interior of the temple is themed
-  as a bank.
+  A large stone carving of a frothing mug adorns the facade of 
+  <<player-guide.arts_city,{arts_city}'s>> favorite temple to the god of 
+  drinking and merriment. This multi-story wood and stone building radiates a 
+  warmth and festivity that can be felt from blocks away. The temple hosts a 
+  stage and doubles as both a comedy house and theater for celebrations of 
+  bravery. To the confusion of tourists and the amusement of locals, the 
+  interior of the temple is themed as a bank.
 
 {arts_city_tourist_district}::
-  Surrounding <<player-guide.arts_city,{arts_city}'s>> central plazas, this
-  bustling district is a hotspot for tourism and revelry. Although most come to
-  the district to be at the center of the city's constant festivals, the
-  competition between enterprises to garner attention has changed the district
-  into a spectacle in its own right. Themed businesses, wild street performers,
-  and garish decorations all lend a hand in creating the district's unique
-  atmosphere.
+  Surrounding <<player-guide.arts_city,{arts_city}'s>> central plazas, this 
+  bustling district is a hot spot for tourism and revelry. Although most come to 
+  the district to be at the center of the city's festivals, competition between 
+  enterprises to garner attention has made the district a spectacle in its own 
+  right. Themed businesses, wild street performers, and garish decorations all 
+  lend a hand in creating the district's unique atmosphere.
 
 {arts_city_college_district}::
-  Fed by the youthful, creative energies of the <<player-guide.arts_college>>,
-  the {arts_city_college_district} is the premiere place to scout rising talent
-  and share ideas in the city. Although not as upscale as some parts of
-  <<player-guide.arts_city,{arts_city}>>, the inhabitants of the district are
-  jovial and create a welcoming atmosphere. Collaboration and competition go
-  hand-in-hand here, and it's very likely to see spontaneous performances erupt
-  in the persuit of great art.
+  Fed by the youthful, creative energies of <<player-guide.arts_college>>, the 
+  {arts_city_college_district} is the premiere place for mingling and scouting 
+  rising talent in the city. Although not as upscale as some parts of 
+  <<player-guide.arts_city,{arts_city}>>, the inhabitants of the district are 
+  jovial and create a welcoming atmosphere. Collaboration and competition go 
+  hand-in-hand here, and friendly rivalries often erupt into spontaneous 
+  performances in the pursuit of great art.
 
 {arts_city_rich_district}::
-  Mostly separated from the hustle and bustle of the city, the
-  {arts_city_rich_district} provides a serene place for those who can afford
-  it. Residents and visitors enjoy beautiful courtyards, spotless streets, and
-  exclusively close access to iconic locations such as
+  Mostly separated from the hustle and bustle of the city, the 
+  {arts_city_rich_district} provides a serene getaway for those who can afford 
+  it. Residents and visitors enjoy beautiful courtyards, spotless streets, and 
+  exclusive close access to iconic locations such as 
   <<player-guide.amphitheater>> and <<player-guide.shelyn_temple>>.
 
 {arts_city_poor_district}::
-  To call {arts_city_poor_district} a slum would be disingenuous, but compared
-  to the rest of <<player-guide.arts_city,{arts_city}>> this district falls
-  behind in upkeep and cleanliness.  Tenement housing is plentiful, and in lieu
-  of access to more fanciful pursuits, the residents of
-  {arts_city_poor_district} excel in vice entertainment.  Seedy bars and
-  brothels adorn the streets, and the venues host bawdy and burlesque
-  performances too vulgar for popular taste.
+  To call {arts_city_poor_district} a slum would be disingenuous, but compared 
+  to the rest of <<player-guide.arts_city,{arts_city}>> this district falls 
+  behind in upkeep and cleanliness. Tenement housing is plentiful, and in lieu 
+  of high caliber pursuits the residents of {arts_city_poor_district} excel in 
+  vice entertainment. Seedy bars and brothels adorn the streets, and the venues 
+  host bawdy and burlesque performances too vulgar for popular taste.
 
 {arts_city_govt_district}::
-  Tucked away in a less-noticeable portion of the city,
+  Tucked away in a less-noticeable portion of the city, the
   {arts_city_govt_district} houses offices and storage for government agencies
-  such as the glossterm::[{police}, {police}] and glossterm::[{festival_agency},
-  {festival_agency}].
+  such as the glossterm::[{police}] and glossterm::[{festival_agency}].
 
 {arts_city_quality_district}::
   Many master craftsmen who outfit <<player-guide.arts_city,{arts_city}>> with
-  superior quality instruments and supplies base their workshops in
+  superior quality instruments and supplies base their workshops in the
   {arts_city_quality_district}. These great makers demand a particular
   environment for their work, and the district has molded to reflect their
   tastes. Simple, refined architecture and narrow cobbled streets give the
@@ -189,7 +184,7 @@ unparalleled selection of masterwork and exotic goods,
 of the best travel here to study with other masters from all around. The result 
 is a crucible of rivalries and collaborations which drive the innovations of 
 these ambitious creators ever forward. This work and success have brought 
-incredible reknown to both <<player-guide.market_city,{market_city}>> and the 
+incredible renown to both <<player-guide.market_city,{market_city}>> and the 
 nation as a whole, and wealth naturally flows to the city in the form of 
 hardened merchants and more casual buyers.
 
@@ -285,7 +280,7 @@ hour markets.
   Strategically located between the <<player-guide.market_city_harbor>> and the
   storefronts of <<player-guide.market_city_shopping_district>>, the
   {market_city_workshop_district} provides for makers who require larger, more
-  complex facilities. The sounds of creation clamour forth from the district's
+  complex facilities. The sounds of creation clamor forth from the district's
   workshops and forges as each crafter develops his next masterpiece.
   
 {market_city_residential_district}::
@@ -407,7 +402,7 @@ image::https://res.cloudinary.com/rwdalpe/image/upload/v1438498756/regunt-opt_jw
 {emperor_home}::
   Lush, tall gardens and a host of guards keep this gleaming marble estate
   private and safe. Despite its seclusion from the public eye, even here the
-  Emperor cannot escape the responsibilites of his position. A direct view to
+  Emperor cannot escape the responsibilities of his position. A direct view to
   the <<player-guide.law_city_capitol>> cuts through the manor's grounds, in
   keeping with a law that decrees the Emperor's bed must always face the
   capitol, such that his duties will be his last sight before retiring and his
@@ -429,7 +424,7 @@ image::https://res.cloudinary.com/rwdalpe/image/upload/v1438498756/regunt-opt_jw
   Tactically located near hotbeds of influence such as the
   <<player-guide.law_city_government_district>>, <<player-guide.law_uni>>, and
   <<player-guide.law_city_market_district>>, soirees and galas featuring the
-  nation's most renowed often take place here.
+  nation's most renowned often take place here.
   
 [[player-guide.law_city_government_district,{law_city_government_district}]]{law_city_government_district}::
   The largest district in the city, the {law_city_government_district} contains

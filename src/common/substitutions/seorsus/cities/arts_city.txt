@@ -23,7 +23,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 :stadium: Lavender Fields
 :knife_throwers: Silver Hilt Troupe
 :fireworks_co: Light the Sky! Fireworks and other Visual Effects!
-:bridge: Bridge
+:bridge: Capo Bridge
 :arts_city_river: Limen
 :arts_city_govt_district: Warehouse District
 :arts_city_tourist_district: Plaza District
