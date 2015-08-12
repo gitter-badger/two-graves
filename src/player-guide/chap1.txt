@@ -22,10 +22,16 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 [role=full-image]
 image::https://res.cloudinary.com/rwdalpe/image/upload/v1438498433/seorsus-opt_v01daf.svg[]
 
-Here you will find information about glossterm::[{nation_name}] and its major
-settlments that any individual who lives in or has briefly researched the nation
-would know.  Feel free to use these sections to help build your characters and
-integrate them into the world.
+Welcome, and thank you for your interest in the {product_title} adventure path! 
+This adventure will take you through the nation of glossterm::[{nation_name}], a 
+nation of opportunity and a paragon of the virtuous, civilized world. From its 
+highest peaks to its deepest caverns, you will become embroiled in the nation's 
+mysterious past, the lives of its people, and the shaping of its future.
+
+In this guide you will find information about glossterm::[{nation_name}] and its 
+major settlments that any individual who lives in or has briefly researched the 
+nation would know. Feel free to use these sections to help build your characters 
+and integrate them into the world.
 
 include::./chap1sect1.txt[]
 include::./chap1sect2.txt[]
