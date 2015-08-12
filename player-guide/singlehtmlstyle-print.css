@@ -1,0 +1,8 @@
+@media print {
+  .slicknav_menu {
+    display: none;
+  }
+  
+  p.releaseinfo.releaseinfo-web { display: none; }
+  
+}
