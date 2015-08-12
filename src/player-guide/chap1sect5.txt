@@ -345,60 +345,58 @@ image::https://res.cloudinary.com/rwdalpe/image/upload/v1438498756/regunt-opt_jw
   majority of government agencies also keep their headquarters within.
   
 {main_portal}::
-  A gilded quarter-sphere in the north of the city contains the divine
-  masterpiece through which travel using the glossterm::[{portals}, {portals}]
-  is made possible. Heavily staffed by the glossterm::[{police}, {police}] and
-  the glossterm::[{customs_dept}, {customs_dept}], hundreds of travelers are
-  processed daily here.  The quarter-sphere opens to a dazzling view of the
-  <<player-guide.law_city_capitol>>, imposing the nation's crown jewel as the
-  first and last thing journeyers see during their time in
-  glossterm::[{nation_name}, {nation_name}].
+  A gilded quarter-sphere in the north of the city contains the divine 
+  masterpiece through which travel using the glossterm::[{portals}] is made 
+  possible. Heavily staffed by the glossterm::[{police}] and the 
+  glossterm::[{customs_dept}], hundreds of travelers are processed daily here. 
+  The quarter-sphere opens to a dazzling view of the 
+  <<player-guide.law_city_capitol>>, imposing the nation's crown jewel as the 
+  first and last thing journeyers see during their time in 
+  glossterm::[{nation_name}].
   
 [[player-guide.abadar_temple,{abadar_temple}]]{abadar_temple}::
   Originally the capitol building during the nation's infancy, Abadar's temple
-  has since returned to its primary function.  Although it may not have the same
+  has since returned to its primary function. Although it may not have the same
   prestige it once did, the temple has certainly not degraded in splendor. From
   within the church's golden halls the clergy works tirelessly to bring the
-  vision of their forebears, the glossterm::[{crusade_org}, {crusade_org}], to
-  life.
+  <<player-guide.nat_history,vision of their forebears>>, the 
+  glossterm::[{crusade_org}], to life.
   
 [[player-guide.merchant_guild_hq,{merchant_guild_hq}]]{merchant_guild_hq}::
-  Just to the north of the docks and warehouses on the
-  glossterm::[{valley_lake}, {valley_lake}] are a series of large but
-  utilitarian guildhalls. Collected within are offices of the various merchant
-  guilds that do business in glossterm::[{nation_name}, {nation_name}]. Although
-  the guilds would almost certainly prefer to be headquartered in
-  <<player-guide.market_city,{market_city}>>, the law requires that they be
-  located here in <<player-guide.law_city,{law_city}>>. The cunning merchants
-  have made the best of their situation, though, taking every opportunity to
+  Just north of the docks and warehouses on the glossterm::[{valley_lake}] are a 
+  series of large, utilitarian guildhalls. Collected within are offices of the 
+  various merchant guilds that do business in glossterm::[{nation_name}]. 
+  Although the guilds would almost certainly prefer to be headquartered in 
+  <<player-guide.market_city,{market_city}>>, the law requires that they be 
+  located here in <<player-guide.law_city,{law_city}>>. The cunning merchants 
+  have made the best of their situation, though, taking every opportunity to 
   endlessly lobby in the interest of their guilds.
   
 [[player-guide.law_uni,{law_uni}]]{law_uni}::
-  In the west of the city is the {law_uni}.  It is the incubator of
-  <<player-guide.law_city,{law_city}'s>> commercial and political genius and
-  also the prime entry point to the upper echelons of glossterm::[{nation_name},
-  {nation_name}'s] political economy. It is neigh unheard of that prominent
-  figures do not have some tie to the university.  As a result, its student body
-  does not just comprise promising, untested politicians and merchants, but also
-  veterans and experts from other parts of the country looking to advance their
-  positions.
+  In the east of the city is the {law_uni}, the incubator of 
+  <<player-guide.law_city,{law_city}'s>> commercial and political genius. It is 
+  nigh unheard of that prominent figures do not have some tie to the 
+  university, making it the prime entry point to the upper echelons of 
+  glossterm::[{nation_name}, {nation_name}'s] political economy. As a result, 
+  its student body does not just comprise promising, untested politicians and 
+  merchants, but also veterans and experts from other parts of the country 
+  looking to network and advance their positions.
 
 [[player-guide.library,{library}]]{library}::
-  Adjacent to the <<player-guide.law_uni>> rises the nation's premier repository
-  of knowledge. From modern research journals to ancient folklore, the {library}
-  provides access to an enormous wealth of information at no cost. The
-  glossterm::[{library_staff}, {library_staff}] of the library work tirelessly
-  to expand and preserve the collection, and are often seen moving like ghosts
-  through the book stacks.
+  Adjacent to the <<player-guide.law_uni>> rises the nation's premier repository 
+  of knowledge. From modern research journals to ancient folklore, the {library} 
+  provides access to an enormous wealth of information at no cost. The 
+  glossterm::[{library_staff}] of the library work tirelessly to expand and 
+  preserve the collection, and are often seen moving like ghosts through the 
+  book stacks.
   
 [[player-guide.police_hq,{police_hq}]]{police_hq}::
-  The headquarters of the glossterm::[{police}, {police}] is a sharp building
-  supported by thick columns of polished stone which stand vigil along its
-  perimeter. The majority of citizens will only ever enter the public offices
-  and temple of Iomedae within the structure. It is well known, however, that
-  the {police_hq} also conceals a well-guarded network of armories, archives,
-  and barracks.
-  
+  The headquarters of the glossterm::[{police}] is a sharp building supported by 
+  thick columns of polished stone which stand vigil along its perimeter. The 
+  majority of citizens will only ever enter the temple of Iomedae and the public 
+  offices within the compound. It is well known, however, that the {police_hq} 
+  also conceals a well-guarded network of armories, archives, and barracks.
+
 {emperor_home}::
   Lush, tall gardens and a host of guards keep this gleaming marble estate
   private and safe. Despite its seclusion from the public eye, even here the
@@ -409,39 +407,43 @@ image::https://res.cloudinary.com/rwdalpe/image/upload/v1438498756/regunt-opt_jw
   first upon waking.
   
 {law_city_residential_district}::
-  {law_city_residential_district} caters to citizens who need or choose to spend
-  their time between <<player-guide.law_city,{law_city}>> and other
-  settlements. The area features modest, efficient housing and a large number of
-  inns with convenient access to the major roads between
-  <<player-guide.law_city,{law_city}>> and
-  <<player-guide.market_city,{market_city}>> and
+  {law_city_residential_district} caters to citizens who need or choose to spend 
+  their time between <<player-guide.law_city,{law_city}>> and other settlements. 
+  The area features modest, efficient housing and a large number of inns in the 
+  northwest of the city with convenient access to the major roads between 
+  <<player-guide.law_city,{law_city}>>, 
+  <<player-guide.market_city,{market_city}>>, and 
   <<player-guide.arts_city,{arts_city}>>.
   
 {law_city_politician_district}::
-  Home to many of <<player-guide.law_city,{law_city}'s>> powerful mercantile and
-  political elite, the {law_city_politician_district} features lavish estates
-  with secluded vistas onto the glossterm::[{valley_lake}, {valley_lake}].
-  Tactically located near hotbeds of influence such as the
-  <<player-guide.law_city_government_district>>, <<player-guide.law_uni>>, and
-  <<player-guide.law_city_market_district>>, soirees and galas featuring the
+  Home to many of <<player-guide.law_city,{law_city}'s>> powerful mercantile and 
+  political elite, the {law_city_politician_district} features lavish estates 
+  with secluded vistas onto the glossterm::[{valley_lake}]. Tactically located 
+  in the southeast of the city near hotbeds of influence such as the 
+  <<player-guide.law_city_government_district>>, <<player-guide.law_uni>>, and 
+  <<player-guide.law_city_market_district>>, soirees and galas featuring the 
   nation's most renowned often take place here.
   
 [[player-guide.law_city_government_district,{law_city_government_district}]]{law_city_government_district}::
-  The largest district in the city, the {law_city_government_district} contains
-  the majority of <<player-guide.law_city,{law_city}'s>> government buildings
-  and centers of religious worship. Neat and orderly even under the weight of
-  the thousands working here, this district could almost be considered a
-  settlement of its own within the city. Businesses of all types have been built
-  to support the district's employees, ensuring they are well provided for as
-  they toil for the good of the nation.
+  The largest and most central district in the city, the 
+  {law_city_government_district} contains the majority of 
+  <<player-guide.law_city,{law_city}'s>> government buildings and centers of 
+  religious worship. Neat and orderly even under the weight of the thousands 
+  working here, this district could almost be considered a settlement of its own 
+  within the city. Businesses of all types have been built to support the 
+  district's employees, ensuring they are well provided for as they toil for the 
+  good of the nation.
   
 {law_city_plaza_district}::
-  The {law_city_plaza_district} is filled with open gardens and other areas for
-  public gatherings. This district lies in contrast with the purposeful feeling
-  that pervades the rest of <<player-guide.law_city,{law_city}>>, providing
-  residents and visitors with an escape from unending the rush of the city.
+  The northern region of the city is filled with open gardens and other areas 
+  for public gatherings. The {law_city_plaza_district} lies in contrast with the 
+  purposeful feeling that pervades the rest of 
+  <<player-guide.law_city,{law_city}>>, providing residents and visitors with an 
+  escape from unending the rush of the city.
   
 [[player-guide.law_city_market_district,{law_city_market_district}]]{law_city_market_district}::
-  This district houses the city's harbors, markets, and enterprises like the
-  <<player-guide.merchant_guild_hq>>. Busy at all times of day and night, goods
-  endlessly flow through wide streets for sale, storage, and evaluation.
+  This district lies on <<player-guide.law_city,{law_city}'s>> southern border 
+  with the glossterm::[{valley_lake}] and houses the city's harbors, markets, 
+  and enterprises like the <<player-guide.merchant_guild_hq>>. Busy at all times 
+  of day and night, goods endlessly flow through wide streets for sale, storage, 
+  and evaluation.
