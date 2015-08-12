@@ -108,7 +108,7 @@ continue.
   Whether it be music, sports, or festivals, an event in the
   {stadium} is sure to be lively and draw a large crowd.
 
-{bridge}::
+[[player-guide.bridge,{bridge}]]{bridge}::
   Spanning the glossterm::[{arts_city_river}, {arts_city_river} River] and 
   joining the east and west of <<player-guide.arts_city,{arts_city}>> together, 
   the {bridge} is more than just an important piece of infrastructure. Many bits 
@@ -136,32 +136,35 @@ continue.
   right. Themed businesses, wild street performers, and garish decorations all 
   lend a hand in creating the district's unique atmosphere.
 
-{arts_city_college_district}::
+[[player-guide.arts_city_college_district,{arts_city_college_district}]]{arts_city_college_district}::
   Fed by the youthful, creative energies of <<player-guide.arts_college>>, the 
   {arts_city_college_district} is the premiere place for mingling and scouting 
-  rising talent in the city. Although not as upscale as some parts of 
-  <<player-guide.arts_city,{arts_city}>>, the inhabitants of the district are 
-  jovial and create a welcoming atmosphere. Collaboration and competition go 
-  hand-in-hand here, and friendly rivalries often erupt into spontaneous 
-  performances in the pursuit of great art.
+  rising talent in the city. Located on the western side of the 
+  <<player-guide.bridge>>, this region is not as upscale as some parts of 
+  <<player-guide.arts_city,{arts_city}>>, but its inhabitants are jovial and 
+  create a welcoming atmosphere. Collaboration and competition go hand-in-hand 
+  here, and friendly rivalries often erupt into spontaneous performances in the 
+  pursuit of great art. 
 
 {arts_city_rich_district}::
   Mostly separated from the hustle and bustle of the city, the 
-  {arts_city_rich_district} provides a serene getaway for those who can afford 
-  it. Residents and visitors enjoy beautiful courtyards, spotless streets, and 
-  exclusive close access to iconic locations such as 
-  <<player-guide.amphitheater>> and <<player-guide.shelyn_temple>>.
+  {arts_city_rich_district} provides a serene getaway in the northeast of 
+  <<player-guide.arts_city,{arts_city}>> for those who can afford it. Residents 
+  enjoy beautiful courtyards, spotless streets, and exclusive close access to 
+  iconic locations such as <<player-guide.amphitheater>> and 
+  <<player-guide.shelyn_temple>>.
 
 {arts_city_poor_district}::
-  To call {arts_city_poor_district} a slum would be disingenuous, but compared 
-  to the rest of <<player-guide.arts_city,{arts_city}>> this district falls 
-  behind in upkeep and cleanliness. Tenement housing is plentiful, and in lieu 
-  of high caliber pursuits the residents of {arts_city_poor_district} excel in 
-  vice entertainment. Seedy bars and brothels adorn the streets, and the venues 
-  host bawdy and burlesque performances too vulgar for popular taste.
+  To call the {arts_city_poor_district} a slum would be disingenuous, but 
+  compared to the rest of <<player-guide.arts_city,{arts_city}>> this 
+  southwestern district falls behind in upkeep and cleanliness. Tenement housing 
+  is plentiful, and in place of high caliber pursuits the residents of 
+  {arts_city_poor_district} excel in vice entertainment. Seedy bars and brothels 
+  adorn the streets, and the venues host bawdy and burlesque performances too 
+  vulgar for popular taste.
 
 {arts_city_govt_district}::
-  Tucked away in a less-noticeable portion of the city, the
+  Tucked away in the less-noticeable southeastern portion of the city, the
   {arts_city_govt_district} houses offices and storage for government agencies
   such as the glossterm::[{police}] and glossterm::[{festival_agency}].
 
@@ -172,7 +175,9 @@ continue.
   environment for their work, and the district has molded to reflect their
   tastes. Simple, refined architecture and narrow cobbled streets give the
   district a historic atmosphere, and even the wildest of locals calm themselves
-  out of respect when in the area.
+  out of respect when in the area. The district lies near the southern road to
+  <<player-guide.market_city,{market_city}>>, a fact which many of the masters
+  here take advantage of to secure access to incoming materials.
 
 [[player-guide.market_city]]
 ==== {market_city}, City of Markets
@@ -263,25 +268,25 @@ hour markets.
   here.
   
 [[player-guide.market_city_rich_district,{market_city_rich_district}]]{market_city_rich_district}::
-  Perched atop the highest hill of <<player-guide.market_city,{market_city}'s>>
-  lakefront, {market_city_rich_district} houses the wealthiest citizens and
-  dignitaries of the city.  A stunning lakeside vista complements the opulent
-  estates here, and the city's most reputable envoys traverse the boulevards on
-  business for their employers.
+  Perched atop the highest hill of <<player-guide.market_city,{market_city}'s>> 
+  southwest lakefront, {market_city_rich_district} houses the wealthiest 
+  citizens and dignitaries of the city. A stunning lakeside vista complements 
+  the opulent estates here, and the city's most reputable envoys traverse the 
+  boulevards on business for their employers.
   
 [[player-guide.market_city_shopping_district,{market_city_shopping_district}]]{market_city_shopping_district}::
-  The {market_city_shopping_district} is home to the majority of 
+  The central {market_city_shopping_district} is home to the majority of 
   <<player-guide.market_city,{market_city}'s>> storefronts and markets and is 
   the city's largest and most famous district. From small one-man shops to the 
   <<player-guide.grand_bazaar>> itself, the {market_city_shopping_district} 
   encompasses trade of all sizes and types.
   
 {market_city_workshop_district}::
-  Strategically located between the <<player-guide.market_city_harbor>> and the
-  storefronts of <<player-guide.market_city_shopping_district>>, the
-  {market_city_workshop_district} houses makers who require larger, more
-  complex facilities. The sounds of creation clamor forth from the district's
-  studios and forges as each crafter develops his next masterpiece.
+  Strategically located between the <<player-guide.market_city_harbor>> to the 
+  south and the storefronts of <<player-guide.market_city_shopping_district>> to 
+  the north, the {market_city_workshop_district} houses makers who require 
+  larger, more complex facilities. The sounds of creation clamor forth from the 
+  district's studios and forges as each crafter develops his next masterpiece.
   
 {market_city_residential_district}::
   {market_city_residential_district} provides accommodation for residents who do 
@@ -294,11 +299,12 @@ hour markets.
   standards of living.
   
 {market_city_govt_district}::
-  Home to the offices of information brokers, merchant guild members, and
-  government officials, the {market_city_govt_district} hosts the unseen web of
-  data and law that keeps the city running. Through word of mouth and fleet
-  couriers, information and commands rush from this district to recipients 
-  within and beyond <<player-guide.market_city,{market_city}'s>> borders.
+  Home to the offices of information brokers, merchant guild members, and 
+  government officials, the southeastern {market_city_govt_district} hosts the 
+  unseen web of data and law that keeps the city running. Through word of mouth 
+  and fleet couriers, information and commands rush from this district to 
+  recipients within and beyond <<player-guide.market_city,{market_city}'s>> 
+  borders.
 
 [[player-guide.law_city]]
 ==== {law_city}, City of Laws
