@@ -96,6 +96,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <xsl:apply-templates select="exslt:node-set($populatedinfo)" mode="book.titlepage.recto.mode"/>
   </xsl:template>
   
+  <xsl:template match="db:book/db:info/db:title/text()" mode="titlepage.mode">
+    <xsl:copy-of select="."/><xsl:if test="$draft.mode = 'yes'"><xsl:text> [DRAFT]</xsl:text></xsl:if>
+  </xsl:template>  
 
   <xsl:template name="pi.dbtimestamp">
     <xsl:call-template name="datetime.format">

@@ -157,6 +157,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     </xsl:apply-templates>
   </xsl:template>
   
+  <xsl:template match="db:book/db:info/db:title/text()">
+    <xsl:copy-of select="."/><xsl:if test="$draft.mode = 'yes'"><xsl:text> [DRAFT]</xsl:text></xsl:if>
+  </xsl:template>
+  
   <xsl:template match="db:book/db:info/db:releaseinfo" mode="m:titlepage-mode">
     <p>
       <xsl:sequence select="f:html-attributes-with-classes(.,('releaseinfo-web'))" />
